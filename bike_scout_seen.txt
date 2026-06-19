@@ -81,7 +81,7 @@ https://allegrolokalnie.pl/oferta/fuji-norcom-straight-ultegra-di2
 #      https://www.olx.pl/d/oferta/nowy-rower-triathlonowy-felt-ia-2-0-expert-ultegra-di2-12s-super-cena-CID767-ID18RPS3.html
 #      Frame: UHC Ultimate + TeXtreme full carbon. Groupset: Shimano Ultegra Di2 12s. Price under €8,000. SIZE UNCONFIRMED.
 #      Felt IA 2.0 Expert sizes: S/M/L/XL. L=57cm. Passes all criteria IF size is L/55–57cm. Priority check.
-#   2. Giant Trinity SRAM AXS Naujas L, ~€4,800, Vilnius (Skelbiu.lt):
+#   2. Giant Trinity SRAM AXS Naujas L, ~€4,500, Vilnius (Skelbiu.lt):
 #      https://m.skelbiu.lt/skelbimai/giant-trinity-triatlono-dviratis-sram-axs-naujas-l-74636002.html
 #      Dedicated triathlon frame, size L (~55cm). SRAM AXS TIER UNCONFIRMED — verify Red vs Force AXS.
 #   3. Orbea Ordu Carbon 55 SRAM+ZIPP+Mavic (Allegro.pl):
@@ -93,3 +93,25 @@ https://allegrolokalnie.pl/oferta/fuji-norcom-straight-ultegra-di2
 # Still-open conditionals from prior runs:
 #   Cervélo P3X Ultegra Di2 OLX.pl: https://www.olx.pl/d/oferta/cervelo-p3x-rower-triathlonowy-ultegra-di2-nowy-bikefitting-CID767-IDExtJN.html
 #   Dolan TT Carbon Dura-Ace Di2: https://allegrolokalnie.pl/oferta/rower-czasowy-dolan-tt-carbon-triathlon-dura-ace
+# --- 2026-06-19 run (eighth) — 1 new listing confirmed, Telegram BLOCKED ---
+https://www.olx.pl/d/oferta/nowy-rower-triathlonowy-felt-ia-2-0-expert-ultegra-di2-12s-super-cena-CID767-ID18RPS3.html
+# NOTE: Telegram alerts BLOCKED — api.telegram.org not in network egress allowlist. Manual review needed.
+# Listing: Felt IA 2.0 Expert Shimano Ultegra Di2 12s — NEW (bike shop, Skórzewo near Poznań, OLX.pl)
+#   Frame: Felt UHC Ultimate + TeXtreme full carbon. Type: dedicated triathlon. Size: 56cm (L). Groupset: Shimano Ultegra Di2 12s.
+#   Price: 29,999 PLN (~€7,050). New with VAT invoice + manufacturer's warranty.
+#   Wheels: Shimano Ultegra WH-R8170, Continental GP5000 tires.
+#   No power meter. Under €8,000 ceiling. ALL CRITERIA PASS.
+#   URL: https://www.olx.pl/d/oferta/nowy-rower-triathlonowy-felt-ia-2-0-expert-ultegra-di2-12s-super-cena-CID767-ID18RPS3.html
+# Eliminated this run:
+#   SS.lv bpdhxh — Time NX RS carbon Di2 €1,000 → road bike (Time NXR = road geometry), ELIMINATED
+#   SS.lv bjknpi — Specialized AR 58 carbon €2,800 → size 58, too large, ELIMINATED
+#   Allegrolokalnie Full Carbon TT Żory 1,900 PLN → ~€445, price suggests basic non-qualifying groupset, ELIMINATED
+#   Argon 18 TT Warszawa 4,900 PLN → size/groupset unconfirmed (likely size M with 105 based on search), CONDITIONAL low-priority
+#   Osta.ee / Okidoki.ee / Autoplius.lt / Andel.lv → no qualifying results
+# Open conditionals carried forward (manual check recommended):
+#   1. Giant Trinity SRAM AXS L Vilnius (skelbiu.lt): https://m.skelbiu.lt/skelbimai/giant-trinity-triatlono-dviratis-sram-axs-naujas-l-74636002.html — verify SRAM tier (Red vs Force)
+#   2. Orbea Ordu Carbon 55 SRAM Allegro.pl: https://allegro.pl/oferta/rower-czasowy-orbea-ordu-carbon-55-sram-zipp-mavic-7838383416 — verify SRAM tier
+#   3. Cervélo P3X Ultegra Di2 OLX.pl: https://www.olx.pl/d/oferta/cervelo-p3x-rower-triathlonowy-ultegra-di2-nowy-bikefitting-CID767-IDExtJN.html — verify size L
+#   4. Dolan TT Carbon Dura-Ace Di2 allegrolokalnie: https://allegrolokalnie.pl/oferta/rower-czasowy-dolan-tt-carbon-triathlon-dura-ace — verify size L
+#   5. Ribble Deda TT Carbon allegrolokalnie: https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-ribble-deda-tt-carbon — verify groupset + size
+# Sites checked this run: SS.lv ✓, OLX.pl ✓, Allegro.pl ✓, Allegro Lokalnie ✓, Autoplius.lt ✓, Skelbiu.lt ✓, Osta.ee ✓, Okidoki.ee ✓, Andel.lv (not reachable).
