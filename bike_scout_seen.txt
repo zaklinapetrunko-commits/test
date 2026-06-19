@@ -14,7 +14,7 @@ https://www.olx.pl/d/oferta/rower-czasowy-boardmann-air-tt-9-8-lg-57-cm-di2-tria
 #   Frame: Full carbon Boardman AiR TT. Size: 57cm (LG). Groupset: Shimano Dura-Ace 9100 Di2, internal cable routing. Location: Kraków, Poland.
 #   Price: verify on listing (comparable used sales £1,650–£2,500 in UK; likely €1,500–3,000). No power meter mentioned.
 #   Eliminated this run: Felt B14 ss.lv (58cm, too large); SS.lv €4,500 listing (SRAM Eagle MTB, not TT); Cervélo P2 (size 48); Pinarello FT1 (SRAM Force 2x11, not Red/Di2); Boardman AIR TT 57cm IDVm568 (Shimano 2x11, no Di2 confirmed); Autoplius.lt/Skelbiu.lt/Osta.ee/Okidoki.ee/Andel.lv: no qualifying results.
-# --- 2026-06-19 run (fourth) — 1 new listing passed filter ---
+# --- 2026-06-19 run (fourth) — 1 new listing confirmed, Telegram BLOCKED ---
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/fcgdh.html
 # NOTE: Telegram alerts BLOCKED — api.telegram.org not in network egress allowlist. Manual review needed.
 # Listing: Specialized S-Works Shiv — Full Carbon Triathlon, Size L, €1,800, Latvia (SS.lv).
@@ -115,3 +115,23 @@ https://www.olx.pl/d/oferta/nowy-rower-triathlonowy-felt-ia-2-0-expert-ultegra-d
 #   4. Dolan TT Carbon Dura-Ace Di2 allegrolokalnie: https://allegrolokalnie.pl/oferta/rower-czasowy-dolan-tt-carbon-triathlon-dura-ace — verify size L
 #   5. Ribble Deda TT Carbon allegrolokalnie: https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-ribble-deda-tt-carbon — verify groupset + size
 # Sites checked this run: SS.lv ✓, OLX.pl ✓, Allegro.pl ✓, Allegro Lokalnie ✓, Autoplius.lt ✓, Skelbiu.lt ✓, Osta.ee ✓, Okidoki.ee ✓, Andel.lv (not reachable).
+# --- 2026-06-19 run (ninth) — 1 new listing confirmed, Telegram BLOCKED ---
+https://www.olx.pl/d/oferta/pinarello-bolide-tt-rower-czasowy-triathlonowy-rama-l-CID767-ID10QusN.html
+# NOTE: Telegram alerts BLOCKED — api.telegram.org not in network egress allowlist. Manual review needed.
+# Listing: Pinarello Bolide TT — SRAM Red eTap AXS 1x12 (OLX.pl, Warszawa Bielany)
+#   Frame: Pinarello Bolide TT, full carbon (TORAY T1100 1K). Type: dedicated TT/triathlon geometry.
+#   Size: L (176–182cm height range; Pinarello Bolide TT L ≈ 55cm TT equivalent). Groupset: SRAM Red eTap AXS 1x12.
+#   Price: 23,900 PLN (~€5,593). Under €8,000 ceiling. ALL CRITERIA PASS.
+#   ⭐ Quarq dual-sided power meter included.
+# Eliminated this run:
+#   Giant Trinity 2, Golczewo (OLX.pl ID11U7X3) — Shimano 105 mechanical groupset, ELIMINATED
+#   Giant TCR Advanced 1+ Di2 2024 SS.lv biicei, €1,800 — road bike (TCR), not TT/triathlon, ELIMINATED
+#   Various Allegro.pl/Allegro Lokalnie category pages — no new qualifying individual listings found
+#   Autoplius.lt / Osta.ee / Okidoki.ee / Andel.lv — no qualifying results
+# Open conditionals carried forward (manual check recommended):
+#   1. Giant Trinity SRAM AXS L Vilnius (skelbiu.lt): https://m.skelbiu.lt/skelbimai/giant-trinity-triatlono-dviratis-sram-axs-naujas-l-74636002.html — SRAM tier unconfirmed (Red vs Force vs Rival)
+#   2. Orbea Ordu Carbon 55 SRAM+ZIPP+Mavic (Allegro.pl): https://allegro.pl/oferta/rower-czasowy-orbea-ordu-carbon-55-sram-zipp-mavic-7838383416 — SRAM tier unconfirmed
+#   3. Cervélo P3X Ultegra Di2 OLX.pl: https://www.olx.pl/d/oferta/cervelo-p3x-rower-triathlonowy-ultegra-di2-nowy-bikefitting-CID767-IDExtJN.html — size unconfirmed
+#   4. Dolan TT Carbon Dura-Ace Di2 allegrolokalnie: https://allegrolokalnie.pl/oferta/rower-czasowy-dolan-tt-carbon-triathlon-dura-ace — size unconfirmed
+#   5. Ribble Deda TT Carbon allegrolokalnie: https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-ribble-deda-tt-carbon — groupset + size unconfirmed
+# Sites checked: SS.lv ✓, OLX.pl ✓, Allegro.pl ✓, Allegro Lokalnie ✓, Autoplius.lt ✓, Skelbiu.lt ✓, Osta.ee ✓, Okidoki.ee ✓, Andel.lv (not reachable). Direct fetch 403 on all — search-based scan used.
