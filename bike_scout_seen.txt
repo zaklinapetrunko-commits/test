@@ -1,11 +1,2 @@
-# Bike Scout Seen List
-# Format: URL | Title | Price | Date First Seen
-
-# === 2026-06-19 Run — 4 new matches found ===
-# NOTE: Telegram delivery FAILED — api.telegram.org not in egress allowlist
-# Please add api.telegram.org to the environment's network egress settings
-
-https://www.olx.pl/d/oferta/pinarello-bolide-tt-rower-czasowy-triathlonowy-rama-l-CID767-ID10QusN.html | Pinarello Bolide TT Rower Czasowy Triathlonowy Rama L | 23900 PLN (~€5620) | 2026-06-19
-https://www.olx.pl/d/oferta/tt-canyon-speedmax-cf-m-di2-stages-powermeter-zipp-404-nsw-CID767-ID11GnQb.html | TT Canyon Speedmax CF (M) DI2 + Stages powermeter + Zipp 404 NSW | 10300 PLN (~€2420) | 2026-06-19
-https://www.olx.pl/d/oferta/rower-czasowy-cipollini-nktt-carbon-shimano-dura-ace-di2-campagnolo-tt-CID767-IDS8N8p.html | Rower czasowy Cipollini NKTT carbon shimano dura ace di2 campagnolo TT | 34000 PLN (~€8000) | 2026-06-19
-https://www.olx.pl/d/oferta/rower-czasowy-colnago-kzero-ultegra-di2-2x11s-rozmiar-l-CID767-ID13SO8B.html | Rower Czasowy Colnago KZero Ultegra Di2 2x11S Rozmiar L | 8999 PLN (~€2115) | 2026-06-19
+# Bike Scout — seen listing URLs (one per line). Lines starting with # are notes.
+2026-06-19T00:00:00Z — No new matches found (initial run: all 10 marketplaces returned 403 / not indexed).
