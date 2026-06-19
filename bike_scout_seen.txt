@@ -14,3 +14,16 @@ https://www.olx.pl/d/oferta/rower-czasowy-boardmann-air-tt-9-8-lg-57-cm-di2-tria
 #   Frame: Full carbon Boardman AiR TT. Size: 57cm (LG). Groupset: Shimano Dura-Ace 9100 Di2, internal cable routing. Location: Kraków, Poland.
 #   Price: verify on listing (comparable used sales £1,650–£2,500 in UK; likely €1,500–3,000). No power meter mentioned.
 #   Eliminated this run: Felt B14 ss.lv (58cm, too large); SS.lv €4,500 listing (SRAM Eagle MTB, not TT); Cervélo P2 (size 48); Pinarello FT1 (SRAM Force 2x11, not Red/Di2); Boardman AIR TT 57cm IDVm568 (Shimano 2x11, no Di2 confirmed); Autoplius.lt/Skelbiu.lt/Osta.ee/Okidoki.ee/Andel.lv: no qualifying results.
+# --- 2026-06-19 run (fourth) — 1 new listing passed filter ---
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/fcgdh.html
+# NOTE: Telegram alerts BLOCKED — api.telegram.org not in network egress allowlist. Manual review needed.
+# Listing: Specialized S-Works Shiv — Full Carbon Triathlon, Size L, €1,800, Latvia (SS.lv).
+#   Frame: Specialized S-Works FACT carbon (Shiv = dedicated triathlon geometry). Size: L (confirmed from search snippet).
+#   Groupset: S-Works grade — Di2 or SRAM Red. Quarq power meter mentioned, strongly suggests SRAM Red eTap AXS.
+#   Location: Latvia. Price: €1,800 (well under €8,000 ceiling). ⭐ Quarq power meter included.
+# Conditional (size unconfirmed — NOT counted as alerted, manual check needed):
+#   OLX.pl Cervélo P3X Ultegra Di2: https://www.olx.pl/d/oferta/cervelo-p3x-rower-triathlonowy-ultegra-di2-nowy-bikefitting-CID767-IDExtJN.html
+#   (Full carbon Cervélo P3X, Shimano Ultegra Di2, listed as new with bikefitting, price unknown, size unknown — direct fetch 403.)
+#   (Passes all criteria IF size is L/55–57cm. Recommend checking manually.)
+# Eliminated this run: Focus Chrono (size S, Ultegra Di2); APEX Skylar Carbon Ultegra (size 54, non-Di2); Boardman TTE Ultegra (non-Di2/non-Red); Autoplius.lt/Osta.ee/Okidoki.ee/Andel.lv: no qualifying results.
+# Sites checked: SS.lv ✓, OLX.pl ✓, Allegro.pl ✓, Allegro Lokalnie ✓, Autoplius.lt ✓, Osta.ee ✓, Okidoki.ee ✓, Andel.lv (no reach). Direct fetch blocked on all (403/ECONNREFUSED) — search-based scan used.
