@@ -59,3 +59,37 @@ https://allegrolokalnie.pl/oferta/fuji-norcom-straight-ultegra-di2
 #   (Dolan TR1 = full carbon TT/triathlon disc, Shimano Dura-Ace R9250 Di2. Size unconfirmed — Dolan TR1 comes in XS/S/M/L/XL. Price new £4,800 (~€5,600) so used asking price likely €2,500–4,000. Passes all criteria IF size is L/55–57cm. Recommend checking manually.)
 # Still-open conditionals from prior runs (unresolved):
 #   Cervélo P3X Ultegra Di2 OLX.pl: https://www.olx.pl/d/oferta/cervelo-p3x-rower-triathlonowy-ultegra-di2-nowy-bikefitting-CID767-IDExtJN.html
+# --- 2026-06-19 run (seventh) — 0 new listings passed filter ---
+2026-06-19T20:00:00Z — No new matches found.
+# Sites checked: SS.lv ✓, OLX.pl ✓, Allegro.pl ✓, Allegro Lokalnie ✓, Autoplius.lt ✓, Skelbiu.lt ✓ (Lithuanian, checked alongside Autoplius), Osta.ee ✓, Okidoki.ee ✓, Andel.lv (not reachable). Direct fetch 403 on all — search-based scan used.
+# Scanned ~20 new candidates. All eliminated or conditional.
+# Eliminated this run:
+#   SS.lv bxhhel — Canyon Speedmax CF 8.0 €2,890 → ELIMINATED (size M)
+#   SS.lv bpcmfd — 56cm Carbon Ultegra road €620 → ELIMINATED (road bike, mechanical Ultegra)
+#   SS.lv bpcplm — Giant Propel Advanced ML €1,200 → ELIMINATED (aero road bike, not TT)
+#   SS.lv bkehmk — KTM Revelator Alto Master 2023 €2,200 → ELIMINATED (road bike)
+#   SS.lv bxegpi — Cervélo P2 48cm €1,760 → previously eliminated (too small)
+#   SS.lv cdkhdh — Cervelo Apex Gravel L/56 €1,650 → ELIMINATED (gravel bike, not TT)
+#   OLX.pl ID15DSdh — Cannondale Synapse SRAM Red AXS 56cm → ELIMINATED (endurance road, not TT)
+#   OLX.pl ID17I8oR — Factor One Dura-Ace Di2 56 → ELIMINATED (aero road bike, not TT geometry)
+#   OLX.pl ID1427W1 — Cervelo S2 SRAM Force 56 → ELIMINATED (road bike, wrong groupset)
+#   Allegro archiwum — APEX Skylar L Ultegra 2x11 → ELIMINATED (mechanical, archived)
+#   Allegro archiwum — Stevens Crono TT 57cm → archived listing, not active
+#   Autoplius.lt/Osta.ee/Okidoki.ee/Andel.lv → no qualifying results
+# New conditionals (NOT counted as alerted, manual check needed):
+#   1. Felt IA 2.0 Expert Ultegra Di2 12s, ~29,999 PLN (~€7,050), Skórzewo (OLX.pl, bike shop listing):
+#      https://www.olx.pl/d/oferta/nowy-rower-triathlonowy-felt-ia-2-0-expert-ultegra-di2-12s-super-cena-CID767-ID18RPS3.html
+#      Frame: UHC Ultimate + TeXtreme full carbon. Groupset: Shimano Ultegra Di2 12s. Price under €8,000. SIZE UNCONFIRMED.
+#      Felt IA 2.0 Expert sizes: S/M/L/XL. L=57cm. Passes all criteria IF size is L/55–57cm. Priority check.
+#   2. Giant Trinity SRAM AXS Naujas L, ~€4,800, Vilnius (Skelbiu.lt):
+#      https://m.skelbiu.lt/skelbimai/giant-trinity-triatlono-dviratis-sram-axs-naujas-l-74636002.html
+#      Dedicated triathlon frame, size L (~55cm). SRAM AXS TIER UNCONFIRMED — verify Red vs Force AXS.
+#   3. Orbea Ordu Carbon 55 SRAM+ZIPP+Mavic (Allegro.pl):
+#      https://allegro.pl/oferta/rower-czasowy-orbea-ordu-carbon-55-sram-zipp-mavic-7838383416
+#      Orbea Ordu = TT/triathlon, full carbon, 55cm. SRAM TIER UNCONFIRMED. Verify if SRAM Red.
+#   4. Cannondale Slice full carbon (Allegro.pl — different URL from allegrolokalnie run 5):
+#      https://allegro.pl/oferta/rower-czasowy-tt-triathlon-czasowka-cannondale-slice-full-carbon-17345886252
+#      SIZE + GROUPSET UNCONFIRMED. May be same physical bike cross-posted. Verify before treating as new.
+# Still-open conditionals from prior runs:
+#   Cervélo P3X Ultegra Di2 OLX.pl: https://www.olx.pl/d/oferta/cervelo-p3x-rower-triathlonowy-ultegra-di2-nowy-bikefitting-CID767-IDExtJN.html
+#   Dolan TT Carbon Dura-Ace Di2: https://allegrolokalnie.pl/oferta/rower-czasowy-dolan-tt-carbon-triathlon-dura-ace
