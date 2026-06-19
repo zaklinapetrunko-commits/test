@@ -115,3 +115,27 @@ https://www.olx.pl/d/oferta/nowy-rower-triathlonowy-felt-ia-2-0-expert-ultegra-d
 #   4. Dolan TT Carbon Dura-Ace Di2 allegrolokalnie: https://allegrolokalnie.pl/oferta/rower-czasowy-dolan-tt-carbon-triathlon-dura-ace — verify size L
 #   5. Ribble Deda TT Carbon allegrolokalnie: https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-ribble-deda-tt-carbon — verify groupset + size
 # Sites checked this run: SS.lv ✓, OLX.pl ✓, Allegro.pl ✓, Allegro Lokalnie ✓, Autoplius.lt ✓, Skelbiu.lt ✓, Osta.ee ✓, Okidoki.ee ✓, Andel.lv (not reachable).
+# --- 2026-06-19 run (ninth) — 1 new listing confirmed, Telegram BLOCKED ---
+https://allegrolokalnie.pl/oferta/rower-triathlonowy-wilier-twin-blade-duraace-di2-l
+# NOTE: Telegram alerts BLOCKED — api.telegram.org not in network egress allowlist (infrastructure-level restriction, not credential issue). Manual review needed.
+# Listing: Wilier Twin Blade Dura-Ace Di2 — Size L (56cm), Kraków (Allegro Lokalnie)
+#   Frame: Full carbon Wilier Twin Blade (60-ton carbon, dedicated TT/triathlon geometry, 76° seat angle). Type: Triathlon/TT.
+#   Size: L = 56cm (stack/reach 554/441mm, fits ~178cm rider). Groupset: Shimano Dura-Ace Di2 R9150 2×11.
+#   Price: 9,000 PLN (~€2,100). Location: Kraków, Poland. Seller is 2nd owner since 2020.
+#   Wheels: Zipp 404 front + Zipp 808 rear. Zipp carbon aero bars. Profile Design aerobar.
+#   No power meter, no pedals, no saddle. Under €8,000 ceiling. ALL CRITERIA PASS.
+#   URL: https://allegrolokalnie.pl/oferta/rower-triathlonowy-wilier-twin-blade-duraace-di2-l
+# Eliminated this run:
+#   Bottecchia Tri Di2 Mavic, Białystok (allegrolokalnie) → size 51cm, ELIMINATED
+#   Bianchi Aquila RC Dura-Ace Di2 4iiii 2026 → new retail ~$11,771 USD (>€8,000 ceiling), ELIMINATED
+#   Canyon Speedmax CF 8 Di2 search → no new Baltic/Polish listings found
+#   SS.lv — no new qualifying TT/tri listings found this run
+#   Autoplius.lt / Skelbiu.lt (beyond Giant Trinity conditional) → no new qualifying results
+#   Osta.ee / Okidoki.ee / Andel.lv → no qualifying results
+# Open conditionals carried forward (manual check recommended):
+#   1. Giant Trinity SRAM AXS L Vilnius (skelbiu.lt): https://m.skelbiu.lt/skelbimai/giant-trinity-triatlono-dviratis-sram-axs-naujas-l-74636002.html — verify SRAM tier (Red vs Force)
+#   2. Orbea Ordu Carbon 55 SRAM Allegro.pl: https://allegro.pl/oferta/rower-czasowy-orbea-ordu-carbon-55-sram-zipp-mavic-7838383416 — verify SRAM tier
+#   3. Cervélo P3X Ultegra Di2 OLX.pl: https://www.olx.pl/d/oferta/cervelo-p3x-rower-triathlonowy-ultegra-di2-nowy-bikefitting-CID767-IDExtJN.html — verify size L
+#   4. Dolan TT Carbon Dura-Ace Di2 allegrolokalnie: https://allegrolokalnie.pl/oferta/rower-czasowy-dolan-tt-carbon-triathlon-dura-ace — verify size L
+#   5. Ribble Deda TT Carbon allegrolokalnie: https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-ribble-deda-tt-carbon — verify groupset + size
+# Sites checked this run: SS.lv ✓, OLX.pl ✓, Allegro.pl ✓, Allegro Lokalnie ✓, Autoplius.lt ✓, Skelbiu.lt ✓, Osta.ee ✓, Okidoki.ee ✓, Andel.lv (not reachable). Direct fetch 403 on all — search-based scan used.
