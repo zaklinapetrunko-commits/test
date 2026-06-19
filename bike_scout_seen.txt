@@ -27,3 +27,17 @@ https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/fcgdh.html
 #   (Passes all criteria IF size is L/55–57cm. Recommend checking manually.)
 # Eliminated this run: Focus Chrono (size S, Ultegra Di2); APEX Skylar Carbon Ultegra (size 54, non-Di2); Boardman TTE Ultegra (non-Di2/non-Red); Autoplius.lt/Osta.ee/Okidoki.ee/Andel.lv: no qualifying results.
 # Sites checked: SS.lv ✓, OLX.pl ✓, Allegro.pl ✓, Allegro Lokalnie ✓, Autoplius.lt ✓, Osta.ee ✓, Okidoki.ee ✓, Andel.lv (no reach). Direct fetch blocked on all (403/ECONNREFUSED) — search-based scan used.
+# --- 2026-06-19 run (fifth) — 3 new listings passed filter ---
+https://allegrolokalnie.pl/oferta/cannondale-slice-triathlon
+https://allegrolokalnie.pl/oferta/rower-czasowy-triathlon-fuji-norcom-1-3-di2-55
+https://allegrolokalnie.pl/oferta/fuji-norcom-straight-ultegra-di2
+# NOTE: Telegram alerts BLOCKED — api.telegram.org not in network egress allowlist. Manual review needed.
+# Listing 1: Cannondale Slice Triathlon/TT Di2 — Gdańsk (Allegro Lokalnie)
+#   Frame: BallisTec Carbon (full carbon, Cannondale's proprietary high-modulus). Type: Triathlon/TT. Size: 57cm (for 177–186cm rider). Groupset: Shimano Ultegra Di2 11-speed. Price: 10,999 PLN (~€2,580). ⭐ inPeak power meter on left crank.
+# Listing 2: Fuji Norcom Straight 1.3 Di2 — Toruń (Allegro Lokalnie)
+#   Frame: C10 ultra high-modulus aero carbon (full carbon). Type: Triathlon/TT. Size: 55cm. Groupset: Shimano Ultegra Di2. Price: 11,500 PLN (~€2,700). No power meter mentioned.
+# Listing 3: Fuji Norcom Straight Ultegra Di2 — Krosno (Allegro Lokalnie)
+#   Frame: carbon (Di2 variant = Norcom 1.3 = C10 full carbon). Type: Triathlon/TT. Size: 57cm (fitted for 184cm rider, 180–195cm range). Groupset: Shimano Ultegra Di2. Price: verify on listing. No power meter mentioned.
+# Eliminated this run: Planet X Stealth TT 55cm Legionowo (SRAM Force, not Red/Di2); Trek Speed Concept XL Swarzędz Di2 (XL=58cm, too large); TT-SRAM Red AXS sr.M OLX.pl (size M, too small); Trek Speed Concept M Warszawa (size M); Cannondale Slice 51 Gdynia (size 51, too small); Fuji Norcom 53 Olkusz (size 53, too small); SS.lv bkhelc SRAM Quarq (road bike, size S-M); Cervélo P2 SS.lv size 48; Autoplius.lt/Osta.ee/Okidoki.ee/Andel.lv: no qualifying results.
+# Conditional (still size-unconfirmed from run 4, still active on OLX.pl):
+#   Cervélo P3X Ultegra Di2 new+bikefitting: https://www.olx.pl/d/oferta/cervelo-p3x-rower-triathlonowy-ultegra-di2-nowy-bikefitting-CID767-IDExtJN.html
