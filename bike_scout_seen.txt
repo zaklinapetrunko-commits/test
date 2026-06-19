@@ -41,3 +41,21 @@ https://allegrolokalnie.pl/oferta/fuji-norcom-straight-ultegra-di2
 # Eliminated this run: Planet X Stealth TT 55cm Legionowo (SRAM Force, not Red/Di2); Trek Speed Concept XL Swarzędz Di2 (XL=58cm, too large); TT-SRAM Red AXS sr.M OLX.pl (size M, too small); Trek Speed Concept M Warszawa (size M); Cannondale Slice 51 Gdynia (size 51, too small); Fuji Norcom 53 Olkusz (size 53, too small); SS.lv bkhelc SRAM Quarq (road bike, size S-M); Cervélo P2 SS.lv size 48; Autoplius.lt/Osta.ee/Okidoki.ee/Andel.lv: no qualifying results.
 # Conditional (still size-unconfirmed from run 4, still active on OLX.pl):
 #   Cervélo P3X Ultegra Di2 new+bikefitting: https://www.olx.pl/d/oferta/cervelo-p3x-rower-triathlonowy-ultegra-di2-nowy-bikefitting-CID767-IDExtJN.html
+# --- 2026-06-19 run (sixth) — 0 new listings passed filter ---
+2026-06-19T18:00:00Z — No new matches found.
+# Sites checked: SS.lv ✓, OLX.pl ✓, Allegro.pl ✓, Allegro Lokalnie ✓, Autoplius.lt ✓, Osta.ee ✓, Okidoki.ee ✓, Andel.lv (not reachable). Direct fetch 403 on all — search-based scan used.
+# Scanned ~15 new candidates. All eliminated:
+#   SS.lv cdkxli — Triatlona/TT M/L 54cm €480 (Dedacciai frame) → 54cm out of range, ELIMINATED
+#   SS.lv bxegpi — Cervélo P2 Carbon TT size 48 €1,760 → too small, ELIMINATED
+#   Allegro Lokalnie — Fuji Norcom 1.3 D Gdynia 9,300 PLN → size 51cm, ELIMINATED
+#   Allegro Lokalnie — Fuji Norcom 1.3 Di2 Olkusz 19,500 PLN → size M/L 53cm, ELIMINATED
+#   Allegro Lokalnie — Fuji Norcom Straight 2 Gliwice → mechanical Ultegra (not Di2), ELIMINATED
+#   Allegro Lokalnie — Avenger TM6 Carbon Zdzieszowice 7,200 PLN → groupset unconfirmed, likely 105/Ultegra non-Di2, ELIMINATED
+#   Allegro Lokalnie — Pardus TT Carbon Konin 6,600 PLN → groupset unconfirmed, insufficient data, ELIMINATED
+#   Trek Speed Concept XL Di2 allegrolokalnie → already evaluated run 5 (XL=58cm too large), ELIMINATED
+#   Autoplius.lt/Osta.ee/Okidoki.ee/Andel.lv → no qualifying results
+# New conditional (size unconfirmed — NOT counted as alerted, manual check needed):
+#   Allegro Lokalnie Dolan TT Carbon Dura-Ace Di2: https://allegrolokalnie.pl/oferta/rower-czasowy-dolan-tt-carbon-triathlon-dura-ace
+#   (Dolan TR1 = full carbon TT/triathlon disc, Shimano Dura-Ace R9250 Di2. Size unconfirmed — Dolan TR1 comes in XS/S/M/L/XL. Price new £4,800 (~€5,600) so used asking price likely €2,500–4,000. Passes all criteria IF size is L/55–57cm. Recommend checking manually.)
+# Still-open conditionals from prior runs (unresolved):
+#   Cervélo P3X Ultegra Di2 OLX.pl: https://www.olx.pl/d/oferta/cervelo-p3x-rower-triathlonowy-ultegra-di2-nowy-bikefitting-CID767-IDExtJN.html
