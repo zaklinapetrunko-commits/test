@@ -201,3 +201,37 @@ https://allegrolokalnie.pl/oferta/look-796-monoblade-rs-jak-nowy
 #   4. Dolan TT Carbon Dura-Ace Di2 allegrolokalnie: https://allegrolokalnie.pl/oferta/rower-czasowy-dolan-tt-carbon-triathlon-dura-ace — size L unconfirmed.
 #   5. Ribble Deda TT Carbon allegrolokalnie: https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-ribble-deda-tt-carbon — groupset + size unconfirmed.
 # Sites checked: SS.lv ✓, OLX.pl ✓, Allegro.pl ✓, Allegro Lokalnie ✓, Autoplius.lt ✓, Skelbiu.lt ✓, Osta.ee ✓, Okidoki.ee ✓, Andel.lv (not reachable). Direct fetch 403 on all — search-based scan used.
+# --- 2026-06-20 run (twelfth) — 0 new confirmed listings; 3 new conditionals ---
+2026-06-20T08:00:00Z — No new matches confirmed. 3 new conditionals added (see below). Telegram BLOCKED: api.telegram.org confirmed not in egress allowlist (curl test returned "Host not in allowlist" error — hardcoding credentials does not bypass the network policy; allowlist must be updated in session network settings).
+# NOTE: All 14 previously alerted listings from runs 2–11 remain undelivered via Telegram. Manual review of the GitHub seen-list is the only way to receive alerts until egress is fixed.
+# Eliminated this run:
+#   Orbea Ora TT allegrolokalnie (Wrocław) — seat tube 53-54cm, too small, ELIMINATED
+#   Felt B14 ss.lv cendeb.html €950 — 58cm confirmed, too large, ELIMINATED
+#   Planet X TT full carbon Warszawa allegrolokalnie — SRAM Rival groupset, ELIMINATED
+#   Planet X Stealth TT carbon Gostyń allegrolokalnie — SRAM Force groupset (product line standard), ELIMINATED
+#   Cervelo P3 2018 Ultegra Di2 58cm allegrolokalnie (Poznań) — size 58cm, too large, ELIMINATED
+#   Ridley Dean Fast S Głogów — size S, too small (confirmed run 11, rechecked)
+#   SS.lv cdkxli — Triatlona/TT 54cm €480 — too small, previously eliminated
+#   Osta.ee / Okidoki.ee / Andel.lv — no qualifying results (sites not reachable / no indexed TT listings)
+#   Autoplius.lt / Skelbiu.lt — no new qualifying results
+# New conditionals (NOT alerted — size or groupset tier unconfirmed):
+#   6. Ridley Dean Fast Ultegra Di2 Grębocice (allegrolokalnie):
+#      https://allegrolokalnie.pl/oferta/rower-czasowy-ridley-dean-fast-ultegra-di2
+#      Ridley Dean Fast = full carbon TT/triathlon. Groupset: Shimano Ultegra Di2 2x11. Price: 9,200 PLN (~€2,155).
+#      Ridley Dean Fast L = ~56cm seat tube. Passes all criteria IF size is L/55-57cm. Verify size before alerting.
+#   7. Cervelo P5 Disc Ultegra Di2 2020 allegrolokalnie:
+#      https://allegrolokalnie.pl/oferta/cervelo-p5-disc-ultegra-di2-2020-rok-gzy
+#      Cervelo P5 disc = full carbon TT/triathlon. Groupset: Shimano Ultegra Di2. Used (2020 model).
+#      P5 disc came in 51/54/56/58cm. Passes all criteria IF size is 55-57cm (i.e. 56cm). Verify size.
+#   8. Orbea Ordu M30i LTD Shimano 105 Di2 Poznań (OLX.pl):
+#      https://www.olx.pl/d/oferta/nowy-rower-orbea-ordu-m30i-ltd-di2-poznan-triathlon-czasowka-fv-CID767-IDVPS7G.html
+#      Full carbon OMX frame, dedicated triathlon. Groupset: Shimano 105 Di2 R7150 12-speed (Di2 qualifies).
+#      Size M/L ≈ 55cm (Orbea L=559mm, M=533mm, M/L ≈ 546mm). At lower bound of 55-57cm range.
+#      Price: ~31,999 PLN (~€7,495) — under €8,000 ceiling. Borderline on size. Verify before alerting.
+# Open conditionals carried forward from prior runs (unresolved, manual check recommended):
+#   1. Giant Trinity SRAM AXS L Vilnius (skelbiu.lt): https://m.skelbiu.lt/skelbimai/giant-trinity-triatlono-dviratis-sram-axs-naujas-l-74636002.html — SRAM tier (Red vs Force vs Rival) unconfirmed.
+#   2. Orbea Ordu Carbon 55 SRAM+ZIPP+Mavic (Allegro.pl): https://allegro.pl/oferta/rower-czasowy-orbea-ordu-carbon-55-sram-zipp-mavic-7838383416 — SRAM tier unconfirmed.
+#   3. Cervélo P3X Ultegra Di2 OLX.pl: https://www.olx.pl/d/oferta/cervelo-p3x-rower-triathlonowy-ultegra-di2-nowy-bikefitting-CID767-IDExtJN.html — size L unconfirmed.
+#   4. Dolan TT Carbon Dura-Ace Di2 allegrolokalnie: https://allegrolokalnie.pl/oferta/rower-czasowy-dolan-tt-carbon-triathlon-dura-ace — size L unconfirmed.
+#   5. Ribble Deda TT Carbon allegrolokalnie: https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-ribble-deda-tt-carbon — groupset + size unconfirmed.
+# Sites checked: SS.lv ✓, OLX.pl ✓, Allegro.pl ✓, Allegro Lokalnie ✓, Autoplius.lt ✓, Skelbiu.lt ✓, Osta.ee ✓, Okidoki.ee ✓, Andel.lv (not reachable). Direct fetch 403 on all — search-based scan used.
