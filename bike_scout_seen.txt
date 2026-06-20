@@ -23,7 +23,7 @@ https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/fcgdh.html
 #   Location: Latvia. Price: €1,800 (well under €8,000 ceiling). ⭐ Quarq power meter included.
 # Conditional (size unconfirmed — NOT counted as alerted, manual check needed):
 #   OLX.pl Cervélo P3X Ultegra Di2: https://www.olx.pl/d/oferta/cervelo-p3x-rower-triathlonowy-ultegra-di2-nowy-bikefitting-CID767-IDExtJN.html
-#   (Full carbon Cervélo P3X, Shimano Ultegra Di2, listed as new with bikefitting, price unknown, size unknown — direct fetch 403.)
+#   (Full carbon Cervélo P3X, Shimano Ultegra Di2, listed as new with bikefitting, price unknown, size unknown — direct fetch 403.
 #   (Passes all criteria IF size is L/55–57cm. Recommend checking manually.)
 # Eliminated this run: Focus Chrono (size S, Ultegra Di2); APEX Skylar Carbon Ultegra (size 54, non-Di2); Boardman TTE Ultegra (non-Di2/non-Red); Autoplius.lt/Osta.ee/Okidoki.ee/Andel.lv: no qualifying results.
 # Sites checked: SS.lv ✓, OLX.pl ✓, Allegro.pl ✓, Allegro Lokalnie ✓, Autoplius.lt ✓, Skelbiu.lt ✓, Osta.ee ✓, Okidoki.ee ✓, Andel.lv (no reach). Direct fetch blocked on all (403/ECONNREFUSED) — search-based scan used.
@@ -415,4 +415,25 @@ https://allegrolokalnie.pl/oferta/look-796-monoblade-rs-jak-nowy
 #   9. SS.lv bgfmcl: https://m.ss.lv/msg/lv/transport/bycycles/highway-sports/bgfmcl.html — fully unconfirmed.
 #   10. BMC Timemachine 02 Wrocław (OLX.pl ID11GcNq): https://www.olx.pl/d/oferta/rower-czasowy-bmc-timemachine-02-ultegra-di2-dura-ace-CID767-ID11GcNq.html — size unconfirmed.
 #   11. BMC Timemachine TM02 allegrolokalnie: https://allegrolokalnie.pl/oferta/rower-czasowy-timemachine-tm02 — groupset + size unconfirmed.
+# Sites checked: SS.lv ✓, OLX.pl ✓, Allegro.pl ✓, Allegro Lokalnie ✓, Autoplius.lt ✓, Skelbiu.lt ✓, Osta.ee ✓, Okidoki.ee ✓, Andel.lv (not reachable). Direct fetch 403 on all — search-based scan used. ~35 candidates scanned.
+# --- 2026-06-20 run (nineteenth) — 1 new listing confirmed, Telegram BLOCKED ---
+https://m.skelbiu.lt/skelbimai/orbea-tt-ordu-m20i-di2-2018-l-dydis-73766133.html
+# NOTE: Telegram alerts BLOCKED — api.telegram.org returns "Host not in allowlist" even with hardcoded credentials in curl. This is an infrastructure-level network egress policy; credentials cannot bypass it. All 15 qualifying listings remain undelivered via Telegram. ACTION REQUIRED: Add api.telegram.org to session network egress allowlist.
+# Listing: Orbea TT Ordu M20i Ultegra Di2 2018 — Size L (Skelbiu.lt, Vilnius Lithuania)
+#   Frame: Orbea Ordu OMX, full carbon, dedicated TT/triathlon geometry. Size: L (~55cm effective seat tube).
+#   Groupset: Shimano Ultegra Di2 (Orbea M20i = Ultegra Di2 in Orbea nomenclature). Price: €1,400.
+#   Location: Vilnius, Lithuania. No power meter mentioned. ALL CRITERIA PASS. Listed ~10 hours ago.
+# Conditionals resolved this run:
+#   SS.lv bdfdlm — CONFIRMED carbon road bike (šosejas sporta, Giant), SRAM Red mechanical €2,250. Road geometry, NOT TT/triathlon. ELIMINATED permanently.
+#   SS.lv bgfmcl — CONFIRMED carbon Giant gravel bike (Revolt/Defy type), Shimano, €1,300. Gravel geometry, NOT TT/triathlon. ELIMINATED permanently.
+# Open conditionals carried forward (manual check recommended):
+#   1. Cervélo P3X Ultegra Di2 OLX.pl: https://www.olx.pl/d/oferta/cervelo-p3x-rower-triathlonowy-ultegra-di2-nowy-bikefitting-CID767-IDExtJN.html — size L unconfirmed.
+#   2. Dolan TT Carbon Dura-Ace Di2 allegrolokalnie: https://allegrolokalnie.pl/oferta/rower-czasowy-dolan-tt-carbon-triathlon-dura-ace — size L unconfirmed.
+#   3. Ribble Deda TT Carbon allegrolokalnie: https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-ribble-deda-tt-carbon — groupset + size unconfirmed.
+#   4. Cervelo P5 Disc Ultegra Di2 2020 allegrolokalnie: https://allegrolokalnie.pl/oferta/cervelo-p5-disc-ultegra-di2-2020-rok-gzy — size 56 unconfirmed.
+#   5. Orbea Ordu M30i LTD 105 Di2 Poznań (OLX.pl): https://www.olx.pl/d/oferta/nowy-rower-orbea-ordu-m30i-ltd-di2-poznan-triathlon-czasowka-fv-CID767-IDVPS7G.html — size borderline M/L.
+#   6. Trek Speed Concept Carbon TT OLX.pl IDWDWW0: https://www.olx.pl/d/oferta/rower-czasowy-triathlonowy-triathlon-trek-speedconcept-carbon-CID767-IDWDWW0.html — groupset/size unconfirmed.
+#   7. EVO Kronos R9 SRAM Red OLX.pl (ID15a5Ze): https://www.olx.pl/d/oferta/rower-triathlonowych-evo-kronos-r-9-carbon-sram-red-CID767-ID15a5Ze.html — size unconfirmed (HIGH PRIORITY).
+#   8. BMC Timemachine 02 Wrocław (OLX.pl ID11GcNq): https://www.olx.pl/d/oferta/rower-czasowy-bmc-timemachine-02-ultegra-di2-dura-ace-CID767-ID11GcNq.html — size unconfirmed.
+#   9. BMC Timemachine TM02 allegrolokalnie: https://allegrolokalnie.pl/oferta/rower-czasowy-timemachine-tm02 — groupset + size unconfirmed.
 # Sites checked: SS.lv ✓, OLX.pl ✓, Allegro.pl ✓, Allegro Lokalnie ✓, Autoplius.lt ✓, Skelbiu.lt ✓, Osta.ee ✓, Okidoki.ee ✓, Andel.lv (not reachable). Direct fetch 403 on all — search-based scan used. ~35 candidates scanned.
