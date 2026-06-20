@@ -437,3 +437,27 @@ https://m.skelbiu.lt/skelbimai/orbea-tt-ordu-m20i-di2-2018-l-dydis-73766133.html
 #   8. BMC Timemachine 02 Wrocław (OLX.pl ID11GcNq): https://www.olx.pl/d/oferta/rower-czasowy-bmc-timemachine-02-ultegra-di2-dura-ace-CID767-ID11GcNq.html — size unconfirmed.
 #   9. BMC Timemachine TM02 allegrolokalnie: https://allegrolokalnie.pl/oferta/rower-czasowy-timemachine-tm02 — groupset + size unconfirmed.
 # Sites checked: SS.lv ✓, OLX.pl ✓, Allegro.pl ✓, Allegro Lokalnie ✓, Autoplius.lt ✓, Skelbiu.lt ✓, Osta.ee ✓, Okidoki.ee ✓, Andel.lv (not reachable). Direct fetch 403 on all — search-based scan used. ~35 candidates scanned.
+# --- 2026-06-20 run (twentieth) — 0 new confirmed listings; 1 new conditional; 1 conditional resolved ---
+2026-06-20T23:30:00Z — No new matches confirmed. Telegram BLOCKED: api.telegram.org returns HTTP 403 on direct curl test with hardcoded API credentials — infrastructure-level network egress policy blocks outbound HTTPS regardless of hardcoded credentials. Allowlist must be updated at session network settings level. Nothing new to alert in any case.
+# Eliminated this run:
+#   Stevens Super Trofeo TT L 56 (OLX.pl ID153N8N) — full carbon TT ✓, size L/56cm ✓, BUT groupset Shimano Ultegra MECHANICAL (not Di2/SRAM Red). ELIMINATED permanently.
+#   BMC Time Machine 02 rozmiar L Gdańsk (OLX.pl ID13asQS) — size L ✓, BUT groupset Shimano 105 MECHANICAL (not Di2). ELIMINATED permanently.
+#   TT-Triathlon SRAM RED AXS 12 sr.M (OLX.pl IDSsUsR) — SRAM Red AXS 12 ✓, BUT size sr.M (medium, too small). ELIMINATED.
+#   Autoplius.lt / Osta.ee / Okidoki.ee / Andel.lv — no qualifying results (sites not reachable / not indexed for TT bikes).
+# New conditional (NOT alerted — size borderline):
+#   15. Orbea Ordu M30i LTD 2023 Di2 Poznań (OLX.pl IDQP53K):
+#       https://www.olx.pl/d/oferta/nowy-rower-orbea-ordu-m30i-ltd-2023-di2-poznan-triathlon-czasowka-CID767-IDQP53K.html
+#       Frame: Orbea Ordu OMX, full carbon TT/triathlon. Groupset: Shimano 105 Di2 R7150 12-speed (Di2 qualifies). Price: 25,999 PLN (~€6,100). Under €8,000 ✓.
+#       Size: M/L (Orbea M/L ≈ 546mm seat tube — borderline, just below 55cm threshold). Different listing from IDVPS7G. Verify exact seat-tube geometry before alerting.
+# Open conditionals carried forward (manual check recommended):
+#   1. Cervélo P3X Ultegra Di2 OLX.pl: https://www.olx.pl/d/oferta/cervelo-p3x-rower-triathlonowy-ultegra-di2-nowy-bikefitting-CID767-IDExtJN.html — size L unconfirmed.
+#   2. Dolan TT Carbon Dura-Ace Di2 allegrolokalnie: https://allegrolokalnie.pl/oferta/rower-czasowy-dolan-tt-carbon-triathlon-dura-ace — size L unconfirmed.
+#   3. Ribble Deda TT Carbon allegrolokalnie: https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-ribble-deda-tt-carbon — groupset + size unconfirmed.
+#   4. Cervelo P5 Disc Ultegra Di2 2020: https://allegrolokalnie.pl/oferta/cervelo-p5-disc-ultegra-di2-2020-rok-gzy — size 56 unconfirmed.
+#   5. Orbea Ordu M30i LTD 105 Di2 Poznań (IDVPS7G): https://www.olx.pl/d/oferta/nowy-rower-orbea-ordu-m30i-ltd-di2-poznan-triathlon-czasowka-fv-CID767-IDVPS7G.html — size borderline M/L.
+#   6. Trek Speed Concept Carbon TT OLX.pl IDWDWW0: https://www.olx.pl/d/oferta/rower-czasowy-triathlonowy-triathlon-trek-speedconcept-carbon-CID767-IDWDWW0.html — groupset/size unconfirmed.
+#   7. EVO Kronos R9 SRAM Red OLX.pl (ID15a5Ze): https://www.olx.pl/d/oferta/rower-triathlonowych-evo-kronos-r-9-carbon-sram-red-CID767-ID15a5Ze.html — size unconfirmed (HIGH PRIORITY).
+#   8. BMC Timemachine 02 Wrocław (OLX.pl ID11GcNq): https://www.olx.pl/d/oferta/rower-czasowy-bmc-timemachine-02-ultegra-di2-dura-ace-CID767-ID11GcNq.html — size unconfirmed.
+#   9. BMC Timemachine TM02 allegrolokalnie: https://allegrolokalnie.pl/oferta/rower-czasowy-timemachine-tm02 — groupset + size unconfirmed.
+#   10. Orbea Ordu M30i LTD 2023 Di2 Poznań (IDQP53K): https://www.olx.pl/d/oferta/nowy-rower-orbea-ordu-m30i-ltd-2023-di2-poznan-triathlon-czasowka-CID767-IDQP53K.html — size M/L borderline (NEW this run).
+# Sites checked: SS.lv ✓, OLX.pl ✓, Allegro.pl ✓, Allegro Lokalnie ✓, Autoplius.lt ✓, Skelbiu.lt ✓, Osta.ee ✓, Okidoki.ee ✓, Andel.lv (not reachable). Direct fetch 403 on all — search-based scan used. ~30 candidates scanned.
