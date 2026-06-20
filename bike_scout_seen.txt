@@ -79,3 +79,13 @@ https://allegrolokalnie.pl/oferta/argon-18-e-116-rozmiar-l-triathlon-c66
 # https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/ngjhe.html  ← €4,500 listing — CONFIRM bike type, groupset, size
 # https://allegrolokalnie.pl/oferta/rower-argon-18-e117-di2-idealny  ← Argon 18 E-117 Di2 — CONFIRM size
 # https://allegrolokalnie.pl/oferta/rower-argon-18-e117-triathlon-rozmiar-l  ← Argon 18 E-117 size L — CONFIRM groupset
+2026-06-21T00:00:00Z — No new confirmed matches found. Direct fetch: all sites 403 (SS.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt). Via web search: found 2 new candidate URLs this run, 0 passed all filter criteria — (1) Canyon Speedmax CF7 allegrolokalnie Toruń 11,000 PLN size M (FAIL size); (2) Canyon Speedmax CF 9.0 PRO allegrolokalnie Dąbrówka 10,500 PLN — carbon + likely Ultegra Di2 ✓, size UNVERIFIABLE (403) — manual check needed.
+# NOTE: Telegram send attempt not made — no qualifying listings. api.telegram.org remains untested this run (no new listings to trigger it).
+# Candidate URLs for manual review (2026-06-21 run):
+# https://allegrolokalnie.pl/oferta/canyon-speedmax-cf7-rower-triathlon  ← CF7 Toruń 11,000 PLN, size M (FAIL — but verify)
+# https://allegrolokalnie.pl/oferta/canyon-speedmax-cf-9-0-pro  ← CF 9.0 PRO Dąbrówka 10,500 PLN — CONFIRM size (if L/55-57cm → likely qualifies)
+# OUTSTANDING HIGH-PRIORITY MANUAL CHECKS (all runs, still unresolved):
+# https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bxhhel.html  ← Canyon Speedmax CF 8.0 Di2 €2,890 — CONFIRM SIZE
+# https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/ngjhe.html  ← €4,500 SS.lv listing — CONFIRM type/groupset/size
+# https://allegrolokalnie.pl/oferta/rower-argon-18-e117-di2-idealny  ← Argon 18 E-117 Di2 — CONFIRM size
+# https://allegrolokalnie.pl/oferta/rower-argon-18-e117-triathlon-rozmiar-l  ← Argon 18 E-117 size L — CONFIRM groupset
