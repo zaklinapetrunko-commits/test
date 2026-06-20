@@ -172,3 +172,32 @@ https://allegrolokalnie.pl/oferta/rower-triathlonowy-wilier-twin-blade-duraace-d
 #   4. Dolan TT Carbon Dura-Ace Di2 allegrolokalnie: https://allegrolokalnie.pl/oferta/rower-czasowy-dolan-tt-carbon-triathlon-dura-ace — size L unconfirmed
 #   5. Ribble Deda TT Carbon allegrolokalnie: https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-ribble-deda-tt-carbon — groupset + size unconfirmed
 # Sites checked: SS.lv ✓, OLX.pl ✓, Allegro.pl ✓, Allegro Lokalnie ✓, Autoplius.lt ✓, Skelbiu.lt ✓, Osta.ee ✓, Okidoki.ee ✓, Andel.lv (not reachable). Direct fetch 403 on all — search-based scan used.
+# --- 2026-06-20 run (eleventh) — 1 new listing confirmed, Telegram BLOCKED ---
+https://allegrolokalnie.pl/oferta/look-796-monoblade-rs-jak-nowy
+# NOTE: Telegram alerts BLOCKED — api.telegram.org not in network egress allowlist. Manual review needed.
+# Listing: LOOK 796 Monoblade RS "jak nowy" — Kraków (Allegro Lokalnie)
+#   Frame: LOOK 796 Monoblade RS, full carbon dedicated TT/triathlon (Monoblade = iconic single-blade aero fork).
+#   Size: L/XL (~57cm TT equivalent; LOOK 796 L fits riders ~180–190cm, ~57cm effective top tube).
+#   Groupset: Shimano Ultegra Di2 11-speed, ceramic speed derailleur, 11/25 cassette, LOOK 55/39 crankset.
+#   Wheels: PRO Aerofuel saddle, Tufo Elite S3 tubular tires.
+#   Price: 26,500 PLN (~€6,200). Under €8,000 ceiling. ~1,500km use. Like new condition.
+#   Extras: Di2 charger, original packaging, aero bottle cage, Giro aero helmet included.
+#   No power meter. ALL CRITERIA PASS.
+# Eliminated this run:
+#   Bottecchia Tri Di2 Mavic Białystok → size 51/53cm, too small, ELIMINATED
+#   Felt DA4 Ultegra Di2 Elbląg → size 54cm, too small, ELIMINATED
+#   Felt B14 56cm OLX Szczecin → groupset mechanical Ultegra (no Di2/SRAM Red), ELIMINATED
+#   Planet X Stealth Rzeszów 4,300 PLN → SRAM Rival (not Red/Di2), ELIMINATED
+#   Fuji Norcom 1.3 D Gdynia 9,300 PLN → size 51cm, ELIMINATED (confirmed from prior run)
+#   Liv Avow Advanced Pro 1 M Warszawa → size M, too small, ELIMINATED
+#   Merida Warp TT Lampre Szczecin → mechanical groupset, ELIMINATED
+#   Scott Plasma 20 Bydgoszcz → likely mechanical groupset, insufficient data, ELIMINATED
+#   Ridley Dean Fast S Głogów → size S, too small, ELIMINATED
+#   Autoplius.lt / Osta.ee / Okidoki.ee / Andel.lv → no qualifying results
+# Open conditionals (manual check recommended):
+#   1. Giant Trinity SRAM AXS L Vilnius (skelbiu.lt): https://m.skelbiu.lt/skelbimai/giant-trinity-triatlono-dviratis-sram-axs-naujas-l-74636002.html — SRAM tier unconfirmed (Red vs Force vs Rival). Listed €4,500, Dec 2025.
+#   2. Orbea Ordu Carbon 55 SRAM+ZIPP+Mavic (Allegro.pl): https://allegro.pl/oferta/rower-czasowy-orbea-ordu-carbon-55-sram-zipp-mavic-7838383416 — SRAM tier unconfirmed (listing says "SRAM" without tier).
+#   3. Cervélo P3X Ultegra Di2 OLX.pl: https://www.olx.pl/d/oferta/cervelo-p3x-rower-triathlonowy-ultegra-di2-nowy-bikefitting-CID767-IDExtJN.html — size L unconfirmed.
+#   4. Dolan TT Carbon Dura-Ace Di2 allegrolokalnie: https://allegrolokalnie.pl/oferta/rower-czasowy-dolan-tt-carbon-triathlon-dura-ace — size L unconfirmed.
+#   5. Ribble Deda TT Carbon allegrolokalnie: https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-ribble-deda-tt-carbon — groupset + size unconfirmed.
+# Sites checked: SS.lv ✓, OLX.pl ✓, Allegro.pl ✓, Allegro Lokalnie ✓, Autoplius.lt ✓, Skelbiu.lt ✓, Osta.ee ✓, Okidoki.ee ✓, Andel.lv (not reachable). Direct fetch 403 on all — search-based scan used.
