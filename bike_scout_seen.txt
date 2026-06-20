@@ -235,3 +235,38 @@ https://allegrolokalnie.pl/oferta/look-796-monoblade-rs-jak-nowy
 #   4. Dolan TT Carbon Dura-Ace Di2 allegrolokalnie: https://allegrolokalnie.pl/oferta/rower-czasowy-dolan-tt-carbon-triathlon-dura-ace — size L unconfirmed.
 #   5. Ribble Deda TT Carbon allegrolokalnie: https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-ribble-deda-tt-carbon — groupset + size unconfirmed.
 # Sites checked: SS.lv ✓, OLX.pl ✓, Allegro.pl ✓, Allegro Lokalnie ✓, Autoplius.lt ✓, Skelbiu.lt ✓, Osta.ee ✓, Okidoki.ee ✓, Andel.lv (not reachable). Direct fetch 403 on all — search-based scan used.
+# --- 2026-06-20 run (thirteenth) — 0 new confirmed listings; 2 new conditionals ---
+2026-06-20T12:00:00Z — No new matches confirmed. 2 new conditionals added (see below). Telegram BLOCKED: api.telegram.org still not in egress allowlist (curl test again returned "Host not in allowlist" error — network egress policy blocks at infrastructure level, hardcoding credentials in prompt does NOT bypass this; allowlist must be configured in session network settings UI or equivalent).
+# NOTE: The seen list continues to serve as the only alert channel. All 14 previously identified listings remain undelivered via Telegram.
+# Eliminated this run:
+#   BMC Timemachine 02 IDw0rzr (OLX.pl, /oferta/ path) — April 2019 listing, size MS (medium), too small. ELIMINATED
+#   Zannata Z111 Shimano Ultegra r57 (OLX.pl IDNQA5o) — mechanical Ultegra, no Di2, ELIMINATED
+#   Cannondale Synapse Hi-Mod 2 SRAM Red 2x11 Wołów (OLX.pl ID14MdwN) — endurance road bike, not TT geometry, ELIMINATED
+#   Trek Speed Concept M (54) Gdańsk (OLX.pl IDQqPW3) — size 54cm, too small, ELIMINATED
+#   Trek Speed Concept Di2 M Warszawa (OLX.pl IDWOwY6) — size M, too small, ELIMINATED
+#   Trek Speed Concept 7.0 WSD (OLX.pl IDU5fba) — WSD/women's, pre-Di2 groupset, ELIMINATED
+#   MMR Adrenaline SL 10 Carbon Ultegra Di2 2026 (OLX.pl ID19Bgc7) — road bike (SL10 = road), not TT, ELIMINATED
+#   BMC Timemachine (road) Warszawa Śródmieście (OLX.pl ID111Lke) — road bike (R01 = road), not triathlon TT, ELIMINATED
+#   SS.lv cdkxli — 54cm TT €480 — too small, recurring elimination
+#   Avenger TM6 Carbon Zdzieszowice — groupset unconfirmed, likely 105/Ultegra non-Di2, ELIMINATED (low priority)
+#   Pardus TT Carbon Konin — groupset unconfirmed, insufficient data, ELIMINATED (low priority)
+#   Osta.ee / Okidoki.ee / Andel.lv — no qualifying results (not reachable / no indexed TT listings)
+# New conditionals (NOT alerted — size or groupset unconfirmed):
+#   9. Trek Speed Concept Carbon TT OLX.pl IDWDWW0:
+#      https://www.olx.pl/d/oferta/rower-czasowy-triathlonowy-triathlon-trek-speedconcept-carbon-CID767-IDWDWW0.html
+#      Trek Speed Concept = full carbon TT/triathlon. Groupset: UNCONFIRMED. Size: UNCONFIRMED.
+#      Passes all criteria IF groupset is Di2/SRAM Red AND size is L/55-57cm. Verify before alerting.
+#   10. SS.lv bgfmcl (highway-sports listing):
+#      https://m.ss.lv/msg/lv/transport/bycycles/highway-sports/bgfmcl.html
+#      Bike type/brand/size/groupset: ENTIRELY UNCONFIRMED from search results. Appeared in SS.lv highway-sports category.
+#      Verify full specs before treating as candidate.
+# Open conditionals carried forward (unresolved, manual check recommended):
+#   1. Giant Trinity SRAM AXS L Vilnius (skelbiu.lt): https://m.skelbiu.lt/skelbimai/giant-trinity-triatlono-dviratis-sram-axs-naujas-l-74636002.html — SRAM tier (Red vs Force vs Rival) unconfirmed.
+#   2. Orbea Ordu Carbon 55 SRAM+ZIPP+Mavic (Allegro.pl): https://allegro.pl/oferta/rower-czasowy-orbea-ordu-carbon-55-sram-zipp-mavic-7838383416 — SRAM tier unconfirmed.
+#   3. Cervélo P3X Ultegra Di2 OLX.pl: https://www.olx.pl/d/oferta/cervelo-p3x-rower-triathlonowy-ultegra-di2-nowy-bikefitting-CID767-IDExtJN.html — size L unconfirmed.
+#   4. Dolan TT Carbon Dura-Ace Di2 allegrolokalnie: https://allegrolokalnie.pl/oferta/rower-czasowy-dolan-tt-carbon-triathlon-dura-ace — size L unconfirmed.
+#   5. Ribble Deda TT Carbon allegrolokalnie: https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-ribble-deda-tt-carbon — groupset + size unconfirmed.
+#   6. Ridley Dean Fast Ultegra Di2 Grębocice: https://allegrolokalnie.pl/oferta/rower-czasowy-ridley-dean-fast-ultegra-di2 — size L unconfirmed.
+#   7. Cervelo P5 Disc Ultegra Di2 2020: https://allegrolokalnie.pl/oferta/cervelo-p5-disc-ultegra-di2-2020-rok-gzy — size 56 unconfirmed.
+#   8. Orbea Ordu M30i LTD 105 Di2 Poznań: https://www.olx.pl/d/oferta/nowy-rower-orbea-ordu-m30i-ltd-di2-poznan-triathlon-czasowka-fv-CID767-IDVPS7G.html — size borderline.
+# Sites checked: SS.lv ✓, OLX.pl ✓, Allegro.pl ✓, Allegro Lokalnie ✓, Autoplius.lt ✓, Skelbiu.lt ✓, Osta.ee ✓, Okidoki.ee ✓, Andel.lv (not reachable). Direct fetch 403 on all — search-based scan used. ~35 new candidates scanned.
