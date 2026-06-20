@@ -65,3 +65,17 @@ https://www.olx.pl/d/oferta/pinarello-bolide-tt-rower-czasowy-triathlonowy-rama-
 # https://www.olx.pl/d/oferta/felt-b12-triathlon-czasowka-CID767-ID16tf6S.html  ← 56cm but mechanical Ultegra (FAIL)
 # https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bpcmfd.html  ← 56cm Carbon but mechanical Ultegra €620 (FAIL)
 # https://allegrolokalnie.pl/oferta/trek-speed-concept-di2-triathlonkarbon  ← XL ~58cm (FAIL size)
+# --- 2026-06-20 run (fifth) — 1 new listing passed ALL filter criteria ---
+https://allegrolokalnie.pl/oferta/argon-18-e-116-rozmiar-l-triathlon-c66
+# NOTE: Telegram alerts BLOCKED — api.telegram.org not in network egress allowlist. Manual review needed.
+# Listing: Argon 18 E-116 Triathlon, size L, Shimano Ultegra Di2, full carbon triathlon frame, AllegroLokalnie Poland. Price unconfirmed (page 403) — market value ~5,000–9,000 PLN (~€1,200–€2,100). Verify price directly on listing.
+# Candidates found this run that FAILED filter:
+# https://allegrolokalnie.pl/oferta/merida-warp-tt-lampre-czasowy-triathlonowy ← FAIL: size S + mechanical groupset (Ultegra 6700 + SRAM Force, not Di2/Red)
+# https://www.olx.pl/oferta/szosa-argon-18-e-117-tri-carbon-shimano-triathlon-czasowy-3t-CID767-IDtfjeW.html ← FAIL: size M + Shimano 105 mechanical (likely expired 2019 listing)
+# https://www.olx.pl/oferta/cervelo-p5-56-ultegra-metron-55-triathlon-rower-czasowy-triathlonowy-CID767-IDycb7C.html ← FAIL: Ultegra mechanical (not Di2)
+# https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/ngjhe.html ← €4,500, type/groupset/size UNVERIFIABLE (403) — check manually
+# OUTSTANDING HIGH-PRIORITY MANUAL CHECKS (from prior runs, still unresolved):
+# https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bxhhel.html  ← Canyon Speedmax CF 8.0 Di2 €2,890 — CONFIRM SIZE (if L/55-57cm → BUY ALERT)
+# https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/ngjhe.html  ← €4,500 listing — CONFIRM bike type, groupset, size
+# https://allegrolokalnie.pl/oferta/rower-argon-18-e117-di2-idealny  ← Argon 18 E-117 Di2 — CONFIRM size
+# https://allegrolokalnie.pl/oferta/rower-argon-18-e117-triathlon-rozmiar-l  ← Argon 18 E-117 size L — CONFIRM groupset
