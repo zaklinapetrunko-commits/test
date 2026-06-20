@@ -89,3 +89,12 @@ https://allegrolokalnie.pl/oferta/argon-18-e-116-rozmiar-l-triathlon-c66
 # https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/ngjhe.html  ← €4,500 SS.lv listing — CONFIRM type/groupset/size
 # https://allegrolokalnie.pl/oferta/rower-argon-18-e117-di2-idealny  ← Argon 18 E-117 Di2 — CONFIRM size
 # https://allegrolokalnie.pl/oferta/rower-argon-18-e117-triathlon-rozmiar-l  ← Argon 18 E-117 size L — CONFIRM groupset
+2026-06-21T06:00:00Z — No new confirmed matches found. Direct fetch: all sites 403 (SS.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt). Via web search (20+ queries across all sites): found 12+ new candidate URLs, 0 passed all filter criteria — (1) Canyon Speedmax CF 9.0 SL size M AllegroLokalnie Malbork 6,800 PLN (FAIL size M); (2) Canyon Speedmax CF 9.0 SL size XL AllegroLokalnie Malbork 10,500 PLN (FAIL size XL); (3) Canyon Speedmax CF 8.0 XL OLX Malbork (FAIL size XL); (4) Canyon Speedmax CF 8.0 XS OLX Malbork (FAIL size XS); (5) Canyon Speedmax CF 8.0 Di2 size M AllegroLokalnie (FAIL size M); (6) Cervélo P2 48cm SS.lv bxegpi €1,760 (FAIL size 48cm); (7) Felt DA4 54cm AllegroLokalnie Elbląg 7,999 PLN (FAIL size); (8) Kuota KT5 Zero Tri size S OLX Gdynia 16,990 PLN (FAIL size S); (9) Felt B14 56cm OLX Szczecin (FAIL groupset — mechanical); (10) BMC Timemachine Road 56cm skelbiu.lt (FAIL type — road bike not TT/triathlon); (11) Avenger TM6 Carbon AllegroLokalnie Zdzieszowice 7,200 PLN groupset+size UNVERIFIABLE 403; (12) SS.lv bjbebj.html 56cm Dura-Ace 10s mechanical €1,190 (FAIL groupset — 10s mechanical not Di2).
+# NOTE: Telegram send attempt not made — no qualifying listings.
+# OUTSTANDING HIGH-PRIORITY MANUAL CHECKS (all runs, still unresolved at 403):
+# https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bxhhel.html  ← Canyon Speedmax CF 8.0 Di2 €2,890 — CONFIRM SIZE (if L/55-57cm → BUY ALERT)
+# https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/ngjhe.html  ← €4,500 SS.lv listing — CONFIRM type/groupset/size
+# https://allegrolokalnie.pl/oferta/rower-argon-18-e117-di2-idealny  ← Argon 18 E-117 Di2 — CONFIRM size
+# https://allegrolokalnie.pl/oferta/rower-argon-18-e117-triathlon-rozmiar-l  ← Argon 18 E-117 size L — CONFIRM groupset
+# https://allegrolokalnie.pl/oferta/canyon-speedmax-cf-9-0-pro  ← Canyon CF 9.0 PRO Dąbrówka 10,500 PLN — CONFIRM size
+# https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-tt-avenger-tm6-carbon  ← Avenger TM6 Carbon Zdzieszowice 7,200 PLN — CONFIRM groupset+size
