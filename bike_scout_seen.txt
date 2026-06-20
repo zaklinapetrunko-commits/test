@@ -70,7 +70,7 @@ https://allegrolokalnie.pl/oferta/fuji-norcom-straight-ultegra-di2
 #   SS.lv bkehmk — KTM Revelator Alto Master 2023 €2,200 → ELIMINATED (road bike)
 #   SS.lv bxegpi — Cervélo P2 48cm €1,760 → previously eliminated (too small)
 #   SS.lv cdkhdh — Cervelo Apex Gravel L/56 €1,650 → ELIMINATED (gravel bike, not TT)
-#   OLX.pl ID15DSdh — Cannondale Synapse SRAM Red AXS 56cm → ELIMINATED (endurance road, not TT)
+#   OLX.pl ID15DSdh — Cannondale Synapse SRAM Red AXS 56cm → ELIMINATED (endurance road, not TT geometry)
 #   OLX.pl ID17I8oR — Factor One Dura-Ace Di2 56 → ELIMINATED (aero road bike, not TT geometry)
 #   OLX.pl ID1427W1 — Cervelo S2 SRAM Force 56 → ELIMINATED (road bike, wrong groupset)
 #   Allegro archiwum — APEX Skylar L Ultegra 2x11 → ELIMINATED (mechanical, archived)
@@ -269,4 +269,34 @@ https://allegrolokalnie.pl/oferta/look-796-monoblade-rs-jak-nowy
 #   6. Ridley Dean Fast Ultegra Di2 Grębocice: https://allegrolokalnie.pl/oferta/rower-czasowy-ridley-dean-fast-ultegra-di2 — size L unconfirmed.
 #   7. Cervelo P5 Disc Ultegra Di2 2020: https://allegrolokalnie.pl/oferta/cervelo-p5-disc-ultegra-di2-2020-rok-gzy — size 56 unconfirmed.
 #   8. Orbea Ordu M30i LTD 105 Di2 Poznań: https://www.olx.pl/d/oferta/nowy-rower-orbea-ordu-m30i-ltd-di2-poznan-triathlon-czasowka-fv-CID767-IDVPS7G.html — size borderline.
+# Sites checked: SS.lv ✓, OLX.pl ✓, Allegro.pl ✓, Allegro Lokalnie ✓, Autoplius.lt ✓, Skelbiu.lt ✓, Osta.ee ✓, Okidoki.ee ✓, Andel.lv (not reachable). Direct fetch 403 on all — search-based scan used. ~35 new candidates scanned.
+# --- 2026-06-20 run (fourteenth) — 0 new confirmed listings; 2 new conditionals ---
+2026-06-20T14:00:00Z — No new matches confirmed. 2 new conditionals added. Telegram BLOCKED: api.telegram.org returns "Host not in allowlist" on direct curl test — hardcoding credentials in the prompt does NOT bypass the infrastructure-level egress block. The network egress allowlist must be updated at infrastructure level to allow api.telegram.org. All 14 previously identified qualifying listings remain undelivered via Telegram.
+# Eliminated this run:
+#   Ridley Dean Fast Ultegra Di2 Grębocice (allegrolokalnie) — SIZE S confirmed from search, not L → ELIMINATED
+#   Cervelo P-Series 105 56cm Pruszków (allegrolokalnie) — Shimano 105 mechanical groupset, not Di2/SRAM Red → ELIMINATED
+#   Specialized Shiv Pro r.XS Di2 Malbork (allegrolokalnie) — Size XS, too small → ELIMINATED
+#   SS.lv bdlgbg — "M izmēra triatlona velosipēds" €1,100 — size M, too small → ELIMINATED
+#   SS.lv ngjhe €4,500 — confirmed MTB (Eagle 29x2.35'' in listing snippet) → ELIMINATED
+#   Fuji Norcom 1.3 D Gdynia 9,300 PLN — size 51cm → ELIMINATED (recurring)
+#   Osta.ee / Okidoki.ee / Andel.lv — no qualifying results
+#   Autoplius.lt / Skelbiu.lt — no qualifying results this run
+# New conditionals (NOT alerted — size or type/tier unconfirmed):
+#   11. EVO Kronos R9 SRAM Red — OLX.pl (ID15a5Ze):
+#       https://www.olx.pl/d/oferta/rower-triathlonowych-evo-kronos-r-9-carbon-sram-red-CID767-ID15a5Ze.html
+#       Frame: EVO2MAX Kronos R-9, full carbon HMUD aero TT geometry (purpose-built TT/triathlon, UK-made). Groupset: SRAM Red (confirmed in title). Price: UNKNOWN. Size: UNKNOWN.
+#       Passes all criteria IF size is L/55-57cm. High priority — verify size before alerting.
+#   12. SS.lv bdfdlm — SRAM Red carbon €2,250:
+#       https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdfdlm.html
+#       Snippet: "Sram Red elektronika, nav kritis, karbona ritenis ļoti labā stāvoklī" (SRAM Red electronics, not crashed, carbon bike very good condition). €2,250. SRAM Red: confirmed. Carbon: confirmed. Bike type (road vs TT/triathlon): UNKNOWN. Size: UNKNOWN. Verify both type and size before treating as qualifying.
+# Open conditionals carried forward (manual check recommended):
+#   1. Giant Trinity SRAM AXS L Vilnius (skelbiu.lt): https://m.skelbiu.lt/skelbimai/giant-trinity-triatlono-dviratis-sram-axs-naujas-l-74636002.html — SRAM tier unconfirmed (likely Force based on 2026 Giant Trinity standard spec).
+#   2. Orbea Ordu Carbon 55 SRAM+ZIPP+Mavic (Allegro.pl): https://allegro.pl/oferta/rower-czasowy-orbea-ordu-carbon-55-sram-zipp-mavic-7838383416 — SRAM tier unconfirmed.
+#   3. Cervélo P3X Ultegra Di2 OLX.pl: https://www.olx.pl/d/oferta/cervelo-p3x-rower-triathlonowy-ultegra-di2-nowy-bikefitting-CID767-IDExtJN.html — size L unconfirmed.
+#   4. Dolan TT Carbon Dura-Ace Di2 allegrolokalnie: https://allegrolokalnie.pl/oferta/rower-czasowy-dolan-tt-carbon-triathlon-dura-ace — size L unconfirmed.
+#   5. Ribble Deda TT Carbon allegrolokalnie: https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-ribble-deda-tt-carbon — groupset + size unconfirmed.
+#   6. Cervelo P5 Disc Ultegra Di2 2020: https://allegrolokalnie.pl/oferta/cervelo-p5-disc-ultegra-di2-2020-rok-gzy — size 56 unconfirmed.
+#   7. Orbea Ordu M30i LTD 105 Di2 Poznań: https://www.olx.pl/d/oferta/nowy-rower-orbea-ordu-m30i-ltd-di2-poznan-triathlon-czasowka-fv-CID767-IDVPS7G.html — size borderline M/L.
+#   8. Trek Speed Concept Carbon TT OLX.pl IDWDWW0: https://www.olx.pl/d/oferta/rower-czasowy-triathlonowy-triathlon-trek-speedconcept-carbon-CID767-IDWDWW0.html — groupset/size unconfirmed.
+#   9. SS.lv bgfmcl: https://m.ss.lv/msg/lv/transport/bycycles/highway-sports/bgfmcl.html — fully unconfirmed.
 # Sites checked: SS.lv ✓, OLX.pl ✓, Allegro.pl ✓, Allegro Lokalnie ✓, Autoplius.lt ✓, Skelbiu.lt ✓, Osta.ee ✓, Okidoki.ee ✓, Andel.lv (not reachable). Direct fetch 403 on all — search-based scan used. ~35 new candidates scanned.
