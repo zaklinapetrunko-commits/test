@@ -40,3 +40,7 @@ https://m.skelbiu.lt/skelbimai/orbea-tt-ordu-m20i-di2-2018-l-dydis-73766133.html
 https://allegrolokalnie.pl/oferta/rower-cervelo-p5-ps3
 https://allegrolokalnie.pl/oferta/rower-triathlonowy-cervelo-p3-vw5
 2026-06-20T00:00:00Z — No new matches found. Direct fetch: SS.lv 403, OLX.pl 403, Allegro.pl/AllegroLokalnie.pl 403. Via web search: found 8 new candidate listings but none passed all filter criteria — (1) Bottecchia Tri Di2 Mavic AllegroLokalnie Białystok, size 51/53cm (below 55cm min); (2) SS.LV Time NX RS Di2 €1000, road race frame not TT/triathlon type; (3) SS.LV TT velo M/L 54cm €480, size below 55cm min; (4) SS.COM Felt B14 triathlon 58cm €950, size above 57cm max; (5) Cervelo P-Series 105 56cm AllegroLokalnie, Shimano 105 mechanical (not Di2/SRAM Red); (6) Trek Speed Concept XL Di2 AllegroLokalnie, XL ~58cm above 57cm max; (7) Boarmdan TTE Shimano Ultegra Allegro.pl, Ultegra mechanical not Di2; (8) Guerciotti CRUX TT Carbon OLX.pl Poznań, Shimano 105 (not Di2/SRAM Red).
+# --- 2026-06-20 run (second) — 1 new listing passed ALL filter criteria ---
+https://www.olx.pl/d/oferta/pinarello-bolide-tt-rower-czasowy-triathlonowy-rama-l-CID767-ID10QusN.html
+# NOTE: Telegram alerts BLOCKED — api.telegram.org not in network egress allowlist. Manual review needed.
+# Listing: Pinarello Bolide TT, size L (56cm / 176-182cm rider), SRAM Red eTap AXS 1x12, full carbon frame, 23,900 PLN (~€5,664), Warszawa Bielany, OLX.pl. ⭐ Quark dual-sided power meter + SPD pedals included.
