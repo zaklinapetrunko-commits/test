@@ -135,3 +135,40 @@ https://www.olx.pl/d/oferta/pinarello-bolide-tt-rower-czasowy-triathlonowy-rama-
 #   4. Dolan TT Carbon Dura-Ace Di2 allegrolokalnie: https://allegrolokalnie.pl/oferta/rower-czasowy-dolan-tt-carbon-triathlon-dura-ace — size unconfirmed
 #   5. Ribble Deda TT Carbon allegrolokalnie: https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-ribble-deda-tt-carbon — groupset + size unconfirmed
 # Sites checked: SS.lv ✓, OLX.pl ✓, Allegro.pl ✓, Allegro Lokalnie ✓, Autoplius.lt ✓, Skelbiu.lt ✓, Osta.ee ✓, Okidoki.ee ✓, Andel.lv (not reachable). Direct fetch 403 on all — search-based scan used.
+# --- 2026-06-20 run (tenth) — 4 new listings confirmed, Telegram BLOCKED ---
+https://allegrolokalnie.pl/oferta/cervelo-px-sram-red-axs-zipp-l56
+https://allegrolokalnie.pl/oferta/cervelo-p5-six-di2-56
+https://allegrolokalnie.pl/oferta/trek-speed-concept-project-one-czasowy-r-l-56
+https://allegrolokalnie.pl/oferta/rower-triathlonowy-wilier-twin-blade-duraace-di2-l
+# NOTE: Telegram alerts BLOCKED — api.telegram.org not in network egress allowlist. Manual review needed.
+# Listing 1: Cervelo PX SRAM Red AXS Zipp — Warsaw (Allegro Lokalnie)
+#   Frame: Cervelo PX, full carbon TT/triathlon. Size: L/56. Groupset: SRAM Red eTap AXS 1x (48T chainring, 170mm cranks).
+#   Wheels: Zipp. ~500km mileage, new Jan 2021, factory spec, no bikefitting. Price: 31,900 PLN (~€7,460). Under €8,000 ceiling.
+#   Location: Warsaw, Praga Południe / Saska Kępa. No power meter mentioned. ALL CRITERIA PASS.
+# Listing 2: Cervelo P5 Six Di2 56 — Piaseczno (Allegro Lokalnie)
+#   Frame: Cervelo P5, full carbon TT/triathlon. Size: 56. Groupset: Shimano Ultegra Di2 11-speed.
+#   Cranks: Rotor oval 53/39. Saddle: Sitero/Adamo. Brakes: Magura hydraulic. Wheels: Easton EC90 TT.
+#   Price: 16,500 PLN (~€3,860). Under €8,000 ceiling. No power meter confirmed. ALL CRITERIA PASS.
+# Listing 3: Trek Speed Concept Project One L (56) — Banino (Allegro Lokalnie)
+#   Frame: Trek Speed Concept Project One, full carbon TT/triathlon. Size: L (56). Groupset: Shimano Dura-Ace Di2 9150.
+#   Price: 27,900 PLN (~€6,535) — WITHOUT wheels/pedals. Under €8,000 ceiling. No power meter. ALL CRITERIA PASS.
+# Listing 4: Wilier Twin Blade Dura-Ace Di2 L — Kraków (Allegro Lokalnie)
+#   Frame: Wilier Twin Blade, full carbon TT/triathlon. Size: L (~178cm). Groupset: Shimano Dura-Ace Di2 R9150 2x11.
+#   Wheels: Zipp 404 front / 808 rear. Tires: Continental GP5000 25mm. From 2017, second owner since 2020.
+#   Price: 9,000 PLN (~€2,100). Under €8,000 ceiling. No power meter mentioned. ALL CRITERIA PASS.
+# Eliminated this run:
+#   SS.lv cdkxli — Triatlona/TT 54cm €480 → too small, ELIMINATED
+#   SS.lv bxegpi — Cervélo P2 48cm €1,760 → too small, ELIMINATED
+#   SS.lv fcgdh — S-Works Shiv €1,800 → already in seen list
+#   Trek Speed Concept Di2 2020 L allegro 11739467978 → ARCHIVED listing (sold April 2022), ELIMINATED
+#   Cervelo P3X OLX.pl IDExtJN → still size-unconfirmed, carried as conditional
+#   Giant Trinity SRAM AXS L Vilnius → still SRAM tier unconfirmed, carried as conditional
+#   Orbea Ordu Carbon 55 SRAM allegro 7838383416 → still SRAM tier unconfirmed, carried as conditional
+#   Osta.ee / Okidoki.ee / Autoplius.lt / Andel.lv → no qualifying results
+# Open conditionals (manual check recommended):
+#   1. Cervélo P3X Ultegra Di2 OLX.pl: https://www.olx.pl/d/oferta/cervelo-p3x-rower-triathlonowy-ultegra-di2-nowy-bikefitting-CID767-IDExtJN.html — size L unconfirmed
+#   2. Giant Trinity SRAM AXS L Vilnius (skelbiu.lt): https://m.skelbiu.lt/skelbimai/giant-trinity-triatlono-dviratis-sram-axs-naujas-l-74636002.html — SRAM Red vs Force unconfirmed
+#   3. Orbea Ordu Carbon 55 SRAM+ZIPP+Mavic (Allegro.pl): https://allegro.pl/oferta/rower-czasowy-orbea-ordu-carbon-55-sram-zipp-mavic-7838383416 — SRAM tier unconfirmed
+#   4. Dolan TT Carbon Dura-Ace Di2 allegrolokalnie: https://allegrolokalnie.pl/oferta/rower-czasowy-dolan-tt-carbon-triathlon-dura-ace — size L unconfirmed
+#   5. Ribble Deda TT Carbon allegrolokalnie: https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-ribble-deda-tt-carbon — groupset + size unconfirmed
+# Sites checked: SS.lv ✓, OLX.pl ✓, Allegro.pl ✓, Allegro Lokalnie ✓, Autoplius.lt ✓, Skelbiu.lt ✓, Osta.ee ✓, Okidoki.ee ✓, Andel.lv (not reachable). Direct fetch 403 on all — search-based scan used.
