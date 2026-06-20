@@ -110,3 +110,28 @@ https://allegrolokalnie.pl/oferta/argon-18-e-116-rozmiar-l-triathlon-c66
 # https://allegrolokalnie.pl/oferta/rower-argon-18-e117-triathlon-rozmiar-l  ← Argon 18 E-117 size L — CONFIRM groupset
 # https://allegrolokalnie.pl/oferta/canyon-speedmax-cf-9-0-pro  ← Canyon CF 9.0 PRO Dąbrówka 10,500 PLN — CONFIRM size
 # https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-tt-avenger-tm6-carbon  ← Avenger TM6 Carbon Zdzieszowice 7,200 PLN — CONFIRM groupset+size
+# --- 2026-06-21 run (today) — 2 new listings passed filter criteria ---
+https://www.olx.pl/d/oferta/rower-basso-konos-triathlon-czasowy-CID767-ID11Ebft.html
+https://www.olx.pl/d/oferta/rower-do-jazdy-na-czas-triathlon-basso-konos-piekny-i-bardzo-szybki-CID767-IDYiwky.html
+# NOTE: Telegram alerts BLOCKED — api.telegram.org not in network egress allowlist. Manual review needed.
+# Listing 1: Basso Konos TT Triathlon, full carbon, Shimano Ultegra Di2, Warszawa Mokotów, OLX.pl. Size unconfirmed but "set up for 188cm rider" (implies ~56cm). Price unconfirmed (page 403).
+# Listing 2: Basso Konos TT Triathlon, full carbon, Shimano Ultegra Di2, Warszawa Śródmieście, OLX.pl. 25,500 PLN (~€6,050). ⭐ Power meter in crankset. Size unconfirmed (page 403). FFWD F6 + disc wheels.
+# NOTE: Both listings new and likely qualify — verify size directly (Basso Konos std sizes: 48, 50, 52, 54, 56, 58cm; 188cm rider implies 56cm for Listing 1).
+# Candidates found this run that FAILED filter:
+# https://www.olx.pl/d/oferta/basso-carbon-konos-ultegra-di2-CID767-ID146yN8.html ← Wieliczka 6,999 PLN: FAIL groupset (actually Dura-Ace 9s mechanical + SRAM Force, not Di2)
+# https://www.olx.pl/d/oferta/rower-triathlonowy-czasowy-tt-basso-konos-karbon-CID767-ID12Z6mB.html ← Rzeszów: FAIL size (M/540mm)
+# https://www.olx.pl/d/oferta/cervelo-s5-model-2026-ultegra-di2-pomiar-mocy-56-f-vat-CID767-ID17l1K9.html ← FAIL type (road bike) + price >€8k
+# https://allegrolokalnie.pl/oferta/rower-czasowy-triathlon-fuji-norcom-straight-1-3-d ← FAIL size (51cm)
+# https://allegrolokalnie.pl/oferta/rower-czasowy-fuji-norcom-straight-13-triathlon ← FAIL size (53cm)
+# https://allegrolokalnie.pl/oferta/cervelo-r3-ultegra-di2-full-carbon ← FAIL type (road bike)
+# https://allegrolokalnie.pl/oferta/cervelo-p3-2018-ultegra-di2-rozmiar-58 ← FAIL size (58cm)
+# https://allegrolokalnie.pl/oferta/cervelo-s5-disc-ultegra-di2-dt-swiss-58cm-nowy ← FAIL type + size
+# OUTSTANDING HIGH-PRIORITY MANUAL CHECKS (still unresolved at 403, all prior runs):
+# https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bxhhel.html  ← Canyon Speedmax CF 8.0 Di2 €2,890 — CONFIRM SIZE
+# https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/ngjhe.html  ← €4,500 SS.lv listing — CONFIRM type/groupset/size
+# https://allegrolokalnie.pl/oferta/rower-argon-18-e117-di2-idealny  ← Argon 18 E-117 Di2 — CONFIRM size
+# https://allegrolokalnie.pl/oferta/rower-argon-18-e117-triathlon-rozmiar-l  ← Argon 18 E-117 size L — CONFIRM groupset
+# https://allegrolokalnie.pl/oferta/canyon-speedmax-cf-9-0-pro  ← Canyon CF 9.0 PRO Dąbrówka 10,500 PLN — CONFIRM size
+# https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-tt-avenger-tm6-carbon  ← Avenger TM6 Carbon Zdzieszowice — CONFIRM groupset+size
+# https://allegrolokalnie.pl/oferta/orbea-ordutriathlon  ← Orbea Ordu Triathlon — CONFIRM size + groupset
+# https://allegrolokalnie.pl/oferta/bmc-timemachine-mod  ← BMC Timemachine MOD Kraków 15,990 PLN — CONFIRM TT vs road + size + groupset
