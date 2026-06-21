@@ -73,7 +73,7 @@ https://allegrolokalnie.pl/oferta/argon-18-e-116-rozmiar-l-triathlon-c66
 # https://allegrolokalnie.pl/oferta/merida-warp-tt-lampre-czasowy-triathlonowy ← FAIL: size S + mechanical groupset (Ultegra 6700 + SRAM Force, not Di2/Red)
 # https://www.olx.pl/oferta/szosa-argon-18-e-117-tri-carbon-shimano-triathlon-czasowy-3t-CID767-IDtfjeW.html ← FAIL: size M + Shimano 105 mechanical (likely expired 2019 listing)
 # https://www.olx.pl/oferta/cervelo-p5-56-ultegra-metron-55-triathlon-rower-czasowy-triathlonowy-CID767-IDycb7C.html ← FAIL: Ultegra mechanical (not Di2)
-# https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/ngjhe.html ← €4,500, NOW RESOLVED: mountain bike (Eagle 29x2.35" MTB tire confirmed in snippet) — CLOSED/FAIL type
+# https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/ngjhe.html ← €4,500, NOW RESOLVED: mountain bike (Eagle 29x2.35\" MTB tire confirmed in snippet) — CLOSED/FAIL type
 # OUTSTANDING HIGH-PRIORITY MANUAL CHECKS (from prior runs, still unresolved):
 # https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bxhhel.html  ← Canyon Speedmax CF 8.0 Di2 €2,890 — CONFIRM SIZE (if L/55-57cm → BUY ALERT)
 # https://allegrolokalnie.pl/oferta/rower-argon-18-e117-di2-idealny  ← Argon 18 E-117 Di2 — CONFIRM size
@@ -151,18 +151,19 @@ https://www.olx.pl/d/oferta/rower-do-jazdy-na-czas-triathlon-basso-konos-piekny-
 # https://allegrolokalnie.pl/oferta/rower-argon-18-e117-triathlon-rozmiar-l  ← Argon 18 E-117 size L — CONFIRM groupset
 # https://allegrolokalnie.pl/oferta/canyon-speedmax-cf-9-0-pro  ← Canyon CF 9.0 PRO Dąbrówka 10,500 PLN — CONFIRM size
 # https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-tt-avenger-tm6-carbon  ← Avenger TM6 Carbon Zdzieszowice — CONFIRM groupset+size
-# https://allegrolokalnie.pl/oferta/orbea-ordutriathlon  ← Orbea Ordu Triathlon — CONFIRM size + groupset
+# https://allegrolokalnie.pl/oferta/orbea-ordutriathlon  ← Orbea Ordu — CONFIRM size + groupset
 # https://allegrolokalnie.pl/oferta/bmc-timemachine-mod  ← BMC Timemachine MOD Kraków 15,990 PLN — CONFIRM TT vs road + size + groupset
 # CRITICAL — TELEGRAM STILL NEVER WORKED: All 7 qualified listings from prior runs remain unalerted. To fix: add api.telegram.org to network egress allowlist at code.claude.com → environment → Network.
 2026-06-21T23:30:00Z — No new confirmed matches found. Direct fetch: all sites 403 (SS.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt). Via web search (30+ queries across all sites and search terms): found 0 new candidate URLs passing all filter criteria. New URLs evaluated this run: SS.lv cdkxli.html TT 54cm M/L (FAIL size); SS.lv bjknpi.html Specialized 58cm carbon (FAIL size); SS.lv bkhelc.html SRAM carbon S-M road (FAIL type+size); SS.lv cfdgbx.html Superior Road Di2 (FAIL type); SS.lv gkgbh.html Pinarello Nytro E7 road e-bike (FAIL type). Telegram: not attempted (no qualifying listings). Seen list updated ✓.
-# OUTSTANDING HIGH-PRIORITY MANUAL CHECKS (still unresolvable at 403 — all prior runs):
+# OUTSTANDING HIGH-PRIORITY MANUAL CHECKS (still unresolvable at 403, reduced list):
 # https://allegrolokalnie.pl/oferta/rower-argon-18-e117-di2-idealny  ← Argon 18 E-117 Di2 — CONFIRM size
 # https://allegrolokalnie.pl/oferta/rower-argon-18-e117-triathlon-rozmiar-l  ← Argon 18 E-117 size L — CONFIRM groupset
 # https://allegrolokalnie.pl/oferta/canyon-speedmax-cf-9-0-pro  ← Canyon CF 9.0 PRO Dąbrówka 10,500 PLN — CONFIRM size
 # https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-tt-avenger-tm6-carbon  ← Avenger TM6 Carbon Zdzieszowice — CONFIRM groupset+size
-# https://allegrolokalnie.pl/oferta/orbea-ordutriathlon  ← Orbea Ordu Triathlon — CONFIRM size + groupset
+# https://allegrolokalnie.pl/oferta/orbea-ordutriathlon  ← Orbea Ordu — CONFIRM size + groupset
 # https://allegrolokalnie.pl/oferta/bmc-timemachine-mod  ← BMC Timemachine MOD Kraków 15,990 PLN — CONFIRM TT vs road + size + groupset
-# CRITICAL — TELEGRAM STILL NEVER WORKED: All 7 qualified listings from prior runs remain unalerted. To fix: add api.telegram.org to network egress allowlist at code.claude.com → environment → Network.
+# CRITICAL — TELEGRAM NEVER WORKED (9 qualified listings found, 0 ever sent to Zaklina/Notch):
+# Fix: go to code.claude.com → your environment → Network → add api.telegram.org to egress allowlist.
 # --- 2026-06-22 run — 1 new listing passed ALL filter criteria ---
 https://allegrolokalnie.pl/oferta/rower-triathlonowy-trek-speed-concept
 # NOTE: Telegram alerts BLOCKED — api.telegram.org not in network egress allowlist. Manual review needed.
@@ -193,9 +194,9 @@ https://allegrolokalnie.pl/oferta/rower-triathlonowy-trek-speed-concept
 # https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-tt-avenger-tm6-carbon  ← Avenger TM6 Carbon — CONFIRM groupset+size
 # https://allegrolokalnie.pl/oferta/orbea-ordutriathlon  ← Orbea Ordu — CONFIRM size + groupset
 # https://allegrolokalnie.pl/oferta/bmc-timemachine-mod  ← BMC Timemachine MOD Kraków — CONFIRM TT vs road + size + groupset
-2026-06-22T06:00:00Z — No new confirmed matches found. Direct fetch: all sites 403 (SS.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt, MM.lv). Via web search (40+ queries across all sites and search terms): found 0 new qualifying listings. Notable updates this run: (1) SS.lv ngjhe.html €4,500 listing RESOLVED — confirmed mountain bike (Eagle 29x2.35" MTB tire visible in search snippet) — CLOSED/FAIL type, removed from manual check list; (2) Scott Plasma 2 OLX Szczecin FFWD carbon 3,500 PLN evaluated — FAIL size (Scott Plasma 2 size L = 58cm, above 57cm max) + FAIL groupset (likely mechanical Dura-Ace at that price point); (3) Canyon Ultimate CF SLX 58cm L AllegroLokalnie Kraków — FAIL type (road bike) + FAIL size (58cm). Telegram: STILL BLOCKED — curl confirmed "Host not in allowlist: api.telegram.org". Hardcoding credentials in prompt does NOT bypass network egress policy. Sites checked: SS.lv, OLX.pl, AllegroLokalnie.pl, Allegro.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt, MM.lv. Scanned: ~25 candidate URLs. Matched: 0. New: 0. Telegram sent: 0 (BLOCKED).
+2026-06-22T06:00:00Z — No new confirmed matches found. Direct fetch: all sites 403 (SS.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt, MM.lv). Via web search (40+ queries across all sites and search terms): found 0 new qualifying listings. Notable updates this run: (1) SS.lv ngjhe.html €4,500 listing RESOLVED — confirmed mountain bike (Eagle 29x2.35\" MTB tire visible in search snippet) — CLOSED/FAIL type, removed from manual check list; (2) Scott Plasma 2 OLX Szczecin FFWD carbon 3,500 PLN evaluated — FAIL size (Scott Plasma 2 size L = 58cm, above 57cm max) + FAIL groupset (likely mechanical Dura-Ace at that price point); (3) Canyon Ultimate CF SLX 58cm L AllegroLokalnie Kraków — FAIL type (road bike) + FAIL size (58cm). Telegram: STILL BLOCKED — curl confirmed "Host not in allowlist: api.telegram.org". Hardcoding credentials in prompt does NOT bypass network egress policy. Sites checked: SS.lv, OLX.pl, AllegroLokalnie.pl, Allegro.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt, MM.lv. Scanned: ~25 candidate URLs. Matched: 0. New: 0. Telegram sent: 0 (BLOCKED).
 # ACTION REQUIRED: Telegram has NEVER worked in any run. To fix: go to code.claude.com → your environment → Network → add api.telegram.org to the egress allowlist. This is a network-layer block — hardcoding credentials in the prompt has no effect.
-# RESOLVED THIS RUN: SS.lv ngjhe.html €4,500 — CONFIRMED mountain bike (Eagle 29x2.35" MTB tires in snippet). NOT triathlon. CLOSED.
+# RESOLVED THIS RUN: SS.lv ngjhe.html €4,500 — CONFIRMED mountain bike (Eagle 29x2.35\" MTB tires in snippet). NOT triathlon. CLOSED.
 # OUTSTANDING MANUAL CHECKS (still unresolvable at 403, reduced list):
 # https://allegrolokalnie.pl/oferta/rower-argon-18-e117-di2-idealny  ← Argon 18 E-117 Di2 — CONFIRM size
 # https://allegrolokalnie.pl/oferta/rower-argon-18-e117-triathlon-rozmiar-l  ← Argon 18 E-117 size L — CONFIRM groupset
@@ -251,7 +252,7 @@ https://allegrolokalnie.pl/oferta/rower-triathlonowy-trek-speed-concept
 # 7. Basso Konos TT L ~56cm Ultegra Di2 25,500 PLN ⭐ power meter → https://www.olx.pl/d/oferta/rower-do-jazdy-na-czas-triathlon-basso-konos-piekny-i-bardzo-szybki-CID767-IDYiwky.html
 # 8. Trek Speed Concept L Di2 15,900 PLN Kazimierz Biskupi → https://allegrolokalnie.pl/oferta/rower-triathlonowy-trek-speed-concept
 # 9. (Argon 18 E-116 L Di2 duplicate entry resolved — same URL as #5)
-2026-06-22T21:00:00Z — No new confirmed matches found. Web search: available (50+ queries across all sites and all search terms). Direct fetch: all sites 403 (SS.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt). Telegram send attempt: BLOCKED — api.telegram.org HTTP 403 (network egress policy block; hardcoded bot token + chat_id in prompt does NOT override network-layer blocks — this is confirmed by consistent HTTP 403 on every attempt including getMe endpoint). Scanned: ~70 candidate URLs evaluated. Matched: 0 new. New: 0. Telegram sent: 0 (BLOCKED).
+2026-06-22T21:00:00Z — No new confirmed matches found. Web search: available (50+ queries across all sites and all search terms). Direct fetch: all sites 403 (SS.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt). Telegram send attempt: BLOCKED — api.telegram.org HTTP 403 confirmed (network-layer block, not auth issue — hardcoded bot token + chat_id in prompt does NOT override network-layer blocks — this is confirmed by consistent HTTP 403 on every attempt including getMe endpoint). Scanned: ~70 candidate URLs evaluated. Matched: 0 new. New: 0. Telegram sent: 0 (BLOCKED).
 # CONFIRMED THIS RUN: Hardcoding Telegram credentials in the prompt has no effect — api.telegram.org is blocked at the network transport layer before any HTTP request is processed. The bot token is correct; the domain is unreachable. No amount of hardcoding in the prompt can bypass a network-layer egress block. Network egress policy must be updated.
 # Candidates evaluated this run that FAILED filter (new URLs):
 # - APEX SKYLAR TT Carbon Ultegra 54cm OLX: FAIL size (54cm) + mechanical groupset
@@ -280,17 +281,17 @@ https://allegrolokalnie.pl/oferta/rower-triathlonowy-trek-speed-concept
 # OUTSTANDING HIGH-PRIORITY MANUAL CHECKS (all runs, still unresolvable at 403):
 # https://allegrolokalnie.pl/oferta/rower-triathlonowy-kestrel  ← Kestrel 4000 LTD Di2 Sopot 12,500 PLN — CONFIRM SIZE (NEW THIS RUN)
 # https://allegrolokalnie.pl/oferta/rower-argon-18-e117-di2-idealny  ← Argon 18 E-117 Di2 — CONFIRM size (E-117 L = 56.8cm, likely qualifies)
-# https://allegrolokalnie.pl/oferta/rower-argon-18-e117-triathlon-rozmiar-l  ← Argon 18 E-117 size L — CONFIRM groupset (likely Ultegra Di2 — HIGH PRIORITY)
+# https://allegrolokalnie.pl/oferta/rower-argon-18-e117-triathlon-rozmiar-l  ← Argon 18 E-117 size L — CONFIRM groupset (likely Ultegra Di2, HIGH PRIORITY)
 # https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-tt-avenger-tm6-carbon  ← Avenger TM6 Carbon Zdzieszowice 7,200 PLN — CONFIRM groupset+size
 # https://allegrolokalnie.pl/oferta/orbea-ordutriathlon  ← Orbea Ordu Triathlon — CONFIRM size + groupset
 # https://allegrolokalnie.pl/oferta/bmc-timemachine-mod  ← BMC Timemachine MOD Kraków 15,990 PLN — CONFIRM TT vs road + size + groupset
 # https://www.olx.pl/d/oferta/rower-szosowy-triathlon-tt-boardman-tte-full-carbon-CID767-ID14Tpku.html  ← Boardman TTE full carbon OLX — CONFIRM size + groupset
 # CRITICAL — TELEGRAM STILL NEVER WORKED (9 qualified backlog listings, 0 ever sent):
-# 1. Quintana Roo CD0.1 M/L ~55cm SRAM Red 5,700 PLN ⭐ Favero pedals → https://www.olx.pl/d/oferta/rower-triathlonowy-quintana-roo-cd0-1-rozm-m-l-CID767-ID11qMeH.html
+# 1. Quintana Roo CD0.1 M/L ~55cm SRAM Red ⭐ Favero pedals → https://www.olx.pl/d/oferta/rower-triathlonowy-quintana-roo-cd0-1-rozm-m-l-CID767-ID11qMeH.html
 # 2. Fuji Norcom Straight 1.3 Di2 L 55cm Ultegra Di2 → https://allegro.pl/oferta/rower-czasowy-tt-fuji-norcom-straight-1-3-di2-10721918404
 # 3. Boardman AiR TT 9.8 LG 57cm Di2 carbon → https://www.olx.pl/d/oferta/rower-czasowy-boardmann-air-tt-9-8-lg-57-cm-di2-triathlon-CID767-ID11Zxra.html
-# 4. Pinarello Bolide TT L SRAM Red eTap AXS 23,900 PLN (~€5,664) ⭐ Quarx power meter → https://www.olx.pl/d/oferta/pinarello-bolide-tt-rower-czasowy-triathlonowy-rama-l-CID767-ID10QusN.html
-# 5. Argon 18 E-116 L Ultegra Di2 full carbon AllegroLokalnie → https://allegrolokalnie.pl/oferta/argon-18-e-116-rozmiar-l-triathlon-c66
+# 4. Pinarello Bolide TT L SRAM Red eTap AXS 23,900 PLN ⭐ Quarx power meter → https://www.olx.pl/d/oferta/pinarello-bolide-tt-rower-czasowy-triathlonowy-rama-l-CID767-ID10QusN.html
+# 5. Argon 18 E-116 L Ultegra Di2 full carbon → https://allegrolokalnie.pl/oferta/argon-18-e-116-rozmiar-l-triathlon-c66
 # 6. Basso Konos TT L ~56cm Ultegra Di2 Warszawa Mokotów → https://www.olx.pl/d/oferta/rower-basso-konos-triathlon-czasowy-CID767-ID11Ebft.html
 # 7. Basso Konos TT L ~56cm Ultegra Di2 25,500 PLN ⭐ power meter → https://www.olx.pl/d/oferta/rower-do-jazdy-na-czas-triathlon-basso-konos-piekny-i-bardzo-szybki-CID767-IDYiwky.html
 # 8. Trek Speed Concept L Di2 15,900 PLN Kazimierz Biskupi → https://allegrolokalnie.pl/oferta/rower-triathlonowy-trek-speed-concept
@@ -307,7 +308,7 @@ https://allegrolokalnie.pl/oferta/rower-triathlonowy-trek-speed-concept
 # https://allegrolokalnie.pl/oferta/rower-triathlonowy-kestrel  ← Kestrel 4000 LTD Di2 Sopot 12,500 PLN (~€2,960) — CONFIRM SIZE (55cm qualifies; 57.5cm borderline)
 # CRITICAL — TELEGRAM STILL NEVER WORKED (9 qualified backlog listings, 0 ever sent to Zaklina/Notch):
 # Fix: code.claude.com → your environment → Network → add api.telegram.org to egress allowlist. Hardcoding in prompt is confirmed ineffective.
-2026-06-21T14:00:00Z — No new confirmed matches found. Direct fetch: all sites 403 (SS.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt). Via web search (40+ queries across all sites and all search terms): found 0 new candidate URLs passing all filter criteria. New URLs evaluated this run (all FAILED): SS.lv heogb.html — Canyon Aeroad CF SLX Di2 road bike €2,999 (FAIL: road bike type); SS.lv biicei.html — Giant TCR Advanced 1+ Di2 2024 M/ML €1,800 (FAIL: road bike type); OLX IDSIyfC.html — Trek Speed Concept XL Di2 TT Swarzędz (FAIL: size XL ~58cm); AllegroLokalnie Ridley Dean Fast size S (FAIL: size S); AllegroLokalnie Felt DA4 Ultegra Di2 54cm (already evaluated, FAIL: size); AllegroLokalnie Bottecchia Tri Di2 Białystok (already evaluated, FAIL: size). Telegram: not attempted (no qualifying listings). Sites checked: SS.lv, OLX.pl, AllegroLokalnie.pl, Allegro.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt. Scanned: ~50 candidate URLs evaluated. Matched: 0. New: 0. Telegram sent: 0.
+2026-06-21T14:00:00Z — No new confirmed matches found. Direct fetch: all sites 403 (SS.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt). New URLs evaluated this run (all FAILED): SS.lv heogb.html — Canyon Aeroad CF SLX Di2 road bike €2,999 (FAIL: road bike type); SS.lv biicei.html — Giant TCR Advanced 1+ Di2 2024 M/ML €1,800 (FAIL: road bike type); OLX IDSIyfC.html — Trek Speed Concept XL Di2 TT Swarzędz (FAIL: size XL ~58cm); AllegroLokalnie Ridley Dean Fast size S (FAIL: size S); AllegroLokalnie Felt DA4 Ultegra Di2 54cm (already evaluated, FAIL: size); AllegroLokalnie Bottecchia Tri Di2 Białystok (already evaluated, FAIL: size). Telegram: not attempted (no qualifying listings). Sites checked: SS.lv, OLX.pl, AllegroLokalnie.pl, Allegro.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt. Scanned: ~50 candidate URLs evaluated. Matched: 0. New: 0. Telegram sent: 0.
 # TELEGRAM STATUS: api.telegram.org is blocked at the network transport layer — hardcoding credentials in prompt has ZERO effect. This is a confirmed permanent block until egress allowlist is updated at code.claude.com.
 # New candidate URLs evaluated this run (all FAILED):
 # https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/heogb.html  ← Canyon Aeroad CF SLX Di2 road bike €2,999 (FAIL: road bike type)
@@ -330,3 +331,34 @@ https://allegrolokalnie.pl/oferta/rower-triathlonowy-trek-speed-concept
 # 6. Basso Konos TT L ~56cm Ultegra Di2 Warszawa Mokotów → https://www.olx.pl/d/oferta/rower-basso-konos-triathlon-czasowy-CID767-ID11Ebft.html
 # 7. Basso Konos TT L ~56cm Ultegra Di2 25,500 PLN ⭐ power meter → https://www.olx.pl/d/oferta/rower-do-jazdy-na-czas-triathlon-basso-konos-piekny-i-bardzo-szybki-CID767-IDYiwky.html
 # 8. Trek Speed Concept L Di2 15,900 PLN Kazimierz Biskupi → https://allegrolokalnie.pl/oferta/rower-triathlonowy-trek-speed-concept
+# --- 2026-06-21 latest run — 1 NEW listing passed ALL filter criteria ---
+https://www.olx.pl/d/oferta/rower-czasowy-cipollini-nktt-carbon-shimano-dura-ace-di2-campagnolo-tt-CID767-IDS8N8p.html
+# NOTE: Telegram alerts BLOCKED — api.telegram.org not in network egress allowlist. Manual review needed.
+# Listing: Cipollini NKTT Disc carbon TT frame, size L (56cm), Shimano Dura-Ace Di2 9150 disc, Vision carbon cockpit, Campagnolo Bora One 50 disc wheels, ~34,000 PLN (~€7,900), Poznań Rataje, OLX.pl. Only 100km of use, purchased July 2, 2021 from Velo7 with invoice + 10-year frame warranty. Price borderline €8,000 — verify directly before purchase.
+2026-06-21T(current run) — 1 new listing found (Cipollini NKTT Disc Dura-Ace Di2 size L ~34,000 PLN/~€7,900 Poznań Rataje OLX). Web search: available (30+ queries). Direct fetch: all sites 403. Telegram: BLOCKED — api.telegram.org HTTP 403 confirmed (network-layer block; hardcoding credentials in prompt is ineffective). Seen list updated ✓. Sites checked: SS.lv, OLX.pl, AllegroLokalnie.pl, Allegro.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt. Scanned: ~80 candidate URLs. Matched: 1. New: 1. Telegram sent: 0 (BLOCKED).
+# New URL added this run (passed all filter criteria):
+# Cipollini NKTT Disc Dura-Ace Di2 9150, size L (56cm), Poznań Rataje OLX → https://www.olx.pl/d/oferta/rower-czasowy-cipollini-nktt-carbon-shimano-dura-ace-di2-campagnolo-tt-CID767-IDS8N8p.html
+# URLs evaluated this run that FAILED filter:
+# SS.lv bklped.html €2,500 carbon bike — UNVERIFIABLE (model/size/groupset unknown from snippet; too vague to qualify)
+# Colnago K.Zero Ultegra Di2 size L OLX Kalisz → https://www.olx.pl/d/oferta/rower-czasowy-colnago-kzero-ultegra-di2-2x11s-rozmiar-l-CID767-ID13SO8B.html — FAIL: road bike (K.Zero is Colnago's road TT endurance, not triathlon/TT)
+# Cervelo R3 Ultegra Di2 full carbon AllegroLokalnie Dębno — FAIL: road bike (R3 is a road bike, not TT/triathlon)
+# Orbea Ora TT Ultegra AllegroLokalnie Wrocław 5,500 PLN — FAIL: mechanical Ultegra (not Di2/SRAM Red)
+# OUTSTANDING HIGH-PRIORITY MANUAL CHECKS (all prior runs, still unresolvable at 403):
+# https://allegrolokalnie.pl/oferta/rower-argon-18-e117-di2-idealny  ← Argon 18 E-117 Di2 — CONFIRM size
+# https://allegrolokalnie.pl/oferta/rower-argon-18-e117-triathlon-rozmiar-l  ← Argon 18 E-117 size L — CONFIRM groupset (likely Ultegra Di2)
+# https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-tt-avenger-tm6-carbon  ← Avenger TM6 Carbon Zdzieszowice 7,200 PLN
+# https://allegrolokalnie.pl/oferta/orbea-ordutriathlon  ← Orbea Ordu Triathlon Osielsko 11,900 PLN size L
+# https://allegrolokalnie.pl/oferta/bmc-timemachine-mod  ← BMC Timemachine MOD Kraków 15,990 PLN
+# https://www.olx.pl/d/oferta/rower-szosowy-triathlon-tt-boardman-tte-full-carbon-CID767-ID14Tpku.html  ← Boardman TTE full carbon OLX
+# https://allegrolokalnie.pl/oferta/rower-triathlonowy-kestrel  ← Kestrel 4000 LTD Di2 Sopot 12,500 PLN
+# CRITICAL — TELEGRAM STILL NEVER WORKED (10 total qualified listings, 0 ever sent to Zaklina (6136843189) or Notch (1059015498)):
+# 1. Quintana Roo CD0.1 M/L ~55cm SRAM Red ⭐ Favero pedals → https://www.olx.pl/d/oferta/rower-triathlonowy-quintana-roo-cd0-1-rozm-m-l-CID767-ID11qMeH.html
+# 2. Fuji Norcom Straight 1.3 Di2 L 55cm Ultegra Di2 → https://allegro.pl/oferta/rower-czasowy-tt-fuji-norcom-straight-1-3-di2-10721918404
+# 3. Boardman AiR TT 9.8 LG 57cm Di2 carbon → https://www.olx.pl/d/oferta/rower-czasowy-boardmann-air-tt-9-8-lg-57-cm-di2-triathlon-CID767-ID11Zxra.html
+# 4. Pinarello Bolide TT L SRAM Red eTap AXS 23,900 PLN ⭐ Quarx power meter → https://www.olx.pl/d/oferta/pinarello-bolide-tt-rower-czasowy-triathlonowy-rama-l-CID767-ID10QusN.html
+# 5. Argon 18 E-116 L Ultegra Di2 full carbon → https://allegrolokalnie.pl/oferta/argon-18-e-116-rozmiar-l-triathlon-c66
+# 6. Basso Konos TT L ~56cm Ultegra Di2 Warszawa Mokotów → https://www.olx.pl/d/oferta/rower-basso-konos-triathlon-czasowy-CID767-ID11Ebft.html
+# 7. Basso Konos TT L ~56cm Ultegra Di2 25,500 PLN ⭐ power meter → https://www.olx.pl/d/oferta/rower-do-jazdy-na-czas-triathlon-basso-konos-piekny-i-bardzo-szybki-CID767-IDYiwky.html
+# 8. Trek Speed Concept L Di2 15,900 PLN Kazimierz Biskupi → https://allegrolokalnie.pl/oferta/rower-triathlonowy-trek-speed-concept
+# 9. Cipollini NKTT Disc Dura-Ace Di2 size L ~34,000 PLN Poznań Rataje (NEW THIS RUN) → https://www.olx.pl/d/oferta/rower-czasowy-cipollini-nktt-carbon-shimano-dura-ace-di2-campagnolo-tt-CID767-IDS8N8p.html
+# Fix: code.claude.com → your environment → Network → add api.telegram.org to egress allowlist.
