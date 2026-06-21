@@ -307,3 +307,30 @@ https://allegrolokalnie.pl/oferta/rower-triathlonowy-trek-speed-concept
 # https://allegrolokalnie.pl/oferta/rower-triathlonowy-kestrel  ← Kestrel 4000 LTD Di2 Sopot 12,500 PLN (~€2,960) — CONFIRM SIZE (55cm qualifies; 57.5cm borderline)
 # CRITICAL — TELEGRAM STILL NEVER WORKED (9 qualified backlog listings, 0 ever sent to Zaklina/Notch):
 # Fix: code.claude.com → your environment → Network → add api.telegram.org to egress allowlist. Hardcoding in prompt is confirmed ineffective.
+# --- 2026-06-21 run (current) — 1 new listing passed ALL filter criteria ---
+https://allegrolokalnie.pl/oferta/canyon-speedmax-cf-slx-l-ultegra-di2-kola-reynolds-dysk-zipp-super-9
+# NOTE: Telegram alerts BLOCKED — api.telegram.org HTTP 403 confirmed by curl (network-layer block; hardcoding credentials in prompt does NOT bypass network egress policy).
+# Listing: Canyon Speedmax CF SLX, size L, Shimano Ultegra Di2, full carbon triathlon frame, 15,900 PLN (~€3,770), Warszawa. Reynolds disc + Zipp Super 9 wheels included.
+2026-06-21T12:30:00Z — 1 new confirmed match. Direct fetch: all sites 403 (SS.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt). Via web search (50+ queries): found 1 new qualifying listing; ~70 candidate URLs evaluated total. Telegram: BLOCKED — api.telegram.org HTTP 403 confirmed by curl (network-layer block; hardcoding in prompt confirmed ineffective). Sites checked: SS.lv, OLX.pl, AllegroLokalnie.pl, Allegro.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt. Scanned: ~70. Matched: 1. New: 1. Telegram sent: 0 (BLOCKED).
+# New candidate URLs found this run that FAILED filter:
+# https://allegrolokalnie.pl/oferta/canyon-speedmax-cf-80-di2-rozmiar-m ← Canyon Speedmax CF 8.0 Di2 size M (FAIL size M)
+# https://allegrolokalnie.pl/oferta/canyon-speedmax-cf-8-0-di2-rozmiar-xl-rower-tri ← Canyon Speedmax CF 8.0 Di2 size XL (FAIL size XL)
+# https://allegrolokalnie.pl/oferta/argon-e118-next-ultegra-triathlon ← Argon 18 E-118 Next Ultegra Poznań (FAIL: Ultegra 11s mechanical)
+# https://allegrolokalnie.pl/oferta/rower-czasowy-tt-triathlonowy-szosa-argon-18 ← Argon 18 Krypton KR36 size S Warszawa (FAIL: size S + Ultegra 6700 mechanical)
+# https://allegrolokalnie.pl/oferta/boardman-tte-najwyzszy-model-czasowka-tt-tri ← Boardman TTE najwyższy model Murowana Goślina (FAIL: size S/M ~54cm)
+# https://allegrolokalnie.pl/oferta/cervelo-r3-ultegra-di2-full-carbon ← Cervelo R3 Di2 Dębno (FAIL: road bike type)
+# https://allegrolokalnie.pl/oferta/rower-czasowy-cervelo-p2-triathlon-rozmiar-58 ← Cervelo P2 size 58 (FAIL: size 58cm)
+# https://allegrolokalnie.pl/oferta/cervelo-s5-r-56-shimano-ultegra-di2-lightweight ← Cervelo S5 Di2 56 (FAIL: aero road type)
+# https://allegrolokalnie.pl/oferta/rower-triathlonowy-cervelo-p2-pirelli-105-campagnolo ← Cervelo P2 105+Campagnolo (FAIL: groupset)
+# New unverifiable candidate (size unknown, page 403):
+# https://allegrolokalnie.pl/oferta/rower-canyon-speedmax-cf-8-di-2 ← Canyon Speedmax CF 8 Di2 Szczecin 20,000 PLN (~€4,740) ⭐ 4iiii power meter — CONFIRM SIZE (if L/55-57cm → qualifies)
+# OUTSTANDING HIGH-PRIORITY MANUAL CHECKS (all prior runs, still unresolvable at 403):
+# https://allegrolokalnie.pl/oferta/rower-argon-18-e117-di2-idealny ← Argon 18 E-117 Di2 — CONFIRM size
+# https://allegrolokalnie.pl/oferta/rower-argon-18-e117-triathlon-rozmiar-l ← Argon 18 E-117 size L — CONFIRM groupset
+# https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-tt-avenger-tm6-carbon ← Avenger TM6 Carbon Zdzieszowice 7,200 PLN — CONFIRM groupset+size
+# https://allegrolokalnie.pl/oferta/orbea-ordutriathlon ← Orbea Ordu Triathlon Osielsko 11,900 PLN — CONFIRM groupset
+# https://allegrolokalnie.pl/oferta/bmc-timemachine-mod ← BMC Timemachine MOD Kraków 15,990 PLN — CONFIRM TT vs road + size + groupset
+# https://www.olx.pl/d/oferta/rower-szosowy-triathlon-tt-boardman-tte-full-carbon-CID767-ID14Tpku.html ← Boardman TTE full carbon OLX — CONFIRM size + groupset
+# https://allegrolokalnie.pl/oferta/rower-triathlonowy-kestrel ← Kestrel 4000 LTD Di2 Sopot 12,500 PLN — CONFIRM SIZE
+# CRITICAL — TELEGRAM STILL NEVER WORKED (10 qualified listings total, 0 ever sent to Zaklina/Notch):
+# To fix: code.claude.com → your environment → Network → add api.telegram.org to egress allowlist. Hardcoding credentials in prompt is confirmed ineffective.
