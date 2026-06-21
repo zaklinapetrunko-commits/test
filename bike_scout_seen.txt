@@ -108,3 +108,17 @@ https://www.olx.pl/d/oferta/rower-czasowy-cipollini-nktt-carbon-shimano-dura-ace
 # (11) Canyon Speedmax CF (M) Di2 + Stages OLX Kraków: UNCERTAIN — M label but rider height 175-195cm matches L range; 403 blocks confirmation.
 # Candidate for manual review: https://www.olx.pl/d/oferta/tt-canyon-speedmax-cf-m-di2-stages-powermeter-zipp-404-nsw-CID767-ID11GnQb.html ← Canyon Speedmax CF Di2 ⭐ Stages powermeter + Zipp 404 NSW — CONFIRM size (M label but described for 175-195cm, may be L equivalent)
 # NOTE: Telegram alerts BLOCKED — api.telegram.org not in network egress allowlist. No alerts sent.
+2026-06-21T18:00:00Z — No new matches found. Direct fetch: all sites returned 403 (SS.lv, OLX.pl, AllegroLokalnie.pl, Allegro.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Skelbiu.lt, Andel.lv). Via web search: found 4 new candidate URLs, 0 passed all filter criteria.
+# Candidates checked 2026-06-21 (run 3):
+# (1) Fuji Norcom Straight 1.3 Di2 AllegroLokalnie Olkusz 19,500 PLN: FAIL size M/L 53cm.
+# (2) Rower Czasowy TT Carbon rozm S AllegroLokalnie Tychy 12,500 PLN: FAIL size S.
+# (3) BMC Timemachine 02 Three triatlono dviratis Skelbiu.lt Kaunas: FAIL size M, Shimano 105 mechanical groupset.
+# (4) Ridley Dean Fast S triathlon ITT AllegroLokalnie Głogów: FAIL size S.
+# NOTE: Telegram retry attempted this run — api.telegram.org STILL returns 403 Forbidden. Network egress allowlist still blocking Telegram. Retry confirmed failed.
+# CRITICAL: 9 confirmed qualified listings STILL NEVER Telegram-alerted (72+ hours, 0 alerts ever sent).
+# ACTION REQUIRED: code.claude.com → your environment → Network → add api.telegram.org to egress allowlist.
+# Outstanding manual review candidates (still unverifiable at 403 — check these manually):
+# https://allegrolokalnie.pl/oferta/rower-argon-18-e117-di2-idealny  ← Argon 18 E-117 Di2 — size unconfirmed (likely L, high priority)
+# https://allegrolokalnie.pl/oferta/rower-argon-18-e117-triathlon-rozmiar-l  ← Argon 18 E-117 size L — groupset unconfirmed (likely Ultegra Di2, high priority)
+# https://allegrolokalnie.pl/oferta/rower-triathlonowy-kestrel  ← Kestrel 4000 LTD Di2 Sopot 12,500 PLN — size unconfirmed
+# https://www.olx.pl/d/oferta/tt-canyon-speedmax-cf-m-di2-stages-powermeter-zipp-404-nsw-CID767-ID11GnQb.html  ← Canyon Speedmax CF Di2 ⭐ Stages + Zipp 404 NSW, Kraków — M label but 175-195cm height range suggests may be L equivalent
