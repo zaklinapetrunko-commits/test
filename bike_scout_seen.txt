@@ -73,10 +73,9 @@ https://allegrolokalnie.pl/oferta/argon-18-e-116-rozmiar-l-triathlon-c66
 # https://allegrolokalnie.pl/oferta/merida-warp-tt-lampre-czasowy-triathlonowy ← FAIL: size S + mechanical groupset (Ultegra 6700 + SRAM Force, not Di2/Red)
 # https://www.olx.pl/oferta/szosa-argon-18-e-117-tri-carbon-shimano-triathlon-czasowy-3t-CID767-IDtfjeW.html ← FAIL: size M + Shimano 105 mechanical (likely expired 2019 listing)
 # https://www.olx.pl/oferta/cervelo-p5-56-ultegra-metron-55-triathlon-rower-czasowy-triathlonowy-CID767-IDycb7C.html ← FAIL: Ultegra mechanical (not Di2)
-# https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/ngjhe.html ← €4,500, type/groupset/size UNVERIFIABLE (403) — check manually
+# https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/ngjhe.html ← €4,500, NOW RESOLVED: mountain bike (Eagle 29x2.35" MTB tire confirmed in snippet) — CLOSED/FAIL type
 # OUTSTANDING HIGH-PRIORITY MANUAL CHECKS (from prior runs, still unresolved):
 # https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bxhhel.html  ← Canyon Speedmax CF 8.0 Di2 €2,890 — CONFIRM SIZE (if L/55-57cm → BUY ALERT)
-# https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/ngjhe.html  ← €4,500 listing — CONFIRM bike type, groupset, size
 # https://allegrolokalnie.pl/oferta/rower-argon-18-e117-di2-idealny  ← Argon 18 E-117 Di2 — CONFIRM size
 # https://allegrolokalnie.pl/oferta/rower-argon-18-e117-triathlon-rozmiar-l  ← Argon 18 E-117 size L — CONFIRM groupset
 2026-06-21T00:00:00Z — No new confirmed matches found. Direct fetch: all sites 403 (SS.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt). Via web search: found 2 new candidate URLs this run, 0 passed all filter criteria — (1) Canyon Speedmax CF7 allegrolokalnie Toruń 11,000 PLN size M (FAIL size); (2) Canyon Speedmax CF 9.0 PRO allegrolokalnie Dąbrówka 10,500 PLN — carbon + likely Ultegra Di2 ✓, size UNVERIFIABLE (403) — manual check needed.
@@ -86,14 +85,12 @@ https://allegrolokalnie.pl/oferta/argon-18-e-116-rozmiar-l-triathlon-c66
 # https://allegrolokalnie.pl/oferta/canyon-speedmax-cf-9-0-pro  ← CF 9.0 PRO Dąbrówka 10,500 PLN — CONFIRM size (if L/55-57cm → likely qualifies)
 # OUTSTANDING HIGH-PRIORITY MANUAL CHECKS (all runs, still unresolved):
 # https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bxhhel.html  ← Canyon Speedmax CF 8.0 Di2 €2,890 — CONFIRM SIZE
-# https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/ngjhe.html  ← €4,500 SS.lv listing — CONFIRM type/groupset/size
 # https://allegrolokalnie.pl/oferta/rower-argon-18-e117-di2-idealny  ← Argon 18 E-117 Di2 — CONFIRM size
 # https://allegrolokalnie.pl/oferta/rower-argon-18-e117-triathlon-rozmiar-l  ← Argon 18 E-117 size L — CONFIRM groupset
 2026-06-21T06:00:00Z — No new confirmed matches found. Direct fetch: all sites 403 (SS.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt). Via web search (20+ queries across all sites): found 12+ new candidate URLs, 0 passed all filter criteria — (1) Canyon Speedmax CF 9.0 SL size M AllegroLokalnie Malbork 6,800 PLN (FAIL size M); (2) Canyon Speedmax CF 9.0 SL size XL AllegroLokalnie Malbork 10,500 PLN (FAIL size XL); (3) Canyon Speedmax CF 8.0 XL OLX Malbork (FAIL size XL); (4) Canyon Speedmax CF 8.0 XS OLX Malbork (FAIL size XS); (5) Canyon Speedmax CF 8.0 Di2 size M AllegroLokalnie (FAIL size M); (6) Cervélo P2 48cm SS.lv bxegpi €1,760 (FAIL size 48cm); (7) Felt DA4 54cm AllegroLokalnie Elbląg 7,999 PLN (FAIL size); (8) Kuota KT5 Zero Tri size S OLX Gdynia 16,990 PLN (FAIL size S); (9) Felt B14 56cm OLX Szczecin (FAIL groupset — mechanical); (10) BMC Timemachine Road 56cm skelbiu.lt (FAIL type — road bike not TT/triathlon); (11) Avenger TM6 Carbon AllegroLokalnie Zdzieszowice 7,200 PLN groupset+size UNVERIFIABLE 403; (12) SS.lv bjbebj.html 56cm Dura-Ace 10s mechanical €1,190 (FAIL groupset — 10s mechanical not Di2).
 # NOTE: Telegram send attempt not made — no qualifying listings.
 # OUTSTANDING HIGH-PRIORITY MANUAL CHECKS (all runs, still unresolved at 403):
 # https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bxhhel.html  ← Canyon Speedmax CF 8.0 Di2 €2,890 — CONFIRM SIZE (if L/55-57cm → BUY ALERT)
-# https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/ngjhe.html  ← €4,500 SS.lv listing — CONFIRM type/groupset/size
 # https://allegrolokalnie.pl/oferta/rower-argon-18-e117-di2-idealny  ← Argon 18 E-117 Di2 — CONFIRM size
 # https://allegrolokalnie.pl/oferta/rower-argon-18-e117-triathlon-rozmiar-l  ← Argon 18 E-117 size L — CONFIRM groupset
 # https://allegrolokalnie.pl/oferta/canyon-speedmax-cf-9-0-pro  ← Canyon CF 9.0 PRO Dąbrówka 10,500 PLN — CONFIRM size
@@ -105,11 +102,12 @@ https://allegrolokalnie.pl/oferta/argon-18-e-116-rozmiar-l-triathlon-c66
 # https://allegrolokalnie.pl/oferta/bmc-timemachine-mod  ← BMC Timemachine MOD Kraków 15,990 PLN — CONFIRM: TT vs road? + size + groupset (page 403)
 # OUTSTANDING HIGH-PRIORITY MANUAL CHECKS (all runs, still unresolved at 403):
 # https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bxhhel.html  ← Canyon Speedmax CF 8.0 Di2 €2,890 — CONFIRM SIZE (if L/55-57cm → BUY ALERT)
-# https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/ngjhe.html  ← €4,500 SS.lv listing — CONFIRM type/groupset/size
 # https://allegrolokalnie.pl/oferta/rower-argon-18-e117-di2-idealny  ← Argon 18 E-117 Di2 — CONFIRM size
 # https://allegrolokalnie.pl/oferta/rower-argon-18-e117-triathlon-rozmiar-l  ← Argon 18 E-117 size L — CONFIRM groupset
 # https://allegrolokalnie.pl/oferta/canyon-speedmax-cf-9-0-pro  ← Canyon CF 9.0 PRO Dąbrówka 10,500 PLN — CONFIRM size
 # https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-tt-avenger-tm6-carbon  ← Avenger TM6 Carbon Zdzieszowice 7,200 PLN — CONFIRM groupset+size
+# https://allegrolokalnie.pl/oferta/orbea-ordutriathlon  ← Orbea Ordu Triathlon — CONFIRM size + groupset
+# https://allegrolokalnie.pl/oferta/bmc-timemachine-mod  ← BMC Timemachine MOD Kraków 15,990 PLN — CONFIRM TT vs road + size + groupset
 # --- 2026-06-21 run (today) — 2 new listings passed filter criteria ---
 https://www.olx.pl/d/oferta/rower-basso-konos-triathlon-czasowy-CID767-ID11Ebft.html
 https://www.olx.pl/d/oferta/rower-do-jazdy-na-czas-triathlon-basso-konos-piekny-i-bardzo-szybki-CID767-IDYiwky.html
@@ -127,7 +125,6 @@ https://www.olx.pl/d/oferta/rower-do-jazdy-na-czas-triathlon-basso-konos-piekny-
 # https://allegrolokalnie.pl/oferta/cervelo-p3-2018-ultegra-di2-rozmiar-58 ← FAIL size (58cm)
 # https://allegrolokalnie.pl/oferta/cervelo-s5-disc-ultegra-di2-dt-swiss-58cm-nowy ← FAIL type + size
 # OUTSTANDING HIGH-PRIORITY MANUAL CHECKS (still unresolved at 403, all prior runs):
-# https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/ngjhe.html  ← €4,500 SS.lv listing — CONFIRM type/groupset/size
 # https://allegrolokalnie.pl/oferta/rower-argon-18-e117-di2-idealny  ← Argon 18 E-117 Di2 — CONFIRM size
 # https://allegrolokalnie.pl/oferta/rower-argon-18-e117-triathlon-rozmiar-l  ← Argon 18 E-117 size L — CONFIRM groupset
 # https://allegrolokalnie.pl/oferta/canyon-speedmax-cf-9-0-pro  ← Canyon CF 9.0 PRO Dąbrówka 10,500 PLN — CONFIRM size
@@ -149,7 +146,6 @@ https://www.olx.pl/d/oferta/rower-do-jazdy-na-czas-triathlon-basso-konos-piekny-
 # To fix: Go to https://code.claude.com → your environment → Network → add api.telegram.org to the egress allowlist.
 2026-06-21T22:00:00Z — No new confirmed matches found. Direct fetch: all sites 403 (SS.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt). Via web search (40+ queries across all sites): found 0 new candidate URLs passing all filter criteria. Notable update: Canyon Speedmax CF 8.0 Di2 (SS.lv bxhhel, €2,890) now confirmed size M via search snippet — CLOSED (FAIL size). Telegram: not attempted (no qualifying listings). Sites checked: SS.lv, OLX.pl, AllegroLokalnie.pl, Allegro.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt. Scanned: 0 new. Matched: 0. New: 0. Seen list updated ✓.
 # OUTSTANDING HIGH-PRIORITY MANUAL CHECKS (still unresolved at 403):
-# https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/ngjhe.html  ← €4,500 SS.lv listing — CONFIRM type/groupset/size
 # https://allegrolokalnie.pl/oferta/rower-argon-18-e117-di2-idealny  ← Argon 18 E-117 Di2 — CONFIRM size
 # https://allegrolokalnie.pl/oferta/rower-argon-18-e117-triathlon-rozmiar-l  ← Argon 18 E-117 size L — CONFIRM groupset
 # https://allegrolokalnie.pl/oferta/canyon-speedmax-cf-9-0-pro  ← Canyon CF 9.0 PRO Dąbrówka 10,500 PLN — CONFIRM size
@@ -159,7 +155,6 @@ https://www.olx.pl/d/oferta/rower-do-jazdy-na-czas-triathlon-basso-konos-piekny-
 # CRITICAL — TELEGRAM STILL NEVER WORKED: All 7 qualified listings from prior runs remain unalerted. To fix: add api.telegram.org to network egress allowlist at code.claude.com → environment → Network.
 2026-06-21T23:30:00Z — No new confirmed matches found. Direct fetch: all sites 403 (SS.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt). Via web search (30+ queries across all sites and search terms): found 0 new candidate URLs passing all filter criteria. New URLs evaluated this run: SS.lv cdkxli.html TT 54cm M/L (FAIL size); SS.lv bjknpi.html Specialized 58cm carbon (FAIL size); SS.lv bkhelc.html SRAM carbon S-M road (FAIL type+size); SS.lv cfdgbx.html Superior Road Di2 (FAIL type); SS.lv gkgbh.html Pinarello Nytro E7 road e-bike (FAIL type). Telegram: not attempted (no qualifying listings). Seen list updated ✓.
 # OUTSTANDING HIGH-PRIORITY MANUAL CHECKS (still unresolved at 403 — all prior runs):
-# https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/ngjhe.html  ← €4,500 SS.lv listing — CONFIRM type/groupset/size
 # https://allegrolokalnie.pl/oferta/rower-argon-18-e117-di2-idealny  ← Argon 18 E-117 Di2 — CONFIRM size
 # https://allegrolokalnie.pl/oferta/rower-argon-18-e117-triathlon-rozmiar-l  ← Argon 18 E-117 size L — CONFIRM groupset
 # https://allegrolokalnie.pl/oferta/canyon-speedmax-cf-9-0-pro  ← Canyon CF 9.0 PRO Dąbrówka 10,500 PLN — CONFIRM size
@@ -197,3 +192,23 @@ https://allegrolokalnie.pl/oferta/rower-triathlonowy-trek-speed-concept
 # https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-tt-avenger-tm6-carbon  ← Avenger TM6 Carbon — CONFIRM groupset+size
 # https://allegrolokalnie.pl/oferta/orbea-ordutriathlon  ← Orbea Ordu — CONFIRM size + groupset
 # https://allegrolokalnie.pl/oferta/bmc-timemachine-mod  ← BMC Timemachine MOD Kraków — CONFIRM TT vs road + size + groupset
+2026-06-22T06:00:00Z — No new confirmed matches found. Direct fetch: all sites 403 (SS.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt, MM.lv). Via web search (40+ queries across all sites and search terms): found 0 new qualifying listings. Notable updates this run: (1) SS.lv ngjhe.html €4,500 listing RESOLVED — confirmed mountain bike (Eagle 29x2.35" MTB tire visible in search snippet) — CLOSED/FAIL type, removed from manual check list; (2) Scott Plasma 2 OLX Szczecin FFWD carbon 3,500 PLN evaluated — FAIL size (Scott Plasma 2 size L = 58cm, above 57cm max) + FAIL groupset (likely mechanical Dura-Ace at that price point); (3) Canyon Ultimate CF SLX 58cm L AllegroLokalnie Kraków — FAIL type (road bike) + FAIL size (58cm). Telegram: STILL BLOCKED — curl confirmed "Host not in allowlist: api.telegram.org". Hardcoding credentials in prompt does NOT bypass network egress policy. Sites checked: SS.lv, OLX.pl, AllegroLokalnie.pl, Allegro.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt, MM.lv. Scanned: ~25 candidate URLs. Matched: 0. New: 0. Telegram sent: 0 (BLOCKED).
+# ACTION REQUIRED: Telegram has NEVER worked in any run. To fix: go to code.claude.com → your environment → Network → add api.telegram.org to the egress allowlist. This is a network-layer block — hardcoding credentials in the prompt has no effect.
+# RESOLVED THIS RUN: SS.lv ngjhe.html €4,500 — CONFIRMED mountain bike (Eagle 29x2.35" MTB tires in snippet). NOT triathlon. CLOSED.
+# OUTSTANDING MANUAL CHECKS (still unresolvable at 403, reduced list):
+# https://allegrolokalnie.pl/oferta/rower-argon-18-e117-di2-idealny  ← Argon 18 E-117 Di2 — CONFIRM size
+# https://allegrolokalnie.pl/oferta/rower-argon-18-e117-triathlon-rozmiar-l  ← Argon 18 E-117 size L — CONFIRM groupset
+# https://allegrolokalnie.pl/oferta/canyon-speedmax-cf-9-0-pro  ← Canyon CF 9.0 PRO Dąbrówka 10,500 PLN — CONFIRM size
+# https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-tt-avenger-tm6-carbon  ← Avenger TM6 Carbon Zdzieszowice 7,200 PLN — CONFIRM groupset+size (frame available in 56cm)
+# https://allegrolokalnie.pl/oferta/orbea-ordutriathlon  ← Orbea Ordu — CONFIRM size + groupset
+# https://allegrolokalnie.pl/oferta/bmc-timemachine-mod  ← BMC Timemachine MOD Kraków 15,990 PLN — CONFIRM TT vs road + size + groupset
+# CRITICAL — TELEGRAM NEVER WORKED (9 qualified listings found, 0 ever sent to Zaklina/Notch):
+# 1. Quintana Roo CD0.1 M/L ~55cm SRAM Red 5,700 PLN ⭐ Favero pedals → https://www.olx.pl/d/oferta/rower-triathlonowy-quintana-roo-cd0-1-rozm-m-l-CID767-ID11qMeH.html
+# 2. Fuji Norcom Straight 1.3 Di2 L 55cm Ultegra Di2 → https://allegro.pl/oferta/rower-czasowy-tt-fuji-norcom-straight-1-3-di2-10721918404
+# 3. Boardman AiR TT 9.8 LG 57cm Di2 carbon → https://www.olx.pl/d/oferta/rower-czasowy-boardmann-air-tt-9-8-lg-57-cm-di2-triathlon-CID767-ID11Zxra.html
+# 4. Pinarello Bolide TT L SRAM Red eTap AXS 23,900 PLN (~€5,664) ⭐ Quarx power meter → https://www.olx.pl/d/oferta/pinarello-bolide-tt-rower-czasowy-triathlonowy-rama-l-CID767-ID10QusN.html
+# 5. Argon 18 E-116 L Ultegra Di2 full carbon AllegroLokalnie → https://allegrolokalnie.pl/oferta/argon-18-e-116-rozmiar-l-triathlon-c66
+# 6. Basso Konos TT L ~56cm Ultegra Di2 Warszawa Mokotów → https://www.olx.pl/d/oferta/rower-basso-konos-triathlon-czasowy-CID767-ID11Ebft.html
+# 7. Basso Konos TT L ~56cm Ultegra Di2 25,500 PLN ⭐ power meter → https://www.olx.pl/d/oferta/rower-do-jazdy-na-czas-triathlon-basso-konos-piekny-i-bardzo-szybki-CID767-IDYiwky.html
+# 8. Trek Speed Concept L Di2 15,900 PLN Kazimierz Biskupi → https://allegrolokalnie.pl/oferta/rower-triathlonowy-trek-speed-concept
+# 9. (Argon 18 E-116 L Di2 duplicate entry resolved — same URL as #5)
