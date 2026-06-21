@@ -212,3 +212,15 @@ https://allegrolokalnie.pl/oferta/rower-triathlonowy-trek-speed-concept
 # 7. Basso Konos TT L ~56cm Ultegra Di2 25,500 PLN ⭐ power meter → https://www.olx.pl/d/oferta/rower-do-jazdy-na-czas-triathlon-basso-konos-piekny-i-bardzo-szybki-CID767-IDYiwky.html
 # 8. Trek Speed Concept L Di2 15,900 PLN Kazimierz Biskupi → https://allegrolokalnie.pl/oferta/rower-triathlonowy-trek-speed-concept
 # 9. (Argon 18 E-116 L Di2 duplicate entry resolved — same URL as #5)
+2026-06-22T12:00:00Z — No new confirmed matches found. Direct fetch: all sites 403 (SS.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt). Via web search (~30 queries across all sites and all search terms): found 0 new candidate URLs passing all filter criteria. Telegram send attempt: BLOCKED — api.telegram.org confirmed unreachable via WebFetch (HTTP 403). Hardcoding credentials in prompt does NOT bypass network egress policy — this is a confirmed network-layer block. Sites checked: SS.lv, OLX.pl, AllegroLokalnie.pl, Allegro.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt. Scanned: ~30 candidate URLs. Matched: 0. New: 0. Telegram sent: 0 (BLOCKED).
+# New URL encountered this run, unverifiable at 403 (not added to seen list — size/groupset unconfirmed):
+# https://www.olx.pl/d/oferta/rower-szosowy-triathlon-tt-boardman-tte-full-carbon-CID767-ID14Tpku.html  ← Boardman TTE full carbon OLX — CONFIRM size + groupset (likely Di2 on TTE models, but size unverified)
+# OUTSTANDING MANUAL CHECKS (still unresolvable at 403, all prior runs):
+# https://allegrolokalnie.pl/oferta/rower-argon-18-e117-di2-idealny  ← Argon 18 E-117 Di2 — CONFIRM size
+# https://allegrolokalnie.pl/oferta/rower-argon-18-e117-triathlon-rozmiar-l  ← Argon 18 E-117 size L — CONFIRM groupset
+# https://allegrolokalnie.pl/oferta/canyon-speedmax-cf-9-0-pro  ← Canyon CF 9.0 PRO Dąbrówka 10,500 PLN — CONFIRM size
+# https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-tt-avenger-tm6-carbon  ← Avenger TM6 Carbon Zdzieszowice 7,200 PLN — CONFIRM groupset+size
+# https://allegrolokalnie.pl/oferta/orbea-ordutriathlon  ← Orbea Ordu Triathlon — CONFIRM size + groupset
+# https://allegrolokalnie.pl/oferta/bmc-timemachine-mod  ← BMC Timemachine MOD Kraków 15,990 PLN — CONFIRM TT vs road + size + groupset
+# CRITICAL — TELEGRAM STILL NEVER WORKED (9 qualified listings, 0 ever sent to Zaklina/Notch):
+# Fix: go to code.claude.com → your environment → Network → add api.telegram.org to egress allowlist.
