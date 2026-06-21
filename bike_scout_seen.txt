@@ -93,3 +93,18 @@ https://www.olx.pl/d/oferta/rower-czasowy-cipollini-nktt-carbon-shimano-dura-ace
 # (7) Felt DA4 Ultegra Di2 AllegroLokalnie /rower-czasowy-triathlonowy-felt-da4-ultegra-di2 Elblag ~€1,880: FAIL size 54cm (min 55cm).
 # (8) Bottecchia Tri Di2 Mavic AllegroLokalnie /rower-triathlonowy-bottecchia-tri-di2-mavic Bialystok: FAIL size 51/53cm (already noted prior run).
 # NOTE: Telegram alerts BLOCKED — api.telegram.org not in network egress allowlist. No alerts sent.
+2026-06-21T12:00:00Z — No new matches found. Direct fetch: all sites returned 403 (SS.lv, OLX.pl, AllegroLokalnie.pl, Allegro.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Skelbiu.lt, Andel.lv). Via web search: found 11 new candidate URLs, 0 passed all filter criteria.
+# Candidates checked 2026-06-21 (run 2):
+# (1) Specialized S-Works Transition carbon 56cm OLX Oborniki: FAIL groupset (Dura-Ace/Ultegra mechanical, not Di2/SRAM Red).
+# (2) Bianchi Aquila CV Dura-Ace Di2 9150 OLX Toruń: FAIL size M (~180cm rider, below L/55cm min).
+# (3) Full Carbon TT AllegroLokalnie Żory 1,900 PLN: FAIL groupset unconfirmable (price too low for Di2/SRAM Red).
+# (4) Orbea Ora TT Ultegra AllegroLokalnie Wrocław: FAIL size 53-54cm.
+# (5) Fuji Norcom Straight 1.3 Di2 AllegroLokalnie Gdynia 9,300 PLN: FAIL size 51cm.
+# (6) Felt DA4 Ultegra Di2 AllegroLokalnie Elbląg 7,999 PLN: FAIL size 54cm.
+# (7) Canyon Speedmax CF7 AllegroLokalnie Toruń 11,000 PLN 2019: FAIL groupset (Shimano 105 mechanical).
+# (8) Canyon Speedmax CF SLX Ultegra Di2 OLX Płońsk 18,500 PLN: FAIL size M.
+# (9) Canyon Speedmax CF 8.0 Di2 AllegroLokalnie: FAIL size M.
+# (10) BMC Timemachine 02 SRAM Red eTap OLX Białołęka (2019 archived): FAIL size SM + archived.
+# (11) Canyon Speedmax CF (M) Di2 + Stages OLX Kraków: UNCERTAIN — M label but rider height 175-195cm matches L range; 403 blocks confirmation.
+# Candidate for manual review: https://www.olx.pl/d/oferta/tt-canyon-speedmax-cf-m-di2-stages-powermeter-zipp-404-nsw-CID767-ID11GnQb.html ← Canyon Speedmax CF Di2 ⭐ Stages powermeter + Zipp 404 NSW — CONFIRM size (M label but described for 175-195cm, may be L equivalent)
+# NOTE: Telegram alerts BLOCKED — api.telegram.org not in network egress allowlist. No alerts sent.
