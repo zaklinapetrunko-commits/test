@@ -141,7 +141,7 @@ https://www.olx.pl/d/oferta/rower-do-jazdy-na-czas-triathlon-basso-konos-piekny-
 # 1. Quintana Roo CD0.1 M/L ~55cm SRAM Red 5,700 PLN Poznań ⭐ Favero power pedals → https://www.olx.pl/d/oferta/rower-triathlonowy-quintana-roo-cd0-1-rozm-m-l-CID767-ID11qMeH.html
 # 2. Fuji Norcom Straight 1.3 Di2 L 55cm full carbon Ultegra Di2 → https://allegro.pl/oferta/rower-czasowy-tt-fuji-norcom-straight-1-3-di2-10721918404
 # 3. Boardman AiR TT 9.8 LG 57cm Di2 carbon → https://www.olx.pl/d/oferta/rower-czasowy-boardmann-air-tt-9-8-lg-57-cm-di2-triathlon-CID767-ID11Zxra.html
-# 4. Pinarello Bolide TT L SRAM Red eTap AXS 23,900 PLN (~€5,664) Warszawa ⭐ Quarq power meter → https://www.olx.pl/d/oferta/pinarello-bolide-tt-rower-czasowy-triathlonowy-rama-l-CID767-ID10QusN.html
+# 4. Pinarello Bolide TT L SRAM Red eTap AXS 23,900 PLN (~€5,664) Warszawa ⭐ Quarx power meter → https://www.olx.pl/d/oferta/pinarello-bolide-tt-rower-czasowy-triathlonowy-rama-l-CID767-ID10QusN.html
 # 5. Argon 18 E-116 L Ultegra Di2 full carbon AllegroLokalnie (price unconfirmed) → https://allegrolokalnie.pl/oferta/argon-18-e-116-rozmiar-l-triathlon-c66
 # 6. Basso Konos TT L ~56cm Ultegra Di2 full carbon Warszawa Mokotów (price unconfirmed) → https://www.olx.pl/d/oferta/rower-basso-konos-triathlon-czasowy-CID767-ID11Ebft.html
 # 7. Basso Konos TT L ~56cm Ultegra Di2 full carbon 25,500 PLN Warszawa Śródmieście ⭐ power meter → https://www.olx.pl/d/oferta/rower-do-jazdy-na-czas-triathlon-basso-konos-piekny-i-bardzo-szybki-CID767-IDYiwky.html
@@ -150,6 +150,16 @@ https://www.olx.pl/d/oferta/rower-do-jazdy-na-czas-triathlon-basso-konos-piekny-
 # To fix: Go to https://code.claude.com → your environment → Network → add api.telegram.org to the egress allowlist.
 2026-06-21T22:00:00Z — No new confirmed matches found. Direct fetch: all sites 403 (SS.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt). Via web search (40+ queries across all sites): found 0 new candidate URLs passing all filter criteria. Notable update: Canyon Speedmax CF 8.0 Di2 (SS.lv bxhhel, €2,890) now confirmed size M via search snippet — CLOSED (FAIL size). Telegram: not attempted (no qualifying listings). Sites checked: SS.lv, OLX.pl, AllegroLokalnie.pl, Allegro.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt. Scanned: 0 new. Matched: 0. New: 0. Seen list updated ✓.
 # OUTSTANDING HIGH-PRIORITY MANUAL CHECKS (still unresolved at 403):
+# https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/ngjhe.html  ← €4,500 SS.lv listing — CONFIRM type/groupset/size
+# https://allegrolokalnie.pl/oferta/rower-argon-18-e117-di2-idealny  ← Argon 18 E-117 Di2 — CONFIRM size
+# https://allegrolokalnie.pl/oferta/rower-argon-18-e117-triathlon-rozmiar-l  ← Argon 18 E-117 size L — CONFIRM groupset
+# https://allegrolokalnie.pl/oferta/canyon-speedmax-cf-9-0-pro  ← Canyon CF 9.0 PRO Dąbrówka 10,500 PLN — CONFIRM size
+# https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-tt-avenger-tm6-carbon  ← Avenger TM6 Carbon Zdzieszowice — CONFIRM groupset+size
+# https://allegrolokalnie.pl/oferta/orbea-ordutriathlon  ← Orbea Ordu Triathlon — CONFIRM size + groupset
+# https://allegrolokalnie.pl/oferta/bmc-timemachine-mod  ← BMC Timemachine MOD Kraków 15,990 PLN — CONFIRM TT vs road + size + groupset
+# CRITICAL — TELEGRAM STILL NEVER WORKED: All 7 qualified listings from prior runs remain unalerted. To fix: add api.telegram.org to network egress allowlist at code.claude.com → environment → Network.
+2026-06-21T23:30:00Z — No new confirmed matches found. Direct fetch: all sites 403 (SS.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt). Via web search (30+ queries across all sites and search terms): found 0 new candidate URLs passing all filter criteria. New URLs evaluated this run: SS.lv cdkxli.html TT 54cm M/L (FAIL size); SS.lv bjknpi.html Specialized 58cm carbon (FAIL size); SS.lv bkhelc.html SRAM carbon S-M road (FAIL type+size); SS.lv cfdgbx.html Superior Road Di2 (FAIL type); SS.lv gkgbh.html Pinarello Nytro E7 road e-bike (FAIL type). Telegram: not attempted (no qualifying listings). Seen list updated ✓.
+# OUTSTANDING HIGH-PRIORITY MANUAL CHECKS (still unresolved at 403 — all prior runs):
 # https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/ngjhe.html  ← €4,500 SS.lv listing — CONFIRM type/groupset/size
 # https://allegrolokalnie.pl/oferta/rower-argon-18-e117-di2-idealny  ← Argon 18 E-117 Di2 — CONFIRM size
 # https://allegrolokalnie.pl/oferta/rower-argon-18-e117-triathlon-rozmiar-l  ← Argon 18 E-117 size L — CONFIRM groupset
