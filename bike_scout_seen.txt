@@ -38,7 +38,7 @@ https://allegrolokalnie.pl/oferta/rower-czasowy-timemachine-tm02
 https://m.skelbiu.lt/skelbimai/orbea-tt-ordu-m20i-di2-2018-l-dydis-73766133.html
 https://allegrolokalnie.pl/oferta/rower-cervelo-p5-ps3
 https://allegrolokalnie.pl/oferta/rower-triathlonowy-cervelo-p3-vw5
-2026-06-20T00:00:00Z — No new matches found. Direct fetch: SS.lv 403, OLX.pl 403, Allegro.pl/AllegroLokalnie.pl 403. Via web search: found 8 new candidate listing URLs but none passed all filter criteria — (1) Bottecchia Tri Di2 Mavic AllegroLokalnie Białystok, size 51/53cm (below 55cm min); (2) SS.LV Time NX RS Di2 €1000, road race frame not TT/triathlon type; (3) SS.LV TT velo M/L 54cm €480, size below 55cm min; (4) SS.COM Felt B14 triathlon 58cm €950, size above 57cm max; (5) Cervelo P-Series 105 56cm AllegroLokalnie, Shimano 105 mechanical (not Di2/SRAM Red); (6) Trek Speed Concept XL Di2 AllegroLokalnie, XL ~58cm above 57cm max; (7) Boarmdan TTE Shimano Ultegra Allegro.pl, Ultegra mechanical not Di2; (8) Guerciotti CRUX TT Carbon OLX.pl Poznań, Shimano 105 (not Di2/SRAM Red).
+2026-06-20T00:00:00Z — No new matches found. Direct fetch: all sites 403 (SS.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Skelbiu.lt). Via web search: found 8 new candidate listing URLs but none passed all filter criteria — (1) Bottecchia Tri Di2 Mavic AllegroLokalnie Białystok, size 51/53cm (below 55cm min); (2) SS.LV Time NX RS Di2 €1000, road race frame not TT/triathlon type; (3) SS.LV TT velo M/L 54cm €480, size below 55cm min; (4) SS.COM Felt B14 triathlon 58cm €950, size above 57cm max; (5) Cervelo P-Series 105 56cm AllegroLokalnie, Shimano 105 mechanical (not Di2/SRAM Red); (6) Trek Speed Concept XL Di2 AllegroLokalnie, XL ~58cm above 57cm max; (7) Boarmdan TTE Shimano Ultegra Allegro.pl, Ultegra mechanical not Di2; (8) Guerciotti CRUX TT Carbon OLX.pl Poznań, Shimano 105 (not Di2/SRAM Red).
 # --- 2026-06-20 run (second) — 1 new listing passed ALL filter criteria ---
 https://www.olx.pl/d/oferta/pinarello-bolide-tt-rower-czasowy-triathlonowy-rama-l-CID767-ID10QusN.html
 # NOTE: Telegram alerts BLOCKED — api.telegram.org not in network egress allowlist. Manual review needed.
@@ -70,7 +70,7 @@ https://www.olx.pl/d/oferta/rower-czasowy-cipollini-nktt-carbon-shimano-dura-ace
 # https://allegrolokalnie.pl/oferta/orbea-ordutriathlon  ← Orbea Ordu Triathlon Osielsko 11,900 PLN size L
 # https://allegrolokalnie.pl/oferta/bmc-timemachine-mod  ← BMC Timemachine MOD Kraków 15,990 PLN
 # https://www.olx.pl/d/oferta/rower-szosowy-triathlon-tt-boardman-tte-full-carbon-CID767-ID14Tpku.html  ← Boardman TTE full carbon OLX
-# https://allegrolokalnie.pl/oferta/rower-triathlonowy-kestrel  ← Kestrel 4000 LTD Di2 Sopot 12,500 PLN
+# https://allegrolokalnie.pl/oferta/rower-triathlonowy-kestrel  ← Kestrel 4000 LTD Di2 Sopot 12,500 PLN — size unconfirmed
 # CRITICAL — TELEGRAM STILL NEVER WORKED (10 total qualified listings, 0 ever sent to Zaklina (6136843189) or Notch (1059015498)):
 # 1. Quintana Roo CD0.1 M/L ~55cm SRAM Red ⭐ Favero pedals → https://www.olx.pl/d/oferta/rower-triathlonowy-quintana-roo-cd0-1-rozm-m-l-CID767-ID11qMeH.html
 # 2. Fuji Norcom Straight 1.3 Di2 L 55cm Ultegra Di2 → https://allegro.pl/oferta/rower-czasowy-tt-fuji-norcom-straight-1-3-di2-10721918404
@@ -106,7 +106,7 @@ https://www.olx.pl/d/oferta/rower-czasowy-cipollini-nktt-carbon-shimano-dura-ace
 # (9) Canyon Speedmax CF 8.0 Di2 AllegroLokalnie: FAIL size M.
 # (10) BMC Timemachine 02 SRAM Red eTap OLX Białołęka (2019 archived): FAIL size SM + archived.
 # (11) Canyon Speedmax CF (M) Di2 + Stages OLX Kraków: UNCERTAIN — M label but rider height 175-195cm matches L range; 403 blocks confirmation.
-# Candidate for manual review: https://www.olx.pl/d/oferta/tt-canyon-speedmax-cf-m-di2-stages-powermeter-zipp-404-nsw-CID767-ID11GnQb.html ← Canyon Speedmax CF Di2 ⭐ Stages powermeter + Zipp 404 NSW — CONFIRM size (M label but described for 175-195cm, may be L equivalent)
+# Candidate for manual review: https://www.olx.pl/d/oferta/tt-canyon-speedmax-cf-m-di2-stages-powermeter-zipp-404-nsw-CID767-ID11GnQb.html ← Canyon Speedmax CF Di2 ⭐ Stages powermeter + Zipp 404 NSW, Kraków — M label but 175-195cm height range suggests may be L equivalent
 # NOTE: Telegram alerts BLOCKED — api.telegram.org not in network egress allowlist. No alerts sent.
 2026-06-21T18:00:00Z — No new matches found. Direct fetch: all sites returned 403 (SS.lv, OLX.pl, AllegroLokalnie.pl, Allegro.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Skelbiu.lt, Andel.lv). Via web search: found 4 new candidate URLs, 0 passed all filter criteria.
 # Candidates checked 2026-06-21 (run 3):
@@ -122,3 +122,19 @@ https://www.olx.pl/d/oferta/rower-czasowy-cipollini-nktt-carbon-shimano-dura-ace
 # https://allegrolokalnie.pl/oferta/rower-argon-18-e117-triathlon-rozmiar-l  ← Argon 18 E-117 size L — groupset unconfirmed (likely Ultegra Di2, high priority)
 # https://allegrolokalnie.pl/oferta/rower-triathlonowy-kestrel  ← Kestrel 4000 LTD Di2 Sopot 12,500 PLN — size unconfirmed
 # https://www.olx.pl/d/oferta/tt-canyon-speedmax-cf-m-di2-stages-powermeter-zipp-404-nsw-CID767-ID11GnQb.html  ← Canyon Speedmax CF Di2 ⭐ Stages + Zipp 404 NSW, Kraków — M label but 175-195cm height range suggests may be L equivalent
+2026-06-21T21:00:00Z — No new matches found. Direct fetch: all sites returned 403 (SS.lv, OLX.pl, AllegroLokalnie.pl, Allegro.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Skelbiu.lt, Andel.lv). Via web search: found 6 new candidate URLs, 0 passed all filter criteria.
+# Candidates checked 2026-06-21 (run 4):
+# (1) Stevens Super Trofeo TT L 56 OLX.pl ID153N8N Kiełczów: FAIL groupset Shimano Ultegra 11sp mechanical (not Di2/SRAM Red).
+# (2) Massi Full Carbon SRAM Red OLX.pl IDvJcRN Bydgoszcz 5,000 PLN: FAIL — listing from 2020, likely expired (6+ years old); size unconfirmable.
+# (3) Liv Avow Advanced Pro 1 AllegroLokalnie: FAIL size M.
+# (4) Ridley Dean Fast AllegroLokalnie /ridley-dean-fast-r-s-triathlon-rower-czasowy-itt: FAIL size S.
+# (5) Merida Warp TT Lampre AllegroLokalnie Szczecin: FAIL size S, Ultegra mechanical.
+# (6) Fuji Norcom Straight 1.3 AllegroLokalnie Olkusz /rower-czasowy-fuji-norcom-straight-13-triathlon: FAIL size M/L 53cm (below 55cm min).
+# NOTE: Telegram alerts BLOCKED — api.telegram.org not in network egress allowlist. No alerts sent.
+# CRITICAL: 9 confirmed qualified listings STILL NEVER Telegram-alerted (4+ days, 0 alerts ever sent).
+# ACTION REQUIRED: code.claude.com → your environment → Network → add api.telegram.org to egress allowlist.
+# Outstanding manual review candidates (unchanged from prior run):
+# https://allegrolokalnie.pl/oferta/rower-argon-18-e117-di2-idealny  ← Argon 18 E-117 Di2 — size unconfirmed (likely L, HIGH PRIORITY)
+# https://allegrolokalnie.pl/oferta/rower-argon-18-e117-triathlon-rozmiar-l  ← Argon 18 E-117 size L — groupset unconfirmed (likely Ultegra Di2, HIGH PRIORITY)
+# https://allegrolokalnie.pl/oferta/rower-triathlonowy-kestrel  ← Kestrel 4000 LTD Di2 Sopot 12,500 PLN
+# https://www.olx.pl/d/oferta/tt-canyon-speedmax-cf-m-di2-stages-powermeter-zipp-404-nsw-CID767-ID11GnQb.html  ← Canyon Speedmax CF Di2 ⭐ Stages + Zipp 404 NSW, Kraków
