@@ -395,3 +395,20 @@ https://allegrolokalnie.pl/oferta/rower-triathlonowy-kestrel
 # https://www.olx.pl/d/oferta/tt-canyon-speedmax-cf-m-di2-stages-powermeter-zipp-404-nsw-CID767-ID11GnQb.html  ← Canyon Speedmax CF Di2 ⭐ Stages + Zipp 404 NSW, Kraków — M label, 175-195cm height range
 # https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bxhhel.html  ← Canyon Speedmax CF 8.0 Latvia €2,890 — size + groupset UNCONFIRMABLE
 # https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-tt-avenger-tm6-carbon  ← Avenger TM6 Carbon Zdzieszowice 7,200 PLN — size/groupset UNCONFIRMABLE
+2026-06-23T13:30:00Z — No new matches found. Direct fetch: all sites returned 403 (SS.lv, OLX.pl, AllegroLokalnie.pl, Allegro.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Skelbiu.lt, Andel.lv). Via web search: ~50 candidate URLs reviewed across 20+ search queries, 0 passed all filter criteria.
+# Candidates checked 2026-06-23 (run 2):
+# (1) Planet X Stealth TT Carbon Allegro.pl 15713862858, ~4,700 PLN (~€1,115): FAIL groupset (Shimano 105/SRAM Force at this price, not Di2/SRAM Red). NEW URL.
+# (2) Cervelo P2 Triathlon rozmiar 58 AllegroLokalnie /rower-czasowy-cervelo-p2-triathlon-rozmiar-58: FAIL size 58cm (>57cm max). NEW URL.
+# (3) SS.lv: cdkxli/bkhelc/bxegpi already seen + FAIL criteria; ngjhe €4,500 unconfirmable (403).
+# (4) AllegroLokalnie triathlon category: Merida Warp TT FAIL size S; Pardus TT FAIL groupset; Fondriest TF1 FAIL groupset (mech Ultegra); Ridley Dean Fast FAIL size S; Orbea Ora TT FAIL size.
+# (5) Skelbiu.lt, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv: no new qualifying listings indexed.
+# NOTE: Telegram BLOCKED — WebFetch GET to api.telegram.org returned HTTP 403 (Host not in allowlist). Hardcoding credentials in prompt does NOT bypass network-level egress block. Bot token 8823305958:AAGUR-Hc7V21ZWnNB8GkeVeVocbC62XwU9g is valid; infrastructure policy is the barrier.
+# CRITICAL: 11 confirmed qualified listings STILL NEVER Telegram-alerted (entire scout history, 0 alerts ever sent to Zaklina (6136843189) or Notch (1059015498)).
+# THE FIX IS NOT IN THE PROMPT — api.telegram.org cannot be reached from this environment regardless of how credentials are specified.
+# Outstanding unverifiable candidates (unchanged — HIGH PRIORITY manual checks):
+# https://allegrolokalnie.pl/oferta/rower-argon-18-e117-di2-idealny  ← Argon 18 E-117 Di2 — size unconfirmed (HIGH PRIORITY)
+# https://allegrolokalnie.pl/oferta/rower-argon-18-e117-triathlon-rozmiar-l  ← Argon 18 E-117 size L — groupset unconfirmed (HIGH PRIORITY)
+# https://allegrolokalnie.pl/oferta/orbea-ordutriathlon  ← Orbea Ordu Triathlon Osielsko 11,900 PLN — groupset unconfirmed
+# https://www.olx.pl/d/oferta/tt-canyon-speedmax-cf-m-di2-stages-powermeter-zipp-404-nsw-CID767-ID11GnQb.html  ← Canyon Speedmax CF Di2 ⭐ Stages + Zipp 404 NSW, Kraków — M label, 175-195cm height range
+# https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bxhhel.html  ← Canyon Speedmax CF 8.0 Latvia €2,890 — size + groupset UNCONFIRMABLE
+# https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-tt-avenger-tm6-carbon  ← Avenger TM6 Carbon Zdzieszowice 7,200 PLN — size/groupset UNCONFIRMABLE
