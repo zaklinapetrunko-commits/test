@@ -223,11 +223,14 @@ https://www.olx.pl/d/oferta/rower-czasowy-cipollini-nktt-carbon-shimano-dura-ace
 # (3) Massi TT carbon Bydgoszcz OLX IDvJcRN (from 2020): FAIL groupset SRAM Red mechanical (not eTap), listing likely expired.
 # (4) All SS.lv results: already in seen list or previously checked, none new and qualifying.
 # (5) Skelbiu.lt, Autoplius.lt, Osta.ee, Okidoki.ee: 403 or no specific new qualifying listings via search.
-# NOTE: No new listings passed all filter criteria. Telegram call not attempted (no new listings to alert). Network egress block (api.telegram.org) still not resolved per user feedback — hardcoded bot token does NOT bypass network-level HTTP 403.
-# USER NOTE: The reason Telegram calls fail is NOT the credentials — the bot token 8823305958:AAGUR-Hc7V21ZWnNB8GkeVeVocbC62XwU9g is valid. The block is the environment's egress allowlist. Hardcoding in the prompt has no effect on network policy. Fixable only via code.claude.com → Environment → Network settings.
+# NEW candidate for manual review (borderline — not alerted):
+# https://www.olx.pl/d/oferta/rower-czasowy-triathlon-carbon-giant-trinity-2-CID767-ID11U7X3.html  ← Giant Trinity 2 carbon Golczewo, Shimano 105 mechanical — FAIL groupset
+# NOTE: No new listings passed all filter criteria. Telegram call not attempted (no new listings to alert). Network egress block (api.telegram.org) confirmed STILL active — curl POST returns "Host not in allowlist: api.telegram.org." Hardcoded bot token does NOT bypass network-level HTTP 403.
+# CRITICAL: 9 confirmed qualified listings STILL NEVER Telegram-alerted (entire scout history, 0 alerts ever sent to Zaklina (6136843189) or Notch (1059015498)).
+# ACTION REQUIRED: Go to code.claude.com → your environment → Network settings and add api.telegram.org to the egress allowlist. Hardcoding credentials in the prompt has no effect on the network policy.
 # Outstanding unverifiable candidates (unchanged — check these manually):
 # https://allegrolokalnie.pl/oferta/rower-argon-18-e117-di2-idealny  ← Argon 18 E-117 Di2 — size unconfirmed (HIGH PRIORITY)
 # https://allegrolokalnie.pl/oferta/rower-argon-18-e117-triathlon-rozmiar-l  ← Argon 18 E-117 size L — groupset unconfirmed (HIGH PRIORITY)
-# https://allegrolokalnie.pl/oferta/rower-triathlonowy-kestrel  ← Kestrel 4000 LTD Di2 Sopot 12,500 PLN — L=55cm (acceptable, HIGH PRIORITY)
-# https://www.olx.pl/d/oferta/tt-canyon-speedmax-cf-m-di2-stages-powermeter-zipp-404-nsw-CID767-ID11GnQb.html  ← Canyon Speedmax CF Di2 ⭐ Stages + Zipp 404 NSW, Kraków — M label, 175-195cm height (borderline)
+# https://allegrolokalnie.pl/oferta/rower-triathlonowy-kestrel  ← Kestrel 4000 LTD Di2 Sopot 12,500 PLN — L=55cm per Kestrel geometry (ACCEPTABLE — HIGH PRIORITY)
+# https://www.olx.pl/d/oferta/tt-canyon-speedmax-cf-m-di2-stages-powermeter-zipp-404-nsw-CID767-ID11GnQb.html  ← Canyon Speedmax CF Di2 ⭐ Stages + Zipp 404 NSW, Kraków — M label, 175-195cm height range
 # https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bxhhel.html  ← Canyon Speedmax CF 8.0 SS.LV Latvia €2,890 — size + groupset unconfirmed
