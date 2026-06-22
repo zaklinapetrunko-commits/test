@@ -129,7 +129,7 @@ https://www.olx.pl/d/oferta/rower-czasowy-cipollini-nktt-carbon-shimano-dura-ace
 # CRITICAL: 9+ confirmed qualified listings STILL NEVER Telegram-alerted (5+ days, 0 alerts ever sent).
 # ACTION REQUIRED: code.claude.com → your environment → Network → add api.telegram.org to egress allowlist.
 # New unconfirmable candidate for manual review (new this run):
-# https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bxhhel.html  ← Canyon Speedmax CF 8.0, €2,890, Latvia — size + groupset (Di2 vs mechanical) UNCONFIRMABLE (403)
+# https://www.ss.lv/msg/lv/transport/bxhhel.html  ← Canyon Speedmax CF 8.0, €2,890, Latvia — size + groupset (Di2 vs mechanical) UNCONFIRMABLE (403)
 # Outstanding candidates from prior runs (unchanged):
 # https://allegrolokalnie.pl/oferta/rower-argon-18-e117-di2-idealny  ← Argon 18 E-117 Di2 — size unconfirmed (HIGH PRIORITY)
 # https://allegrolokalnie.pl/oferta/rower-argon-18-e117-triathlon-rozmiar-l  ← Argon 18 E-117 size L — groupset unconfirmed (HIGH PRIORITY)
@@ -285,6 +285,24 @@ https://www.olx.pl/d/oferta/rower-czasowy-cipollini-nktt-carbon-shimano-dura-ace
 # CONFIRMED: Hardcoding bot token 8823305958:AAGUR-Hc7V21ZWnNB8GkeVeVocbC62XwU9g in prompt does NOT bypass infrastructure-level network egress block. This is a firewall policy, not an auth issue.
 # CRITICAL: 9 confirmed qualified listings STILL NEVER Telegram-alerted (entire scout history, 0 alerts ever sent to Zaklina (6136843189) or Notch (1059015498)).
 # URGENT ACTION REQUIRED: Go to code.claude.com → your environment → Network → add api.telegram.org to egress allowlist.
+# Outstanding unverifiable candidates (unchanged — check these manually):
+# https://allegrolokalnie.pl/oferta/rower-argon-18-e117-di2-idealny  ← Argon 18 E-117 Di2 — size unconfirmed (HIGH PRIORITY)
+# https://allegrolokalnie.pl/oferta/rower-argon-18-e117-triathlon-rozmiar-l  ← Argon 18 E-117 size L — groupset unconfirmed (HIGH PRIORITY)
+# https://allegrolokalnie.pl/oferta/rower-triathlonowy-kestrel  ← Kestrel 4000 LTD Di2 Sopot 12,500 PLN — L=55cm per Kestrel geometry (ACCEPTABLE — HIGH PRIORITY)
+# https://allegrolokalnie.pl/oferta/rower-czasowy-szosa-specialized-sworks-shiv-tt-cc3  ← Specialized S-Works Shiv TT CC3 — groupset/size/price unconfirmable (403)
+# https://www.olx.pl/d/oferta/tt-canyon-speedmax-cf-m-di2-stages-powermeter-zipp-404-nsw-CID767-ID11GnQb.html  ← Canyon Speedmax CF Di2 ⭐ Stages + Zipp 404 NSW, Kraków — M label, 175-195cm height range
+# https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bxhhel.html  ← Canyon Speedmax CF 8.0 SS.LV Latvia €2,890 — size + groupset unconfirmed
+2026-06-22T19:00:00Z — No new matches found. Direct fetch: all sites returned 403 (SS.lv, OLX.pl, AllegroLokalnie.pl, Allegro.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Skelbiu.lt, Andel.lv). Via web search: ~30 candidate URLs checked across 15+ search queries, 0 passed all filter criteria.
+# Candidates checked 2026-06-22 (run 7 — this run):
+# (1) All SS.lv highway-sports category: only previously seen/rejected listings (Cervelo P2 48cm, SRAM S-M €1,550, TT velo 54cm €480, Specialized 58cm road, MTB €4,500).
+# (2) OLX.pl triathlon/TT category: only previously seen/rejected listings; no new qualifying URLs.
+# (3) AllegroLokalnie triathlon category: only previously seen/rejected listings; no new qualifying URLs.
+# (4) Allegro.pl: category/archive pages only; no new specific qualifying listings.
+# (5) Skelbiu.lt: Giant Trinity L SRAM AXS already in seen list; no new TT/triathlon Di2/SRAM Red L listings.
+# (6) Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv: no bicycle listings matching criteria via web search.
+# NOTE: Telegram not attempted (no new qualifying listings). api.telegram.org still blocked by network egress policy.
+# CRITICAL: 9 confirmed qualified listings STILL NEVER Telegram-alerted (entire scout history, 0 alerts ever sent to Zaklina (6136843189) or Notch (1059015498)).
+# URGENT ACTION REQUIRED: Add api.telegram.org to network egress allowlist — code.claude.com → your environment → Network.
 # Outstanding unverifiable candidates (unchanged — check these manually):
 # https://allegrolokalnie.pl/oferta/rower-argon-18-e117-di2-idealny  ← Argon 18 E-117 Di2 — size unconfirmed (HIGH PRIORITY)
 # https://allegrolokalnie.pl/oferta/rower-argon-18-e117-triathlon-rozmiar-l  ← Argon 18 E-117 size L — groupset unconfirmed (HIGH PRIORITY)
