@@ -339,3 +339,24 @@ https://allegrolokalnie.pl/oferta/rower-triathlonowy-kestrel
 # https://www.olx.pl/d/oferta/tt-canyon-speedmax-cf-m-di2-stages-powermeter-zipp-404-nsw-CID767-ID11GnQb.html  ← Canyon Speedmax CF Di2 ⭐ Stages + Zipp 404 NSW, Kraków — M label, 175-195cm height range
 # https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bxhhel.html  ← Canyon Speedmax CF 8.0 Latvia €2,890 — size + groupset UNCONFIRMABLE
 # https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-tt-avenger-tm6-carbon  ← Avenger TM6 Carbon Zdzieszowice 7,200 PLN — size/groupset UNCONFIRMABLE (403)
+2026-06-22T23:59:00Z — No new matches found. Direct fetch: all sites returned 403 (SS.lv, OLX.pl, AllegroLokalnie.pl, Allegro.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Skelbiu.lt, Andel.lv). Via web search: ~50 candidate URLs reviewed across 20 search queries, 0 passed all filter criteria.
+# Candidates checked 2026-06-22 (this run):
+# (1) SS.lv bdlgbg.html triathlon M size €1,100: FAIL frame material (aluminum, not carbon).
+# (2) SS.lv bdphlg.html TT/triathlon 59cm €280: FAIL size 59cm (above 57cm max), likely aluminum at €280.
+# (3) All other SS.lv highway-sports listings: road bikes (FAIL type), already seen, or previously failed criteria.
+# (4) OLX.pl canyon speedmax: only M-size Di2 listings (already seen/confirmed FAIL size).
+# (5) OLX.pl Guerciotti Crux TT r56 ID15wDjd: FAIL groupset (Shimano 105 per multiple search results).
+# (6) OLX.pl Boardman TT IDV3UwB Łódź Widzew: FAIL groupset (Shimano Ultegra 2x10 mechanical, not Di2/SRAM Red).
+# (7) AllegroLokalnie Argon 18 E-117 Di2 + E-117 rozmiar L: still unconfirmable (403), still outstanding (unchanged).
+# (8) AllegroLokalnie Avenger TM6 Carbon: still unconfirmable (403), unchanged.
+# (9) Skelbiu.lt / Autoplius.lt / Osta.ee / Okidoki.ee / Andel.lv: category pages only, no new qualifying listings.
+# (10) Allegro.pl triathlon category: no new qualifying listings indexed.
+# NOTE: Telegram confirmed BLOCKED — curl HTTP 403: "Host not in allowlist: api.telegram.org." Hardcoding credentials in prompt does NOT fix infrastructure-level network egress block.
+# PERSISTENT ISSUE: Telegram has been blocked for the entire history of this routine. 11 confirmed qualifying listings have NEVER been alerted to Zaklina (6136843189) or Notch (1059015498).
+# ALTERNATIVE WORKAROUND: Since api.telegram.org cannot be whitelisted via the UI, consider routing through a GitHub Action (triggered by push to this repo) that sends Telegram alerts — GitHub Actions infrastructure is not subject to this environment's egress policy. This would require a small GitHub Actions workflow + repository secrets for bot token and chat IDs.
+# Outstanding unverifiable candidates (unchanged — manual check strongly recommended):
+# https://allegrolokalnie.pl/oferta/rower-argon-18-e117-di2-idealny  ← Argon 18 E-117 Di2 — size unconfirmed (HIGH PRIORITY)
+# https://allegrolokalnie.pl/oferta/rower-argon-18-e117-triathlon-rozmiar-l  ← Argon 18 E-117 size L — groupset unconfirmed (HIGH PRIORITY)
+# https://www.olx.pl/d/oferta/tt-canyon-speedmax-cf-m-di2-stages-powermeter-zipp-404-nsw-CID767-ID11GnQb.html  ← Canyon Speedmax CF Di2 ⭐ Stages + Zipp 404 NSW, Kraków — M label, 175-195cm
+# https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bxhhel.html  ← Canyon Speedmax CF 8.0 Latvia €2,890
+# https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-tt-avenger-tm6-carbon  ← Avenger TM6 Carbon Zdzieszowice 7,200 PLN
