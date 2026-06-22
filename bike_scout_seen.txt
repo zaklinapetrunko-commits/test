@@ -237,3 +237,23 @@ https://www.olx.pl/d/oferta/rower-czasowy-cipollini-nktt-carbon-shimano-dura-ace
 # https://allegrolokalnie.pl/oferta/rower-triathlonowy-kestrel  ← Kestrel 4000 LTD Di2 Sopot 12,500 PLN — L=55cm confirmed
 # https://www.olx.pl/d/oferta/tt-canyon-speedmax-cf-m-di2-stages-powermeter-zipp-404-nsw-CID767-ID11GnQb.html  ← Canyon Speedmax CF Di2 ⭐ Stages + Zipp 404 NSW, Kraków
 # https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bxhhel.html  ← Canyon Speedmax CF 8.0 SS.LV Latvia €2,890
+2026-06-22T14:00:00Z — No new matches found. Direct fetch: all sites returned 403 (SS.lv, OLX.pl, AllegroLokalnie.pl, Allegro.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Skelbiu.lt, Andel.lv). Via web search: ~50 candidate URLs reviewed across 18 search queries, 0 passed all filter criteria.
+# Candidates checked 2026-06-22 (run 3):
+# (1) Argon 18 Krypton KR36 AllegroLokalnie Warszawa /rower-czasowy-tt-triathlonowy-szosa-argon-18: FAIL size S (165-178cm rider).
+# (2) Cervelo P2 AllegroLokalnie /rower-triathlonowy-cervelo-p2-r54-y5z: FAIL size 54cm.
+# (3) Canyon Speedmax CF 8.0 Di2 AllegroLokalnie /canyon-speedmax-cf-80-di2-rozmiar-m: FAIL size M.
+# (4) Bottecchia Tri Di2 Mavic AllegroLokalnie: already in seen list, FAIL size.
+# (5) Specialized Shiv Pro XS Di2 AllegroLokalnie: already in seen list, FAIL size.
+# (6) Canyon Speedmax CF 8.0 rozmiar M AllegroLokalnie: FAIL size M.
+# (7) Fuji Norcom Straight 1.3 Di2 AllegroLokalnie Olkusz /rower-czasowy-fuji-norcom-straight-13-triathlon: FAIL size 53cm (M/L).
+# (8) All SS.lv / Skelbiu.lt / Autoplius.lt / Osta.ee / Okidoki.ee / Andel.lv results: no new qualifying listings indexed.
+# NOTE: Telegram retry confirmed BLOCKED via curl — "Host not in allowlist: api.telegram.org." No alerts sent.
+# CRITICAL: 10+ confirmed qualified listings STILL NEVER Telegram-alerted (entire scout history, 0 alerts ever sent to Zaklina (6136843189) or Notch (1059015498)).
+# THE FIX IS NOT IN THE PROMPT — api.telegram.org must be whitelisted at network egress level.
+# ACTION REQUIRED: code.claude.com → your environment → Network → add api.telegram.org to egress allowlist.
+# Outstanding unverifiable candidates (unchanged — HIGH PRIORITY manual checks):
+# https://allegrolokalnie.pl/oferta/rower-argon-18-e117-di2-idealny  ← Argon 18 E-117 Di2 — size unconfirmed
+# https://allegrolokalnie.pl/oferta/rower-argon-18-e117-triathlon-rozmiar-l  ← Argon 18 E-117 size L — groupset unconfirmed
+# https://allegrolokalnie.pl/oferta/rower-triathlonowy-kestrel  ← Kestrel 4000 LTD Di2 Sopot 12,500 PLN — L=55cm from geometry
+# https://www.olx.pl/d/oferta/tt-canyon-speedmax-cf-m-di2-stages-powermeter-zipp-404-nsw-CID767-ID11GnQb.html  ← Canyon Speedmax CF Di2 ⭐ Stages + Zipp 404 NSW, Kraków — M label
+# https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bxhhel.html  ← Canyon Speedmax CF 8.0 SS.LV Latvia €2,890
