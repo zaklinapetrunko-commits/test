@@ -360,3 +360,26 @@ https://allegrolokalnie.pl/oferta/rower-czasowy-triathlon-fuji-norcom-1-3-di2-55
 # https://allegrolokalnie.pl/oferta/rower-czasowy-szosa-specialized-sworks-shiv-tt-cc3  ← Specialized S-Works Shiv TT CC3 — groupset/size/price unconfirmable
 # https://www.olx.pl/d/oferta/tt-canyon-speedmax-cf-m-di2-stages-powermeter-zipp-404-nsw-CID767-ID11GnQb.html  ← Canyon Speedmax CF Di2 ⭐ Stages + Zipp 404 NSW, Kraków — M label, 175-195cm height range
 # https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bxhhel.html  ← Canyon Speedmax CF 8.0 SS.LV Latvia €2,890 — size + groupset unconfirmed
+# --- 2026-06-22 run (this run) — 1 new listing passed ALL filter criteria ---
+https://allegro.pl/oferta/rower-specialized-shiv-s-works-rama-l-di2-13341249499
+# NOTE: Telegram alerts BLOCKED — api.telegram.org not in network egress allowlist. Manual review needed.
+# Listing: Specialized S-Works Shiv, size L (56cm), Shimano Di2 (Dura-Ace), full FACT carbon frame, triathlon/TT type, Poland (Allegro.pl). Estimated price ~12,300 PLN (~€2,920) based on comparable listing. No power meter mentioned.
+# Candidates checked this run (rejected):
+# (1) Argon 18 Krypton KR36 Warszawa AllegroLokalnie 4,900 PLN: FAIL size S (165-178cm rider), Ultegra 6700 mechanical.
+# (2) KUOTA Factor AllegroLokalnie Łódź: FAIL groupset — Dura-Ace 10-speed MECHANICAL (not Di2).
+# (3) Planet X Stealth Rzeszów AllegroLokalnie: FAIL size 52cm.
+# (4) Planet X TT Warsaw AllegroLokalnie 4,200 PLN: FAIL groupset SRAM Rival (not Red).
+# (5) Planet X Stealth 55cm Legionowo Allegro #16558066357: UNCERTAIN — size 55cm ✓ but groupset unconfirmable (price too low for Di2 spec).
+# (6) All SS.lv, Osta.ee, Okidoki.ee, Autoplius.lt, Skelbiu.lt, Andel.lv results: no new qualifying URLs.
+# NOTE: Telegram retry confirmed BLOCKED — curl POST HTTP 403: "Host not in allowlist: api.telegram.org." Hardcoded credentials in prompt do NOT bypass infrastructure-level network egress block.
+# CRITICAL: 12 confirmed qualified listings (total scout history) — 0 Telegram alerts EVER sent to Zaklina (6136843189) or Notch (1059015498).
+# URGENT ACTION REQUIRED: Add api.telegram.org to network egress allowlist — code.claude.com → your environment → Network.
+# Outstanding unverifiable candidates (updated):
+# https://allegrolokalnie.pl/oferta/rower-triathlonowy-cervelo-p3-kola-hed-h3-smiglo  ← Cervelo P3 with HED H3 wheels — size/groupset unconfirmable
+# https://allegrolokalnie.pl/oferta/rower-argon-18-e117-di2-idealny  ← Argon 18 E-117 Di2 — size unconfirmed (HIGH PRIORITY)
+# https://allegrolokalnie.pl/oferta/rower-argon-18-e117-triathlon-rozmiar-l  ← Argon 18 E-117 size L — groupset unconfirmed (HIGH PRIORITY)
+# https://allegrolokalnie.pl/oferta/rower-triathlonowy-kestrel  ← Kestrel 4000 LTD Di2 Sopot 12,500 PLN — L=55cm per Kestrel geometry (ACCEPTABLE — HIGH PRIORITY)
+# https://allegrolokalnie.pl/oferta/rower-czasowy-szosa-specialized-sworks-shiv-tt-cc3  ← Specialized S-Works Shiv TT CC3 — groupset/size/price unconfirmable
+# https://allegro.pl/oferta/rower-planet-x-stealth-tt-carbon-rozmiar-55-triathlon-legionowo-16558066357  ← Planet X Stealth 55cm Legionowo — groupset unconfirmable (price suggests mechanical)
+# https://www.olx.pl/d/oferta/tt-canyon-speedmax-cf-m-di2-stages-powermeter-zipp-404-nsw-CID767-ID11GnQb.html  ← Canyon Speedmax CF Di2 ⭐ Stages + Zipp 404 NSW, Kraków — M label, 175-195cm height range
+# https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bxhhel.html  ← Canyon Speedmax CF 8.0 SS.LV Latvia €2,890 — size + groupset unconfirmed
