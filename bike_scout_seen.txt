@@ -109,3 +109,23 @@ https://allegrolokalnie.pl/oferta/rower-czasowy-triathlon-fuji-norcom-1-3-di2-55
 # https://allegrolokalnie.pl/oferta/rower-argon-18-e117-triathlon-rozmiar-l
 # https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-tt-avenger-tm6-carbon
 # https://allegrolokalnie.pl/oferta/rower-czasowy-tt-triathlon-pardus-karbon-carbon
+# --- 2026-06-23 run (tenth) — 0 new confirmed matches ---
+2026-06-23T(run 10) — No new matches found. Scanned ~18 new URLs across OLX.pl, AllegroLokalnie.pl, Allegro.pl, SS.lv, Skelbiu.lt, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv. All direct fetches 403. 0 passed all filter criteria.
+# NOTE: api.telegram.org STILL blocked (proxy 403 on CONNECT tunnel). Hardcoded credentials confirmed correct but egress policy blocks the destination. This is infrastructure-level — credentials cannot override it.
+# New URLs checked this run (did not pass all filters):
+# AllegroLokalnie Full Carbon TT Żory 1,900 PLN — FAIL groupset (price too low for Di2/SRAM Red build, no Di2 confirmed): https://allegrolokalnie.pl/oferta/rower-trathlonowy-tt-czasowy-triathlon-full-carbon
+# AllegroLokalnie Fuji Norcom Straight 1.3 Di2 TT Olkusz 19,500 PLN — FAIL size (53cm < 55cm minimum): https://allegrolokalnie.pl/oferta/rower-czasowy-fuji-norcom-straight-13-triathlon
+# OLX Orbea Ordu carbon Ultegra rozmiar L — FAIL groupset (Ultegra mechanical, no Di2 confirmed in title/listing): https://www.olx.pl/d/oferta/rower-triathlon-tt-orbea-ordu-carbon-ultegra-rozmiar-l-CID767-IDAWyFh.html
+# OLX Specialized Transition Expert carbon TT Łódź 5,900 PLN — FAIL groupset (Ultegra 2x10 mechanical): https://www.olx.pl/d/oferta/rower-czasowy-karbonowy-specialized-transition-expert-carbon-tt-okazja-CID767-ID1510Kc.html
+# OLX Specialized Transition Expert carbon TT Oborniki 3,100 PLN — FAIL size (M) + FAIL groupset (Ultegra 2x10 mechanical): https://www.olx.pl/d/oferta/specialized-transition-expert-rower-tt-czasowy-carbon-CID767-ID163ecZ.html
+# AllegroLokalnie Cervelo P-Series 105 56cm Pruszków 12,000 PLN — FAIL groupset (Shimano 105, not Di2/SRAM Red): https://allegrolokalnie.pl/oferta/rower-triathlonowy-tt-cervelo-pseries-105-56-cm
+# AllegroLokalnie Giant Liv Avow Advanced Pro 1 M Warszawa — FAIL size (M): https://allegrolokalnie.pl/oferta/rower-triathlonowy-giant-liv-avow-advanced-pro-1-m-rower-czasowy
+# AllegroLokalnie Argon 18 E-112 carbon L Pawlikowice 4,600 PLN — FAIL groupset (2014 bike, Shimano 105 mechanical per spec sheets): https://allegrolokalnie.pl/oferta/argon-18-e112-rower-triathlonowy-carbon-rama-l
+# PERSISTENT UNDELIVERED TELEGRAM ALERTS — MANUAL ACTION REQUIRED (10 runs, all blocked):
+# 1. Canyon Speedmax CF SLX | Size L | Ultegra Di2 | Reynolds + Zipp Super 9 disc | ~€3,700 | Warszawa: https://allegrolokalnie.pl/oferta/canyon-speedmax-cf-slx-l-ultegra-di2-kola-reynolds-dysk-zipp-super-9
+# 2. Argon 18 E80 CreatoBike OLX Łódź — Ultegra Di2, dual-sided power meter, ~€1,000 — URL unconfirmed. Check: https://creatobike.olx.pl/home/
+# PERSISTENT HIGH PRIORITY MANUAL CHECKS (still active in search results after 10 runs):
+# https://allegrolokalnie.pl/oferta/rower-argon-18-e117-di2-idealny
+# https://allegrolokalnie.pl/oferta/rower-argon-18-e117-triathlon-rozmiar-l (confirmed still active — appeared in search results this run)
+# https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-tt-avenger-tm6-carbon
+# https://allegrolokalnie.pl/oferta/rower-czasowy-tt-triathlon-pardus-karbon-carbon
