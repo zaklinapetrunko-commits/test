@@ -165,3 +165,17 @@ https://allegrolokalnie.pl/oferta/canyon-speedmax-cf-slx-l-ultegra-di2-kola-reyn
 # Cervelo P5 56 Ultegra (mechanical) OLX IDycb7C — FAIL groupset (mechanical Ultegra): https://www.olx.pl/oferta/cervelo-p5-56-ultegra-metron-55-triathlon-rower-czasowy-triathlonowy-CID767-IDycb7C.html
 # PERSISTENT HIGH PRIORITY MANUAL CHECK (URL still unconfirmed after 5 runs):
 # Argon 18 E80 CreatoBike OLX Łódź Widzew — Shimano Ultegra Di2, dual-sided power meter, 4,299 PLN (~€1,000), April 23 2026. Direct URL not retrievable (403). Check manually: https://creatobike.olx.pl/home/
+# --- 2026-06-23 run (sixth) — 0 new confirmed matches ---
+2026-06-23T(run 6) — No new matches found. Scanned ~40 URLs across SS.lv, OLX.pl, AllegroLokalnie.pl, Allegro.pl, Skelbiu.lt, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv. All direct fetches 403. 0 passed all filter criteria.
+# NOTE: Telegram resend attempted for Canyon Speedmax CF SLX (run 5 match, undelivered) — STILL BLOCKED. api.telegram.org confirmed not in network egress allowlist. Error: "Host not in allowlist: api.telegram.org."
+# IMPORTANT: Telegram has been blocked on ALL runs. The issue is network egress policy, NOT credentials. Hardcoded credentials do not bypass egress filtering.
+# New URLs checked this run (did not pass all filters):
+# Felt B 12 56cm "Dura Ace" OLX Poznań ID12w0Xx — FAIL groupset (mechanical Dura Ace, not Di2/SRAM Red): https://www.olx.pl/d/oferta/rower-czasowy-triathlonowy-karbonowy-felt-b-12-56-cm-dura-ace-promocja-CID767-ID12w0Xx.html
+# TT-Triathlon SRAM RED AXS 12 OLX IDSsUsR — FAIL size (title says "sr.M" = size M): https://www.olx.pl/d/oferta/tt-triathlon-sram-red-axs-12-sr-m-CID767-IDSsUsR.html
+# UNDELIVERED TELEGRAM ALERTS — MANUAL ACTION STILL REQUIRED:
+# 1. Canyon Speedmax CF SLX | Size L | Ultegra Di2 | Reynolds + Zipp Super 9 disc | ~€3,700 | Warszawa: https://allegrolokalnie.pl/oferta/canyon-speedmax-cf-slx-l-ultegra-di2-kola-reynolds-dysk-zipp-super-9
+# 2. Argon 18 E80 CreatoBike OLX Łódź — Ultegra Di2, dual-sided power meter, ~€1,000 — URL unconfirmed (403). Check: https://creatobike.olx.pl/home/
+# PERSISTENT HIGH PRIORITY MANUAL CHECKS (unchanged after 6 runs):
+# https://allegrolokalnie.pl/oferta/rower-argon-18-e117-di2-idealny
+# https://allegrolokalnie.pl/oferta/rower-argon-18-e117-triathlon-rozmiar-l
+# https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-tt-avenger-tm6-carbon
