@@ -364,3 +364,23 @@ https://allegrolokalnie.pl/oferta/canyon-speedmax-cf-9-0-pro
 # https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-tt-avenger-tm6-carbon  <- Avenger TM6 Carbon Zdzieszowice 7,200 PLN — size/groupset UNCONFIRMABLE
 # https://www.olx.pl/d/oferta/rower-triathlonowy-stevens-crono-tt-carbon-rozmiar-56cm-kola-hed-CID767-ID1196U5.html  <- Stevens Crono TT Carbon 56cm HED — groupset UNCONFIRMABLE
 # https://www.olx.pl/d/oferta/rower-szosowy-triathlon-tt-boardman-tte-full-carbon-CID767-ID14Tpku.html  <- Boardman TTE full carbon OLX — specs UNCONFIRMABLE
+2026-06-23T(scheduled) — No new matches found. Direct fetch: all sites returned 403 (SS.lv, OLX.pl, AllegroLokalnie.pl, Allegro.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Skelbiu.lt, Andel.lv). Via web search: ~120 candidate URLs reviewed across 25+ search queries, 0 passed all filter criteria.
+# Candidates checked 2026-06-23 (this run — current scheduled routine):
+# (1) Canyon Speedmax CF 9.0 PRO /canyon-speedmax-cf-9-0-pro: already in seen list. New search info: "Shimano Ultegra rear derailleur, FSA crankset 52/38T, 175-185cm rider" — groupset STILL UNCONFIRMED as Di2 vs mechanical. Cannot alert.
+# (2) Wilier Twin Blade DuraAce Di2 L /rower-triathlonowy-wilier-twin-blade-duraace-di2-l: already in seen list.
+# (3) Fuji Norcom 1.3 Di2 Gdynia 9,300 PLN size 51cm: FAIL size 51cm.
+# (4) Boardman TTE Ultegra Di2 size S 9,500 PLN: FAIL size S.
+# (5) Bottecchia Tri Di2 Mavic size 51/53cm: FAIL size.
+# (6) Avenger TM6 Carbon Zdzieszowice 7,200 PLN: still UNCONFIRMABLE size/groupset (403).
+# (7) All SS.lv listings: road bikes (FAIL type), already seen, or FAIL size/groupset.
+# (8) Skelbiu.lt Giant Trinity XL €2,200: FAIL size XL. Orbea TT Ordu M20i Di2: already in seen list.
+# (9) Autoplius.lt / Osta.ee / Okidoki.ee / Andel.lv: category pages only, no qualifying listings indexed.
+# TELEGRAM CONNECTIVITY: Tested via curl — api.telegram.org returns HTTP 403. Network egress block STILL ACTIVE. User confirmed no network settings UI available to whitelist. 0 alerts sent this run. 0 alerts sent in entire scout history.
+# CRITICAL: 12+ confirmed qualified listings found across all runs, NONE ever alerted via Telegram due to persistent infrastructure-level egress block on api.telegram.org.
+# Outstanding HIGH PRIORITY manual review candidates (unchanged):
+# https://allegrolokalnie.pl/oferta/canyon-speedmax-cf-9-0-pro  <- Canyon Speedmax CF 9.0 PRO Dąbrówka 10,500 PLN — Di2 unconfirmed, size ~175-185cm (L range)
+# https://allegrolokalnie.pl/oferta/rower-argon-18-e117-di2-idealny  <- Argon 18 E-117 Di2 — size unconfirmed
+# https://allegrolokalnie.pl/oferta/rower-argon-18-e117-triathlon-rozmiar-l  <- Argon 18 E-117 size L — groupset unconfirmed
+# https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-tt-avenger-tm6-carbon  <- Avenger TM6 Carbon Zdzieszowice 7,200 PLN — size/groupset UNCONFIRMABLE
+# https://www.olx.pl/d/oferta/rower-triathlonowy-stevens-crono-tt-carbon-rozmiar-56cm-kola-hed-CID767-ID1196U5.html  <- Stevens Crono TT Carbon 56cm HED — groupset UNCONFIRMABLE
+# https://www.olx.pl/d/oferta/rower-szosowy-triathlon-tt-boardman-tte-full-carbon-CID767-ID14Tpku.html  <- Boardman TTE full carbon OLX — specs UNCONFIRMABLE
