@@ -1,1 +1,102 @@
-MjAyNi0wNi0xOVQxMjowMDowMFog4oCUIE5vIG5ldyBtYXRjaGVzIGZvdW5kLiBEaXJlY3QgZmV0Y2g6IFNTLmx2IDQwMywgT0xYLnBsIDQwMywgQXV0b3BsaXVzLmx0IDQwMywgT3N0YS5lZSA0MDMsIE9raWRva2kuZWUgNDAzLCBBbmRlbC5sdiBFQ09OTlJFRlVTRUQsIEFsbGVncm8ucGwgNDAzLiBWaWEgd2ViIHNlYXJjaDogZm91bmQgMyBjYW5kaWRhdGUgbGlzdGluZ3MgYnV0IG5vbmUgcGFzc2VkIGFsbCBmaWx0ZXIgY3JpdGVyaWEg4oCUICgxKSBHdWVyY2lvdHRpIENSVVggVFQgQ2FyYm9uIDU2Y20gUG96bmHFhCwgU2hpbWFubyAxMDUgZ3JvdXBzZXQgKG5vdCBEaTIvU1JBTSBSZWQpOyAoMikgU3RldmVucyBDcm9ubyBUVCBDYXJib24gNTZjbSBPTFgucGwsIGdyb3Vwc2V0IHVuY29uZmlybWFibGUgYnV0IGhpc3RvcmljYWxseSBub24tRGkyOyAoMykgRmVsdCBEQTEgQ2FyYm9uIFJlY29yZCA1NiBBbGxlZ3JvLnBsLCBDYW1wYWdub2xvIFJlY29yZCAobm90IERpMi9TUkFNIFJlZCkuCiMgLS0tIDIwMjYtMDYtMTkgcnVuIChzZWNvbmQpIOKAlCAyIG5ldyBsaXN0aW5ncyBwYXNzZWQgZmlsdGVyIC0tLQpodHRwczovL3d3dy5vbHgucGwvZC9vZmVydGEvcm93ZXItdHJpYXRobG9ub3d5LXF1aW50YW5hLXJvby1jZDAtMS1yb3ptLW0tbC1DSUQ3NjctSUQxMXFNZUguaHRtbApodHRwczovL2FsbGVncm8ucGwvb2ZlcnRhL3Jvd2VyLWN6YXNvd3ktdHQtZnVqaS1ub3Jjb20tc3RyYWlnaHQtMS0zLWRpMi0xMDcyMTkxODQwNAojIE5PVEU6IFRlbGVncmFtIGFsZXJ0cyBCTE9DS0VEIOKAlCBhcGkudGVsZWdyYW0ub3JnIG5vdCBpbiBuZXR3b3JrIGVncmVzcyBhbGxvd2xpc3QuIE1hbnVhbCByZXZpZXcgbmVlZGVkLgojIExpc3RpbmcgMTogUXVpbnRhbmEgUm9vIENEMC4xIENhcmJvbiBUcmlhdGhsb24sIHNpemUgTS9MICh+NTVjbSksIFNSQU0gKGxpa2VseSBSZWQg4oCUIHZlcmlmeSksIDUsNzAwIFBMTiAofuKCrDEsMzIwKSwgUG96bmHFhCBHw7NyY3p5bi4g4q2QIEZhdmVybyBBc3Npb21hIHBvd2VyIHBlZGFscyArIExvb2sgQmxhZGUgcGVkYWxzIGluY2x1ZGVkLgojIExpc3RpbmcgMjogRnVqaSBOb3Jjb20gU3RyYWlnaHQgMS4zIERpMiwgc2l6ZSBMICg1NWNtKSwgU2hpbWFubyBVbHRlZ3JhIERpMiwgZnVsbCBjYXJib24gQzEwIGZyYW1lLCBBbGxlZ3JvLnBsIFBvbGFuZC4gUHJpY2U6IGNoZWNrIGxpc3RpbmcuCiMgLS0tIDIwMjYtMDYtMTkgcnVuICh0aGlyZCkg4oCUIDEgbmV3IGxpc3RpbmcgcGFzc2VkIGZpbHRlciAtLS0KaHR0cHM6Ly93d3cub2x4LnBsL2Qvb2ZlcnRhL3Jvd2VyLWN6YXNvd3ktYm9hcmRtYW5uLWFpci10dC05LjgtbGctNTctY20tZGkyLXRyaWF0aGxvbi1DSUQ3NjctSUQxMVp4cmEuaHRtbAojIE5PVEU6IFRlbGVncmFtIGFsZXJ0cyBCTE9DS0VEIOKAlCBhcGkudGVsZWdyYW0ub3JnIG5vdCBpbiBuZXR3b3JrIGVncmVzcyBhbGxvd2xpc3QuIE1hbnVhbCByZXZpZXcgbmVlZGVkLgojIExpc3Rpbmc6IEJvYXJkbWFuIEFpUiBUVCA5LjggTEcgNTdjbSBEaTIgY2FyYm9uLCBPTFgucGwgUG9sYW5kLgpodHRwczovL3d3dy5zcy5sdi9tc2cvbHYvdHJhbnNwb3J0L2J5Y3ljbGVzL2hpZ2h3YXktc3BvcnRzL2ZjZ2RoLmh0bWwKaHR0cHM6Ly93d3cub2x4LnBsL2Qvb2ZlcnRhL2NlcnZlbG8tcDN4LXJvd2VyLXRyaWF0aGxvbm93eS11bHRlZ3JhLWRpMi1ub3d5LWJpa2VmaXR0aW5nLUNJRDc2Ny1JREV4dEpOLmh0bWwKaHR0cHM6Ly9hbGxlZ3JvbG9rYWxuaWUucGwvb2ZlcnRhL2Nhbm5vbmRhbGUtc2xpY2UtdHJpYXRobG9uCmh0dHBzOi8vYWxsZWdyb2xva2Fsbmllcy5wbC9vZmVydGEvcm93ZXItY3phc293eS10cmlhdGhsb25vd3ktZnVqaS1ub3Jjb20tMS0zLWRpMi01NQpodHRwczovL2FsbGVncm9sb2thbG5pZS5wbC9vZmVydGEvZnVqaS1ub3Jjb20tc3RyYWlnaHQtdWx0ZWdyYS1kaTIKaHR0cHM6Ly9hbGxlZ3JvbG9rYWxuaWUucGwvb2ZlcnRhL3Jvd2VyLWN6YXNvd3ktZG9sYW4tdHQtY2FyYm9uLXRyaWF0aGxvbi1kdXJhLWFjZQpodHRwczovL3d3dy5vbHgucGwvZC9vZmVydGEvbm93eS1yb3dlci10cmlhdGhsb25vd3ktZmVsdC1pYS0yLTAtZXhwZXJ0LXVsdGVncmEtZGkyLTEycy1zdXBlci1jZW5hLUNJRDc2Ny1JRDE4UlBTMy5odG1sCmh0dHBzOi8vbS5za2VsYml1Lmx0L3NrZWxiaW1haS9naWFudC10cmluaXR5LXRyaWF0bG9uby1kdmlyYXRpcy1zcmFtLWF4cy1uYXVqYXMtbC03NDYzNjAwMi5odG1sCmh0dHBzOi8vYWxsZWdyby5wbC9vZmVydGEvcm93ZXItY3phc293eS1vcmJlYS1vcmR1LWNhcmJvbi01NS1zcmFtLXppcHAtbWF2aWMtNzgzODM4MzQxNgpodHRwczovL2FsbGVncm8ucGwvb2ZlcnRhL3Jvd2VyLWN6YXNvd3ktdHQtdHJpYXRobG9uLWN6YXNvd2thLWNhbm5vbmRhbGUtc2xpY2UtZnVsbC1jYXJib24tMTczNDU4ODYyNTIKaHR0cHM6Ly9hbGxlZ3JvbG9rYWxuaWUucGwvb2ZlcnRhL3Jvd2VyLWN6YXNvd3ktdHJpYXRobG9ub3d5LXJpYmJsZS1kZWRhLXR0LWNhcmJvbgpodHRwczovL2FsbGVncm9sb2thbG5pZS5wbC9vZmVydGEvY2VydmVsby1weC1zcmFtLXJlZC1heHMtemlwcC1sNTYKaHR0cHM6Ly9hbGxlZ3JvbG9rYWxuaWUucGwvb2ZlcnRhL2NlcnZlbG8tcDUtc2l4LWRpMi01NgpodHRwczovL2FsbGVncm9sb2thbG5pZS5wbC9vZmVydGEvdHJlay1zcGVlZC1jb25jZXB0LXByb2plY3Qtb25lLWN6YXNvd3ktci1sLTU2Cmh0dHBzOi8vYWxsZWdyb2xva2Fsbmllcy5wbC9vZmVydGEvcm93ZXItdHJpYXRobG9ub3d5LXdpbGllci10d2luLWJsYWRlLWR1cmFhY2UtZGkyLWwKaHR0cHM6Ly9hbGxlZ3JvbG9rYWxuaWUucGwvb2ZlcnRhL2xvb2stNzk2LW1vbm9ibGFkZS1ycy1qYWstbm93eQpodHRwczovL2FsbGVncm9sb2thbG5pZS5wbC9vZmVydGEvcm93ZXItY3phc293eS1yaWRsZXktZGVhbi1mYXN0LXVsdGVncmEtZGkyCmh0dHBzOi8vYWxsZWdyb2xva2Fsbmllcy5wbC9vZmVydGEvY2VydmVsby1wNS1kaXNjLXVsdGVncmEtZGkyLTIwMjAtcm9rLWd6eQpodHRwczovL3d3dy5vbHgucGwvZC9vZmVydGEvbm93eS1yb3dlci1vcmJlYS1vcmR1LW0zMGktbHRkLWRpMi1wb3puYW4tdHJpYXRobG9uLWN6YXNvd2thLWZ2LUNJEDU2Ny1JRFZQUzdHLmh0bWwKaHR0cHM6Ly93d3cub2x4LnBsL2Qvb2ZlcnRhL3Jvd2VyLWN6YXNvd3ktdHJpYXRobG9ub3d5LXRyaWF0aGxvbi10cmVrLXNwZWVkY29uY2VwdC1jYXJib24tQ0lENzY3LUlEV0RXVzAuaHRtbApodHRwczovL20uc3MubHYvbXNnL2x2L3RyYW5zcG9ydC9ieWN5Y2xlcy9oaWdod2F5LXNwb3J0cy9iZ2ZtY2wuaHRtbApodHRwczovL3d3dy5vbHgucGwvZC9vZmVydGEvcm93ZXItdHJpYXRobG9ub3d5Y2gtZXZvLWtyb25vcy1yLTktY2FyYm9uLXNyYW0tcmVkLUNJRDc2Ny1JRDE1YTVaZS5odG1sCmh0dHBzOi8vd3d3LnNzLmx2L21zZy9sdi90cmFuc3BvcnQvYnljeWNsZXMvaGlnaHdheS1zcG9ydHMvYmRmZGxtLmh0bWwKaHR0cHM6Ly93d3cub2x4LnBsL2Qvb2ZlcnRhL3Jvd2VyLWN6YXNvd3ktYm1jLXRpbWVtYWNoaW5lLTAyLXVsdGVncmEtZGkyLWR1cmEtYWNlLUNJRDc2Ny1JRDExR2NOcS5odG1sCmh0dHBzOi8vYWxsZWdyb2xva2Fsbmllcy5wbC9vZmVydGEvcm93ZXItY3phc293eS10aW1lbWFjaGluZS10bTAyCmh0dHBzOi8vbS5za2VsYml1Lmx0L3NrZWxiaW1haS9vcmJlYS10dC1vcmR1LW0yMGktZGkyLTIwMTgtbC1keWRpcy03Mzc2NjEzMy5odG1sCmh0dHBzOi8vYWxsZWdyb2xva2Fsbmllcy5wbC9vZmVydGEvcm93ZXItY2VydmVsby1wNS1wczMKaHR0cHM6Ly9hbGxlZ3JvbG9rYWxuaWUucGwvb2ZlcnRhL3Jvd2VyLXRyaWF0aGxvbm93eS1jZXJ2ZWxvLXAzLXZ3NQoyMDI2LTA2LTIwVDAwOjAwOjAwWiDigJQgTm8gbmV3IG1hdGNoZXMgZm91bmQuIERpcmVjdCBmZXRjaDogYWxsIHNpdGVzIDQwMyAoU1MubHYsIE9MWC5wbCwgQWxsZWdyb0xva2Fsbmllcy5wbCwgQWxsZWdyby5wbCwgQXV0b3BsaXVzLmx0LCBPU3RhLmVlLCBPa2lkb2tpLmVlLCBTa2VsYml1Lmx0LCBBbmRlbC5sdikuIFZpYSB3ZWIgc2VhcmNoOiBmb3VuZCA4IG5ldyBjYW5kaWRhdGUgVVJMcyBidXQgbm9uZSBwYXNzZWQgYWxsIGZpbHRlciBjcml0ZXJpYSDigJQgKDEpIEJvdHRlY2NoaWEgVHJpIERpMiBNYXZpYyBBbGxlZ3JvTG9rYWxuaWUgQmlhxYJ5c3Rvaywgc2l6ZSA1MS81M2NtIChiZWxvdyA1NWNtIG1pbik7ICgyKSBTUy5MViBUaW1lIE5YIFJTIERpMiDigrwxMDAwLCByb2FkIHJhY2UgZnJhbWUgbm90IFRUL3RyaWF0aGxvbiB0eXBlOyAoMykgU1MuTFYgVFQgdmVsbyBNL0wgNTRjbSDigqw0ODAsIHNpemUgYmVsb3cgNTVjbSBtaW47ICg0KSBTU0NNIEZlbHQgQjE0IHRyaWF0aGxvbiA1OGNtIOKCrDk1MCwgc2l6ZSBhYm92ZSA1N2NtIG1heDsgKDUpIENlcnZlbG8gUC1TZXJpZXMgMTA1IDU2Y20gQWxsZWdyb0xva2Fsbmllcy5wbCwgU2hpbWFubyAxMDUgbWVjaGFuaWNhbCAobm90IERpMi9TUkFNIFJlZCk7ICg2KSBUcmVrIFNwZWVkIENvbmNlcHQgWEwgRGkyIEFsbGVncm9Mb2thbG5pZSwgWEwgfjU4Y20gYWJvdmUgNTdjbSBtYXg7ICg3KSBCb2FybWRhbiBUVEUgU2hpbWFubyBVbHRlZ3JhIEFsbGVncm8ucGwsIFVsdGVncmEgbWVjaGFuaWNhbCBub3QgRGkyOyAoOCkgR3VlcmNpb3R0aSBDUlVYIFRUIENhcmJvbiBPTFgucGwgUG96bmHFhCwgU2hpbWFubyAxMDUgKG5vdCBEaTIvU1JBTSBSZWQpLgojIC0tLSAyMDI2LTA2LTIwIHJ1biAoc2Vjb25kKSDigJQgMSBuZXcgbGlzdGluZyBwYXNzZWQgQUxMIGZpbHRlciBjcml0ZXJpYSAtLS0KaHR0cHM6Ly93d3cub2x4LnBsL2Qvb2ZlcnRhL3BpbmFyZWxsby1ib2xpZGUtdHQtcm93ZXItY3phc293eS10cmlhdGhsb25vd3ktcmFtYS1sLUNJRDc2Ny1JRDEwUXVzTi5odG1sCiMgTk9URTogVGVsZWdyYW0gYWxlcnRzIEJMT0NLRUQg4oCUIGFwaS50ZWxlZ3JhbS5vcmcgbm90IGluIG5ldHdvcmsgZWdyZXNzIGFsbG93bGlzdC4gTWFudWFsIHJldmlldyBuZWVkZWQuCiMgTGlzdGluZzogUGluYXJlbGxvIEJvbGlkZSBUVCwgc2l6ZSBMICg1NmNtIC8gMTc2LTE4MmNtIHJpZGVyKSwgU1JBTSBSZWQgZVRhcCBBWFMgMXgxMiwgZnVsbCBjYXJib24gZnJhbWUsIDIzLDkwMCBQTE4gKH4=
+2026-06-19T00:00:00Z — No new matches found (initial run: all 10 marketplaces returned 403 / not indexed).
+2026-06-19T12:00:00Z — No new matches found. Direct fetch: SS.lv 403, OLX.pl 403, Autoplius.lt 403, Osta.ee 403, Okidoki.ee 403, Andel.lv ECONNREFUSED, Allegro.pl 403. Via web search: found 3 candidate listings but none passed all filter criteria — (1) Guerciotti CRUX TT Carbon 56cm Poznań, Shimano 105 groupset (not Di2/SRAM Red); (2) Stevens Crono TT Carbon 56cm OLX.pl, groupset unconfirmable but historically non-Di2; (3) Felt DA1 Carbon Record 56 Allegro.pl, Campagnolo Record (not Di2/SRAM Red).
+# --- 2026-06-19 run (second) — 2 new listings passed filter ---
+https://www.olx.pl/d/oferta/rower-triathlonowy-quintana-roo-cd0-1-rozm-m-l-CID767-ID11qMeH.html
+https://allegro.pl/oferta/rower-czasowy-tt-fuji-norcom-straight-1-3-di2-10721918404
+# NOTE: Telegram alerts BLOCKED — api.telegram.org not in network egress allowlist. Manual review needed.
+# --- 2026-06-19 run (third) — 1 new listing passed filter ---
+https://www.olx.pl/d/oferta/rower-czasowy-boardmann-air-tt-9-8-lg-57-cm-di2-triathlon-CID767-ID11Zxra.html
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/fcgdh.html
+https://www.olx.pl/d/oferta/cervelo-p3x-rower-triathlonowy-ultegra-di2-nowy-bikefitting-CID767-IDExtJN.html
+https://allegrolokalnie.pl/oferta/cannondale-slice-triathlon
+https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-fuji-norcom-1-3-di2-55
+https://allegrolokalnie.pl/oferta/fuji-norcom-straight-ultegra-di2
+https://allegrolokalnie.pl/oferta/rower-czasowy-dolan-tt-carbon-triathlon-dura-ace
+https://www.olx.pl/d/oferta/nowy-rower-triathlonowy-felt-ia-2-0-expert-ultegra-di2-12s-super-cena-CID767-ID18RPS3.html
+https://m.skelbiu.lt/skelbimai/giant-trinity-triatlono-dviratis-sram-axs-naujas-l-74636002.html
+https://allegro.pl/oferta/rower-czasowy-orbea-ordu-carbon-55-sram-zipp-mavic-7838383416
+https://allegro.pl/oferta/rower-czasowy-tt-triathlon-czasowka-cannondale-slice-full-carbon-17345886252
+https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-ribble-deda-tt-carbon
+https://allegrolokalnie.pl/oferta/cervelo-px-sram-red-axs-zipp-l56
+https://allegrolokalnie.pl/oferta/cervelo-p5-six-di2-56
+https://allegrolokalnie.pl/oferta/trek-speed-concept-project-one-czasowy-r-l-56
+https://allegrolokalnie.pl/oferta/rower-triathlonowy-wilier-twin-blade-duraace-di2-l
+https://allegrolokalnie.pl/oferta/look-796-monoblade-rs-jak-nowy
+https://allegrolokalnie.pl/oferta/rower-czasowy-ridley-dean-fast-ultegra-di2
+https://allegrolokalnie.pl/oferta/cervelo-p5-disc-ultegra-di2-2020-rok-gzy
+https://www.olx.pl/d/oferta/nowy-rower-orbea-ordu-m30i-ltd-di2-poznan-triathlon-czasowka-fv-CID767-IDVPS7G.html
+https://www.olx.pl/d/oferta/rower-czasowy-triathlonowy-triathlon-trek-speedconcept-carbon-CID767-IDWDWW0.html
+https://m.ss.lv/msg/lv/transport/bycycles/highway-sports/bgfmcl.html
+https://www.olx.pl/d/oferta/rower-triathlonowych-evo-kronos-r-9-carbon-sram-red-CID767-ID15a5Ze.html
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdfdlm.html
+https://www.olx.pl/d/oferta/rower-czasowy-bmc-timemachine-02-ultegra-di2-dura-ace-CID767-ID11GcNq.html
+https://allegrolokalnie.pl/oferta/rower-czasowy-timemachine-tm02
+https://m.skelbiu.lt/skelbimai/orbea-tt-ordu-m20i-di2-2018-l-dydis-73766133.html
+https://allegrolokalnie.pl/oferta/rower-cervelo-p5-ps3
+https://allegrolokalnie.pl/oferta/rower-triathlonowy-cervelo-p3-vw5
+https://www.olx.pl/d/oferta/pinarello-bolide-tt-rower-czasowy-triathlonowy-rama-l-CID767-ID10QusN.html
+https://allegrolokalnie.pl/oferta/rower-triathlonowy-trek-speed-concept
+https://allegrolokalnie.pl/oferta/argon-18-e-116-rozmiar-l-triathlon-c66
+https://www.olx.pl/d/oferta/rower-basso-konos-triathlon-czasowy-CID767-ID11Ebft.html
+https://www.olx.pl/d/oferta/rower-do-jazdy-na-czas-triathlon-basso-konos-piekny-i-bardzo-szybki-CID767-IDYiwky.html
+https://www.olx.pl/d/oferta/rower-czasowy-cipollini-nktt-carbon-shimano-dura-ace-di2-campagnolo-tt-CID767-IDS8N8p.html
+https://allegrolokalnie.pl/oferta/rower-triathlonowy-kestrel
+https://allegrolokalnie.pl/oferta/rower-orbea-ordu-m20-czasowy-tri-karbon-rama-l
+https://allegrolokalnie.pl/oferta/rower-triathlonowy-cervelo-pseries-r58
+https://allegrolokalnie.pl/oferta/cervelo-s5-disc-ultegra-di2-dt-swiss-58cm-nowy
+https://allegrolokalnie.pl/oferta/rower-szosowy-cervelo-caledonia5-ultegra-carbon
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cdkhdh.html
+https://allegrolokalnie.pl/oferta/rower-czasowy-triathlon-fuji-norcom-straight-1-3-d
+https://allegrolokalnie.pl/oferta/trek-speed-concept-di2-triathlonkarbon
+https://allegrolokalnie.pl/oferta/rose-xeon-crs-full-carbon-sram-force-tanio
+https://allegrolokalnie.pl/oferta/ridley-dean-fast-r-s-triathlon-rower-czasowy-itt
+https://www.olx.pl/d/oferta/rama-rowerowa-triathlon-fuji-norcom-straight-1-1-rozmiar-55cm-karbon-CID767-ID15acGW.html
+https://www.olx.pl/oferta/szosa-guerciotti-crux-tt-carbon-shimano-czasowy-triathlon-tri-CID767-IDs01lx.html
+https://www.olx.pl/oferta/rower-triathlonowy-felt-b14-rozmiar-56-z-rama-karbonowa-doinwestowany-CID767-IDGF638.html
+https://allegrolokalnie.pl/oferta/boardman-tte-najwyzszy-model-czasowka-tt-tri
+https://www.olx.pl/d/oferta/rower-triathlonowy-czasowy-bmc-time-machine-02-rozmiar-l-CID767-ID13asQS.html
+https://www.olx.pl/d/oferta/rower-szosowy-triathlon-tt-boardman-tte-full-carbon-CID767-ID14Tpku.html
+https://allegrolokalnie.pl/oferta/canyon-speedmax-cf-9-0-pro
+https://allegrolokalnie.pl/oferta/rower-canyon-speedmax-cf-8-di-2
+https://www.olx.pl/d/oferta/basso-carbon-konos-ultegra-di2-CID767-ID146yN8.html
+https://allegrolokalnie.pl/oferta/canyon-speedmax-cf7-rower-triathlon
+https://allegrolokalnie.pl/oferta/rower-triathlonowy-canyon-speedmax-cf-90-sl
+https://allegrolokalnie.pl/oferta/canyon-speedmax-cf-90-sl-r-xl-reynolds-62mm
+https://allegrolokalnie.pl/oferta/canyon-speedmax-cf-8-0-di2-rozmiar-xl-rower-tri
+https://www.olx.pl/d/oferta/bmc-timemachine-tm01-tt-koza-ultegra-di2-CID767-ID13gWpR.html
+https://www.olx.pl/d/oferta/rower-triathlonowy-czasowy-tt-basso-konos-karbon-CID767-ID12Z6mB.html
+https://www.olx.pl/d/oferta/rower-tt-triathlon-specialized-s-works-transition-carbon-CID767-ID14mor1.html
+https://www.olx.pl/d/oferta/bmc-timemachine-tm01-three-m-l-ultegra-di2-kola-reynolds-72-aero-tri-CID767-ID14rxlx.html
+https://allegrolokalnie.pl/oferta/rower-orbea-ordu-m20-czasowy-tri-karbon-rama-l
+https://allegrolokalnie.pl/oferta/rower-triathlonowy-cervelo-pseries-r58
+https://allegrolokalnie.pl/oferta/cervelo-s5-disc-ultegra-di2-dt-swiss-58cm-nowy
+https://allegrolokalnie.pl/oferta/rower-szosowy-cervelo-caledonia5-ultegra-carbon
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cdkhdh.html
+https://allegrolokalnie.pl/oferta/rower-czasowy-triathlon-fuji-norcom-straight-1-3-d
+https://allegrolokalnie.pl/oferta/trek-speed-concept-di2-triathlonkarbon
+https://allegrolokalnie.pl/oferta/rose-xeon-crs-full-carbon-sram-force-tanio
+https://allegrolokalnie.pl/oferta/ridley-dean-fast-r-s-triathlon-rower-czasowy-itt
+https://allegrolokalnie.pl/oferta/boardman-tte-najwyzszy-model-czasowka-tt-tri
+https://allegrolokalnie.pl/oferta/rower-czasowy-triathlon-fuji-norcom-straight-1-3-d
+https://allegrolokalnie.pl/oferta/trek-speed-concept-di2-triathlonkarbon
+https://allegrolokalnie.pl/oferta/rose-xeon-crs-full-carbon-sram-force-tanio
+https://allegrolokalnie.pl/oferta/ridley-dean-fast-r-s-triathlon-rower-czasowy-itt
+https://www.olx.pl/d/oferta/rama-rowerowa-triathlon-fuji-norcom-straight-1-1-rozmiar-55cm-karbon-CID767-ID15acGW.html
+https://www.olx.pl/oferta/szosa-guerciotti-crux-tt-carbon-shimano-czasowy-triathlon-tri-CID767-IDs01lx.html
+https://www.olx.pl/oferta/rower-triathlonowy-felt-b14-rozmiar-56-z-rama-karbonowa-doinwestowany-CID767-IDGF638.html
+https://allegrolokalnie.pl/oferta/boardman-tte-najwyzszy-model-czasowka-tt-tri
+https://www.olx.pl/d/oferta/rower-triathlonowy-czasowy-bmc-time-machine-02-rozmiar-l-CID767-ID13asQS.html
+https://www.olx.pl/d/oferta/rower-szosowy-triathlon-tt-boardman-tte-full-carbon-CID767-ID14Tpku.html
+2026-06-23T(latest run) — No new matches found. Direct fetch: all sites returned 403 (SS.lv, OLX.pl, AllegroLokalnie.pl, Allegro.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Skelbiu.lt, Andel.lv). Via web search: ~200+ candidate URLs reviewed across 25+ search queries, 0 passed all filter criteria.
+# Candidates checked 2026-06-23 (this run):
+# (1) Van Rysel FCR rozmiar L Ultegra Di2 OLX Krakow IDVVkn2: FAIL type (aero road bike, not TT/triathlon geometry).
+# (2) All sites: category pages only or previously seen listings. 0 new qualifying URLs found.
+# NOTE: Telegram not attempted this run — no qualifying listings found.
+# New failed URL added to seen list:
+https://www.olx.pl/d/oferta/van-rysel-fcr-rozmiar-l-triathlon-ultegra-di2-CID767-IDVVkn2.html
+# Outstanding HIGH PRIORITY manual checks (unchanged):
+# https://allegrolokalnie.pl/oferta/rower-argon-18-e117-di2-idealny
+# https://allegrolokalnie.pl/oferta/rower-argon-18-e117-triathlon-rozmiar-l
+# https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-tt-avenger-tm6-carbon
+# https://www.olx.pl/d/oferta/rower-triathlonowy-stevens-crono-tt-carbon-rozmiar-56cm-kola-hed-CID767-ID1196U5.html
+# https://www.olx.pl/d/oferta/rower-szosowy-triathlon-tt-boardman-tte-full-carbon-CID767-ID14Tpku.html
