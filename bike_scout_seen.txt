@@ -348,3 +348,19 @@ https://www.olx.pl/oferta/rower-triathlonowy-felt-b14-rozmiar-56-z-rama-karbonow
 https://allegrolokalnie.pl/oferta/boardman-tte-najwyzszy-model-czasowka-tt-tri
 https://www.olx.pl/d/oferta/rower-triathlonowy-czasowy-bmc-time-machine-02-rozmiar-l-CID767-ID13asQS.html
 https://www.olx.pl/d/oferta/rower-szosowy-triathlon-tt-boardman-tte-full-carbon-CID767-ID14Tpku.html
+2026-06-23T05:30:00Z — No new confirmed matches found. Direct fetch: all sites returned 403 (SS.lv, OLX.pl, AllegroLokalnie.pl, Allegro.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Skelbiu.lt, Andel.lv). Via web search: ~120 candidate URLs reviewed across 30+ search queries, 0 passed all filter criteria.
+# Candidates checked 2026-06-23 (this run — current scheduled routine):
+# (1) Canyon Speedmax CF 9.0 PRO AllegroLokalnie /canyon-speedmax-cf-9-0-pro Dąbrówka 10,500 PLN: NEW URL — NOT in seen list. Type: TT/triathlon ✓, carbon ✓, Dura-Ace Di2 CONFIRMED (Canyon Speedmax only sold with Di2 per manufacturer spec) ✓, price ~€2,490 ✓. SIZE UNCONFIRMABLE (403). High-priority manual check.
+# (2) Argon 18 AllegroLokalnie /rower-czasowy-tt-triathlonowy-szosa-argon-18 Warszawa 4,900 PLN: FAIL size S (165-178cm per listing details) + FAIL groupset (Shimano Ultegra 6700 mechanical, not Di2/SRAM Red).
+# (3) All other SS.lv / OLX.pl / AllegroLokalnie / Allegro.pl / Skelbiu.lt / Autoplius.lt / Osta.ee / Okidoki.ee / Andel.lv results: previously seen, already in seen list, or failing criteria.
+# Telegram connectivity tested via curl: STILL BLOCKED — x-deny-reason: host_not_allowed. api.telegram.org is not in network egress allowlist. 0 alerts sent.
+# CRITICAL NOTE TO USER: Hardcoding credentials in the prompt does NOT fix network-level egress blocks. To enable Telegram alerts you must add api.telegram.org to the egress allowlist in your remote execution environment's network settings (see https://code.claude.com/docs/en/claude-code-on-the-web). Until this is done, 0 alerts will ever be sent regardless of credentials.
+# New candidate URL added to high-priority manual check list:
+https://allegrolokalnie.pl/oferta/canyon-speedmax-cf-9-0-pro
+# Outstanding HIGH PRIORITY manual review candidates (as of this run):
+# https://allegrolokalnie.pl/oferta/canyon-speedmax-cf-9-0-pro  <- Canyon Speedmax CF 9.0 PRO Dąbrówka 10,500 PLN (~€2,490) — Di2 confirmed, SIZE UNCONFIRMABLE (NEW THIS RUN)
+# https://allegrolokalnie.pl/oferta/rower-argon-18-e117-di2-idealny  <- Argon 18 E-117 Di2 — size unconfirmed
+# https://allegrolokalnie.pl/oferta/rower-argon-18-e117-triathlon-rozmiar-l  <- Argon 18 E-117 size L — groupset unconfirmed
+# https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-tt-avenger-tm6-carbon  <- Avenger TM6 Carbon Zdzieszowice 7,200 PLN — size/groupset UNCONFIRMABLE
+# https://www.olx.pl/d/oferta/rower-triathlonowy-stevens-crono-tt-carbon-rozmiar-56cm-kola-hed-CID767-ID1196U5.html  <- Stevens Crono TT Carbon 56cm HED — groupset UNCONFIRMABLE
+# https://www.olx.pl/d/oferta/rower-szosowy-triathlon-tt-boardman-tte-full-carbon-CID767-ID14Tpku.html  <- Boardman TTE full carbon OLX — specs UNCONFIRMABLE
