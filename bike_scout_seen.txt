@@ -179,3 +179,21 @@ https://allegrolokalnie.pl/oferta/canyon-speedmax-cf-slx-l-ultegra-di2-kola-reyn
 # https://allegrolokalnie.pl/oferta/rower-argon-18-e117-di2-idealny
 # https://allegrolokalnie.pl/oferta/rower-argon-18-e117-triathlon-rozmiar-l
 # https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-tt-avenger-tm6-carbon
+# --- 2026-06-23 run (seventh) — 0 new confirmed matches ---
+2026-06-23T(run 7) — No new matches found. Scanned ~35 new URLs across SS.lv, OLX.pl, AllegroLokalnie.pl, Allegro.pl, Skelbiu.lt, Autoplius.lt, Osta.ee, Okidoki.ee. All direct fetches 403. 0 passed all filter criteria.
+# NOTE: Telegram not attempted — no qualifying listings found. api.telegram.org confirmed blocked via curl test (network egress policy, not credentials).
+# New URLs checked this run (did not pass all filters):
+# Pardus TT Carbon Konin 6,600 PLN AllegroLokalnie — INCONCLUSIVE (groupset & size not indexed by search): https://allegrolokalnie.pl/oferta/rower-czasowy-tt-triathlon-pardus-karbon-carbon
+# Orbea Ora TT Carbon Wrocław AllegroLokalnie — FAIL size (~54cm) + FAIL groupset (mechanical Ultegra) + archived/sold: https://allegrolokalnie.pl/oferta/rower-czasowy-triathlon-karbon-orbea-ora-tt-ultegr
+# Full Carbon TT Triathlon Żory 1,900 PLN AllegroLokalnie — FAIL groupset (price ~€440 inconsistent with Di2/SRAM Red): https://allegrolokalnie.pl/oferta/rower-trathlonowy-tt-czasowy-triathlon-full-carbon
+# Moozes Aero Carbon SS.lv bpdipb €850 — FAIL type (aero road bike) + FAIL groupset (mechanical Shimano): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bpdipb.html
+# Specialized Shiv CeramicSpeed+PowerMeter Miękowo AllegroLokalnie — FAIL groupset (SRAM Force, not SRAM Red): https://allegrolokalnie.pl/oferta/specialized-shiv-pomiarmocyceramicspeed-triathlon
+# NEW MANUAL CHECK (groupset/size unverifiable via search engines):
+# Pardus TT Carbon Konin — TT/triathlon ✓, carbon ✓, 6,600 PLN (~€1,550) under €8,000 ✓, groupset & size unknown. Visit: https://allegrolokalnie.pl/oferta/rower-czasowy-tt-triathlon-pardus-karbon-carbon
+# PERSISTENT UNDELIVERED TELEGRAM ALERTS — MANUAL ACTION REQUIRED (7 runs, all blocked):
+# 1. Canyon Speedmax CF SLX | Size L | Ultegra Di2 | Reynolds + Zipp Super 9 disc | ~€3,700 | Warszawa: https://allegrolokalnie.pl/oferta/canyon-speedmax-cf-slx-l-ultegra-di2-kola-reynolds-dysk-zipp-super-9
+# 2. Argon 18 E80 CreatoBike OLX Łódź — Ultegra Di2, dual-sided power meter, ~€1,000 — URL unconfirmed. Check: https://creatobike.olx.pl/home/
+# PERSISTENT HIGH PRIORITY MANUAL CHECKS (unchanged after 7 runs):
+# https://allegrolokalnie.pl/oferta/rower-argon-18-e117-di2-idealny
+# https://allegrolokalnie.pl/oferta/rower-argon-18-e117-triathlon-rozmiar-l
+# https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-tt-avenger-tm6-carbon
