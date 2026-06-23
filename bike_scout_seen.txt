@@ -100,3 +100,13 @@ https://www.olx.pl/d/oferta/van-rysel-fcr-rozmiar-l-triathlon-ultegra-di2-CID767
 # https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-tt-avenger-tm6-carbon
 # https://www.olx.pl/d/oferta/rower-triathlonowy-stevens-crono-tt-carbon-rozmiar-56cm-kola-hed-CID767-ID1196U5.html
 # https://www.olx.pl/d/oferta/rower-szosowy-triathlon-tt-boardman-tte-full-carbon-CID767-ID14Tpku.html
+# --- 2026-06-23 run (second) — 1 new listing passed filter ---
+# NOTE: Telegram BLOCKED — api.telegram.org not in network egress allowlist. Manual check required.
+https://allegrolokalnie.pl/oferta/rower-czasowy-triathlon-fuji-norcom-1-3-di2-55
+# Also logged (failed filter — new URLs found this run, did not pass):
+# BMC Timemachine 02 SRAM Red OLX Warszawa — FAIL size SM: https://www.olx.pl/oferta/bmc-timemachine-02-triathlon-sram-red-etap-CID767-IDw0rzr.html
+# Stevens Super Trofeo TT L 56 OLX Kiełczów — FAIL groupset (Ultegra mechanical): https://www.olx.pl/d/oferta/rower-czasowy-triathlonowy-stevens-super-trofeo-tt-l-56-CID767-ID153N8N.html
+# Fuji Norcom 1.3 Di2 TT Olkusz allegrolokalnie — FAIL size 53cm: https://allegrolokalnie.pl/oferta/rower-czasowy-fuji-norcom-straight-13-triathlon
+# Felt DA4 Ultegra Di2 Elblag allegrolokalnie — FAIL size 54cm: https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-felt-da4-ultegra-di2
+# Canyon Speedmax CF7 Di2 2024 OLX — INCONCLUSIVE size unverified: https://www.olx.pl/d/oferta/rower-tt-tri-triathlonowy-canyon-speedmax-cf7-di2-2024-CID767-ID12IgaL.html
+# Scott Plasma 2 L Szczecin OLX — INCONCLUSIVE groupset unverified: https://www.olx.pl/d/oferta/rower-triathlonowy-czasowy-tt-scott-plasma-2-kola-ffwd-carbon-CID767-ID18Pri3.html
