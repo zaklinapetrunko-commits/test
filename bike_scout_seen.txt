@@ -176,7 +176,7 @@ https://allegrolokalnie.pl/oferta/rower-triathlonowy-kestrel
 2026-06-22T17:30:00Z — No new matches found. Direct fetch: all sites returned 403. Via web search: ~60 candidate URLs reviewed across 20+ search queries, 0 genuinely new qualifying listings found.
 # Candidates checked 2026-06-22 (current run):
 # (1) Cervelo P5 56 Ultegra Metron 55 OLX Mrowino IDycb7C 13,000 PLN: FAIL groupset (Shimano Ultegra 6800 mechanical 2x11, not Di2/SRAM Red).
-# (2) SS.lv ngjhe.html €4,500: FAIL unconfirmable (403), TT/triathlon type unverifiable.
+# (2) SS.lv ngjhe.html €4,500 unknown: FAIL unconfirmable (403), TT/triathlon type unverifiable.
 # (3) All other SS.lv listings (cdkxli, bkhelc, bdkfce, fcgdh, cdmgbk, bjknpi): already in seen list or previously failed criteria.
 # (4) Skelbiu.lt Giant Trinity SRAM AXS: already in seen list.
 # (5) Osta.ee / Okidoki.ee / Andel.lv / Autoplius.lt / Skelbiu.lt: no qualifying listings indexed.
@@ -194,7 +194,7 @@ https://allegrolokalnie.pl/oferta/rower-triathlonowy-kestrel
 # (9) Andel.lv: no results.
 # (10) AllegroLokalnie triathlon category: category pages only, no new qualifying listings.
 2026-06-22T21:45:00Z — No new matches found. Direct fetch: all sites returned 403. Via web search: ~40 candidate URLs reviewed across 16 search queries, 0 passed all filter criteria.
-# Candidates checked 2026-06-22 (current run — final):
+# Candidates checked 2026-06-22 (current run):
 # (1) Stevens Super Trofeo TT L 56 OLX ID153N8N: FAIL groupset (Shimano Ultegra 11-speed mechanical, not Di2/SRAM Red). URL: https://www.olx.pl/d/oferta/rower-czasowy-triathlonowy-stevens-super-trofeo-tt-l-56-CID767-ID153N8N.html
 # (2) Merida Warp TT Lampre AllegroLokalnie Szczecin 11,000 PLN: FAIL size (S, 171-179cm rider) + FAIL groupset (Ultegra 6700 2x10 mechanical + SRAM Force crankset). URL: https://allegrolokalnie.pl/oferta/merida-warp-tt-lampre-czasowy-triathlonowy
 # (3) Avenger TM6 Carbon AllegroLokalnie Zdzieszowice 7,200 PLN (~€1,710): UNCONFIRMABLE size/groupset (403). Carbon TT ✓, price ✓, but cannot confirm size or Di2/SRAM Red groupset. https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-tt-avenger-tm6-carbon
@@ -275,3 +275,25 @@ https://allegrolokalnie.pl/oferta/rower-czasowy-triathlon-fuji-norcom-1-3-di2-55
 # https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bxhhel.html  ← Canyon Speedmax CF 8.0 Latvia €2,890 — size + groupset UNCONFIRMABLE
 # https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-tt-avenger-tm6-carbon  ← Avenger TM6 Carbon Zdzieszowice 7,200 PLN — size/groupset UNCONFIRMABLE
 # https://www.olx.pl/d/oferta/rower-triathlonowy-stevens-crono-tt-carbon-rozmiar-56cm-kola-hed-CID767-ID1196U5.html  ← Stevens Crono TT Carbon 56cm HED — groupset UNCONFIRMABLE
+2026-06-23T18:00:00Z — No new matches found. Direct fetch: all sites returned 403 (SS.lv, OLX.pl, AllegroLokalnie.pl, Allegro.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Skelbiu.lt, Andel.lv). Via web search: ~80 candidate URLs reviewed across 25+ search queries, 0 passed all filter criteria.
+# Candidates checked 2026-06-23 (this run — current):
+# (1) Orbea Ordu M20 L carbon Koszalin 8,999 PLN AllegroLokalnie /rower-orbea-ordu-m20-czasowy-tri-karbon-rama-l: FAIL groupset (Orbea Ordu M20 non-iLTD = Shimano Ultegra mechanical; price ~€2,130 inconsistent with Di2 build cost).
+# (2) Cervelo P-Series r58 AllegroLokalnie /rower-triathlonowy-cervelo-pseries-r58: FAIL size (58cm > 57cm max).
+# (3) Cervelo S5 Disc Ultegra Di2 58cm AllegroLokalnie /cervelo-s5-disc-ultegra-di2-dt-swiss-58cm-nowy: FAIL type (road bike) + FAIL size (58cm).
+# (4) Cervelo Caledonia-5 Ultegra carbon AllegroLokalnie /rower-szosowy-cervelo-caledonia5-ultegra-carbon: FAIL type (road bike, not TT/triathlon).
+# (5) SS.lv cdkhdh.html Cervelo Apex Gravel L/56cm €1,650: FAIL type (gravel bike, not TT/triathlon).
+# (6) Skelbiu.lt Giant Trinity XL 2,200€ Ukmergė: FAIL size (XL > 57cm max).
+# (7) Skelbiu.lt BMC Timemachine 02 M/S Kaunas: FAIL size (M/S < 55cm min).
+# (8) All other AllegroLokalnie / OLX.pl / Allegro.pl / Skelbiu.lt / Autoplius.lt / Osta.ee / Okidoki.ee / Andel.lv results: category pages only or previously seen/failed listings.
+# NOTE: Telegram NOT attempted this run — no new qualifying listings found. User noted credentials are hardcoded; network egress block may have been resolved externally. Will confirm on next qualifying listing.
+# Outstanding HIGH PRIORITY manual review candidates (unchanged — all returning 403):
+# https://allegrolokalnie.pl/oferta/rower-argon-18-e117-di2-idealny  ← Argon 18 E-117 Di2 — size unconfirmed
+# https://allegrolokalnie.pl/oferta/rower-argon-18-e117-triathlon-rozmiar-l  ← Argon 18 E-117 size L — groupset unconfirmed
+# https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-tt-avenger-tm6-carbon  ← Avenger TM6 Carbon Zdzieszowice — size/groupset UNCONFIRMABLE
+# https://www.olx.pl/d/oferta/rower-triathlonowy-stevens-crono-tt-carbon-rozmiar-56cm-kola-hed-CID767-ID1196U5.html  ← Stevens Crono TT Carbon 56cm HED — groupset UNCONFIRMABLE
+# New failed URLs added to seen list this run:
+https://allegrolokalnie.pl/oferta/rower-orbea-ordu-m20-czasowy-tri-karbon-rama-l
+https://allegrolokalnie.pl/oferta/rower-triathlonowy-cervelo-pseries-r58
+https://allegrolokalnie.pl/oferta/cervelo-s5-disc-ultegra-di2-dt-swiss-58cm-nowy
+https://allegrolokalnie.pl/oferta/rower-szosowy-cervelo-caledonia5-ultegra-carbon
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cdkhdh.html
