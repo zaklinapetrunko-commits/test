@@ -87,3 +87,25 @@ https://allegrolokalnie.pl/oferta/rower-czasowy-triathlon-fuji-norcom-1-3-di2-55
 # https://allegrolokalnie.pl/oferta/rower-argon-18-e117-triathlon-rozmiar-l
 # https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-tt-avenger-tm6-carbon
 # https://allegrolokalnie.pl/oferta/rower-czasowy-tt-triathlon-pardus-karbon-carbon
+# --- 2026-06-23 run (ninth) — 0 new confirmed matches ---
+2026-06-23T(run 9) — No new matches found. Scanned ~10 new URLs across SS.lv, OLX.pl, AllegroLokalnie.pl. All direct fetches 403. 0 passed all filter criteria.
+# NOTE: api.telegram.org STILL not in network egress allowlist — Telegram alerts remain blocked regardless of hardcoded credentials. This is an infrastructure-level egress restriction.
+# New URLs checked this run (did not pass all filters):
+# SS.lv Time "NX RS" carbon Di2 €1,000 Latvia — FAIL type (Time NXR is a road bike, not TT/triathlon): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bpdhxh.html
+# SS.lv Felt B14 carbon triathlon €950 — FAIL groupset (mechanical Ultegra): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cendeb.html
+# SS.lv TT velo M/L 54cm €480 — FAIL size (<55cm): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cdkxli.html
+# AllegroLokalnie Felt DA4 Ultegra Di2 Elbląg 7,999 PLN — FAIL size (54cm): https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-felt-da4-ultegra-di2
+# AllegroLokalnie Scott Plasma 20 Bydgoszcz — FAIL groupset (mechanical Ultegra 2x10): https://allegrolokalnie.pl/oferta/rower-triathlonowy-czasowy-scott-plasma-20
+# AllegroLokalnie Bottecchia Cronothlon Di2 Białystok 14,700 PLN — FAIL size (51/53cm): https://allegrolokalnie.pl/oferta/rower-triathlonowy-bottecchia-tri-di2-mavic
+# AllegroLokalnie Merida Warp TT Lampre Szczecin — FAIL groupset (mechanical): https://allegrolokalnie.pl/oferta/merida-warp-tt-lampre-czasowy-triathlonowy
+# OLX Stevens Super Trofeo TT L 56 — FAIL groupset (Shimano Ultegra mechanical): https://www.olx.pl/d/oferta/rower-czasowy-triathlonowy-stevens-super-trofeo-tt-l-56-CID767-ID153N8N.html
+# OLX Massi carbon SRAM Red 10sp Bydgoszcz — FAIL size (M-L ~54cm, not confirmed ≥55cm): https://www.olx.pl/oferta/rower-czasowy-massi-rower-triathlonowy-carbon-CID767-IDvJcRN.html
+# OLX Cervelo P5 56 Ultegra Metron 55 — FAIL groupset (Ultegra 6800 mechanical + Dura-Ace shifters): https://www.olx.pl/oferta/cervelo-p5-56-ultegra-metron-55-triathlon-rower-czasowy-triathlonowy-CID767-IDycb7C.html
+# PERSISTENT UNDELIVERED TELEGRAM ALERTS — MANUAL ACTION REQUIRED (9 runs, all blocked):
+# 1. Canyon Speedmax CF SLX | Size L | Ultegra Di2 | Reynolds + Zipp Super 9 disc | ~€3,700 | Warszawa: https://allegrolokalnie.pl/oferta/canyon-speedmax-cf-slx-l-ultegra-di2-kola-reynolds-dysk-zipp-super-9
+# 2. Argon 18 E80 CreatoBike OLX Łódź — Ultegra Di2, dual-sided power meter, ~€1,000 — URL unconfirmed. Check: https://creatobike.olx.pl/home/
+# PERSISTENT HIGH PRIORITY MANUAL CHECKS (unchanged after 9 runs):
+# https://allegrolokalnie.pl/oferta/rower-argon-18-e117-di2-idealny
+# https://allegrolokalnie.pl/oferta/rower-argon-18-e117-triathlon-rozmiar-l
+# https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-tt-avenger-tm6-carbon
+# https://allegrolokalnie.pl/oferta/rower-czasowy-tt-triathlon-pardus-karbon-carbon
