@@ -110,3 +110,18 @@ https://allegrolokalnie.pl/oferta/rower-czasowy-triathlon-fuji-norcom-1-3-di2-55
 # Felt DA4 Ultegra Di2 Elblag allegrolokalnie — FAIL size 54cm: https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-felt-da4-ultegra-di2
 # Canyon Speedmax CF7 Di2 2024 OLX — INCONCLUSIVE size unverified: https://www.olx.pl/d/oferta/rower-tt-tri-triathlonowy-canyon-speedmax-cf7-di2-2024-CID767-ID12IgaL.html
 # Scott Plasma 2 L Szczecin OLX — INCONCLUSIVE groupset unverified: https://www.olx.pl/d/oferta/rower-triathlonowy-czasowy-tt-scott-plasma-2-kola-ffwd-carbon-CID767-ID18Pri3.html
+# --- 2026-06-23 run (third) — 0 new confirmed matches ---
+# Scanned ~30 new URLs across all platforms. 0 passed all filter criteria.
+# NOTE: Telegram not attempted — no qualifying listings found.
+# New URLs checked this run (did not pass all filters):
+# SS.lv cdkxli — FAIL size (54cm < 55cm): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cdkxli.html
+# Trek Speed Concept XL Di2 OLX Swarzędz IDSIyfC — FAIL size (XL ≈ 58cm), has Di2 + power meter: https://www.olx.pl/d/oferta/trek-speed-concept-xl-di2-tt-triathlon-karbon-CID767-IDSIyfC.html
+# Guerciotti Crux TT r56 OLX Wrocław ID15wDjd — FAIL groupset (likely Shimano 105): https://www.olx.pl/d/oferta/rower-czasowy-triathlonowy-tt-guerciotti-crux-tt-r56-CID767-ID15wDjd.html
+# Argon 18 E-117 OLX Poznań IDtfjeW — FAIL groupset (Shimano 105): https://www.olx.pl/oferta/szosa-argon-18-e-117-tri-carbon-shimano-triathlon-czasowy-3t-CID767-IDtfjeW.html
+# Quintana Roo Kilo allegrolokalnie — FAIL groupset (SRAM Rival): https://allegrolokalnie.pl/oferta/rower-tt-triathlonowy-czasowy-quintana-roo-kilo
+# Cervelo P-Series 105 56cm allegrolokalnie — FAIL groupset (Shimano 105): https://allegrolokalnie.pl/oferta/rower-triathlonowy-tt-cervelo-pseries-105-56-cm
+# Merida Warp TT Lampre allegrolokalnie — FAIL size (S): https://allegrolokalnie.pl/oferta/merida-warp-tt-lampre-czasowy-triathlonowy
+# Profile Design TT carbon 56 OLX IDuf6Qh — INCONCLUSIVE (groupset unverified): https://www.olx.pl/d/oferta/rower-carbonowy-56-traithlonowy-tt-czasowy-profile-design-CID767-IDuf6Qh.html
+# Argon 18 E-112 Allegro — INCONCLUSIVE (old model, specs unverified): https://allegro.pl/oferta/rower-szosowe-czasowy-triathlon-tt-argon-18-e-112-kola-token-17099886377
+# HIGH PRIORITY MANUAL CHECK (URL unconfirmed, cannot add to seen list):
+# Argon 18 E80 — OLX.pl CreatoBike, Łódź Widzew, 4299 zł, posted April 23 2026, Shimano Ultegra Di2, dual-sided power meter — SEARCH CONSISTENTLY CONFIRMS THIS EXISTS but direct URL not retrievable (site 403). Size L/57cm likely → would PASS all filters + ⭐ power meter. Manual verification strongly recommended.
