@@ -384,3 +384,21 @@ https://allegrolokalnie.pl/oferta/canyon-speedmax-cf-9-0-pro
 # https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-tt-avenger-tm6-carbon  <- Avenger TM6 Carbon Zdzieszowice 7,200 PLN — size/groupset UNCONFIRMABLE
 # https://www.olx.pl/d/oferta/rower-triathlonowy-stevens-crono-tt-carbon-rozmiar-56cm-kola-hed-CID767-ID1196U5.html  <- Stevens Crono TT Carbon 56cm HED — groupset UNCONFIRMABLE
 # https://www.olx.pl/d/oferta/rower-szosowy-triathlon-tt-boardman-tte-full-carbon-CID767-ID14Tpku.html  <- Boardman TTE full carbon OLX — specs UNCONFIRMABLE
+
+2026-06-23T(current) — No new confirmed matches found. Direct fetch: all sites returned 403 (SS.lv, OLX.pl, AllegroLokalnie.pl, Allegro.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Skelbiu.lt, Andel.lv). Via web search: ~50 candidate URLs reviewed across 20+ search queries, 0 confirmed passed all filter criteria.
+# Candidates checked 2026-06-23 (this run):
+# (1) Giant Trinity Advanced Pro 2 Roz L AllegroLokalnie /giant-trinity-advanced-pro-2-roz-l: NEW URL — NOT in seen list. Carbon (Advanced Carbon manufacturer spec) ✓, triathlon/TT ✓, size L ✓. Groupset: Shimano Ultegra Di2 per manufacturer spec for Trinity Advanced Pro 2 2019-2022 ✓. Price ~16,000-18,500 PLN (~3,800-4,400 EUR), under EUR 8,000 ✓. Page returns 403 — price/location/condition UNCONFIRMED from listing itself. HIGH CONFIDENCE candidate.
+# (2) Giant Liv Avow Advanced Pro 1 M /rower-triathlonowy-giant-liv-avow-advanced-pro-1-m-rower-czasowy Warsaw 11,000 PLN: FAIL size M.
+# (3) Avenger TM6 Carbon, Canyon Speedmax CF 9.0 PRO: persistent unconfirmable candidates (unchanged from prior runs).
+# (4) All SS.lv / OLX.pl / Allegro.pl / Skelbiu.lt / Autoplius.lt / Osta.ee / Okidoki.ee / Andel.lv results: previously seen or failing criteria.
+# Telegram tested via curl: api.telegram.org STILL BLOCKED. 0 alerts sent. 0 alerts in entire scout history.
+# New candidate URL (unconfirmed, all 5 criteria pass per manufacturer spec):
+https://allegrolokalnie.pl/oferta/giant-trinity-advanced-pro-2-roz-l
+# Outstanding HIGH PRIORITY manual review candidates:
+# https://allegrolokalnie.pl/oferta/giant-trinity-advanced-pro-2-roz-l  <- NEW: Giant Trinity Advanced Pro 2 size L, Di2 confirmed by manufacturer spec
+# https://allegrolokalnie.pl/oferta/canyon-speedmax-cf-9-0-pro  <- Canyon Speedmax CF 9.0 PRO Dabrowka 10,500 PLN
+# https://allegrolokalnie.pl/oferta/rower-argon-18-e117-di2-idealny  <- Argon 18 E-117 Di2 size unconfirmed
+# https://allegrolokalnie.pl/oferta/rower-argon-18-e117-triathlon-rozmiar-l  <- Argon 18 E-117 size L groupset unconfirmed
+# https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-tt-avenger-tm6-carbon  <- Avenger TM6 Carbon 7,200 PLN
+# https://www.olx.pl/d/oferta/rower-triathlonowy-stevens-crono-tt-carbon-rozmiar-56cm-kola-hed-CID767-ID1196U5.html  <- Stevens Crono TT 56cm HED groupset unconfirmed
+# https://www.olx.pl/d/oferta/rower-szosowy-triathlon-tt-boardman-tte-full-carbon-CID767-ID14Tpku.html  <- Boardman TTE full carbon OLX specs unconfirmed
