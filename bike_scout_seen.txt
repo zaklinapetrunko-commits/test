@@ -332,3 +332,19 @@ https://allegrolokalnie.pl/oferta/ridley-dean-fast-r-s-triathlon-rower-czasowy-i
 https://www.olx.pl/d/oferta/rama-rowerowa-triathlon-fuji-norcom-straight-1-1-rozmiar-55cm-karbon-CID767-ID15acGW.html
 https://www.olx.pl/oferta/szosa-guerciotti-crux-tt-carbon-shimano-czasowy-triathlon-tri-CID767-IDs01lx.html
 https://www.olx.pl/oferta/rower-triathlonowy-felt-b14-rozmiar-56-z-rama-karbonowa-doinwestowany-CID767-IDGF638.html
+2026-06-23T23:59:00Z — No new matches found. Direct fetch: all sites returned 403 (SS.lv, OLX.pl, AllegroLokalnie.pl, Allegro.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Skelbiu.lt, Andel.lv). Via web search: ~40 candidate URLs reviewed across 18 search queries, 0 passed all filter criteria.
+# Candidates checked 2026-06-23 (this run — final):
+# (1) Boardman TTE Najwyższy model AllegroLokalnie /boardman-tte-najwyzszy-model-czasowka-tt-tri Murowana Goślina 9,500 PLN: FAIL size S (175-180cm rider, below 55cm min). Groupset Ultegra Di2 1x11 (would pass groupset criterion).
+# (2) BMC Time Machine 02 L OLX ID13asQS Gdańsk Ujeścisko-Łostowice ~5,300 PLN: FAIL groupset (Shimano 105 mechanical, not Di2/SRAM Red). Size L ✓, carbon ✓, TT/triathlon ✓, price ✓.
+# (3) Boardman TTE full carbon OLX ID14Tpku: UNCONFIRMABLE (403) — frame/groupset/size all unknown.
+# NOTE: Telegram connectivity tested via curl this run — api.telegram.org returns HTTP 403. Network egress block STILL ACTIVE. Hardcoding credentials in prompt per user instruction does NOT fix infrastructure-level egress block. 0 Telegram alerts sent in entire scout history (all prior + this run).
+# Outstanding HIGH PRIORITY manual review candidates (persistent — all returning 403 on direct fetch):
+# https://allegrolokalnie.pl/oferta/rower-argon-18-e117-di2-idealny  <- Argon 18 E-117 Di2 — size unconfirmed
+# https://allegrolokalnie.pl/oferta/rower-argon-18-e117-triathlon-rozmiar-l  <- Argon 18 E-117 size L — groupset unconfirmed
+# https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-tt-avenger-tm6-carbon  <- Avenger TM6 Carbon 7,200 PLN — size/groupset UNCONFIRMABLE
+# https://www.olx.pl/d/oferta/rower-triathlonowy-stevens-crono-tt-carbon-rozmiar-56cm-kola-hed-CID767-ID1196U5.html  <- Stevens Crono TT Carbon 56cm HED — groupset UNCONFIRMABLE
+# https://www.olx.pl/d/oferta/rower-szosowy-triathlon-tt-boardman-tte-full-carbon-CID767-ID14Tpku.html  <- Boardman TTE full carbon OLX — specs UNCONFIRMABLE
+# New failed URLs added to seen list this run:
+https://allegrolokalnie.pl/oferta/boardman-tte-najwyzszy-model-czasowka-tt-tri
+https://www.olx.pl/d/oferta/rower-triathlonowy-czasowy-bmc-time-machine-02-rozmiar-l-CID767-ID13asQS.html
+https://www.olx.pl/d/oferta/rower-szosowy-triathlon-tt-boardman-tte-full-carbon-CID767-ID14Tpku.html
