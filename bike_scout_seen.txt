@@ -430,3 +430,26 @@ https://www.olx.pl/d/oferta/rower-czasowy-colnago-kzero-ultegra-di2-2x11s-rozmia
 # https://allegrolokalnie.pl/oferta/rower-argon18-e116-tt-bez-kol (carbon TT confirmed, size/groupset unverifiable)
 # https://allegro.pl/oferta/specialized-shiv-s-works-triathlon-rower-szosowy-9140800295 (Dura-Ace 2x11 mentioned, Di2 unconfirmable, size unconfirmed)
 # https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bxhhel.html (Canyon Speedmax CF 8.0 EUR2,890 Latvia — Di2 variant unconfirmed)
+# --- 2026-06-24 run (twenty-sixth) — 0 new confirmed matches ---
+2026-06-24T(run 26) — No new matches found. Scanned ~20 new URLs across SS.lv, OLX.pl, AllegroLokalnie.pl, Allegro.pl, Skelbiu.lt, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv. All direct fetches 403. 0 passed all filter criteria.
+# NOTE: api.telegram.org STILL blocked — curl exit 56 (proxy drops CONNECT tunnel). Hardcoded credentials confirmed correct; egress policy blocks the destination regardless. This has persisted across all 26 runs. Infrastructure-level restriction — credentials in prompt cannot override egress allowlist policy. To fix: update network policy to whitelist api.telegram.org (https://code.claude.com/docs/en/claude-code-on-the-web).
+# No new qualifying listings this run — Telegram step skipped (no alerts to send).
+# New URLs scanned this run (did not pass all filters):
+# BH Aerolight RC Full Carbon Marki 5,000 PLN (~EUR1,150) — FAIL groupset (2017 model, mechanical spec, price inconsistent with Di2 build): https://allegrolokalnie.pl/oferta/rower-triathlonowy-bh-aerolight-rc-full-carbon
+# Simplon Pride TRI XL SRAM Rival AXS Lublin — FAIL groupset (SRAM Rival, not Red) + FAIL size (XL >57cm): https://www.olx.pl/d/oferta/rower-triathlon-simplon-pride-tri-xl-sram-rival-axs-f-vat-CID767-ID12HvEP.html
+# Simplon Pride TRI XS SRAM Rival AXS Lublin — FAIL groupset (SRAM Rival, not Red) + FAIL size (XS): https://www.olx.pl/d/oferta/rower-triathlon-simplon-pride-tri-xs-sram-rival-axs-f-vat-CID767-ID12HvEP.html
+# Simplon Pride TRI XXS Dura Ace Di2 Lublin — FAIL size (XXS): https://www.olx.pl/d/oferta/rower-triathlon-simplon-pride-tri-xxs-uktegra-di2-vision-metron-f-vat-CID767-ID12HvrW.html
+# Merida Warp Triathlon Wronki — FAIL groupset (mechanical Ultegra, Di2 not confirmed): https://allegrolokalnie.pl/oferta/rower-triathlon-merida-warp
+# PERSISTENT UNDELIVERED TELEGRAM ALERTS — MANUAL ACTION REQUIRED (26 runs, all blocked):
+# 1. Canyon Speedmax CF SLX | Size L | Ultegra Di2 | Reynolds + Zipp Super 9 disc | ~EUR3,700 | Warszawa: https://allegrolokalnie.pl/oferta/canyon-speedmax-cf-slx-l-ultegra-di2-kola-reynolds-dysk-zipp-super-9
+# 2. Argon 18 E80 CreatoBike OLX Łódź — Ultegra Di2, dual-sided power meter | ~EUR1,018 (4,299 PLN) | URL unconfirmed — check: https://creatobike.olx.pl/home/
+# 3. Colnago K-Zero Ultegra Di2 L | ~EUR2,100 (8,999 PLN) | Kalisz | https://www.olx.pl/d/oferta/rower-czasowy-colnago-kzero-ultegra-di2-2x11s-rozmiar-l-CID767-ID13SO8B.html
+# PERSISTENT HIGH PRIORITY MANUAL CHECKS (unchanged after 26 runs):
+# https://allegrolokalnie.pl/oferta/rower-argon-18-e117-di2-idealny
+# https://allegrolokalnie.pl/oferta/rower-argon-18-e117-triathlon-rozmiar-l
+# https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-tt-avenger-tm6-carbon
+# https://allegrolokalnie.pl/oferta/rower-czasowy-tt-triathlon-pardus-karbon-carbon
+# https://allegrolokalnie.pl/oferta/pinarello-bolid-durace-di2-team-sky (Di2 confirmed, size ~55cm per Team Sky spec, ~EUR7,000 — MANUAL CHECK RECOMMENDED)
+# https://allegrolokalnie.pl/oferta/rower-argon18-e116-tt-bez-kol (carbon TT confirmed, size/groupset unverifiable)
+# https://allegro.pl/oferta/specialized-shiv-s-works-triathlon-rower-szosowy-9140800295 (Dura-Ace 2x11 mentioned, Di2 unconfirmable, size unconfirmed)
+# https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bxhhel.html (Canyon Speedmax CF 8.0 EUR2,890 Latvia — Di2 variant unconfirmed)
