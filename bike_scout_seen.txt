@@ -112,7 +112,7 @@ https://www.olx.pl/d/oferta/rower-czasowy-colnago-kzero-ultegra-di2-2x11s-rozmia
 # https://allegrolokalnie.pl/oferta/rower-czasowy-tt-triathlon-pardus-karbon-carbon
 # --- 2026-06-23 run (tenth) — 0 new confirmed matches ---
 2026-06-23T(run 10) — No new matches found. Scanned ~18 new URLs across OLX.pl, AllegroLokalnie.pl, Allegro.pl, SS.lv, Skelbiu.lt, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv. All direct fetches 403. 0 passed all filter criteria.
-# NOTE: api.telegram.org STILL blocked (proxy 403 on CONNECT tunnel). This is infrastructure-level — the outbound HTTPS proxy (ca-bundle: /root/.ccr/ca-bundle.crt) blocks CONNECT tunnels to api.telegram.org. Hardcoding credentials in the prompt does NOT override egress policy. No new listings to alert in any case this run.
+# NOTE: api.telegram.org STILL blocked (proxy 403 on CONNECT tunnel). This is infrastructure-level — the outbound HTTPS proxy (ca-bundle: /root/.ccr/ca-bundle.crt) blocks CONNECT tunnels to api.telegram.org. Hardcoding credentials in the prompt do NOT override egress policy. No new listings to alert in any case this run.
 # IMPORTANT: To fix Telegram alerts, the network policy for this remote execution environment must be updated to allow outbound HTTPS to api.telegram.org. See: https://code.claude.com/docs/en/claude-code-on-the-web for environment configuration.
 # New URLs checked this run (did not pass all filters):
 # AllegroLokalnie Orbea ORA TT Ultegr Wroclaw — FAIL groupset (Ultegra 6600/6700 mechanical 10-speed) + FAIL size (~53-54cm): https://allegrolokalnie.pl/oferta/rower-czasowy-triathlon-karbon-orbea-ora-tt-ultegr
@@ -398,6 +398,30 @@ https://www.olx.pl/d/oferta/rower-czasowy-colnago-kzero-ultegra-di2-2x11s-rozmia
 # 2. Argon 18 E80 CreatoBike OLX Łódź — Ultegra Di2, dual-sided power meter | ~EUR1,018 (4,299 PLN) | URL unconfirmed — check: https://creatobike.olx.pl/home/
 # 3. Colnago K-Zero Ultegra Di2 L | ~EUR2,100 (8,999 PLN) | Kalisz | https://www.olx.pl/d/oferta/rower-czasowy-colnago-kzero-ultegra-di2-2x11s-rozmiar-l-CID767-ID13SO8B.html
 # PERSISTENT HIGH PRIORITY MANUAL CHECKS (unchanged after 24 runs):
+# https://allegrolokalnie.pl/oferta/rower-argon-18-e117-di2-idealny
+# https://allegrolokalnie.pl/oferta/rower-argon-18-e117-triathlon-rozmiar-l
+# https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-tt-avenger-tm6-carbon
+# https://allegrolokalnie.pl/oferta/rower-czasowy-tt-triathlon-pardus-karbon-carbon
+# https://allegrolokalnie.pl/oferta/pinarello-bolid-durace-di2-team-sky (Di2 confirmed, size ~55cm per Team Sky spec, ~EUR7,000 — MANUAL CHECK RECOMMENDED)
+# https://allegrolokalnie.pl/oferta/rower-argon18-e116-tt-bez-kol (carbon TT confirmed, size/groupset unverifiable)
+# https://allegro.pl/oferta/specialized-shiv-s-works-triathlon-rower-szosowy-9140800295 (Dura-Ace 2x11 mentioned, Di2 unconfirmable, size unconfirmed)
+# https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bxhhel.html (Canyon Speedmax CF 8.0 EUR2,890 Latvia — Di2 variant unconfirmed)
+# --- 2026-06-24 run (twenty-fifth) — 0 new confirmed matches ---
+2026-06-24T(run 25) — No new matches found. Scanned ~20 new URLs across SS.lv, OLX.pl, AllegroLokalnie.pl, Allegro.pl, Skelbiu.lt, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv. All direct fetches 403. 0 passed all filter criteria.
+# NOTE: api.telegram.org STILL blocked — egress policy blocks CONNECT tunnel to api.telegram.org regardless of hardcoded credentials. This has persisted across all 25 runs. The proxy intercepts the CONNECT tunnel BEFORE credentials reach Telegram's API servers. Credentials in the prompt do NOT override the infrastructure-level outbound egress policy. No new listings to alert in any case this run.
+# IMPORTANT: To enable Telegram alerts, the network policy for this remote execution environment MUST be updated to allow outbound HTTPS to api.telegram.org. This is an infrastructure-level restriction. Hardcoding credentials does NOT fix it. See: https://code.claude.com/docs/en/claude-code-on-the-web
+# New URLs checked this run (did not pass all filters):
+# OLX Orbea Ordu TT Carbon Ultegra rozmiar L — FAIL groupset (mechanical Shimano Ultegra 10-speed, bar-end shifters, pre-Di2 build): https://www.olx.pl/d/oferta/rower-triathlon-tt-orbea-ordu-carbon-ultegra-rozmiar-l-CID767-IDAWyFh.html
+# SS.lv Giant Revolt Advanced 2 L Carbon EUR1,450 — FAIL type (Giant Revolt is a gravel/adventure bike, not TT/triathlon): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cdiihd.html
+# SS.lv Cube Agree C:62 Pro 58cm SRAM EUR3,500 — FAIL size (58cm > 57cm max) + FAIL type (road endurance bike): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bxhibd.html
+# SS.lv Giant Propel Advanced 1 (2024) aero EUR2,300 — FAIL type (aero road race bike, not TT/triathlon): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cdhnbh.html
+# Allegro Cervelo S5 Ultegra Di2 2026 56cm — FAIL type (Cervelo S5 = road race bike, not TT/triathlon): https://allegro.pl/oferta/cervelo-s5-ultegra-di2-carnelian-rower-szosowy-model-2026-rozm-56-18034724482
+# OLX Cannondale Slice Ultegra 6800 sizes 54+57 new — FAIL groupset (Shimano Ultegra 6800 mechanical, pre-Di2): https://www.olx.pl/oferta/rower-cannondale-slice-ultegra-roz-54-i-57-carbon-nowy-CID767-IDqWK9N.html
+# PERSISTENT UNDELIVERED TELEGRAM ALERTS — MANUAL ACTION REQUIRED (25 runs, all blocked):
+# 1. Canyon Speedmax CF SLX | Size L | Ultegra Di2 | Reynolds + Zipp Super 9 disc | ~EUR3,700 | Warszawa: https://allegrolokalnie.pl/oferta/canyon-speedmax-cf-slx-l-ultegra-di2-kola-reynolds-dysk-zipp-super-9
+# 2. Argon 18 E80 CreatoBike OLX Łódź — Ultegra Di2, dual-sided power meter | ~EUR1,018 (4,299 PLN) | URL unconfirmed — check: https://creatobike.olx.pl/home/
+# 3. Colnago K-Zero Ultegra Di2 L | ~EUR2,100 (8,999 PLN) | Kalisz | https://www.olx.pl/d/oferta/rower-czasowy-colnago-kzero-ultegra-di2-2x11s-rozmiar-l-CID767-ID13SO8B.html
+# PERSISTENT HIGH PRIORITY MANUAL CHECKS (unchanged after 25 runs):
 # https://allegrolokalnie.pl/oferta/rower-argon-18-e117-di2-idealny
 # https://allegrolokalnie.pl/oferta/rower-argon-18-e117-triathlon-rozmiar-l
 # https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-tt-avenger-tm6-carbon
