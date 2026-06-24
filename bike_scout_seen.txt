@@ -15,7 +15,7 @@ https://allegrolokalnie.pl/oferta/rower-czasowy-dolan-tt-carbon-triathlon-dura-a
 https://www.olx.pl/d/oferta/nowy-rower-triathlonowy-felt-ia-2-0-expert-ultegra-di2-12s-super-cena-CID767-ID18RPS3.html
 https://m.skelbiu.lt/skelbimai/giant-trinity-triatlono-dviratis-sram-axs-naujas-l-74636002.html
 https://allegro.pl/oferta/rower-czasowy-orbea-ordu-carbon-55-sram-zipp-mavic-7838383416
-https://allegro.pl/oferta/rower-czasowy-tt-triathlon-czasowka-cannondale-slice-full-carbon-17345886252
+https://allegro.pl/oferta/rower-czasowy-tt-triathlon-cannondale-slice-full-carbon-17345886252
 https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-ribble-deda-tt-carbon
 https://allegrolokalnie.pl/oferta/cervelo-px-sram-red-axs-zipp-l56
 https://allegrolokalnie.pl/oferta/cervelo-p5-six-di2-56
@@ -212,6 +212,25 @@ https://allegrolokalnie.pl/oferta/rower-czasowy-triathlon-fuji-norcom-1-3-di2-55
 # 1. Canyon Speedmax CF SLX | Size L | Ultegra Di2 | Reynolds + Zipp Super 9 disc | ~€3,700 | Warszawa: https://allegrolokalnie.pl/oferta/canyon-speedmax-cf-slx-l-ultegra-di2-kola-reynolds-dysk-zipp-super-9
 # 2. Argon 18 E80 CreatoBike OLX Łódź — Ultegra Di2, dual-sided power meter, ~€1,000 — URL unconfirmed. Check: https://creatobike.olx.pl/home/
 # PERSISTENT HIGH PRIORITY MANUAL CHECKS (unchanged after 15 runs):
+# https://allegrolokalnie.pl/oferta/rower-argon-18-e117-di2-idealny
+# https://allegrolokalnie.pl/oferta/rower-argon-18-e117-triathlon-rozmiar-l
+# https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-tt-avenger-tm6-carbon
+# https://allegrolokalnie.pl/oferta/rower-czasowy-tt-triathlon-pardus-karbon-carbon
+# --- 2026-06-24 run (sixteenth) — 0 new confirmed matches ---
+2026-06-24T(run 16) — No new matches found. Scanned ~20 new URLs across SS.lv, OLX.pl, AllegroLokalnie.pl, Allegro.pl, Skelbiu.lt, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv. All direct fetches 403. 0 passed all filter criteria.
+# NOTE: api.telegram.org STILL blocked — egress policy blocks CONNECT tunnel to api.telegram.org regardless of hardcoded credentials. This has persisted across all 16 runs. To fix: update network policy to whitelist api.telegram.org (see https://code.claude.com/docs/en/claude-code-on-the-web).
+# New URLs checked this run (did not pass all filters):
+# SS.lv Velosipēds Eagle 29x2.35'' €4,500 — FAIL type (SRAM Eagle = MTB groupset, mountain bike not TT/triathlon): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/ngjhe.html
+# SS.lv S-M rāmis 160-175cm SRAM carbon Quarq power €1,550 — FAIL size (S-M ≈ 51-53cm, below 55cm minimum): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bkhelc.html
+# SS.lv Trek Emonda SL5 Carbon 56 izmērs €1,750 — FAIL type (road race bike, not TT/triathlon): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdkicx.html
+# Allegro.pl Pinarello FT1 Karbon Triathlon 56cm ~€2,380 — FAIL groupset unconfirmed (Dura-Ace noted, Di2 vs mechanical unverifiable — all fetches 403): https://allegro.pl/oferta/rower-pinarello-ft1-szosa-karbon-triathlon-56cm-7066400132
+# SS.lv Specialized 58cm Carbon €2,800 — FAIL size (58cm > 57cm maximum): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bjknpi.html
+# MANUAL CHECK RECOMMENDED (could be qualifying if Di2 confirmed):
+# Allegro.pl Pinarello FT1 56cm Triathlon — if Dura-Ace Di2 spec confirmed, passes all other criteria (~€2,380): https://allegro.pl/oferta/rower-pinarello-ft1-szosa-karbon-triathlon-56cm-7066400132
+# PERSISTENT UNDELIVERED TELEGRAM ALERTS — MANUAL ACTION REQUIRED (16 runs, all blocked):
+# 1. Canyon Speedmax CF SLX | Size L | Ultegra Di2 | Reynolds + Zipp Super 9 disc | ~€3,700 | Warszawa: https://allegrolokalnie.pl/oferta/canyon-speedmax-cf-slx-l-ultegra-di2-kola-reynolds-dysk-zipp-super-9
+# 2. Argon 18 E80 CreatoBike OLX Łódź — Ultegra Di2, dual-sided power meter, ~€1,000 — URL unconfirmed. Check: https://creatobike.olx.pl/home/
+# PERSISTENT HIGH PRIORITY MANUAL CHECKS (unchanged after 16 runs):
 # https://allegrolokalnie.pl/oferta/rower-argon-18-e117-di2-idealny
 # https://allegrolokalnie.pl/oferta/rower-argon-18-e117-triathlon-rozmiar-l
 # https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-tt-avenger-tm6-carbon
