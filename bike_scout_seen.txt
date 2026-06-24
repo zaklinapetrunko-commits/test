@@ -108,7 +108,6 @@ https://www.olx.pl/d/oferta/felt-b2-bayonet-l-56-rower-triathlon-kola-404-zipp-8
 https://allegrolokalnie.pl/oferta/pinarello-bolide-tt-ig
 https://allegrolokalnie.pl/oferta/pinarello-bolide-tt
 https://allegrolokalnie.pl/oferta/rower-pinarello-bolide-xsz
-https://www.olx.pl/d/oferta/rower-czasowy-tt-triathlonowy-cervelo-p5-six-CID767-ID15nHFl.html
 https://www.olx.pl/d/oferta/rower-czasowy-triathlonowy-pinarello-bolide-tt-rozmiar-52-CID767-IDUC8L2.html
 https://www.olx.pl/d/oferta/pinarello-bolide-tt-r-48-dura-ace-CID767-IDYVrvD.html
 https://www.olx.pl/d/oferta/pinarello-bolide-tt-team-sky-rower-czasowy-CID767-IDy0ykH.html
@@ -119,9 +118,7 @@ https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bkhelc.html
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdkicx.html
 https://allegro.pl/oferta/rower-pinarello-ft1-szosa-karbon-triathlon-56cm-7066400132
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bjknpi.html
-https://www.olx.pl/d/oferta/rower-czasowy-colnago-kzero-ultegra-di2-2x11s-rozmiar-l-CID767-ID13SO8B.html
 https://www.olx.pl/oferta/bmc-timemachine-02-triathlon-sram-red-etap-CID767-IDw0rzr.html
-https://allegrolokalnie.pl/oferta/rower-triathlonowy-bottecchia-tri-di2-mavic
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cdmgbk.html
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bklped.html
 https://www.olx.pl/d/oferta/rower-kross-vento-tr-1-0-aero-triathlonowy-czasowy-szosowy-CID767-IDE5nBo.html
@@ -170,15 +167,13 @@ https://allegro.pl/oferta/cervelo-s5-ultegra-di2-carnelian-rower-szosowy-model-2
 https://www.olx.pl/oferta/rower-cannondale-slice-ultegra-roz-54-i-57-carbon-nowy-CID767-IDqWK9N.html
 https://allegrolokalnie.pl/oferta/rower-triathlonowy-bh-aerolight-rc-full-carbon
 https://www.olx.pl/d/oferta/rower-triathlon-simplon-pride-tri-xl-sram-rival-axs-f-vat-CID767-ID12HvEP.html
-https://www.olx.pl/d/oferta/rower-triathlon-simplon-pride-tri-xs-sram-rival-axs-f-vat-CID767-ID12HvEP.html
 https://www.olx.pl/d/oferta/rower-triathlon-simplon-pride-tri-xxs-uktegra-di2-vision-metron-f-vat-CID767-ID12HvrW.html
 https://allegrolokalnie.pl/oferta/rower-triathlon-merida-warp
 https://www.olx.pl/d/oferta/rower-triathlonowy-czasowy-tt-scott-plasma-2-kola-ffwd-carbon-CID767-ID18Pri3.html
-https://www.skelbiu.lt/skelbimai/orbea-ordu-m-ltd-tt-triatlono-dviratis-57954495.html
-https://www.olx.pl/d/oferta/rower-czasowy-triathlonowy-karbonowy-felt-b-12-56-cm-dura-ace-promocja-CID767-ID12w0Xx.html
 2026-06-24T00:00:00Z — No new matches found. Direct fetch: SS.lv 403, OLX.pl 403, Allegro.pl 403, Allegrolokalnie.pl 403, Autoplius.lt no results, Osta.ee not indexed, Okidoki.ee not indexed, Andel.lv no results, Skelbiu.lt known listings only. Via web search: candidates found but all failed filter criteria — (1) Argon 18 E80 OLX.pl Ultegra Di2 (road bike, not TT/tri type); (2) Kuota KT5 Zero Tri OLX.pl IDQk60O Gdynia: size S (fails size). No qualifying new listings. Scanned: 9 sites. Matched: 0. New: 0. Telegram sent: 0.
 2026-06-24T12:00:00Z — No new matches found. Direct fetch: SS.lv 403, OLX.pl 403, Allegro.pl 403, Allegrolokalnie.pl 403, Autoplius.lt no results, Osta.ee not indexed, Okidoki.ee not indexed, Andel.lv not indexed, Skelbiu.lt known listings only. Via web search: all returned URLs already in seen list. No qualifying new listings. Scanned: 9 sites. Matched: 0. New: 0. Telegram sent: 0.
 2026-06-24T18:00:00Z — No new matches found. Direct fetch: all 9 sites returned 403 or no results (SS.lv 403, OLX.pl 403, Allegro.pl 403, Allegrolokalnie.pl 403, Autoplius.lt no results, Osta.ee 403, Okidoki.ee 403, Andel.lv 403, Skelbiu.lt 403). Via web search (12 queries across all search terms and sites): all candidate URLs already present in seen list. No qualifying new listings. Scanned: 9 sites. Matched: 0. New: 0. Telegram sent: 0.
 2026-06-25T00:00:00Z — No new matches found. Direct fetch: all sites returned 403 (SS.lv, OLX.pl, Allegro.pl, Allegrolokalnie.pl, Osta.ee, Okidoki.ee, Andel.lv) or no indexed listings (Autoplius.lt, Skelbiu.lt). Via web search (15 queries): new candidate URLs found but all failed filter criteria — (1) Cervelo S5 model 2026 Ultegra Di2 56cm OLX.pl ID17l1K9: road bike, not TT/triathlon geometry (fails type); (2) Cannondale Synapse SRAM Red AXS 56cm OLX.pl: endurance road bike (fails type); (3) "rower trathlonowy TT full carbon" Allegrolokalnie Żory ~1900 PLN (~€430): price suggests basic groupset, not Di2/SRAM Red (fails groupset). All other search results returned URLs already present in seen list. Scanned: 9 sites. Matched: 0. New: 0. Telegram sent: 0.
 2026-06-24T06:00:00Z — No new matches found. Direct fetch: all sites returned 403 or no results (SS.lv, OLX.pl, Allegro.pl, Allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt). Via web search (16 queries across all 7 search terms and all sites): all candidate URLs already present in seen list or failed filter criteria — Trek Speed Concept M (size M, fails size); Felt DA4 Di2 size 54 (fails size); SS.lv bpcmfd carbon Ultegra road bike (fails type). No qualifying new listings. Scanned: 9 sites. Matched: 0. New: 0. Telegram sent: 0.
 2026-06-24T20:00:00Z — No new matches found. Direct fetch: all 9 sites returned 403 (SS.lv, OLX.pl, Allegro.pl, Allegrolokalnie.pl, Osta.ee, Okidoki.ee, Andel.lv) or no indexed results (Autoplius.lt, Skelbiu.lt). Via web search (20+ queries across all 7 search terms and all target sites): all candidate URLs already present in seen list or failed filter criteria — (1) Isaac Joule-Aerotic OLX.pl ID15ZDeK Kraków: Dura Ace 9-speed mechanical, not Di2/SRAM Red (fails groupset); (2) Rondo Ruut CF0 Di2 Allegrolokalnie Gdynia: gravel bike, not TT/triathlon geometry (fails type); (3) SS.lv bklped/bxhhel/bpdhxh: road bikes, not TT/triathlon (fails type). No qualifying new listings. Scanned: 9 sites. Matched: 0. New: 0. Telegram sent: 0.
+2026-06-25T10:00:00Z — No new matches found. Direct fetch: all sites returned 403 (SS.lv, OLX.pl, Allegro.pl, Allegrolokalnie.pl, Osta.ee, Okidoki.ee, Andel.lv) or no indexed results (Autoplius.lt, Skelbiu.lt). Via web search (12 queries across all 7 search terms and all target sites): all candidate URLs already present in seen list. No qualifying new listings. Scanned: 9 sites. Matched: 0. New: 0. Telegram sent: 0.
