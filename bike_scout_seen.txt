@@ -139,7 +139,7 @@ https://www.olx.pl/d/oferta/rower-czasowy-colnago-kzero-ultegra-di2-2x11s-rozmia
 # OLX Stevens Super Trofeo TT L 56 — FAIL groupset (Shimano Ultegra mechanical): https://www.olx.pl/d/oferta/rower-czasowy-triathlonowy-stevens-super-trofeo-tt-l-56-CID767-ID153N8N.html (still active)
 # PERSISTENT UNDELIVERED TELEGRAM ALERTS — MANUAL ACTION REQUIRED (11 runs, all blocked):
 # 1. Canyon Speedmax CF SLX | Size L | Ultegra Di2 | Reynolds + Zipp Super 9 disc | ~EUR3,700 | Warszawa: https://allegrolokalnie.pl/oferta/canyon-speedmax-cf-slx-l-ultegra-di2-kola-reynolds-dysk-zipp-super-9
-# 2. Argon 18 E80 CreatoBike OLX Lodz — Ultegra Di2, dual-sided power meter, ~EUR1,000 — URL unconfirmed. Check: https://creatobike.olx.pl/home/
+# 2. Argon 18 E80 CreatoBike OLX Łódź — Ultegra Di2, dual-sided power meter, ~EUR1,000 — URL unconfirmed. Check: https://creatobike.olx.pl/home/
 # PERSISTENT HIGH PRIORITY MANUAL CHECKS (unchanged after 11 runs):
 # https://allegrolokalnie.pl/oferta/rower-argon-18-e117-di2-idealny
 # https://allegrolokalnie.pl/oferta/rower-argon-18-e117-triathlon-rozmiar-l
@@ -253,7 +253,7 @@ https://www.olx.pl/d/oferta/rower-czasowy-colnago-kzero-ultegra-di2-2x11s-rozmia
 # https://allegrolokalnie.pl/oferta/rower-czasowy-tt-triathlon-pardus-karbon-carbon
 # --- 2026-06-24 run (eighteenth) — 0 new confirmed matches ---
 2026-06-24T(run 18) — No new matches found. Scanned ~25 new URLs across SS.lv, OLX.pl, AllegroLokalnie.pl, Allegro.pl, Skelbiu.lt, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv. All direct fetches 403. 0 passed all filter criteria.
-# NOTE: api.telegram.org STILL blocked — egress policy blocks CONNECT tunnel to api.telegram.org regardless of hardcoded credentials. This has persisted across all 18 runs. The user has stated credentials are hardcoded correctly, but the block is at the infrastructure/proxy level — credentials never reach the API server. To fix: update the network policy for this remote execution environment to whitelist api.telegram.org (see https://code.claude.com/docs/en/claude-code-on-the-web).
+# NOTE: api.telegram.org STILL blocked — egress policy blocks CONNECT tunnel to api.telegram.org regardless of hardcoded credentials. This has persisted across all 18 runs. The user has stated "credentials are hardcoded clearly in the prompt" — but the block is at the infrastructure/proxy level. The proxy intercepts the CONNECT tunnel BEFORE the request reaches Telegram's API servers. Credentials are irrelevant to an egress allowlist policy. To fix: update the network policy in the remote execution environment settings to whitelist api.telegram.org (see https://code.claude.com/docs/en/claude-code-on-the-web).
 # No new qualifying listings this run — Telegram step skipped (no alerts to send).
 # New URLs checked this run (did not pass all filters):
 # OLX Kross Vento TR 1.0 Aero triathlon/czasowy Gdynia — FAIL carbon (steel/alloy frame) + FAIL groupset (Shimano Sora): https://www.olx.pl/d/oferta/rower-kross-vento-tr-1-0-aero-triathlonowy-czasowy-szosowy-CID767-IDE5nBo.html
@@ -328,3 +328,27 @@ https://www.olx.pl/d/oferta/rower-czasowy-colnago-kzero-ultegra-di2-2x11s-rozmia
 # https://allegrolokalnie.pl/oferta/rower-czasowy-tt-triathlon-pardus-karbon-carbon
 # https://allegrolokalnie.pl/oferta/pinarello-bolid-durace-di2-team-sky (Di2 confirmed, size ~55cm per Team Sky spec, 29,900 PLN ~EUR7,000 — MANUAL CHECK RECOMMENDED, size unconfirmed on listing)
 # https://allegrolokalnie.pl/oferta/rower-argon18-e116-tt-bez-kol (carbon TT confirmed, size/groupset unverifiable)
+# --- 2026-06-24 run (twenty-second) — 0 new confirmed matches ---
+2026-06-24T(run 22) — No new matches found. Scanned ~10 new URLs across SS.lv, OLX.pl, AllegroLokalnie.pl, Allegro.pl, Skelbiu.lt, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv. All direct fetches 403. 0 passed all filter criteria.
+# NOTE: api.telegram.org STILL blocked — egress policy blocks CONNECT tunnel to api.telegram.org regardless of hardcoded credentials. This has persisted across all 22 runs. The proxy intercepts BEFORE credentials reach Telegram's API servers. Credentials are irrelevant to an egress allowlist policy. To fix: update the network policy for this remote execution environment to whitelist api.telegram.org (see https://code.claude.com/docs/en/claude-code-on-the-web).
+# No new qualifying listings this run — Telegram step skipped (no alerts to send).
+# New URLs checked this run (did not pass all filters):
+# AllegroLokalnie Fuji Norcom Straight 1.3 Di2 Olkusz 19,500 PLN — FAIL size (M/L, ~53cm < 55cm minimum): https://allegrolokalnie.pl/oferta/rower-czasowy-fuji-norcom-straight-13-triathlon
+# AllegroLokalnie Fuji Norcom 1.3 rozm M/L 52.7cm — FAIL size (M/L, 52.7cm): https://allegrolokalnie.pl/oferta/fuji-norcom-13-rozm-ml-527
+# AllegroLokalnie Trek Domane Project One r.56 Dura-Ace carbon — FAIL type (Domane is endurance road bike, not TT/triathlon): https://allegrolokalnie.pl/oferta/rower-trek-domane-project-one-r-56-dura-ace
+# OLX Vytyv Spectre SRAM Red carbon rozmiar M — FAIL type (road bike) + FAIL size (M): https://www.olx.pl/d/oferta/rower-szosowy-vytyv-spectre-roz-m-sram-red-carbon-ceramic-quark-CID767-ID16JlOD.html
+# OLX GT Grade SRAM Red AXS gravel — FAIL type (gravel bike, not TT/triathlon): https://www.olx.pl/d/oferta/gt-grade-full-carbon-sram-red-axs-zipp-rock-shox-expl-rudy-CID767-ID16mQkQ.html
+# MANUAL CHECK RECOMMENDED (size and groupset unconfirmable — direct fetch 403):
+# Allegro.pl Specialized Shiv S-Works triathlon 12,300 PLN — carbon TT/triathlon confirmed, Dura-Ace 2x11 mentioned (Di2 vs mechanical unconfirmable), size unconfirmed: https://allegro.pl/oferta/specialized-shiv-s-works-triathlon-rower-szosowy-9140800295
+# PERSISTENT UNDELIVERED TELEGRAM ALERTS — MANUAL ACTION REQUIRED (22 runs, all blocked):
+# 1. Canyon Speedmax CF SLX | Size L | Ultegra Di2 | Reynolds + Zipp Super 9 disc | ~EUR3,700 | Warszawa: https://allegrolokalnie.pl/oferta/canyon-speedmax-cf-slx-l-ultegra-di2-kola-reynolds-dysk-zipp-super-9
+# 2. Argon 18 E80 CreatoBike OLX Lodz — Ultegra Di2, dual-sided power meter | ~EUR1,018 (4,299 PLN) | URL unconfirmed — check: https://creatobike.olx.pl/home/
+# 3. Colnago K-Zero Ultegra Di2 L | ~EUR2,100 (8,999 PLN) | Kalisz | https://www.olx.pl/d/oferta/rower-czasowy-colnago-kzero-ultegra-di2-2x11s-rozmiar-l-CID767-ID13SO8B.html
+# PERSISTENT HIGH PRIORITY MANUAL CHECKS (unchanged after 22 runs):
+# https://allegrolokalnie.pl/oferta/rower-argon-18-e117-di2-idealny
+# https://allegrolokalnie.pl/oferta/rower-argon-18-e117-triathlon-rozmiar-l
+# https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-tt-avenger-tm6-carbon
+# https://allegrolokalnie.pl/oferta/rower-czasowy-tt-triathlon-pardus-karbon-carbon
+# https://allegrolokalnie.pl/oferta/pinarello-bolid-durace-di2-team-sky (Di2 confirmed, size ~55cm per Team Sky spec, ~EUR7,000 — MANUAL CHECK RECOMMENDED)
+# https://allegrolokalnie.pl/oferta/rower-argon18-e116-tt-bez-kol (carbon TT confirmed, size/groupset unverifiable)
+# https://allegro.pl/oferta/specialized-shiv-s-works-triathlon-rower-szosowy-9140800295 (new this run — Dura-Ace 2x11 mentioned, Di2 unconfirmable, size unconfirmed)
