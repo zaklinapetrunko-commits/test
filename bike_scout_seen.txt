@@ -118,9 +118,7 @@ https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bkhelc.html
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdkicx.html
 https://allegro.pl/oferta/rower-pinarello-ft1-szosa-karbon-triathlon-56cm-7066400132
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bjknpi.html
-https://www.olx.pl/d/oferta/rower-czasowy-colnago-kzero-ultegra-di2-2x11s-rozmiar-l-CID767-ID13SO8B.html
 https://www.olx.pl/oferta/bmc-timemachine-02-triathlon-sram-red-etap-CID767-IDw0rzr.html
-https://allegrolokalnie.pl/oferta/rower-triathlonowy-bottecchia-tri-di2-mavic
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cdmgbk.html
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bklped.html
 https://www.olx.pl/d/oferta/rower-kross-vento-tr-1-0-aero-triathlonowy-czasowy-szosowy-CID767-IDE5nBo.html
@@ -147,7 +145,6 @@ https://www.olx.pl/d/oferta/rower-szosowy-vytyv-spectre-roz-m-sram-red-carbon-ce
 https://www.olx.pl/d/oferta/gt-grade-full-carbon-sram-red-axs-zipp-rock-shox-expl-rudy-CID767-ID16mQkQ.html
 https://allegro.pl/oferta/specialized-shiv-s-works-triathlon-rower-szosowy-9140800295
 https://allegrolokalnie.pl/oferta/rower-trathlonowy-tt-czasowy-triathlon-full-carbon
-https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bxhhel.html
 https://allegrolokalnie.pl/oferta/rower-triathlonowy-czasowy-orbea-ordu-m30
 https://www.olx.pl/d/oferta/tt-triathlon-sram-red-axs-12-sr-m-CID767-IDSsUsR.html
 https://www.olx.pl/d/oferta/tt-canyon-speedmax-cf-m-di2-stages-powermeter-zipp-404-nsw-CID767-ID11GnQb.html
@@ -169,11 +166,9 @@ https://allegro.pl/oferta/cervelo-s5-ultegra-di2-carnelian-rower-szosowy-model-2
 https://www.olx.pl/oferta/rower-cannondale-slice-ultegra-roz-54-i-57-carbon-nowy-CID767-IDqWK9N.html
 https://allegrolokalnie.pl/oferta/rower-triathlonowy-bh-aerolight-rc-full-carbon
 https://www.olx.pl/d/oferta/rower-triathlon-simplon-pride-tri-xl-sram-rival-axs-f-vat-CID767-ID12HvEP.html
-https://www.olx.pl/d/oferta/rower-triathlon-simplon-pride-tri-xs-sram-rival-axs-f-vat-CID767-ID12HvEP.html
 https://www.olx.pl/d/oferta/rower-triathlon-simplon-pride-tri-xxs-uktegra-di2-vision-metron-f-vat-CID767-ID12HvrW.html
 https://allegrolokalnie.pl/oferta/rower-triathlon-merida-warp
 https://www.olx.pl/d/oferta/rower-triathlonowy-czasowy-tt-scott-plasma-2-kola-ffwd-carbon-CID767-ID18Pri3.html
-https://www.skelbiu.lt/skelbimai/orbea-ordu-m-ltd-tt-triatlono-dviratis-57954495.html
 https://www.olx.pl/d/oferta/rower-czasowy-triathlonowy-karbonowy-felt-b-12-56-cm-dura-ace-promocja-CID767-ID12w0Xx.html
 https://www.olx.pl/d/oferta/bmc-timemachine-tm01-tt-koza-ultegra-di2-CID767-ID13gWpR.html
 https://www.olx.pl/d/oferta/bmc-timemachine-tm01-three-m-l-ultegra-di2-kola-reynolds-72-aero-tri-CID767-ID14rxlx.html
@@ -208,6 +203,12 @@ https://allegrolokalnie.pl/oferta/cervelo-p5-six-di2-56
 https://allegrolokalnie.pl/oferta/rower-triathlonowy-specialized-shiv-pro-rxs-di2
 https://allegrolokalnie.pl/oferta/rower-triathlonowy-canyon-speedmax-cf-90-sl
 https://allegrolokalnie.pl/oferta/rower-czasowy-ribble-deda-tt-carbon
+https://allegrolokalnie.pl/oferta/cervelo-px-sram-red-axs-zipp-l56
+https://allegrolokalnie.pl/oferta/cervelo-p5-six-di2-56
+https://allegrolokalnie.pl/oferta/trek-speed-concept-project-one-czasowy-r-l-56
+https://allegrolokalnie.pl/oferta/rower-triathlonowy-wilier-twin-blade-duraace-di2-l
+https://allegrolokalnie.pl/oferta/look-796-monoblade-rs-jak-nowy
+https://allegrolokalnie.pl/oferta/rower-czasowy-ridley-dean-fast-ultegra-di2
 # Rejected candidates this run (2026-06-25 scheduled):
 # - Canyon Speedmax CF OLX ID17FVv2: "Ultegra" in title = mechanical Ultegra (not Di2), fails groupset
 # - Argon 18 E-112 OLX IDtXOyT Poznań: confirmed Shimano Ultegra 6800 mechanical, fails groupset
@@ -240,3 +241,4 @@ https://allegrolokalnie.pl/oferta/rower-czasowy-ribble-deda-tt-carbon
 https://www.olx.pl/d/oferta/rower-orbea-ordu-m30iltd-triathlonowy-tri-w-100-gotowy-gratis-bezpl-CID767-ID156rdG.html
 # NOTE: Telegram alerts BLOCKED — api.telegram.org returns 403 via proxy (not in network egress allowlist). Manual review needed.
 # Listing details: Orbea Ordu M30iLTD, full carbon OMX frame, Shimano 105 Di2 12-speed, size L (56cm), Poznań, 31,999 PLN (~€7,500), dealer listing (GreenBike.pl / Bike Poznań). No power meter mentioned.
+2026-06-25T00:00:00Z (current scheduled run) — No new matches found. Direct fetch: all sites returned 403 (SS.lv, OLX.pl, Allegro.pl, Allegrolokalnie.pl, Osta.ee, Okidoki.ee, Skelbiu.lt) or ENOTFOUND (Andel.lv — confirmed defunct). Autoplius.lt no indexed results. MM.lv no TT/triathlon listings indexed. Via web search (25+ queries across all 7 search terms, all target sites, brand-specific and language-specific queries — Polish, Lithuanian, Latvian): all returned candidate URLs already in seen list or failed filter criteria — road/gravel/endurance bikes on SS.lv (fail type); all OLX.pl and Allegrolokalnie.pl triathlon candidates already in seen list; Skelbiu.lt no new TT/triathlon candidates; Autoplius.lt and Osta.ee/Okidoki.ee no indexed results; Bianchi Aquila RC Di2 and Cervelo P5 2026 SRAM Red found only on retailer/dealer sites (not target marketplaces). Telegram API retry for Orbea Ordu M30iLTD (ID156rdG, found prior run, Telegram blocked) — curl exit code 56 (network error, api.telegram.org still not reachable via proxy). Scanned: 10 sites. Matched: 0. New: 0. Telegram sent: 0.
