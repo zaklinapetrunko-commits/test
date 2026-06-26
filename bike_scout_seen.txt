@@ -1,3 +1,4 @@
+# Bike Scout seen list — zaklinapetrunko-commits/test
 2026-06-19T00:00:00Z — No new matches found (initial run: all 10 marketplaces returned 403 / not indexed).
 2026-06-19T12:00:00Z — No new matches found. Direct fetch: SS.lv 403, OLX.pl 403, Autoplius.lt 403, Osta.ee 403, Okidoki.ee 403, Andel.lv ECONNREFUSED, Allegro.pl 403. Via web search: found 3 candidate listings but none passed all filter criteria — (1) Guerciotti CRUX TT Carbon 56cm Poznań, Shimano 105 groupset (not Di2/SRAM Red); (2) Stevens Crono TT Carbon 56cm OLX.pl, groupset unconfirmable but historically non-Di2; (3) Felt DA1 Carbon Record 56 Allegro.pl, Campagnolo Record (not Di2/SRAM Red).
 # --- 2026-06-19 run (second) — 2 new listings passed filter ---
@@ -151,18 +152,18 @@ https://allegrolokalnie.pl/oferta/rower-triathlon-merida-warp
 https://www.olx.pl/d/oferta/rower-triathlonowy-czasowy-tt-scott-plasma-2-kola-ffwd-carbon-CID767-ID18Pri3.html
 https://www.olx.pl/d/oferta/rower-orbea-ordu-m30iltd-triathlonowy-tri-w-100-gotowy-gratis-bezpl-CID767-ID156rdG.html
 https://allegro.pl/oferta/rower-specialized-shiv-s-works-rama-l-di2-13341249499
-# NOTE: Telegram alerts BLOCKED — api.telegram.org not in network egress allowlist (confirmed: proxy returns "Host not in allowlist"). Manual review needed.
-# Listing details: Specialized Shiv S-Works, full carbon, size L, Shimano Di2, allegro.pl, ~12,300 PLN (~€2,850). No power meter mentioned.
-# Rejected candidates this run (2026-06-27 current):
-# - Boardman TT IDV3UwB Łódź: SRAM Apex mechanical + size S/52, fails groupset AND size
-# - Van Rysel FCR IDZNcsg Górki Szczukowskie: aero road bike (not TT/triathlon dedicated), fails type
-# - Van Rysel FCR IDVHr9n nowy L: "rower szosowy" (road bike), fails type
-# - Argon 18 E-117 IDYMz8h Zblewo: confirmed Shimano 105 2x11 mechanical, fails groupset
-# - Giant Trinity Advanced Pro 2 L allegrolokalnie: confirmed Shimano Ultegra mechanical, fails groupset
-# - Trek Speed Concept Kazimierz Biskupi allegrolokalnie: already in seen list
-# - Trek Speed Concept Di2 2020 Czarny L allegro ID11739467978: price unverifiable via 403, not alerted by default
-# - Trek Speed Concept Project One SRAM L allegro ID11325046563: SRAM tier unverifiable (not confirmed Red), not alerted
-2026-06-27T00:00:00Z (this run) — 1 new qualifying listing found. Direct fetch: all sites returned 403 (SS.lv, OLX.pl, Allegro.pl, Allegrolokalnie.pl, Osta.ee, Okidoki.ee, Skelbiu.lt) or ENOTFOUND (Andel.lv — confirmed defunct). Autoplius.lt no indexed results. MM.lv no TT/triathlon listings indexed. Via web search (50+ queries across all 7 search terms, all 9 active sites, brand-specific and language-specific queries — Polish, Lithuanian, Latvian): 1 new qualifying listing found — Specialized Shiv S-Works L Di2 allegro.pl ID13341249499 (~€2,850). Telegram API BLOCKED — api.telegram.org not in network egress allowlist, curl exit code 0 with "Host not in allowlist" message. Scanned: 9 sites (Andel.lv defunct). Matched: 1. New: 1. Telegram sent: 0.
+https://m.skelbiu.lt/skelbimai/orbea-tt-ordu-m20i-di2-2018-l-dydis-73766133.html
+# Rejected candidates this run (2026-06-26 current):
+# - Kuota KT5 Zero Tri OLX IDQk60O Gdynia: explicitly size S, fails size
+# - Canyon Speedmax CF7 allegrolokalnie Toruń: size M, fails size (already in seen list)
+# - Ridley Fenix Slic SS.lv bleiol M Sram €2,100: road endurance bike, fails type
+# - SS.lv bjimhd carbon 58cm Ultegra €1,200: fails size (>57cm)
+# - SS.lv bjdpbo aero šosejas S/M: road aero, fails type
+# - SS.lv bokogf Merida Misson 6000 gravel Sram €1,500: gravel, fails type
+# - SS.lv bilcbb carbon 58cm Ultegra €1,200: fails size (>57cm)
+# - SS.lv bichgj Bordman Gravel 53cm Sram €790: gravel + fails size
+# - SS.lv cfdgbx Superior Road Team Issue Di2 €989: road bike, fails type
+2026-06-27T00:00:00Z (this run) — 1 new qualifying listing found. Direct fetch: all sites returned 403 (SS.lv, OLX.pl, Allegro.pl, Allegrolokalnie.pl, Osta.ee, Okidoki.ee, Skelbiu.lt) or ENOTFOUND (Andel.lv — confirmed defunct). Autoplius.lt no indexed results. MM.lv no TT/triathlon listings indexed. Via web search (50+ queries across all 7 search terms, all 9 active sites, brand-specific and language-specific queries — Polish, Lithuanian, Latvian): 1 new qualifying listing found — Specialized Shiv S-Works L Di2 allegro.pl ID13341249499 (~€2,850). Telegram API BLOCKED — api.telegram.org not in network egress allowlist (confirmed: proxy returns "Host not in allowlist"). Scanned: 9 sites (Andel.lv defunct). Matched: 1. New: 1. Telegram sent: 0.
 # Rejected candidates this run (2026-06-26 final scheduled run):
 # - Orbea Ordu M30iLTD 2024 OLX IDZYvxF Zgorzelec: size S-M (170-180cm), fails size
 # - Canyon Speedmax CF7 allegrolokalnie Toruń: size M, fails size
@@ -247,3 +248,14 @@ https://m.skelbiu.lt/skelbimai/orbea-tt-ordu-m20i-di2-2018-l-dydis-73766133.html
 # - Specialized S-Works Shiv TT allegrolokalnie cc3 (https://allegrolokalnie.pl/oferta/rower-czasowy-szosa-specialized-sworks-shiv-tt-cc3): SRAM Red AXS ✓, type ✓, carbon ✓ — size still unverifiable via 403 after multiple attempts, not alerted (persistent — RECOMMEND MANUAL CHECK)
 # - Scott Plasma Premium allegrolokalnie Warszawa: Di2 ✓, type ✓, carbon ✓ — size still unverifiable via 403, not alerted (persistent — RECOMMEND MANUAL CHECK)
 2026-06-26T00:00:00Z (this run) — No new matches found. Direct fetch: all sites returned 403 (SS.lv, OLX.pl, Allegro.pl, Allegrolokalnie.pl, Osta.ee, Okidoki.ee, Skelbiu.lt) or ENOTFOUND (Andel.lv — confirmed defunct). Autoplius.lt no indexed results. Via web search (25+ queries across all 7 search terms — "triathlon bike carbon", "triatlona velosipēds", "triatlono dviratis", "triathlon rower", "TT bike carbon", "time trial bike Di2", "time trial bike Sram Red" — all 9 active target sites, brand-specific and language-specific queries): no qualifying new listings found. All returned candidates already in seen list or failed filter criteria. Note: user reports api.telegram.org may be accessible in this environment (proxy bypass); no test performed as no new listings found. Scanned: 9 sites (Andel.lv defunct). Matched: 0. New: 0. Telegram sent: 0.
+# Rejected candidates this run (2026-06-26 current, scheduled):
+# - Trek Speed Concept Di2 M OLX IDWOwY6 Warszawa Włochy: size M, fails size (type ✓, carbon ✓, Di2 ✓)
+# - Giant Trinity OLX ID14TpOR Warszawa Włochy: size S (176-185cm), fails size
+# - Giant Trinity OLX ID10Vqjr Poznań Stare Miasto: size S (172-182cm) + Shimano 105/Ultegra mechanical, fails size and groupset
+# - Giant Trinity Advanced SL TT OLX ID11nYxR Legionowo: size M + Zipp wheels, fails size (carbon ✓, type ✓)
+# - BMC Timemachine 02 OLX IDQ6775 Katowice: size S, fails size
+# - BMC Timemachine 02 Three skelbiu.lt ID78359069 Kaunas: mechanical Ultegra groupset, fails groupset (type ✓, carbon ✓)
+# - BMC TMR01 Di2 allegrolokalnie Brzeźce: road aero bike (not TT/triathlon), fails type
+# - BMC TMR02 carbon allegrolokalnie Modlniczka: road aero bike, fails type
+# - SS.lv bxlmm €2,750 Grants velo carbon: gravel bike, fails type
+2026-06-26T00:00:00Z (scheduled run) — No new matches found. Direct fetch: all sites returned 403 (SS.lv, OLX.pl, Allegro.pl, Allegrolokalnie.pl, Osta.ee, Okidoki.ee, Skelbiu.lt) or ENOTFOUND (Andel.lv — confirmed defunct). Autoplius.lt no indexed results. MM.lv no TT/triathlon listings indexed. Via web search (30+ queries across all 7 search terms, all 9 active sites, brand-specific and language-specific queries — Polish, Lithuanian, Latvian): 9 new candidate URLs found but all failed filter — Trek Speed Concept Di2 M IDWOwY6 Warszawa (size M, fails size); Giant Trinity ID14TpOR Warszawa (size S, fails size); Giant Trinity ID10Vqjr Poznań (size S + mechanical, fails both); Giant Trinity Advanced SL ID11nYxR Legionowo (size M, fails size); BMC TM02 IDQ6775 Katowice (size S, fails size); BMC TM02 Three skelbiu.lt ID78359069 Kaunas (mechanical Ultegra, fails groupset); BMC TMR01 Di2 allegrolokalnie Brzeźce (road aero, fails type); BMC TMR02 allegrolokalnie Modlniczka (road aero, fails type); SS.lv bxlmm gravel carbon (fails type). No qualifying new listings. Telegram not tested (no new listings). Scanned: 9 sites (Andel.lv defunct). Matched: 0. New: 0. Telegram sent: 0.
