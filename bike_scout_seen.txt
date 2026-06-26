@@ -115,23 +115,6 @@ https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bkhelc.html
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdkicx.html
 https://allegro.pl/oferta/rower-pinarello-ft1-szosa-karbon-triathlon-56cm-7066400132
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bjknpi.html
-https://www.olx.pl/oferta/bmc-timemachine-02-triathlon-sram-red-etap-CID767-IDw0rzr.html
-https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cdmgbk.html
-https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bklped.html
-https://www.olx.pl/d/oferta/rower-kross-vento-tr-1-0-aero-triathlonowy-czasowy-szosowy-CID767-IDE5nBo.html
-https://www.olx.pl/d/oferta/cervelo-caledonia-105-di2-nightshift-r-56-nowy-fv23-w-wa-CID767-ID1a8e86.html
-https://allegrolokalnie.pl/oferta/rower-triathlonowy-felt-da1-rozmiar-54
-https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/biicei.html
-https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bkbfjl.html
-https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bkehmk.html
-https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bpdxkk.html
-https://allegrolokalnie.pl/oferta/polygon-helios-a8x-carbon-ultegra-di2-buty-fizik-akcesoria-okazja
-https://m.skelbiu.lt/skelbimai/bmc-timemachine-02-three-triatlono-dviratis-78359069.html
-https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/iekni.html
-https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdlgbg.html
-https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdphlg.html
-https://www.olx.pl/d/oferta/factor-one-aero-rower-karbon-shimano-dura-ace-di2-56-CID767-ID17I8oR.html
-https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bjbebj.html
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdngb.html
 https://allegrolokalnie.pl/oferta/orbea-ordutriathlon
 https://allegrolokalnie.pl/oferta/felt-da1-dura-ace
@@ -236,3 +219,4 @@ https://www.olx.pl/d/oferta/rower-orbea-ordu-m30iltd-triathlonowy-tri-w-100-goto
 # - SS.lv bichgj Bordman Gravel 53cm Sram €790: gravel + fails size
 # - SS.lv cfdgbx Superior Road Team Issue Di2 €989: road bike, fails type
 2026-06-26T00:00:00Z (current run) — No new matches found. Direct fetch: all sites returned 403 (SS.lv, OLX.pl, Allegro.pl, Allegrolokalnie.pl, Osta.ee, Okidoki.ee, Skelbiu.lt) or ENOTFOUND (Andel.lv — confirmed defunct). Autoplius.lt no indexed results. MM.lv no TT/triathlon listings indexed. Via web search (40+ queries across all 7 search terms, all target sites, brand-specific and language-specific queries — Polish, Lithuanian, Latvian): 9 new candidate URLs surfaced but all failed filter — Kuota KT5 Zero Tri OLX IDQk60O size S (fails size); Canyon Speedmax CF7 allegrolokalnie Toruń size M (already in seen list, fails size); Ridley Fenix Slic SS.lv bleiol road endurance M (fails type); SS.lv bjimhd carbon 58cm Ultegra (fails size); SS.lv bjdpbo road aero S/M (fails type); SS.lv bokogf Merida Misson 6000 gravel Sram (fails type); SS.lv bilcbb carbon 58cm Ultegra (fails size); SS.lv bichgj Bordman Gravel 53cm Sram (fails type and size); SS.lv cfdgbx Superior Road Team Issue Di2 (road bike, fails type). Telegram API still blocked (api.telegram.org not in network egress allowlist). Scanned: 9 sites (Andel.lv defunct). Matched: 0. New: 0. Telegram sent: 0.
+2026-06-26T00:00:00Z (this session run) — No new matches found. Direct fetch: all sites returned 403 (SS.lv, OLX.pl, Allegro.pl, Allegrolokalnie.pl, Osta.ee, Okidoki.ee, Skelbiu.lt) or ENOTFOUND (Andel.lv — confirmed defunct). Autoplius.lt no indexed results. MM.lv no TT/triathlon listings indexed. Via web search (35+ queries across all 7 search terms — "triathlon bike carbon", "triatlona velosipēds", "triatlono dviratis", "triathlon rower", "TT bike carbon", "time trial bike Di2", "time trial bike Sram Red" — all 9 active target sites, brand-specific and language-specific queries — Polish, Lithuanian, Latvian): all returned candidate URLs already in seen list or returned only category pages — Guerciotti CRUX TT IDs01lx (already seen); Cipollini NKTT IDS8N8p (already seen); Felt IA ID18RPS3 (already seen); BMC Timemachine ID11GcNq (already seen); Orbea Ordu IDAWyFh (already seen); Wilier Twin Blade allegrolokalnie (already seen); Giant Trinity SRAM AXS skelbiu.lt 74636002 (already seen); Van Rysel FCR IDVVkn2 (already seen). No qualifying new listings. Scanned: 9 sites (Andel.lv defunct, MM.lv no TT results). Matched: 0. New: 0. Telegram sent: 0 (api.telegram.org blocked via proxy).
