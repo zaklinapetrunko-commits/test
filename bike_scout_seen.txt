@@ -164,7 +164,7 @@ https://m.skelbiu.lt/skelbimai/orbea-tt-ordu-m20i-di2-2018-l-dydis-73766133.html
 # - SS.lv bilcbb carbon 58cm Ultegra €1,200: fails size (>57cm)
 # - SS.lv bichgj Bordman Gravel 53cm Sram €790: gravel + fails size
 # - SS.lv cfdgbx Superior Road Team Issue Di2 €989: road bike, fails type
-2026-06-27T00:00:00Z (this run) — 1 new qualifying listing found. Direct fetch: all sites returned 403 (SS.lv, OLX.pl, Allegro.pl, Allegrolokalnie.pl, Osta.ee, Okidoki.ee, Skelbiu.lt) or ENOTFOUND (Andel.lv defunct). Via web search (50+ queries across all 7 search terms, all 9 active sites, brand-specific and language-specific queries — Polish, Lithuanian, Latvian): 1 new qualifying listing found — Specialized Shiv S-Works L Di2 allegro.pl ID13341249499 (~€2,850). Telegram API BLOCKED — api.telegram.org not in network egress allowlist (confirmed: proxy returns "Host not in allowlist"). Scanned: 9 sites (Andel.lv defunct). Matched: 1. New: 1. Telegram sent: 0.
+2026-06-27T00:00:00Z (this run) — 1 new qualifying listing found. Direct fetch: all sites returned 403 (SS.lv, OLX.pl, Allegro.pl, Allegrolokalnie.pl, Osta.ee, Okidoki.ee, Skelbiu.lt) or ENOTFOUND (Andel.lv — confirmed defunct). Via web search (50+ queries across all 7 search terms, all 9 active sites, brand-specific and language-specific queries — Polish, Lithuanian, Latvian): 1 new qualifying listing found — Specialized Shiv S-Works L Di2 allegro.pl ID13341249499 (~€2,850). Telegram API BLOCKED — api.telegram.org not in network egress allowlist (confirmed: proxy returns "Host not in allowlist"). Scanned: 9 sites (Andel.lv defunct). Matched: 1. New: 1. Telegram sent: 0.
 # Rejected candidates this run (2026-06-26 final scheduled run):
 # - Orbea Ordu M30iLTD 2024 OLX IDZYvxF Zgorzelec: size S-M (170-180cm), fails size
 # - Canyon Speedmax CF7 allegrolokalnie Toruń: size M, fails size
@@ -307,3 +307,21 @@ https://m.skelbiu.lt/skelbimai/orbea-tt-ordu-m20i-di2-2018-l-dydis-73766133.html
 # - SS.lv bpdhxh Time NX RS Carbon Di-2 €1,000: already in seen list
 # - Canyon Speedmax CF 8.0 Di2 OLX ID15tWNI: size M, fails size
 # - Trek Speed Concept 7.0 WSD OLX IDU5fba: Women's Specific Design / road variant, fails type
+# Rejected candidates this run (2026-06-27 current, final):
+# - SS.lv iekni.html €950 carbon: type unverifiable via 403, snippet unclear — not alerted
+# - SS.lv bipxei €749 carbon: no TT/triathlon mention in snippet, type unverifiable — not alerted
+# - SS.lv bpdipb Moozes Aero carbon €850: obscure brand, type unverifiable via 403 — not alerted
+# - SS.lv bdlmib Wilier Izoard carbon €600: road bike, fails type
+# - SS.lv bidbco Specialized Crux carbon €1,350: cyclocross, fails type
+# - SS.lv bolcif Specialized Roubaix carbon €1,000: road endurance, fails type
+# - SS.lv bolcnh Ridley Liz carbon €650: road, fails type
+# - SS.lv bomxgn aluminum+carbon hybrid €200: fails frame type
+# - SS.lv bdifgk 1990s TT Concorde fixie €565: old fixed-gear conversion, fails type/era
+# - SS.lv bpcokl Merida Speeder road €590: road hybrid, fails type
+# - SS.lv bdiklx single speed €400: fails type
+# - SS.lv bdfxog Selcof disc road €2,250: road disc, fails type
+# - Canyon Speedmax CF7 allegrolokalnie Toruń: already in seen list
+# - Canyon Speedmax CF XS allegrolokalnie Malbork: size XS, fails size
+# - Canyon Speedmax CF 9.0 SL allegrolokalnie Malbork: already in seen list
+# - Canyon Speedmax CF 7.0 OLX ID17N470 Opole: size S, fails size
+2026-06-27T00:00:00Z (scheduled run) — No new matches found. Direct fetch: all sites 403 (SS.lv, OLX.pl, Allegro.pl, Allegrolokalnie.pl, Osta.ee, Okidoki.ee, Skelbiu.lt) or ENOTFOUND (Andel.lv defunct). Autoplius.lt no indexed TT/triathlon results. MM.lv no TT/triathlon listings indexed. Via web search (42+ queries across all 7 search terms, all 9 active sites, brand-specific and language-specific queries — Polish, Lithuanian, Latvian): no new qualifying listings found. 12 new candidate SS.lv URLs found but all failed filter (road bikes, road endurance, cyclocross, gravel, old fixie conversion, type unverifiable via 403, hybrid frame). All other returned candidates already in seen list or failed filter criteria. Persistent size/type-unverifiable (manual check recommended): (1) Specialized S-Works Shiv TT cc3 SRAM Red AXS allegrolokalnie; (2) Scott Plasma Premium Di2 Warszawa allegrolokalnie; (3) Cervelo P5 bluetooth Di2 Zipp disc OLX ID15x3dh; (4) SS.lv bimdfk aero TT €3,600. Telegram: no new qualifying listings, not called this run; user reports api.telegram.org should be accessible with hardcoded credentials — will verify on next alert. Scanned: 9 sites (Andel.lv defunct). Matched: 0. New: 0. Telegram sent: 0.
