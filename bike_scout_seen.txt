@@ -271,3 +271,11 @@ https://allegrolokalnie.pl/oferta/rower-triathlonowy-trek-speed-concept
 #   SS.lv cdkxli (TT/triathlon M/L 54cm €480 — fails size + groupset)
 #   Skelbiu.lt Giant Trinity SRAM AXS L — already in seen list
 # All other returned listings already in seen list. No Telegram alerts sent.
+# --- 2026-07-01 run (sixteenth) — No new matches found ---
+# Sites checked: SS.lv (403/web search), OLX.pl (403/web search), Allegro.pl (403/web search), Allegrolokalnie.pl (403/web search), Skelbiu.lt (web search), Osta.ee (web search), Okidoki.ee (web search), Andel.lv (no results), Autoplius.lt (no results)
+# Candidates found but failed filter:
+#   SS.lv bpdxkk (Liv Langma by Giant €900 — road bike, fails type)
+#   SS.lv bpdiic (Kuota Kryon €1,500 — road bike, fails type)
+#   OLX.pl ARGON 18 E80 CreatoBike Łódź ~4,299PLN — URL unverifiable, E80 not a carbon TT/triathlon bike
+#   Allegrolokalnie.pl Colnago Concept Carbon SRAM Red 54cm — road bike, fails type + size
+# All other returned listings already in seen list. No Telegram alerts sent.
