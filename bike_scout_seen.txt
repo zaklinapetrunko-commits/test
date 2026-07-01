@@ -263,3 +263,11 @@ https://allegrolokalnie.pl/oferta/rower-triathlonowy-trek-speed-concept
 #   Romet Huragan Race SRAM Red allegrolokalnie.pl — road bike (szosowy), fails type
 #   SAB San Marino SRAM Red 10s allegrolokalnie.pl — road bike, mechanical SRAM Red (fails type and groupset)
 # All other returned listings already in seen list. No Telegram alerts sent.
+# --- 2026-07-01 run (fifteenth) — No new matches found ---
+# Sites checked: SS.lv (403/web search), OLX.pl (403/web search), Allegro.pl (403/web search), Allegrolokalnie.pl (403/web search), Skelbiu.lt (web search), Osta.ee (web search), Okidoki.ee (web search), Andel.lv (no results), Autoplius.lt (web search)
+# Candidates found but failed filter:
+#   OLX.pl IDUzqEq KTM Team TT — frameset only, no complete groupset (fails filter)
+#   SS.lv cdniki (€1,500 carbon 56L — no TT/triathlon type mention, unverifiable)
+#   SS.lv cdkxli (TT/triathlon M/L 54cm €480 — fails size + groupset)
+#   Skelbiu.lt Giant Trinity SRAM AXS L — already in seen list
+# All other returned listings already in seen list. No Telegram alerts sent.
