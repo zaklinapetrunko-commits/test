@@ -256,3 +256,10 @@ https://allegrolokalnie.pl/oferta/rower-triathlonowy-trek-speed-concept
 #   Allegrolokalnie.pl Canyon Speedmax CF7 Toruń (11000 PLN) — CF7 = mechanical Shimano (fails groupset)
 #   SS.lv bdphlg — Ripo TT 59cm €280 (fails size + groupset)
 # All other returned listings already in seen list. No Telegram alerts sent.
+# --- 2026-07-01 run (fourteenth) — No new matches found ---
+# Sites checked: SS.lv (403/web search), OLX.pl (403/web search), Allegro.pl (403/web search), Allegrolokalnie.pl (403/web search), Skelbiu.lt (web search), Autoplius.lt (web search), Osta.ee (web search), Okidoki.ee (web search), Andel.lv (no results)
+# Candidates found but failed filter:
+#   Fuji Norcom Straight 1.3 Di2 allegrolokalnie.pl — size M/L 53cm (fails size, 53cm outside 55-57cm range)
+#   Romet Huragan Race SRAM Red allegrolokalnie.pl — road bike (szosowy), fails type
+#   SAB San Marino SRAM Red 10s allegrolokalnie.pl — road bike, mechanical SRAM Red (fails type and groupset)
+# All other returned listings already in seen list. No Telegram alerts sent.
