@@ -120,7 +120,6 @@ https://www.olx.pl/oferta/rower-triathlonowy-felt-b14-rozmiar-56-z-rama-karbonow
 https://www.olx.pl/oferta/szosa-argon-18-e-117-tri-carbon-shimano-triathlon-czasowy-3t-CID767-IDtfjeW.html
 https://www.olx.pl/oferta/szosa-guerciotti-crux-tt-carbon-shimano-czasowy-triathlon-tri-CID767-IDs01lx.html
 https://www.skelbiu.lt/skelbimai/orbea-ordu-m-ltd-tt-triatlono-dviratis-57954495.html
-https://www.ss.lv/msg/lv/sport/bycycles/highway-sports/fcgdh.html
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdfdlm.html
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdkicx.html
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdngb.html
@@ -185,7 +184,10 @@ https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-tt-cervelo-pseries-
 https://allegrolokalnie.pl/oferta/rower-czasowy-tt-cervelo-pseries-105-56-cm
 https://allegrolokalnie.pl/oferta/rower-szosowy-cervelo-caledonia5-ultegra-carbon
 https://allegrolokalnie.pl/oferta/rower-szosowy-colnago-v1r-fzd
-https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bjgmkp.html
-2026-07-01T00:00:00Z — No new matches found. Direct fetch blocked (403) on all sites. Web search surfaced 3 new SS.lv listings but all failed filter (wrong groupset or wrong size). No new qualifying listings on any searched platform.
-2026-07-01T12:00:00Z — No new matches found. Direct fetch blocked (403) on all sites. Web search surfaced 3 new candidate URLs: (1) OLX Stevens Crono TT Carbon 56cm HED — likely Shimano 105 mechanical, fails groupset filter; (2) SS.lv cdniki.html Carbon 56L Shimano 179 — type unconfirmable (not explicitly TT/triathlon), groupset ambiguous; (3) Allegro Felt B12 56cm Dura-Ace — mechanical groupset era, fails Di2/SRAM Red filter. Sites checked: SS.lv, OLX.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt.
-2026-07-01 — No new matches found. Direct fetch blocked (403) on: SS.lv, OLX.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt. Andel.lv: DNS failure (ENOTFOUND). Web search surfaced 1 new SS.lv URL (oxgmb.html, TT bike €450, non-carbon/non-Di2 — fails filter). No qualifying listings found on any platform.
+# --- 2026-07-01 run — 5 new listings passed filter ---
+# NOTE: Telegram BLOCKED — api.telegram.org returns 403 via egress proxy. Manual review required.
+https://allegrolokalnie.pl/oferta/cervelo-px-sram-red-axs-zipp-l56
+https://allegrolokalnie.pl/oferta/cervelo-p5-six-di2-56
+https://allegrolokalnie.pl/oferta/canyon-speedmax-cf-slx-l-ultegra-di2-kola-reynolds-dysk-zipp-super-9
+https://allegrolokalnie.pl/oferta/pinarello-bolid-durace-di2-team-sky
+https://allegro.pl/oferta/rower-specialized-shiv-s-works-rama-l-di2-13341249499
