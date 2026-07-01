@@ -182,8 +182,6 @@ https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-felt-da4-ultegra-di
 https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-fuji-norcom-1-3-di2-55
 https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-tt-cervelo-pseries-105-56-cm
 https://allegrolokalnie.pl/oferta/rower-czasowy-tt-cervelo-pseries-105-56-cm
-https://allegrolokalnie.pl/oferta/rower-szosowy-cervelo-caledonia5-ultegra-carbon
-https://allegrolokalnie.pl/oferta/rower-szosowy-colnago-v1r-fzd
 # --- 2026-07-01 run — 5 new listings passed filter ---
 # NOTE: Telegram BLOCKED — api.telegram.org returns 403 via egress proxy. Manual review required.
 https://allegrolokalnie.pl/oferta/cervelo-px-sram-red-axs-zipp-l56
@@ -215,4 +213,13 @@ https://allegro.pl/oferta/rower-specialized-shiv-s-works-rama-l-di2-13341249499
 #   SS.lv bpcmfd (€620 carbon 56cm Ultegra — road bike, fails type, price too low)
 #   OLX.pl Cervelo Caledonia 105 Di2 56 (road bike, fails type and groupset tier)
 #   Allegro.pl Felt DA1 Carbon Record 56 (Campagnolo Record — fails groupset)
+# All other returned listings already in seen list. No Telegram alerts sent.
+# --- 2026-07-01 run (seventh) — No new matches found ---
+# Sites checked: SS.lv (403/web search), OLX.pl (403/web search), Allegro.pl (403/web search), Allegrolokalnie.pl (403/web search), Skelbiu.lt (web search), Osta.ee (403/web search), Okidoki.ee (web search), Andel.lv (no results), Autoplius.lt (web search), MM.lv (web search)
+# Candidates found but failed filter:
+#   SS.lv cdpldm (aluminum frame + carbon fork — fails carbon frame filter)
+#   SS.lv bomxgn (aluminum and carbon — fails full carbon filter)
+#   OLX.pl IDZb5eo Felt B2 56 karbon (403 fetch, Felt B2 = Dura Ace mechanical — likely fails groupset)
+#   Okidoki.ee Pinarello F10 Disk (road bike, not TT/triathlon — fails type)
+#   Rondo Ruut CF0 Di2 (gravel bike — fails type)
 # All other returned listings already in seen list. No Telegram alerts sent.
