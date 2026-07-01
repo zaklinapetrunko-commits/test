@@ -205,3 +205,14 @@ https://allegro.pl/oferta/rower-specialized-shiv-s-works-rama-l-di2-13341249499
 # Sites checked: SS.lv (403/web search), OLX.pl (403/web search), Allegro.pl (403/web search), Allegrolokalnie.pl (403/web search), Skelbiu.lt (web search), Osta.ee (web search), Okidoki.ee (web search), Andel.lv (no results), Autoplius.lt (web search)
 # Candidates found but failed filter: SS.lv bklped (€2,500 — 403 on fetch, unable to verify specs); Focus Chrono Izalco TT Carbon size M/53-54cm (fails size); Specialized Roubaix OLX.pl (road bike, not TT/triathlon — fails type).
 # All other returned listings already in seen list. No Telegram alerts sent.
+# --- 2026-07-01 run (sixth) — No new matches found ---
+# Sites checked: SS.lv (403/web search), OLX.pl (403/web search), Allegro.pl (403/web search), Allegrolokalnie.pl (403/web search), Skelbiu.lt (403/web search), Osta.ee (403/web search), Okidoki.ee (no results), Andel.lv (no results), Autoplius.lt (403/web search)
+# Candidates found but failed filter:
+#   SS.lv cdniki (€1,500 carbon 56 L — type unverifiable, no TT/triathlon mention, likely road bike)
+#   SS.lv biicei (Giant TCR Advanced Di2 M/ML — road bike, fails type)
+#   SS.lv bdlhcd (Rose Backroad 59cm — gravel bike, fails type and size)
+#   SS.lv bdkfce (karbona gravel/adventure — gravel bike, fails type)
+#   SS.lv bpcmfd (€620 carbon 56cm Ultegra — road bike, fails type, price too low)
+#   OLX.pl Cervelo Caledonia 105 Di2 56 (road bike, fails type and groupset tier)
+#   Allegro.pl Felt DA1 Carbon Record 56 (Campagnolo Record — fails groupset)
+# All other returned listings already in seen list. No Telegram alerts sent.
