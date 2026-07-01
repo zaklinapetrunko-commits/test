@@ -197,7 +197,7 @@ https://allegro.pl/oferta/rower-specialized-shiv-s-works-rama-l-di2-13341249499
 # All candidates checked were already in seen list. No new qualifying listings (carbon frame, TT/triathlon type, L/56cm, Di2 or SRAM Red, <€8,000) found.
 # --- 2026-07-01 run (fourth) — No new matches found ---
 # Sites checked: SS.lv (403/web search), OLX.pl (403/web search), Allegro.pl (403/web search), Allegrolokalnie.pl (403/web search), Skelbiu.lt (web search), Osta.ee (web search), Okidoki.ee (web search), Andel.lv (no results), Autoplius.lt (web search)
-# Candidates found but failed filter: SS.lv bxegpi (Cervélo P2 size 48 — fails size); SS.lv oxgmb (450€ TT — fails groupset, no Di2/SRAM Red); OLX Felt FR2 SRAM Red 56cm (road bike, not TT/triathlon — fails type).
+# Candidates found but failed filter: SS.lv bxegpi (Cervélo P2 size 48 — fails size); SS.lv oxgmb (450€ TT — fails groupset, no Di2/SRAM Red); OLX Felt FR2 SRAM Red 56cm (road bike, fails type and groupset tier).
 # All other returned listings already in seen list. No Telegram alerts sent.
 # --- 2026-07-01 run (fifth) — No new matches found ---
 # Sites checked: SS.lv (403/web search), OLX.pl (403/web search), Allegro.pl (403/web search), Allegrolokalnie.pl (403/web search), Skelbiu.lt (web search), Osta.ee (web search), Okidoki.ee (web search), Andel.lv (no results), Autoplius.lt (web search)
@@ -223,3 +223,6 @@ https://allegro.pl/oferta/rower-specialized-shiv-s-works-rama-l-di2-13341249499
 #   Okidoki.ee Pinarello F10 Disk (road bike, not TT/triathlon — fails type)
 #   Rondo Ruut CF0 Di2 (gravel bike — fails type)
 # All other returned listings already in seen list. No Telegram alerts sent.
+# --- 2026-07-01 run (eighth) — 1 new listing passed filter ---
+# NOTE: Telegram BLOCKED — api.telegram.org returns 403 via egress proxy. Manual review required.
+https://allegrolokalnie.pl/oferta/rower-triathlonowy-trek-speed-concept
