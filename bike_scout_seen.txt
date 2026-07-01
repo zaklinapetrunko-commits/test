@@ -245,3 +245,14 @@ https://allegrolokalnie.pl/oferta/rower-triathlonowy-trek-speed-concept
 # Candidates found but failed filter:
 #   Canyon Speedmax CF7 Toruń allegrolokalnie.pl (size M, mechanical Shimano 105 — fails size and groupset)
 # All other returned listings already in seen list. No Telegram alerts sent.
+# --- 2026-07-01 run (thirteenth) — No new matches found ---
+# Sites checked: SS.lv (403/web search), OLX.pl (403/web search), Allegro.pl (403/web search), Allegrolokalnie.pl (403/web search), Skelbiu.lt (403/web search), Osta.ee (no results via search), Okidoki.ee (no results via search), Andel.lv (no results), Autoplius.lt (no results via search)
+# Candidates found but failed filter:
+#   Skelbiu.lt BMC Timemachine 02 Three (ID 78359069) — TM02 "Three" spec = mechanical Ultegra (fails groupset)
+#   Allegrolokalnie.pl Fondriest TF1 Carbon Ultegra Wroclaw — size 53cm (fails size)
+#   Allegrolokalnie.pl Rower czasowy TT Carbon rozm S Tychy — size S (fails size)
+#   Allegrolokalnie.pl Canyon Speedmax AL S — aluminum frame, size S (fails frame material + size)
+#   Allegrolokalnie.pl Canyon Speedmax AL90 S — aluminum frame, size S (fails frame material + size)
+#   Allegrolokalnie.pl Canyon Speedmax CF7 Toruń (11000 PLN) — CF7 = mechanical Shimano (fails groupset)
+#   SS.lv bdphlg — Ripo TT 59cm €280 (fails size + groupset)
+# All other returned listings already in seen list. No Telegram alerts sent.
