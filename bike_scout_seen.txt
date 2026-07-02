@@ -468,3 +468,11 @@ https://allegrolokalnie.pl/oferta/rower-czasowy-triathlon-fuji-norcom-1-3-di2-55
 #   Allegrolokalnie.pl Wilier Twin Blade Dura-Ace Di2 L — already in seen list
 #   Allegrolokalnie.pl Felt DA4 Ultegra Di2 — already in seen list
 # All other returned listings already in seen list. No Telegram alerts sent.
+# --- 2026-07-02 run (twenty-third) — No new matches found ---
+# Sites checked: SS.lv (403/web search), OLX.pl (403/web search), Allegro.pl (403/web search), Allegrolokalnie.pl (403/web search), Skelbiu.lt (web search), Osta.ee (no results), Okidoki.ee (no results), Andel.lv (no results), Autoplius.lt (no results)
+# NOTE: Telegram BLOCKED — api.telegram.org returns 403 via egress proxy. Hardcoded credentials confirmed valid; network egress policy must whitelist api.telegram.org to enable alerts.
+# Candidates found but failed filter:
+#   SS.lv bghnkl (€420 new road disc bike from sport shop — fails type + price too low for carbon TT)
+#   Allegrolokalnie.pl rower-triathlonowy-cervelo-p2-r54-y5z (Cervelo P2 54cm Malbork — fails size)
+#   All other returned listings already in seen list
+# No new qualifying listings (carbon frame, TT/triathlon type, L/56cm, Di2 or SRAM Red, <€8,000) found.
