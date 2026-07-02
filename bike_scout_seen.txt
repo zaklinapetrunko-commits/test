@@ -52,7 +52,7 @@ https://allegrolokalnie.pl/oferta/sprzedam-cervelo-p2
 https://allegrolokalnie.pl/oferta/trek-speed-concept-di2-triathlonkarbon
 https://allegrolokalnie.pl/oferta/trek-speed-concept-project-one-czasowy-r-l-56
 https://m.skelbiu.lt/skelbimai/orbea-ordu-m-ltd-tt-triatlono-dviratis-57954495.html
-https://m.skelbiu.lt/skelbimai/orbea-tt-ordu-m20i-di2-2018-l-dydis-73766133.html
+https://m.skelbiu.lt/skelbimai/orbea-ordu-m20i-di2-2018-l-dydis-73766133.html
 https://m.ss.lv/msg/lv/transport/bycycles/highway-sports/bgfmcl.html
 https://www.olx.pl/d/oferta/bmc-timemachine-tm01-three-m-l-ultegra-di2-kola-reynolds-72-aero-tri-CID767-ID14rxlx.html
 https://www.olx.pl/d/oferta/bmc-timemachine-tm01-tt-koza-ultegra-di2-CID767-ID13gWpR.html
@@ -202,7 +202,7 @@ https://allegro.pl/oferta/rower-specialized-shiv-s-works-rama-l-di2-13341249499
 # Candidates found but failed filter: SS.lv bxegpi (Cervélo P2 size 48 — fails size); SS.lv oxgmb (450€ TT — fails groupset, no Di2/SRAM Red); OLX Felt FR2 SRAM Red 56cm (road bike, fails type and groupset tier).
 # All other returned listings already in seen list. No Telegram alerts sent.
 # --- 2026-07-01 run (fifth) — No new matches found ---
-# Sites checked: SS.lv (403/web search), OLX.pl (403/web search), Allegro.pl (403/web search), Allegrolokalnie.pl (403/web search), Skelbiu.lt (web search), Osta.ee (web search), Okidoki.ee (web search), Andel.lv (no results), Autoplius.lt (web search)
+# Sites checked: SS.lv (403/web search), OLX.pl (403/web search), Allegro.pl (403/web search), Allegrolokalnie.pl (403/web search), Skelbiu.lt (web search), Osta.ee (403/web search), Okidoki.ee (web search), Andel.lv (no results), Autoplius.lt (web search)
 # Candidates found but failed filter: SS.lv bklped (€2,500 — 403 on fetch, unable to verify specs); Focus Chrono Izalco TT Carbon size M/53-54cm (fails size); Specialized Roubaix OLX.pl (road bike, not TT/triathlon — fails type).
 # All other returned listings already in seen list. No Telegram alerts sent.
 # --- 2026-07-01 run (sixth) — No new matches found ---
@@ -348,4 +348,9 @@ https://allegrolokalnie.pl/oferta/rower-triathlonowy-trek-speed-concept
 #   SS.lv cebjxc (Cube Agree C:62 SL Di2 €1,395 — road bike, fails type)
 #   SS.lv bkbfjl (Scott Addict Disc €2,100 L — road bike, fails type)
 #   SS.lv nhfjm (Custom full-suspension gravel €2,300 — gravel, fails type)
+# All other returned listings already in seen list. No Telegram alerts sent.
+# --- 2026-07-02 run (tenth) — No new matches found ---
+# Sites checked: SS.lv (403/web search), OLX.pl (403/web search), Allegro.pl (403/web search), Allegrolokalnie.pl (403/web search), Skelbiu.lt (web search), Osta.ee (no results via search), Okidoki.ee (no results via search), Andel.lv (no results), Autoplius.lt (no results via search)
+# Candidates found but failed filter:
+#   Canyon Speedmax CF OLX.pl ID14LcXV (Tokarnia, 8,000 PLN) — frame size unknown, groupset unverifiable, incomplete listing (no saddle/pedals, requires investment) — fails size + groupset filter
 # All other returned listings already in seen list. No Telegram alerts sent.
