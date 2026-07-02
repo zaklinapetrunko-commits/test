@@ -12,7 +12,7 @@ https://allegrolokalnie.pl/oferta/cannondale-slice-triathlon
 https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-fuji-norcom-1-3-di2-55
 https://allegrolokalnie.pl/oferta/fuji-norcom-straight-ultegra-di2
 https://allegrolokalnie.pl/oferta/rower-czasowy-dolan-tt-carbon-triathlon-dura-ace
-https://www.olx.pl/d/oferta/nowy-rower-triathlonowy-felt-ia-2-0-expert-ultegra-di2-12s-super-cena-CID767-ID18RPS3.html
+https://allegrolokalnie.pl/oferta/rower-triathlonowy-czasowy-orbea-ordu-m30-ltd-di2-poznan-triathlon-czasowka-fv
 https://m.skelbiu.lt/skelbimai/giant-trinity-triatlono-dviratis-sram-axs-naujas-l-74636002.html
 https://allegro.pl/oferta/rower-czasowy-orbea-ordu-carbon-55-sram-zipp-mavic-7838383416
 https://allegro.pl/oferta/rower-czasowy-tt-triathlon-cannondale-slice-full-carbon-17345886252
@@ -305,4 +305,16 @@ https://allegrolokalnie.pl/oferta/rower-triathlonowy-trek-speed-concept
 #   SS.lv biicei (Giant TCR Advanced 1+ Di2 M/ML — road bike, fails type)
 #   SS.lv bpcmfd (56cm Carbon Ultegra €620 — road bike, fails type)
 #   SS.lv oxgmb (TT bike €450 — fails groupset, no Di2/SRAM Red)
+# All other returned listings already in seen list. No Telegram alerts sent.
+# --- 2026-07-02 run (fifth) — No new matches found ---
+# Sites checked: SS.lv (403/web search), OLX.pl (403/web search), Allegro.pl (403/web search), Allegrolokalnie.pl (403/web search), Skelbiu.lt (web search), Osta.ee (web search), Okidoki.ee (web search), Andel.lv (no results), Autoplius.lt (web search), MM.lv (web search)
+# Candidates found but failed filter:
+#   SS.lv bkhelc (Time NX RS Carbon, S-M size 160-175cm, Sram/Quarq — fails size)
+#   Canyon Ultimate CF SLX L 58cm Carbon Ultegra Di2 allegrolokalnie.pl — road bike (fails type)
+#   Rondo Ruut CF0 Di2 gravel 56/L allegrolokalnie.pl — gravel bike (fails type)
+#   Ridley Noah RS Ultegra Di2 full carbon allegrolokalnie.pl — road bike (fails type)
+#   Dolan TT Carbon triathlon Dura-Ace allegrolokalnie.pl — mechanical Dura-Ace (fails groupset)
+#   Argon 18 E-112 Tri Carbon Shimano OLX.pl — mechanical Ultegra 6800 (fails groupset)
+#   Focus Chrono size S Ultegra Di2 allegro.pl — size S (fails size)
+#   Tavelo Arow Di2 OLX.pl — road/aero bike (likely fails type)
 # All other returned listings already in seen list. No Telegram alerts sent.
