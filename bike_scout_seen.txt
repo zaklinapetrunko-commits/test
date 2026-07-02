@@ -332,3 +332,12 @@ https://allegrolokalnie.pl/oferta/rower-triathlonowy-trek-speed-concept
 #   Felt B2 56 karbon OLX.pl IDZb5eo — mechanical Dura-Ace (fails groupset, previously evaluated)
 #   Canyon Speedmax CF7 Toruń allegrolokalnie.pl — mechanical Shimano (fails groupset, previously evaluated)
 # All other returned listings already in seen list. No Telegram alerts sent.
+# --- 2026-07-02 run (eighth) — No new matches found ---
+# Sites checked: SS.lv (403/web search), OLX.pl (403/web search), Allegro.pl (403/web search), Allegrolokalnie.pl (403/web search), Skelbiu.lt (web search), Osta.ee (no results via search), Okidoki.ee (no results via search), Andel.lv (DNS ENOTFOUND — site may be down/expired), Autoplius.lt (no results via search)
+# Candidates found but failed filter:
+#   OLX.pl IDw0rzr BMC Timemachine 02 SRAM Red eTap Warszawa — size MS (fails size)
+#   SS.lv cexglo (Cube C:62 road bike €2,600) — road bike (fails type)
+#   SS.lv cdhhpc (Cannondale Synapse 54cm SRAM Force €700) — road bike, 54cm (fails type + size)
+#   allegrolokalnie.pl rower-triathlonowy-felt-da1-rozmiar-54 — size 54cm (fails size)
+#   allegrolokalnie.pl rower-czasowy-fuji-norcom-straight-13-triathlon (Fuji 1.3 Di2 Olkusz, 53cm) — fails size
+# All other returned listings already in seen list. No Telegram alerts sent.
