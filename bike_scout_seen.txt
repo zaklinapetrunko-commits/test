@@ -399,3 +399,11 @@ https://allegrolokalnie.pl/oferta/rower-czasowy-triathlon-fuji-norcom-1-3-di2-55
 #   Cervelo S2 SRAM Force 56 OLX.pl ID1427W1 — road bike, SRAM Force (fails type + groupset)
 #   Trek Speed Concept Di2 triathlonkarbon allegrolokalnie.pl — XL size (fails size)
 # All other returned listings already in seen list. No Telegram alerts sent.
+# --- 2026-07-02 run (seventeenth) — No new confirmed matches found ---
+# Sites checked: SS.lv (403/web search), OLX.pl (403/web search), Allegro.pl (403/web search), Allegrolokalnie.pl (403/web search), Skelbiu.lt (web search), Osta.ee (no results), Okidoki.ee (no results), Andel.lv (no results), Autoplius.lt (no results)
+# Telegram: BLOCKED — api.telegram.org 403 via egress proxy (CONNECT tunnel: 403 Forbidden). Network policy update required to whitelist api.telegram.org.
+# Candidates found but unconfirmable or failed filter:
+#   Allegro.pl BMC Timemachine 01 Disc ONE M/L (ID 17141379570) — PLAUSIBLE: carbon TT, 55cm M/L, ONE spec = Di2 or SRAM Red TBC, est. used price €5k-7k. Groupset + price unconfirmable (403 fetch). MANUAL REVIEW: https://allegro.pl/oferta/rower-triathlonowy-czasowy-bmc-timemachine-01-disc-one-roz-m-l-17141379570
+#   Allegrolokalnie.pl BMC Timemachine 01 Disc TWO roz 54 (hwx) — FAILS size (54cm)
+#   Orbea Ora TT Carbon allegrolokalnie.pl (Wroclaw, 5500PLN) — FAILS size (53-54cm) + groupset (mechanical Ultegra)
+# All other returned listings already in seen list. No Telegram alerts sent.
