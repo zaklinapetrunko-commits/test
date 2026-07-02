@@ -418,3 +418,14 @@ https://allegrolokalnie.pl/oferta/rower-czasowy-triathlon-fuji-norcom-1-3-di2-55
 #   Allegrolokalnie.pl karbonowy-rower-szosowy-radon-r-l-ultegra-di2 (road bike L Di2 — fails type)
 # Unconfirmable (manual review recommended): Allegro.pl BMC Timemachine 01 Disc ONE M/L (ID 17141379570) — listing still active per web search, specs unverifiable via 403. https://allegro.pl/oferta/rower-triathlonowy-czasowy-bmc-timemachine-01-disc-one-roz-m-l-17141379570
 # All other returned listings already in seen list. No Telegram alerts sent.
+# --- 2026-07-02 run (nineteenth) — No new matches found ---
+# Sites checked: SS.lv (403/web search), OLX.pl (403/web search), Allegro.pl (403/web search), Allegrolokalnie.pl (403/web search), Skelbiu.lt (web search), Osta.ee (web search), Okidoki.ee (web search), Andel.lv (no results), Autoplius.lt (web search)
+# NOTE: Telegram BLOCKED — api.telegram.org returns 403 via egress proxy regardless of hardcoded credentials. Egress policy must whitelist api.telegram.org at the network level.
+# Candidates found but failed filter:
+#   SS.lv cdpkon (Specialized Shiv TT L €2,500 — already in seen list)
+#   SS.lv cdkxli (TT M/L 54cm €480 — fails size + groupset)
+#   SS.lv bxegpi (Cervélo P2 Carbon TT 48cm — fails size)
+#   Allegrolokalnie.pl triathlon category — all returned listings already in seen list
+#   Skelbiu.lt Giant Trinity SRAM AXS L — already in seen list
+#   Autoplius.lt — no qualifying results
+# All other returned listings already in seen list. No Telegram alerts sent.
