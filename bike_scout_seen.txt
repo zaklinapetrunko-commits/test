@@ -354,3 +354,12 @@ https://allegrolokalnie.pl/oferta/rower-triathlonowy-trek-speed-concept
 # Candidates found but failed filter:
 #   Canyon Speedmax CF OLX.pl ID14LcXV (Tokarnia, 8,000 PLN) — frame size unknown, groupset unverifiable, incomplete listing (no saddle/pedals, requires investment) — fails size + groupset filter
 # All other returned listings already in seen list. No Telegram alerts sent.
+# --- 2026-07-02 run (eleventh) — 1 new listing passed filter ---
+# NOTE: Telegram BLOCKED — api.telegram.org returns 403 via egress proxy (CONNECT tunnel: 403 Forbidden). Credentials are valid but egress policy blocks api.telegram.org. Manual review required.
+# New match: Fuji Norcom Straight 1.3 Di2 — TT/triathlon, C10 carbon frame, 55cm, Ultegra Di2, 11,500 PLN (~€2,680), Toruń, allegrolokalnie.pl
+https://allegrolokalnie.pl/oferta/rower-czasowy-triathlon-fuji-norcom-1-3-di2-55
+# Failed filter this run:
+#   Fuji Norcom Straight 1.3 D (Gdynia, rower-czasowy-triathlon-fuji-norcom-straight-1-3-d) — already in seen list
+#   Fuji Norcom Straight 2.3 r55/L Malbork (allegrolokalnie.pl/oferta/rower-triathlonowy-fuji-straight-norcom-23-r-55-l) — SRAM Rival (fails groupset)
+#   SS.lv cembdn (S-Works Venge 56cm €4,900) — road bike (fails type)
+#   Canyon Speedmax CF7 Toruń (allegrolokalnie.pl/oferta/canyon-speedmax-cf7-rower-triathlon) — mechanical Shimano (fails groupset)
