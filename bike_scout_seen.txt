@@ -124,6 +124,7 @@ https://www.skelbiu.lt/skelbimai/orbea-ordu-m-ltd-tt-triatlono-dviratis-57954495
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdfdlm.html
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdkicx.html
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdngb.html
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdphlg.html
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bimdfk.html
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bjgmkp.html
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bjknpi.html
@@ -290,3 +291,10 @@ https://allegrolokalnie.pl/oferta/rower-triathlonowy-trek-speed-concept
 # --- 2026-07-02 run (second) — No new matches found ---
 # Sites checked: SS.lv (403/web search), OLX.pl (403/web search), Allegro.pl (403/web search), Allegrolokalnie.pl (403/web search), Skelbiu.lt (403/web search), Osta.ee (403/web search), Okidoki.ee (403/web search), Andel.lv (no results), Autoplius.lt (403/web search)
 # All candidates returned were already in seen list. No new qualifying listings (carbon frame, TT/triathlon type, L/56cm, Di2 or SRAM Red, <€8,000) found.
+# --- 2026-07-02 run (third) — No new matches found ---
+# Sites checked: SS.lv (403/web search), OLX.pl (403/web search), Allegro.pl (403/web search), Allegrolokalnie.pl (403/web search), Skelbiu.lt (web search), Osta.ee (no results via search), Okidoki.ee (no results via search), Andel.lv (no results), Autoplius.lt (web search)
+# Candidates found but failed filter:
+#   Felt B12 56cm Dura-Ace allegro.pl (14729300234) — mechanical Dura-Ace (not Di2), fails groupset
+#   SS.lv cdniki (€1,500 carbon 56L) — no TT/triathlon type mention, fails type filter
+#   Cervélo P2 Carbon TT 48cm ss.lv bxegpi — fails size (48cm)
+# All other returned listings already in seen list. No Telegram alerts sent.
