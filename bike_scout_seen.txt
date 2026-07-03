@@ -493,3 +493,13 @@ https://allegrolokalnie.pl/oferta/rower-czasowy-triathlon-fuji-norcom-1-3-di2-55
 #   Fuji Norcom Straight 2.5 Warsaw allegrolokalnie.pl — size M (fails size)
 #   Felt B14 Carbon Ultegra 61cm OLX.pl — size 61cm (fails size)
 # All other returned listings already in seen list. No Telegram alerts sent.
+# --- 2026-07-03 run (second) — No new matches found ---
+# Sites checked: SS.lv (403/web search), OLX.pl (403/web search), Allegro.pl (403/web search), Allegrolokalnie.pl (403/web search), Skelbiu.lt (web search), Osta.ee (web search), Okidoki.ee (web search), Andel.lv (no results), Autoplius.lt (web search)
+# NOTE: Telegram BLOCKED — api.telegram.org returns 403 via egress proxy regardless of hardcoded credentials. Network policy blocks api.telegram.org; must be whitelisted at the infrastructure level to enable alerts.
+# Candidates found but failed filter:
+#   Specialized Transition Expert Carbon TT OLX.pl ID1510Kc (Łódź) — size S/51cm, mechanical Dura-Ace — fails size + groupset
+#   Planet X Stealth TT Carbon allegro.pl ID 15713862858 — size 49cm — fails size
+#   Planet X Stealth TT Carbon 55 allegro.pl 16558066357 (Legionowo) — size 55cm valid but groupset unverifiable; Planet X Stealth typically mechanical Ultegra/105, likely fails groupset
+#   Boardman TTE Shimano Ultegra allegro.pl 17412425497 — mechanical Ultegra — likely fails groupset
+#   SS.lv: same known listings (cdpkon, bxegpi, cdkxli, biicei, bpcmfd, cfdgbx, cebjxc, bkbfjl) — all already in seen list or fail filter
+# All other returned listings already in seen list. No Telegram alerts sent.
