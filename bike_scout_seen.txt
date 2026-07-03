@@ -558,3 +558,15 @@ https://allegrolokalnie.pl/oferta/rower-czasowy-triathlon-fuji-norcom-1-3-di2-55
 #   Okidoki.ee: no qualifying results
 #   Autoplius.lt: no qualifying results
 # All other returned listings already in seen list. No Telegram alerts sent.
+# --- 2026-07-03 run (sixth) — 2 new listings passed filter ---
+# NOTE: Telegram BLOCKED — api.telegram.org returns 403 via egress proxy (CONNECT tunnel: 403 Forbidden). Hardcoded credentials are valid but the network egress proxy at infrastructure level blocks api.telegram.org. Must be whitelisted at infra level — cannot be resolved via prompt/credentials alone. Manual review required.
+# New matches:
+#   Ceepo Viper 28" r.L Shimano 105 Di2 12s (Black) — full carbon TT/triathlon, L, 105 Di2, 28,990 PLN (~€6,745), Allegro.pl (via Wertykal shop — new retail)
+#   Ceepo Viper 28" r.L Shimano 105 Di2 12s (Blue) — same model/shop, different color, 28,990 PLN (~€6,745), Allegro.pl
+# Failed filter this run:
+#   OLX.pl IDyGc3C Phinny TT L Tri Chorus — fails groupset (Campagnolo Chorus, not Di2/SRAM Red)
+#   Ceepo Viper 28" r.M (14700928039) — fails size (M)
+#   Giant Propel Aero Disc XL Di2 Carbon allegrolokalnie.pl — aero road bike, fails type
+#   Merida Silex 8000+ M Di2 Carbon allegrolokalnie.pl — gravel bike, fails type
+https://allegro.pl/oferta/rower-triathlonowy-ceepo-viper-28-r-l-shimano-105-di2-12s-czarny-14701067337
+https://allegro.pl/oferta/rower-triathlonowy-ceepo-viper-28-r-l-shimano-105-di2-12s-niebieski-14701065624
