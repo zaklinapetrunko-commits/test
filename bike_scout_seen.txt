@@ -382,3 +382,15 @@ https://allegrolokalnie.pl/oferta/rower-triathlonowy-trek-speed-concept
 #   SS.lv bdhojg (S-M rāmis 160-175cm, Sram Equator Quarq power €1,550 — fails size, S-M frame not L)
 #   Allegro.pl Planet X STEALTH TT 15713862858 (49cm frame — fails size)
 # All other returned listings already in seen list. No Telegram alerts sent.
+# --- 2026-07-03 run (twelfth) — No new matches found ---
+# Sites checked: SS.lv (403/web search), OLX.pl (403/web search), Allegro.pl (403/web search), Allegrolokalnie.pl (403/web search), Skelbiu.lt (web search), Osta.ee (web search), Okidoki.ee (web search), Andel.lv (no results), Autoplius.lt (web search)
+# Candidates found but failed filter:
+#   SS.lv cdhhpc (Cannondale Synapse 54cm €700 — road bike, fails type and size)
+#   SS.lv biicei (Giant TCR Advanced Di2 M/ML — road bike, fails type)
+#   SS.lv cdkxli (TT/triathlon 54cm €480 — fails size and groupset)
+#   SS.lv cdpkon (Specialized Shiv L €2,500 — already in seen list)
+#   Allegrolokalnie.pl Canyon Speedmax CF8 Di2 XL — XL not L, outside 55-57cm range
+#   Allegrolokalnie.pl Canyon Speedmax CF9 Pro (size unverifiable via 403)
+#   OLX.pl BMC Timemachine TM01 Two M/L Ultegra Di2 — M/L not L (fails size)
+#   Skelbiu.lt Orbea Ordu M-Ltd TT — already in seen list
+# All other returned listings already in seen list. No Telegram alerts sent.
