@@ -359,3 +359,12 @@ https://allegrolokalnie.pl/oferta/rower-triathlonowy-trek-speed-concept
 # Sites checked: SS.lv (403/web search), OLX.pl (403/web search), Allegro.pl (403/web search), Allegrolokalnie.pl (403/web search), Skelbiu.lt (web search), Osta.ee (web search), Okidoki.ee (web search), Andel.lv (no results), Autoplius.lt (web search)
 # All candidates returned were already in seen list. No new qualifying listings (carbon frame, TT/triathlon type, L/56cm, Di2 or SRAM Red, <€8,000) found.
 # Note: Telegram not tested — no new listings to send. api.telegram.org network access status unverified this run.
+# --- 2026-07-03 run (ninth) — No new matches found ---
+# Sites checked: SS.lv (403/web search), OLX.pl (403/web search), Allegro.pl (403/web search), Allegrolokalnie.pl (403/web search), Skelbiu.lt (403/web search), Osta.ee (403/web search), Okidoki.ee (403/web search), Andel.lv (no results), Autoplius.lt (no results)
+# Candidates found but failed filter:
+#   SS.lv cebjxc (Cube Agree C:62 SL €1,395 — road bike, fails type)
+#   SS.lv cdfxkx (€550 carbon road bike — fails type)
+#   SS.lv cexedm (fixie €171 — fails type)
+#   Rondo Ruut CF0 Di2 gravel 56/L allegrolokalnie.pl — gravel bike, fails type
+#   Cannondale SuperSix Evo Carbon 105 Di2 56cm OLX.pl (ID13t9EV) — road bike, fails type
+# All other returned listings already in seen list. No Telegram alerts sent.
