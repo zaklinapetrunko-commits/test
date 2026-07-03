@@ -394,3 +394,7 @@ https://allegrolokalnie.pl/oferta/rower-triathlonowy-trek-speed-concept
 #   OLX.pl BMC Timemachine TM01 Two M/L Ultegra Di2 — M/L not L (fails size)
 #   Skelbiu.lt Orbea Ordu M-Ltd TT — already in seen list
 # All other returned listings already in seen list. No Telegram alerts sent.
+# --- 2026-07-03 run (thirteenth) — No new matches found ---
+# Sites checked: SS.lv (403/web search), OLX.pl (403/web search), Allegro.pl (403/web search), Allegrolokalnie.pl (403/web search), Skelbiu.lt (403/web search), Osta.ee (403/web search), Okidoki.ee (403/web search), Andel.lv (DNS failure/offline), Autoplius.lt (403/web search)
+# All candidates returned were already in seen list. No new qualifying listings (carbon frame, TT/triathlon type, L/56cm, Di2 or SRAM Red, <€8,000) found.
+# Note: Andel.lv DNS failure — site appears to be offline.
