@@ -324,3 +324,9 @@ https://allegrolokalnie.pl/oferta/rower-triathlonowy-trek-speed-concept
 # --- 2026-07-03 run (fourth) — No new matches found ---
 # Sites checked: SS.lv (403/web search), OLX.pl (403/web search), Allegro.pl (403/web search), Allegrolokalnie.pl (403/web search), Skelbiu.lt (web search), Osta.ee (web search), Okidoki.ee (web search), Andel.lv (no results), Autoplius.lt (web search)
 # All candidates returned were already in seen list. No new qualifying listings (carbon frame, TT/triathlon type, L/56cm, Di2 or SRAM Red, <€8,000) found.
+# --- 2026-07-03 run (fifth) — No new matches found ---
+# Sites checked: SS.lv (403/web search), OLX.pl (403/web search), Allegro.pl (403/web search), Allegrolokalnie.pl (403/web search), Skelbiu.lt (web search), Osta.ee (web search), Okidoki.ee (web search), Andel.lv (no results), Autoplius.lt (web search)
+# Candidates found but failed filter:
+#   OLX.pl IDw0rzr BMC Timemachine 02 SRAM Red eTap Warsaw (size M/S — fails size)
+#   OLX.pl ID12a9I1 BMC TimeMachine R01 Aero SRAM Red Kolbuszowa 56cm — likely TeamMachine R01 (aero road bike mislabeled, fails TT/triathlon type)
+# All other returned listings already in seen list. No Telegram alerts sent.
