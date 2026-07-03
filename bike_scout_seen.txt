@@ -520,3 +520,19 @@ https://allegrolokalnie.pl/oferta/rower-czasowy-triathlon-fuji-norcom-1-3-di2-55
 #   Skelbiu.lt Giant Trinity SRAM AXS L — already in seen list
 #   Autoplius.lt — no qualifying results
 # All other returned listings already in seen list. No Telegram alerts sent.
+# --- 2026-07-03 run (fourth) — No new matches found ---
+# Sites checked: SS.lv (403/web search), OLX.pl (403/web search), Allegro.pl (403/web search), Allegrolokalnie.pl (403/web search), Skelbiu.lt (web search), Osta.ee (403/web search), Okidoki.ee (403/web search), Andel.lv (no results), Autoplius.lt (no results), MM.lv (web search)
+# NOTE: Telegram BLOCKED — api.telegram.org returns 403 via egress proxy regardless of hardcoded credentials. Network policy blocks api.telegram.org; must be whitelisted at the infrastructure level to enable alerts.
+# Candidates found but failed filter:
+#   SS.lv cdpkon (Specialized Shiv TT L 2500 EUR — already in seen list)
+#   SS.lv cdkxli (TT M/L 54cm 480 EUR — fails size + groupset)
+#   SS.lv cdkhdh (Cervelo Apex Gravel L/56 1650 EUR — gravel bike, fails type)
+#   SS.lv bdkicx (Trek Emonda SL5 56cm Shimano 105 — road bike, fails type + groupset)
+#   SS.lv cdhhpc (Cannondale Synapse 54cm SRAM Force — road bike, fails type + size)
+#   Allegrolokalnie.pl: Wilier Twin Blade Di2 L, Cannondale Slice Di2, Felt DA4 Di2, Bottecchia Tri Di2 — all already in seen list
+#   Allegrolokalnie.pl Specialized Shiv Pro XS Di2 — size XS (fails size)
+#   Allegrolokalnie.pl Rose Xeon CRS SRAM Force 56cm — road bike, SRAM Force (fails type + groupset)
+#   Skelbiu.lt Giant Trinity SRAM AXS L — already in seen list
+#   Skelbiu.lt Orbea Ordu M-Ltd TT — already in seen list
+#   OLX.pl Kuota KT5 zero tri size S Di2 — fails size
+# All other returned listings already in seen list. No Telegram alerts sent.
