@@ -330,3 +330,17 @@ https://allegrolokalnie.pl/oferta/rower-triathlonowy-trek-speed-concept
 #   OLX.pl IDw0rzr BMC Timemachine 02 SRAM Red eTap Warsaw (size M/S — fails size)
 #   OLX.pl ID12a9I1 BMC TimeMachine R01 Aero SRAM Red Kolbuszowa 56cm — likely TeamMachine R01 (aero road bike mislabeled, fails TT/triathlon type)
 # All other returned listings already in seen list. No Telegram alerts sent.
+# --- 2026-07-03 run (sixth) — No new matches found ---
+# Sites checked: SS.lv (403/web search), OLX.pl (403/web search), Allegro.pl (403/web search), Allegrolokalnie.pl (403/web search), Skelbiu.lt (web search), Osta.ee (web search), Okidoki.ee (web search), Andel.lv (no results), Autoplius.lt (no results - auto site)
+# Candidates found but failed filter:
+#   SS.lv cdhhpc (Cannondale Synapse 54cm €700 — road bike, fails type and size)
+#   SS.lv bkbfjl (Scott Addict Disc L €2,100 — road bike, fails type)
+#   SS.lv blpnnj (Bergamont Dolce Carbon €320 — road bike, fails type)
+#   SS.lv cdpkon (Specialized Shiv L €2,500 — already in seen list)
+#   SS.lv cdniki (€1,500 carbon 56L — no TT/triathlon mention, fails type filter)
+#   SS.lv cdkxli (TT/triathlon 54cm €480 — fails size and groupset)
+#   Allegro.pl Apex Skylar Carbon Ultegra 54cm (fails size and groupset)
+#   Allegro.pl Felt B12 56cm Dura-Ace (mechanical Dura-Ace — fails groupset)
+#   Allegrolokalnie.pl Fondriest TF1 Carbon Ultegra 53cm (fails size)
+#   OLX.pl Cervelo S2 SRAM Force 56 (road bike, SRAM Force not SRAM Red — fails type and groupset)
+# All other returned listings already in seen list. No Telegram alerts sent.
