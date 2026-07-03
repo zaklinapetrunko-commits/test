@@ -581,3 +581,23 @@ https://allegro.pl/oferta/rower-triathlonowy-ceepo-viper-28-r-l-shimano-105-di2-
 #   Skelbiu.lt Giant Trinity SRAM AXS L — already in seen list
 #   Autoplius.lt — no qualifying results
 # All other returned listings already in seen list. No new qualifying listings. No Telegram alerts sent.
+# --- 2026-07-03 run (eighth) — No new matches found ---
+# Sites checked: SS.lv (403/web search), OLX.pl (403/web search), Allegro.pl (403/web search), Allegrolokalnie.pl (403/web search), Skelbiu.lt (web search), Osta.ee (web search), Okidoki.ee (web search), Andel.lv (no results), Autoplius.lt (web search), MM.lv (web search)
+# NOTE: Telegram BLOCKED — api.telegram.org returns 403 via egress proxy (CONNECT tunnel: 403 Forbidden). Hardcoded credentials confirmed valid; network egress proxy blocks api.telegram.org at the infrastructure level. Cannot be resolved via credentials alone — requires network whitelist change.
+# Candidates found but failed filter or already seen:
+#   SS.lv cdpkon (Specialized Shiv TT L €2,500 — already in seen list)
+#   SS.lv biicei (Giant TCR Advanced Di2 M/ML — road bike, fails type)
+#   SS.lv bjknpi (Specialized 58cm Carbon €2,800 — road bike, fails type + size)
+#   SS.lv cdkxli (TT M/L 54cm €480 — fails size + groupset)
+#   SS.lv bkhelc (S-M 160-175cm SRAM Quarq €1,550 — fails size)
+#   SS.lv blpnnj (Bergamont Dolce Carbon €320 — road bike, fails type)
+#   OLX.pl Cervelo P3X Ultegra Di2, Felt IA 2.0 Di2, Trek Speed Concept M — all already in seen list
+#   OLX.pl Kuota KT5 Zero Tri Di2 size S — fails size
+#   Allegrolokalnie.pl Cannondale Slice Di2 57cm — already in seen list
+#   Allegrolokalnie.pl Trek Speed Concept XL Di2 — already in seen list
+#   Allegrolokalnie.pl Bottecchia Tri Di2, Wilier Twin Blade Di2 L, Felt DA4 Di2 — all already in seen list
+#   Allegrolokalnie.pl Rose Xeon CRS SRAM Force 56cm — road bike, SRAM Force (fails type + groupset)
+#   Skelbiu.lt Giant Trinity SRAM AXS L — already in seen list
+#   Skelbiu.lt BMC Timemachine 02 S/M (Kaunas) — fails size
+#   Osta.ee, Okidoki.ee, Autoplius.lt, MM.lv — no qualifying results
+# All other returned listings already in seen list. No Telegram alerts sent (api.telegram.org blocked by egress proxy).
