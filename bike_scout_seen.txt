@@ -344,3 +344,14 @@ https://allegrolokalnie.pl/oferta/rower-triathlonowy-trek-speed-concept
 #   Allegrolokalnie.pl Fondriest TF1 Carbon Ultegra 53cm (fails size)
 #   OLX.pl Cervelo S2 SRAM Force 56 (road bike, SRAM Force not SRAM Red — fails type and groupset)
 # All other returned listings already in seen list. No Telegram alerts sent.
+# --- 2026-07-03 run (seventh) — No new matches found ---
+# Sites checked: SS.lv (403/web search), OLX.pl (403/web search), Allegro.pl (403/web search), Allegrolokalnie.pl (403/web search), Skelbiu.lt (web search), Osta.ee (web search), Okidoki.ee (web search), Andel.lv (no results), Autoplius.lt (web search)
+# All candidates returned were already in seen list or failed filter criteria:
+#   SS.lv cdpkon (Specialized Shiv L €2,500 — already in seen list)
+#   SS.lv biicei (Giant TCR Advanced Di2 — road bike, fails type; already in seen list)
+#   SS.lv cdhhpc (Cannondale Synapse 54cm — road bike, fails type and size)
+#   SS.lv blpnnj (Bergamont Dolce Carbon — road bike, fails type)
+#   SS.lv cdkxli (TT/triathlon 54cm €480 — fails size and groupset)
+#   Allegrolokalnie.pl Trek Speed Concept XL (XL size — already in seen list as di2-triathlonkarbon)
+#   Rose XEON 56 CRS Full Carbon SRAM Force (not SRAM Red, fails groupset; already in seen list)
+# No Telegram alerts sent.
