@@ -570,3 +570,14 @@ https://allegrolokalnie.pl/oferta/rower-czasowy-triathlon-fuji-norcom-1-3-di2-55
 #   Merida Silex 8000+ M Di2 Carbon allegrolokalnie.pl — gravel bike, fails type
 https://allegro.pl/oferta/rower-triathlonowy-ceepo-viper-28-r-l-shimano-105-di2-12s-czarny-14701067337
 https://allegro.pl/oferta/rower-triathlonowy-ceepo-viper-28-r-l-shimano-105-di2-12s-niebieski-14701065624
+# --- 2026-07-03 run (seventh) — No new matches found ---
+# Sites checked: SS.lv (403/web search), OLX.pl (403/web search), Allegro.pl (403/web search), Allegrolokalnie.pl (403/web search), Skelbiu.lt (web search), Osta.ee (web search), Okidoki.ee (web search), Andel.lv (no results), Autoplius.lt (no results)
+# NOTE: Telegram BLOCKED — api.telegram.org returns 403 via egress proxy (CONNECT tunnel: 403 Forbidden). Hardcoded credentials confirmed valid; network egress proxy blocks api.telegram.org at the infrastructure level. Cannot be resolved via prompt or credentials — requires network policy change to whitelist api.telegram.org.
+# Candidates found but failed filter:
+#   SS.lv: cdpkon (Specialized Shiv TT L €2,500 — already in seen list), cdkxli (TT M/L 54cm — fails size + groupset), cdniki (€1,500 carbon 56L — fails type), bxegpi (Cervélo P2 48cm — fails size), biicei (Giant TCR Di2 M/ML — road bike), cdkhdh (Cervelo Apex Gravel — fails type), cdhhpc (Cannondale Synapse 54cm — fails type + size), blpnnj (Bergamont Dolce Carbon — fails type), bkhelc (Time NX RS Carbon S-M — fails size)
+#   allegrolokalnie.pl: Bottecchia Tri Di2, Wilier Twin Blade Di2 L, Cannondale Slice Di2, Felt DA4 Di2, Kestrel Di2, Fuji Norcom 1.3 Di2 55cm, Look 796 Monoblade RS, Trek Speed Concept Di2 — all already in seen list
+#   allegrolokalnie.pl BMC Timemachine TMR02 carbon (Modlniczka, 5,100 PLN) — mechanical Ultegra (fails groupset)
+#   Pinarello Bolide TT allegrolokalnie.pl — already in seen list
+#   Skelbiu.lt Giant Trinity SRAM AXS L — already in seen list
+#   Autoplius.lt — no qualifying results
+# All other returned listings already in seen list. No new qualifying listings. No Telegram alerts sent.
