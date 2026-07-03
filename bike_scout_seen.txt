@@ -536,3 +536,25 @@ https://allegrolokalnie.pl/oferta/rower-czasowy-triathlon-fuji-norcom-1-3-di2-55
 #   Skelbiu.lt Orbea Ordu M-Ltd TT — already in seen list
 #   OLX.pl Kuota KT5 zero tri size S Di2 — fails size
 # All other returned listings already in seen list. No Telegram alerts sent.
+# --- 2026-07-03 run (fifth) — No new matches found ---
+# Sites checked: SS.lv (403/web search), OLX.pl (403/web search), Allegro.pl (403/web search), Allegrolokalnie.pl (403/web search), Skelbiu.lt (web search), Osta.ee (web search), Okidoki.ee (web search), Andel.lv (no results), Autoplius.lt (no results)
+# NOTE: Telegram BLOCKED — api.telegram.org returns 403 via egress proxy regardless of hardcoded credentials. Network policy blocks api.telegram.org; must be whitelisted at the infrastructure level to enable alerts.
+# Candidates found but failed filter:
+#   SS.lv cdpkon (Specialized Shiv TT L €2,500 — already in seen list)
+#   SS.lv cdkhdh (Cervelo Apex Gravel L/56 — gravel bike, fails type)
+#   SS.lv biicei (Giant TCR Advanced Di2 M/ML — road bike, fails type)
+#   SS.lv cdniki (€1,500 carbon 56L — no TT/triathlon mention, fails type)
+#   SS.lv cdhhpc (Cannondale Synapse 54cm SRAM Force — road bike, fails type + size)
+#   SS.lv blpnnj (Bergamont Dolce Carbon €320 — fails type)
+#   SS.lv bkehmk (KTM Revelator Alto Master Carbon €2,200 — road bike, fails type)
+#   SS.lv bkhelc (Time NX RS Carbon S-M Sram/Quarq — fails size)
+#   SS.lv bjooxc (full-carbon 1x8 road €800 — fails type + groupset)
+#   Allegrolokalnie.pl: Planet X TT, Ribble Deda TT, Avenger TM6, Cervelo PSeries 105, Felt DA4 Di2 — all already in seen list or fail filter
+#   Allegrolokalnie.pl Rondo Ruut CF0 Di2 gravel — already in seen list (gravel, fails type)
+#   Allegrolokalnie.pl Giant Propel Aero Disc XL Di2 — road bike, fails type
+#   Allegrolokalnie.pl Focus Cayo Carbon Ultegra 56 Elblag — road bike, fails type
+#   Skelbiu.lt: only known triathlon listings returned
+#   Osta.ee: no qualifying results
+#   Okidoki.ee: no qualifying results
+#   Autoplius.lt: no qualifying results
+# All other returned listings already in seen list. No Telegram alerts sent.
