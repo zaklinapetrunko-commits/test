@@ -376,3 +376,9 @@ https://allegrolokalnie.pl/oferta/rower-triathlonowy-trek-speed-concept
 #   Felt FR2 SRAM Red 56cm OLX.pl (IDKVyJC) — road bike (FR2), fails type
 #   Cannondale Synapse SRAM Red AXS 56cm OLX.pl (ID15DSdh) — road bike, fails type
 # All other returned listings already in seen list. No Telegram alerts sent.
+# --- 2026-07-03 run (eleventh) — No new matches found ---
+# Sites checked: SS.lv (403/web search), OLX.pl (403/web search), Allegro.pl (403/web search), Allegrolokalnie.pl (403/web search), Skelbiu.lt (web search), Osta.ee (403/web search), Okidoki.ee (web search), Andel.lv (no results), Autoplius.lt (403/web search)
+# Candidates found but failed filter:
+#   SS.lv bdhojg (S-M rāmis 160-175cm, Sram Equator Quarq power €1,550 — fails size, S-M frame not L)
+#   Allegro.pl Planet X STEALTH TT 15713862858 (49cm frame — fails size)
+# All other returned listings already in seen list. No Telegram alerts sent.
