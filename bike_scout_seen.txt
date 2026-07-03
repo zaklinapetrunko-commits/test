@@ -484,3 +484,12 @@ https://allegrolokalnie.pl/oferta/rower-czasowy-triathlon-fuji-norcom-1-3-di2-55
 #   OLX.pl Giant Trinity Advanced M Dura-Ace Di2 (ID14Z0tB) — size M (fails size filter)
 #   Bianchi Aquila RC Disc TT/Triathlon Shimano Dura-Ace Di2 2026 M/L (rowerszosowy.pl) — retail store listing, not a secondhand marketplace
 # All other returned listings already in seen list. No Telegram alerts sent.
+# --- 2026-07-03 run — No new matches found ---
+# Sites checked: SS.lv (403/web search), OLX.pl (403/web search), Allegro.pl (403/web search), Allegrolokalnie.pl (403/web search), Skelbiu.lt (403/web search), Osta.ee (403/web search), Okidoki.ee (403/web search), Andel.lv (no results), Autoplius.lt (no results)
+# NOTE: Telegram BLOCKED — api.telegram.org returns 403 via egress proxy regardless of hardcoded credentials. Network policy blocks api.telegram.org; must be whitelisted at the infrastructure level to enable alerts.
+# Candidates found but failed filter:
+#   Fuji Norcom Straight 1.3 Di2 Olkusz allegrolokalnie.pl (19,500 PLN) — size 53cm (fails size, outside 55-57cm range)
+#   Trek Madone Gen 7 SL6 58cm L 105 Di2 OLX.pl (road bike, Madone = endurance road, fails type)
+#   Fuji Norcom Straight 2.5 Warsaw allegrolokalnie.pl — size M (fails size)
+#   Felt B14 Carbon Ultegra 61cm OLX.pl — size 61cm (fails size)
+# All other returned listings already in seen list. No Telegram alerts sent.
