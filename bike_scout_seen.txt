@@ -601,3 +601,13 @@ https://allegro.pl/oferta/rower-triathlonowy-ceepo-viper-28-r-l-shimano-105-di2-
 #   Skelbiu.lt BMC Timemachine 02 S/M (Kaunas) — fails size
 #   Osta.ee, Okidoki.ee, Autoplius.lt, MM.lv — no qualifying results
 # All other returned listings already in seen list. No Telegram alerts sent (api.telegram.org blocked by egress proxy).
+# --- 2026-07-03 run (ninth) — No new matches found ---
+# Sites checked: SS.lv (403/web search), OLX.pl (403/web search), Allegro.pl (403/web search), Allegrolokalnie.pl (403/web search), Skelbiu.lt (web search), Osta.ee (no results), Okidoki.ee (no results), Andel.lv (no results), Autoplius.lt (no results), MM.lv (no results)
+# NOTE: Telegram API not tested — no new qualifying listings found this run.
+# Candidates found but failed filter:
+#   allegrolokalnie.pl Ridley Noah RS Ultegra Di2 (Elizówka, 5,800 PLN) — aero road bike (fails type)
+#   allegrolokalnie.pl Giant TCR Advanced Ultegra Di2 Carbon — road bike (fails type)
+#   ss.lv cnnbd (Giant TCR Advanced 3 carbon €1,300) — road bike (fails type)
+#   olx.pl ID15B7Gd (Apex Skylar TT Carbon Ultegra 54cm) — size 54cm (fails size)
+#   ss.lv bpcmke (Scott Addict Gravel 20 €2,500) — gravel bike (fails type)
+# All other returned listings already in seen list. No Telegram alerts sent.
