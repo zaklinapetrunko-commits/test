@@ -304,3 +304,12 @@ https://allegrolokalnie.pl/oferta/rower-triathlonowy-trek-speed-concept
 #   Ceepo Viper 28" r.L Shimano 105 Di2 allegro.pl (14701067337) — Ceepo Viper L = 53cm frame (fails size, outside 55-57cm range)
 #   SS.lv bpdhxh (Time NX RS Di2 €1,000 — road/TT road bike, type unverifiable, likely not TT/triathlon)
 # All other returned listings already in seen list. No Telegram alerts sent.
+# --- 2026-07-03 run (second) — No new matches found ---
+# Sites checked: SS.lv (403/web search), OLX.pl (403/web search), Allegro.pl (403/web search), Allegrolokalnie.pl (403/web search), Skelbiu.lt (web search), Osta.ee (web search), Okidoki.ee (web search), Andel.lv (no results), Autoplius.lt (web search)
+# All candidates returned were already in seen list or failed filter criteria.
+# Candidates found but failed filter:
+#   Specialized S-Works Venge Vias Di2 56cm allegrolokalnie.pl — road bike (Venge), fails type
+#   Cervelo P5 Dura-Ace Di2 allegro.pl (7855575973) — 403 on fetch, size unverifiable (likely 54cm per AI summary)
+#   SS.lv cdpkon (Specialized Shiv L €2,500) — already in seen list
+#   SS.lv ngjhe (€4,500 carbon — type unverifiable) — already in seen list
+# No Telegram alerts sent.
