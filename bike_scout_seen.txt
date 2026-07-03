@@ -611,3 +611,15 @@ https://allegro.pl/oferta/rower-triathlonowy-ceepo-viper-28-r-l-shimano-105-di2-
 #   olx.pl ID15B7Gd (Apex Skylar TT Carbon Ultegra 54cm) — size 54cm (fails size)
 #   ss.lv bpcmke (Scott Addict Gravel 20 €2,500) — gravel bike (fails type)
 # All other returned listings already in seen list. No Telegram alerts sent.
+# --- 2026-07-03 run (tenth) — No new matches found ---
+# Sites checked: SS.lv (403/web search), OLX.pl (403/web search), Allegro.pl (403/web search), Allegrolokalnie.pl (403/web search), Skelbiu.lt (web search), Osta.ee (no results via search), Okidoki.ee (no results via search), Andel.lv (no results), Autoplius.lt (no results)
+# NOTE: Telegram BLOCKED — api.telegram.org returns 403 via egress proxy regardless of hardcoded credentials. Network policy blocks api.telegram.org; must be whitelisted at the infrastructure level to enable alerts.
+# Candidates found but failed filter or already seen:
+#   SS.lv cdpkon (Specialized Shiv TT L €2,500 — already in seen list)
+#   SS.lv cdkxli (TT M/L 54cm €480 — fails size + groupset)
+#   SS.lv cdniki (€1,500 carbon 56L — no TT/triathlon mention, fails type)
+#   Allegrolokalnie.pl: Bottecchia Tri Di2, Wilier Twin Blade Di2 L, Cannondale Slice Di2, Felt DA4 Di2, Kestrel Di2, Fuji Norcom 1.3 Di2 55cm, Trek Speed Concept, Look 796 Monoblade RS — all already in seen list
+#   Rose Xeon CRS SRAM Force 56cm allegrolokalnie.pl — road bike, SRAM Force (fails type + groupset)
+#   Specialized Shiv Pro XS Di2 — size XS (fails size)
+#   Apex Skylar Carbon Ultegra 54cm allegro.pl — size 54cm (fails size)
+# All other returned listings already in seen list. No Telegram alerts sent.
