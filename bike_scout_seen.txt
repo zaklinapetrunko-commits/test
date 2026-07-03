@@ -368,3 +368,11 @@ https://allegrolokalnie.pl/oferta/rower-triathlonowy-trek-speed-concept
 #   Rondo Ruut CF0 Di2 gravel 56/L allegrolokalnie.pl — gravel bike, fails type
 #   Cannondale SuperSix Evo Carbon 105 Di2 56cm OLX.pl (ID13t9EV) — road bike, fails type
 # All other returned listings already in seen list. No Telegram alerts sent.
+# --- 2026-07-03 run (tenth) — No new matches found ---
+# Sites checked: SS.lv (403/web search), OLX.pl (403/web search), Allegro.pl (403/web search), Allegrolokalnie.pl (403/web search), Skelbiu.lt (web search), Osta.ee (web search), Okidoki.ee (web search), Andel.lv (no results), Autoplius.lt (web search)
+# Candidates found but failed filter:
+#   SS.lv oxbhc (Cervelo S3 2018 56cm €1,500 — aero road bike, fails type)
+#   SS.lv blxloi (Canyon Aeroad CF SLX size L €1,500 — road bike, fails type)
+#   Felt FR2 SRAM Red 56cm OLX.pl (IDKVyJC) — road bike (FR2), fails type
+#   Cannondale Synapse SRAM Red AXS 56cm OLX.pl (ID15DSdh) — road bike, fails type
+# All other returned listings already in seen list. No Telegram alerts sent.
