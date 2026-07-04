@@ -414,3 +414,13 @@ https://allegrolokalnie.pl/oferta/rower-triathlonowy-trek-speed-concept
 #   Kuota KT5 Zero Tri Carbon Di2 OLX.pl (size S — fails size)
 #   Rose Xeon CRS Full Carbon SRAM Force allegrolokalnie.pl (SRAM Force not SRAM Red, fails groupset; already in seen list)
 https://allegro.pl/oferta/rower-triathlonowy-czasowy-bmc-timemachine-01-disc-one-roz-m-l-17141379570
+# --- 2026-07-04 run (third) — No new matches found ---
+# Sites checked: SS.lv (403/web search), OLX.pl (403/web search), Allegro.pl (403/web search), Allegrolokalnie.pl (403/web search), Skelbiu.lt (403/web search), Osta.ee (403/web search), Okidoki.ee (403/web search), Andel.lv (DNS failure/offline), Autoplius.lt (403/web search)
+# Candidates found but failed filter:
+#   OLX.pl IDZb5eo Felt B2 triathlon 56 karbon (Malbork) — Shimano Dura-Ace mechanical (not Di2), SRAM 10s cassette only (not SRAM Red groupset), fails groupset filter
+#   SS.lv cebjxc (Cube Agree C:62 SL €1,395 — road/gravel bike, fails type)
+#   SS.lv bokogf (Merida Mission 6000 karbona gravelis €1,500 — gravel bike, fails type)
+#   SS.lv cedicf (Cannondale Topstone Carbon 3 €1,250 — gravel bike, fails type)
+#   Canyon Speedmax CF SLX7 Disc AXS OLX.pl (ID13Yr6W) — size M, not L (fails size)
+# All other returned listings already in seen list. No Telegram alerts sent.
+# NOTE: Telegram not tested — no new listings this run. api.telegram.org blocked via egress proxy per prior runs.
