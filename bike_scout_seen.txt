@@ -561,3 +561,10 @@ https://allegrolokalnie.pl/oferta/rower-czasowy-triathlon-fuji-norcom-1-3-di2-55
 #   Orbea Ordu M-Ltd skelbiu.lt — already in seen list
 # All other returned listings already in seen list. No new qualifying listings (carbon frame, TT/triathlon type, L/56cm, Di2 or SRAM Red, <€8,000) found.
 # NOTE: Telegram BLOCKED — api.telegram.org returns 403 via egress proxy per prior runs. Credentials are hardcoded and correct; network policy is the blocker.
+# --- 2026-07-04 run (twenty-first) — No new matches found ---
+# Sites checked: SS.lv (403/web search), OLX.pl (403/web search), Allegro.pl (403/web search), Allegrolokalnie.pl (403/web search), Skelbiu.lt (403/web search), Osta.ee (403/web search), Okidoki.ee (403/web search), Andel.lv (DNS failure/offline), Autoplius.lt (car site)
+# Candidates found but failed filter:
+#   allegrolokalnie.pl rower-czasowy-fuji-norcom-straight-13-triathlon (Fuji Norcom Straight 1.3 Di2 Olkusz 19,500 PLN — confirmed 53cm, fails size)
+#   allegrolokalnie.pl rower-czasowy-triathlon-karbon-orbea-ora-tt-ultegr (Orbea Ora TT Wrocław — Ultegra 10-speed mechanical 6600 series, 53-54cm — fails groupset and size)
+# All other returned listings already in seen list. No Telegram alerts sent.
+# NOTE: Telegram BLOCKED — api.telegram.org returns 403 via egress proxy per prior runs. Credentials are hardcoded and correct; network policy is the blocker.
