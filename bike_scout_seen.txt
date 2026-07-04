@@ -530,3 +530,8 @@ https://allegrolokalnie.pl/oferta/rower-czasowy-triathlon-fuji-norcom-1-3-di2-55
 #   Canyon Speedmax CF 9.0 PRO allegrolokalnie.pl — already in seen list
 #   Orbea Ordu Carbon Ultegra L OLX.pl (IDAWyFh) — already in seen list
 # NOTE: Telegram BLOCKED — api.telegram.org returns 403 via egress proxy (HTTP/1.1 403 Forbidden on CONNECT tunnel to api.telegram.org:443, confirmed via curl test this run). Hardcoded credentials are NOT the issue — network policy blocks this endpoint. Unblocking requires a network-level policy change in the remote execution environment, not a code or credentials change.
+# --- 2026-07-04 run (seventeenth) — No new matches found ---
+# Sites checked: SS.lv (403/web search), OLX.pl (403/web search), Allegro.pl (403/web search), Allegrolokalnie.pl (403/web search), Skelbiu.lt (web search), Osta.ee (web search), Okidoki.ee (web search), Andel.lv (DNS failure/offline), Autoplius.lt (web search)
+# Search terms used: triathlon TT bike carbon Di2 SRAM Red L 56cm Poland Latvia Lithuania; rower triathlonowy TT karbon Di2 SRAM Red 56 L; canyon speedmax cervelo trek specialized shiv carbon Di2 L 56; BMC Timemachine orbea ordu argon 18 Di2 56 L triathlon
+# All candidates returned were already in seen list or failed filter criteria.
+# NOTE: Telegram BLOCKED — api.telegram.org returns 403 via egress proxy. No new listings to alert regardless.
