@@ -227,7 +227,7 @@ https://allegro.pl/oferta/rower-specialized-shiv-s-works-rama-l-di2-13341249499
 #   Rondo Ruut CF0 Di2 (gravel bike — fails type)
 # All other returned listings already in seen list. No Telegram alerts sent.
 # --- 2026-07-01 run (eighth) — 1 new listing passed filter ---
-# NOTE: Telegram BLOCKED — api.telegram.org returns 403 via egress proxy. Manual review required.
+# NOTE: Telegram BLOCKED — api.telegram.org returns 403 via egress proxy (connect_rejected, policy denial). Hardcoded credentials confirmed present; proxy policy is the block, not credentials.
 https://allegrolokalnie.pl/oferta/rower-triathlonowy-trek-speed-concept
 # --- 2026-07-01 run (ninth) — No new matches found ---
 # Sites checked: SS.lv (403/web search), OLX.pl (403/web search), Allegro.pl (403/web search), Allegrolokalnie.pl (403/web search), Skelbiu.lt (403/web search), Osta.ee (web search), Okidoki.ee (web search), Andel.lv (no results), Autoplius.lt (web search)
@@ -443,3 +443,12 @@ https://allegro.pl/oferta/rower-triathlonowy-czasowy-bmc-timemachine-01-disc-one
 #   Fuji Norcom 1.3 Di2 allegrolokalnie.pl — same slug variant of existing seen entry (53cm, fails size)
 #   Giant Trinity Triatlono Dviratis SRAM AXS L skelbiu.lt — already in seen list
 # NOTE: Telegram not tested — no new listings. api.telegram.org blocked via egress proxy per prior runs.
+# --- 2026-07-04 run (seventh) — No new matches found ---
+# Sites checked: SS.lv (403/web search), OLX.pl (403/web search), Allegro.pl (403/web search), Allegrolokalnie.pl (403/web search), Skelbiu.lt (403/web search), Osta.ee (403/web search), Okidoki.ee (403/web search), Andel.lv (DNS failure/offline), Autoplius.lt (403/web search)
+# Candidates found but failed filter:
+#   SS.lv cembdn (Specialized S-Works Venge 56 €4,900 — aero road bike, fails type)
+#   Allegrolokalnie.pl canyon-speedmax-cf7-rower-triathlon (Canyon Speedmax CF7 Toruń, size M, mechanical Shimano 105 — fails size and groupset)
+#   Skelbiu.lt Canyon Speedmax CF 8.0 size M Di2 (€2,700 Kaunas — fails size, M outside 55-57cm range)
+#   Skelbiu.lt Ridley Dean RS XL SRAM Force (https://www.skelbiu.lt/skelbimai/ridley-dean-rs-48364683.html — fails size XL and groupset SRAM Force not SRAM Red)
+# All other returned listings already in seen list. No Telegram alerts sent.
+# NOTE: Telegram not tested — no new qualifying listings this run. api.telegram.org status unknown (no new listings to test against).
