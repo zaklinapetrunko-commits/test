@@ -246,7 +246,7 @@ https://allegrolokalnie.pl/oferta/rower-triathlonowy-trek-speed-concept
 # --- 2026-07-01 run (twelfth) — No new matches found ---
 # Sites checked: SS.lv (403/web search), OLX.pl (403/web search), Allegro.pl (403/web search), Allegrolokalnie.pl (403/web search), Skelbiu.lt (403/web search), Osta.ee (403/web search), Okidoki.ee (403/web search), Andel.lv (no results), Autoplius.lt (403/web search)
 # Candidates found but failed filter:
-#   Canyon Speedmax CF7 Toruń allegrolokalnie.pl (size M, mechanical Shimano 105 — fails size and groupset)
+#   Canyon Speedmax CF7 Torun allegrolokalnie.pl (size M, mechanical Shimano 105 — fails size and groupset)
 # All other returned listings already in seen list. No Telegram alerts sent.
 # --- 2026-07-01 run (thirteenth) — No new matches found ---
 # Sites checked: SS.lv (403/web search), OLX.pl (403/web search), Allegro.pl (403/web search), Allegrolokalnie.pl (403/web search), Skelbiu.lt (403/web search), Osta.ee (no results via search), Okidoki.ee (no results via search), Andel.lv (no results), Autoplius.lt (no results via search)
@@ -256,7 +256,7 @@ https://allegrolokalnie.pl/oferta/rower-triathlonowy-trek-speed-concept
 #   Allegrolokalnie.pl Rower czasowy TT Carbon rozm S Tychy — size S (fails size)
 #   Allegrolokalnie.pl Canyon Speedmax AL S — aluminum frame, size S (fails frame material + size)
 #   Allegrolokalnie.pl Canyon Speedmax AL90 S — aluminum frame, size S (fails frame material + size)
-#   Allegrolokalnie.pl Canyon Speedmax CF7 Toruń (11000 PLN) — CF7 = mechanical Shimano (fails groupset)
+#   Allegrolokalnie.pl Canyon Speedmax CF7 Torun (11000 PLN) — CF7 = mechanical Shimano (fails groupset)
 #   SS.lv bdphlg — Ripo TT 59cm €280 (fails size + groupset)
 # All other returned listings already in seen list. No Telegram alerts sent.
 # --- 2026-07-01 run (fourteenth) — No new matches found ---
@@ -279,7 +279,7 @@ https://allegrolokalnie.pl/oferta/rower-triathlonowy-trek-speed-concept
 # Candidates found but failed filter:
 #   SS.lv bpdxkk (Liv Langma by Giant €900 — road bike, fails type)
 #   SS.lv bpdiic (Kuota Kryon €1,500 — road bike, fails type)
-#   OLX.pl ARGON 18 E80 CreatoBike Łódź ~4,299PLN — URL unverifiable, E80 not a carbon TT/triathlon bike
+#   OLX.pl ARGON 18 E80 CreatoBike Lodz ~4,299PLN — URL unverifiable, E80 not a carbon TT/triathlon bike
 #   Allegrolokalnie.pl Colnago Concept Carbon SRAM Red 54cm — road bike, fails type + size
 # All other returned listings already in seen list. No Telegram alerts sent.
 # --- 2026-07-02 run — No new matches found ---
@@ -297,7 +297,7 @@ https://allegrolokalnie.pl/oferta/rower-triathlonowy-trek-speed-concept
 # Candidates found but failed filter:
 #   Felt B12 56cm Dura-Ace allegro.pl (14729300234) — mechanical Dura-Ace (not Di2), fails groupset
 #   SS.lv cdniki (€1,500 carbon 56L) — no TT/triathlon type mention, fails type filter
-#   Cervélo P2 Carbon TT 48cm ss.lv bxegpi — fails size (48cm)
+#   Cervelo P2 Carbon TT 48cm ss.lv bxegpi — fails size (48cm)
 # --- 2026-07-03 run — No new matches found ---
 # Sites checked: SS.lv (403/web search), OLX.pl (403/web search), Allegro.pl (403/web search), Allegrolokalnie.pl (403/web search), Skelbiu.lt (403/web search), Osta.ee (403/web search), Okidoki.ee (403/web search), Andel.lv (no results), Autoplius.lt (403/web search)
 # Candidates found but failed filter:
@@ -379,7 +379,7 @@ https://allegrolokalnie.pl/oferta/rower-triathlonowy-trek-speed-concept
 # --- 2026-07-03 run (eleventh) — No new matches found ---
 # Sites checked: SS.lv (403/web search), OLX.pl (403/web search), Allegro.pl (403/web search), Allegrolokalnie.pl (403/web search), Skelbiu.lt (web search), Osta.ee (403/web search), Okidoki.ee (web search), Andel.lv (no results), Autoplius.lt (403/web search)
 # Candidates found but failed filter:
-#   SS.lv bdhojg (S-M rāmis 160-175cm, Sram Equator Quarq power €1,550 — fails size, S-M frame not L)
+#   SS.lv bdhojg (S-M ramis 160-175cm, Sram Equator Quarq power €1,550 — fails size, S-M frame not L)
 #   Allegro.pl Planet X STEALTH TT 15713862858 (49cm frame — fails size)
 # All other returned listings already in seen list. No Telegram alerts sent.
 # --- 2026-07-03 run (twelfth) — No new matches found ---
@@ -423,4 +423,10 @@ https://allegro.pl/oferta/rower-triathlonowy-czasowy-bmc-timemachine-01-disc-one
 #   SS.lv cedicf (Cannondale Topstone Carbon 3 €1,250 — gravel bike, fails type)
 #   Canyon Speedmax CF SLX7 Disc AXS OLX.pl (ID13Yr6W) — size M, not L (fails size)
 # All other returned listings already in seen list. No Telegram alerts sent.
+# NOTE: Telegram not tested — no new listings this run. api.telegram.org blocked via egress proxy per prior runs.
+# --- 2026-07-04 run (fourth) — No new matches found ---
+# Sites checked: SS.lv (403/web search), OLX.pl (403/web search), Allegro.pl (403/web search), Allegrolokalnie.pl (403/web search), Skelbiu.lt (web search), Osta.ee (web search), Okidoki.ee (web search), Andel.lv (DNS failure/offline), Autoplius.lt (403/web search)
+# Candidates found but failed filter:
+#   SS.lv iekni (€950 carbon + Shimano — bike type, size, and groupset unverifiable via 403; insufficient info to confirm TT/triathlon type, L/56cm size, or Di2/SRAM Red groupset)
+# All other returned listings already in seen list. No new qualifying listings (carbon frame, TT/triathlon type, L/56cm, Di2 or SRAM Red, <€8,000) found.
 # NOTE: Telegram not tested — no new listings this run. api.telegram.org blocked via egress proxy per prior runs.
