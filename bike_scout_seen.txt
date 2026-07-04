@@ -443,3 +443,11 @@ https://allegro.pl/oferta/rower-triathlonowy-czasowy-bmc-timemachine-01-disc-one
 #   Fuji Norcom 1.3 Di2 allegrolokalnie.pl — same slug variant of existing seen entry (53cm, fails size)
 #   Giant Trinity Triatlono Dviratis SRAM AXS L skelbiu.lt — already in seen list
 # NOTE: Telegram not tested — no new listings. api.telegram.org blocked via egress proxy per prior runs.
+# --- 2026-07-04 run (seventh) — No new matches found ---
+# Sites checked: SS.lv (403/web search), OLX.pl (403/web search), Allegro.pl (403/web search), Allegrolokalnie.pl (403/web search), Skelbiu.lt (web search), Osta.ee (web search), Okidoki.ee (web search), Andel.lv (DNS failure/offline), Autoplius.lt (cars-only site, no bicycles)
+# Candidates found but failed filter:
+#   SS.lv bjjgkb (€2,200 full carbon with Mavic wheels, aero — 403 on fetch; type/size/groupset unverifiable, cannot confirm TT/triathlon, L/56cm, or Di2/SRAM Red)
+#   Allegrolokalnie.pl rower-czasowy-triathlon-karbon-orbea-ora-tt-ultegr (Orbea Ora TT, Wrocław, 5500 PLN — mechanical Ultegra 6600 10S, fails groupset filter)
+#   Allegrolokalnie.pl rower-triathlonowy-orbea-ora (Orbea Ora, Pruszcz Gdański, 2000 PLN — endurance road model mislabeled as tri; no Di2/SRAM Red, fails type and groupset)
+#   OLX.pl ID1196U5 Stevens Crono TT Carbon 56cm (HED wheels) — mechanical Shimano groupset (previously investigated, fails groupset)
+# NOTE: No new listings passed filter. Telegram not tested (no new listings). api.telegram.org known-blocked via egress proxy per prior runs.
