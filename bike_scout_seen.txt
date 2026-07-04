@@ -405,3 +405,12 @@ https://allegrolokalnie.pl/oferta/rower-triathlonowy-trek-speed-concept
 #   BMC Timemachine TMR01 56-L Tallinn okidoki.ee — aero road bike (TMR = Timemachine Road), not TT/triathlon type (fails type); groupset Shimano Ultegra mechanical (fails groupset too)
 # All other returned listings already in seen list. No Telegram alerts sent.
 # NOTE: Telegram not tested — no new listings. api.telegram.org blocked via egress proxy per prior runs.
+# --- 2026-07-04 run (second) — 1 new listing passed filter ---
+# NOTE: Telegram BLOCKED — api.telegram.org returns 403 via egress proxy (connect_rejected, policy denial). Hardcoded credentials confirmed present; proxy policy is the block, not credentials.
+# Listing: BMC Timemachine 01 Disc ONE, M/L (57cm), Shimano Ultegra Di2, full carbon TT/triathlon bike, Allegro.pl
+# Sites checked: SS.lv (403/web search), OLX.pl (403/web search), Allegro.pl (403/web search), Allegrolokalnie.pl (403/web search), Skelbiu.lt (web search), Osta.ee (web search), Okidoki.ee (web search), Andel.lv (DNS failure/offline), Autoplius.lt (web search)
+# Candidates found but failed filter:
+#   Scott Plasma 3 Premium Carbon allegrolokalnie.pl (11,200 PLN — €2,600 — size and groupset unverifiable, model is older/non-Di2, already in seen list)
+#   Kuota KT5 Zero Tri Carbon Di2 OLX.pl (size S — fails size)
+#   Rose Xeon CRS Full Carbon SRAM Force allegrolokalnie.pl (SRAM Force not SRAM Red, fails groupset; already in seen list)
+https://allegro.pl/oferta/rower-triathlonowy-czasowy-bmc-timemachine-01-disc-one-roz-m-l-17141379570
