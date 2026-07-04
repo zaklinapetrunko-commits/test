@@ -535,3 +535,18 @@ https://allegrolokalnie.pl/oferta/rower-czasowy-triathlon-fuji-norcom-1-3-di2-55
 # Search terms used: triathlon TT bike carbon Di2 SRAM Red L 56cm Poland Latvia Lithuania; rower triathlonowy TT karbon Di2 SRAM Red 56 L; canyon speedmax cervelo trek specialized shiv carbon Di2 L 56; BMC Timemachine orbea ordu argon 18 Di2 56 L triathlon
 # All candidates returned were already in seen list or failed filter criteria.
 # NOTE: Telegram BLOCKED — api.telegram.org returns 403 via egress proxy. No new listings to alert regardless.
+# --- 2026-07-04 run (eighteenth) — No new matches found ---
+# Sites checked: SS.lv (403/web search), OLX.pl (403/web search), Allegro.pl (403/web search), Allegrolokalnie.pl (403/web search), Skelbiu.lt (web search), Osta.ee (web search), Okidoki.ee (web search), Andel.lv (DNS failure/offline), Autoplius.lt (web search)
+# Search terms: triathlon bike carbon, triatlona velosipeds TT, triatlono dviratis Di2, TT bike carbon Di2 SRAM Red L 56
+# All candidates returned were already in seen list or failed filter criteria:
+#   SS.lv cdpkon (Specialized Shiv L 2500EUR — already in seen list)
+#   SS.lv cdkxli (TT/triathlon 54cm 480EUR — fails size and groupset)
+#   SS.lv bkhelc (S-M frame carbon SRAM Quarq 1550EUR — fails size S-M)
+#   SS.lv biicei (Giant TCR Advanced Di2 — road bike, fails type)
+#   OLX.pl Specialized Roubaix Ultegra Di2 56 — road bike, fails type
+#   OLX.pl Orbea Ordu M30i LTD Di2 — already in seen list
+#   Allegrolokalnie.pl Orbea Ora TT Wroclaw Ultegr — already assessed as 53-54cm Ultegra 10s mechanical, fails groupset and size
+#   Allegrolokalnie.pl Trek Speed Concept Project One L (56) — already in seen list
+#   Allegrolokalnie.pl Fuji Norcom 1.3 Di2 Torun (55) — already in seen list
+#   Skelbiu.lt Giant Trinity SRAM AXS Naujas L — already in seen list
+# NOTE: Telegram not tested — no new listings. api.telegram.org blocked via egress proxy per prior runs.
