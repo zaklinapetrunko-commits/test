@@ -430,3 +430,7 @@ https://allegro.pl/oferta/rower-triathlonowy-czasowy-bmc-timemachine-01-disc-one
 #   SS.lv iekni (€950 carbon + Shimano — bike type, size, and groupset unverifiable via 403; insufficient info to confirm TT/triathlon type, L/56cm size, or Di2/SRAM Red groupset)
 # All other returned listings already in seen list. No new qualifying listings (carbon frame, TT/triathlon type, L/56cm, Di2 or SRAM Red, <€8,000) found.
 # NOTE: Telegram not tested — no new listings this run. api.telegram.org blocked via egress proxy per prior runs.
+# --- 2026-07-04 run (fifth) — No new matches found ---
+# Sites checked: SS.lv (403/web search), OLX.pl (403/web search), Allegro.pl (403/web search), Allegrolokalnie.pl (403/web search), Skelbiu.lt (web search), Osta.ee (403/web search), Okidoki.ee (403/web search), Andel.lv (DNS failure/offline), Autoplius.lt (403/web search)
+# All candidates returned were already in seen list. No new qualifying listings (carbon frame, TT/triathlon type, L/56cm, Di2 or SRAM Red, <€8,000) found.
+# NOTE: Telegram not tested — no new listings this run. api.telegram.org blocked via egress proxy per prior runs.
