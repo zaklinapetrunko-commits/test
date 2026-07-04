@@ -483,3 +483,10 @@ https://allegrolokalnie.pl/oferta/rower-czasowy-triathlon-fuji-norcom-1-3-di2-55
 # Sites checked: SS.lv (403/web search), OLX.pl (403/web search), Allegro.pl (403/web search), Allegrolokalnie.pl (403/web search), Skelbiu.lt (403/web search), Osta.ee (403/web search), Okidoki.ee (403/web search), Andel.lv (DNS failure/offline), Autoplius.lt (403/web search)
 # All candidates returned were already in seen list. No new qualifying listings (carbon frame, TT/triathlon type, L/56cm, Di2 or SRAM Red, <€8,000) found.
 # NOTE: Telegram not tested — no new listings. api.telegram.org blocked via egress proxy per prior runs.
+# --- 2026-07-04 run (twelfth) — No new matches found ---
+# Sites checked: SS.lv (403/web search), OLX.pl (403/web search), Allegro.pl (403/web search), Allegrolokalnie.pl (403/web search), Skelbiu.lt (403/web search), Osta.ee (403/web search), Okidoki.ee (403/web search), Andel.lv (DNS failure/offline), Autoplius.lt (403/web search)
+# Candidates found but failed filter:
+#   Colnago Y1RS Dura Ace Di2 OLX.pl (ID1a2Wuc) — road bike, fails type
+#   Giant Trinity 2 carbon triathlon OLX.pl (ID11U7X3) — Shimano 105 mechanical groupset, fails groupset
+# All other returned listings already in seen list. No Telegram alerts sent.
+# NOTE: Telegram not tested — no new listings. api.telegram.org blocked via egress proxy per prior runs.
