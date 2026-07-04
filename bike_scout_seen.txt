@@ -472,3 +472,10 @@ https://allegrolokalnie.pl/oferta/rower-czasowy-triathlon-fuji-norcom-1-3-di2-55
 #   allegrolokalnie.pl rower-czasowy-fuji-norcom-straight-13-triathlon (Fuji Norcom 1.3 Di2 Olkusz 19,500 PLN — previously assessed as 53cm, fails size; same bike reviewed run 14)
 # All other returned listings already in seen list. No Telegram alerts sent.
 # NOTE: Telegram not tested — no new listings. api.telegram.org blocked via egress proxy per prior runs.
+# --- 2026-07-04 run (tenth) — No new matches found ---
+# Sites checked: SS.lv (403/web search), OLX.pl (403/web search), Allegro.pl (403/web search), Allegrolokalnie.pl (403/web search), Skelbiu.lt (web search), Osta.ee (403/web search), Okidoki.ee (403/web search), Andel.lv (DNS failure/offline), Autoplius.lt (403/web search)
+# Candidates found but failed filter:
+#   Orbea Ora TT Wrocław allegrolokalnie.pl (rower-czasowy-triathlon-karbon-orbea-ora-tt-ultegr) — Ultegra 10-speed mechanical 6600 series, size 53-54cm — fails groupset and size
+#   Fuji Norcom Straight 1.3 Gdynia 9,300 PLN allegrolokalnie.pl (rower-czasowy-triathlon-fuji-norcom-straight-1-3-d) — confirmed size 51cm (fails size)
+# All other returned listings already in seen list. No Telegram alerts sent.
+# NOTE: Telegram not tested — no new listings. api.telegram.org blocked via egress proxy per prior runs.
