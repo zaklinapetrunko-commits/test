@@ -479,3 +479,7 @@ https://allegrolokalnie.pl/oferta/rower-czasowy-triathlon-fuji-norcom-1-3-di2-55
 #   Fuji Norcom Straight 1.3 Gdynia 9,300 PLN allegrolokalnie.pl (rower-czasowy-triathlon-fuji-norcom-straight-1-3-d) — confirmed size 51cm (fails size)
 # All other returned listings already in seen list. No Telegram alerts sent.
 # NOTE: Telegram not tested — no new listings. api.telegram.org blocked via egress proxy per prior runs.
+# --- 2026-07-04 run (eleventh) — No new matches found ---
+# Sites checked: SS.lv (403/web search), OLX.pl (403/web search), Allegro.pl (403/web search), Allegrolokalnie.pl (403/web search), Skelbiu.lt (403/web search), Osta.ee (403/web search), Okidoki.ee (403/web search), Andel.lv (DNS failure/offline), Autoplius.lt (403/web search)
+# All candidates returned were already in seen list. No new qualifying listings (carbon frame, TT/triathlon type, L/56cm, Di2 or SRAM Red, <€8,000) found.
+# NOTE: Telegram not tested — no new listings. api.telegram.org blocked via egress proxy per prior runs.
