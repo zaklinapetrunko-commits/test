@@ -202,7 +202,7 @@ https://allegro.pl/oferta/rower-specialized-shiv-s-works-rama-l-di2-13341249499
 # All candidates checked were already in seen list. No new qualifying listings (carbon frame, TT/triathlon type, L/56cm, Di2 or SRAM Red, <€8,000) found.
 # --- 2026-07-01 run (fourth) — No new matches found ---
 # Sites checked: SS.lv (403/web search), OLX.pl (403/web search), Allegro.pl (403/web search), Allegrolokalnie.pl (403/web search), Skelbiu.lt (web search), Osta.ee (web search), Okidoki.ee (web search), Andel.lv (no results), Autoplius.lt (web search)
-# Candidates found but failed filter: SS.lv bxegpi (Cervélo P2 size 48 — fails size); SS.lv oxgmb (450€ TT — fails groupset, no Di2/SRAM Red); OLX Felt FR2 SRAM Red 56cm (road bike, fails type and groupset tier).
+# Candidates found but failed filter: SS.lv bxegpi (Cervélo P2 size 48 — fails size); SS.lv oxgmb (450€ TT — fails groupset, no Di2/SRAM Red); OLX Felt FR2 SRAM Red 56cm (road bike, fails type and groupset tier)
 # All other returned listings already in seen list. No Telegram alerts sent.
 # --- 2026-07-01 run (fifth) — No new matches found ---
 # Sites checked: SS.lv (403/web search), OLX.pl (403/web search), Allegro.pl (403/web search), Allegrolokalnie.pl (403/web search), Skelbiu.lt (web search), Osta.ee (403/web search), Okidoki.ee (web search), Andel.lv (no results), Autoplius.lt (web search)
@@ -408,7 +408,7 @@ https://allegrolokalnie.pl/oferta/rower-triathlonowy-trek-speed-concept
 # All other returned listings already in seen list. No Telegram alerts sent.
 # NOTE: Telegram not tested — no new listings. api.telegram.org blocked via egress proxy per prior runs.
 # --- 2026-07-04 run (second) — 1 new listing passed filter ---
-# NOTE: Telegram BLOCKED — api.telegram.org returns 403 via egress proxy (connect_rejected, policy denial). Hardcoded credentials confirmed present; proxy policy is the block, not credentials.
+# NOTE: Telegram BLOCKED — api.telegram.org returns 403 via egress proxy (connect_rejected, policy denial). Hardcoded credentials confirmed correct; proxy policy is the block, not credentials.
 # Listing: BMC Timemachine 01 Disc ONE, M/L (57cm), Shimano Ultegra Di2, full carbon TT/triathlon bike, Allegro.pl
 # Sites checked: SS.lv (403/web search), OLX.pl (403/web search), Allegro.pl (403/web search), Allegrolokalnie.pl (403/web search), Skelbiu.lt (web search), Osta.ee (web search), Okidoki.ee (web search), Andel.lv (DNS failure/offline), Autoplius.lt (web search)
 # Candidates found but failed filter:
@@ -497,3 +497,17 @@ https://allegrolokalnie.pl/oferta/rower-czasowy-triathlon-fuji-norcom-1-3-di2-55
 #   Allegrolokalnie.pl karbonowy-rower-szosowy-radon-r-l-ultegra-di2 (Radon road bike — fails type)
 # All other returned listings already in seen list. No new qualifying listings (carbon frame, TT/triathlon type, L/56cm, Di2 or SRAM Red, <€8,000) found.
 # NOTE: Telegram not tested — no new listings. api.telegram.org network access status unverified this run per ongoing proxy policy block.
+# --- 2026-07-04 run (fourteenth) — No new matches found ---
+# Sites checked: SS.lv (403/web search), OLX.pl (403/web search), Allegro.pl (403/web search), Allegrolokalnie.pl (403/web search), Skelbiu.lt (403/web search), Osta.ee (403/web search), Okidoki.ee (403/web search), Andel.lv (DNS failure/offline), Autoplius.lt (403/web search)
+# Searched terms: triathlon bike carbon Di2 SRAM Red size L 56, rower triathlonowy TT karbon Di2 56, triatlono dviratis Di2 SRAM Red L, canyon speedmax cervelo trek specialized shiv Di2 L, BMC timemachine Di2 56 L, felt ia scott plasma argon 18 Di2 56 L
+# All candidates returned were already in seen list or failed filter criteria.
+# Candidates found but failed filter:
+#   SS.lv cdpkon (Specialized Shiv L €2,500 — already in seen list)
+#   SS.lv biicei (Giant TCR Advanced Di2 — road bike, fails type)
+#   SS.lv cdkxli (TT/triathlon 54cm €480 — fails size and groupset)
+#   OLX.pl BMC Timemachine 02 Ultegra Di2 (ID11GcNq — already in seen list)
+#   Allegro.pl Specialized Shiv S-Works Di2 (13341249499 — already in seen list)
+#   Allegrolokalnie.pl Felt DA4 Ultegra Di2 — already in seen list
+#   Allegrolokalnie.pl Trek Speed Concept (rower-triathlonowy-trek-speed-concept — already in seen list)
+#   Allegrolokalnie.pl Canyon Speedmax CF8 Di2 XL — XL not L (fails size)
+# NOTE: Telegram not tested — no new listings. api.telegram.org blocked via egress proxy per prior runs.
