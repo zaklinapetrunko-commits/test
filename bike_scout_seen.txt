@@ -13,7 +13,7 @@ https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-fuji-norcom-1-3-di2
 https://allegrolokalnie.pl/oferta/fuji-norcom-13-rozm-ml-527
 https://allegrolokalnie.pl/oferta/fuji-norcom-straight-ultegra-di2
 https://allegrolokalnie.pl/oferta/rower-czasowy-dolan-tt-carbon-triathlon-dura-ace
-https://allegrolokalnie.pl/oferta/rower-triathlonowy-czasowy-orbea-ordu-m30-ltd-di2-poznan-triathlon-czasowka-fv
+https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-orbea-ordu-m30-ltd-di2-poznan-triathlon-czasowka-fv
 https://m.skelbiu.lt/skelbimai/giant-trinity-triatlono-dviratis-sram-axs-naujas-l-74636002.html
 https://allegro.pl/oferta/rower-czasowy-orbea-ordu-carbon-55-sram-zipp-mavic-7838383416
 https://allegro.pl/oferta/rower-czasowy-tt-triathlon-cannondale-slice-full-carbon-17345886252
@@ -455,7 +455,7 @@ https://allegro.pl/oferta/rower-triathlonowy-czasowy-bmc-timemachine-01-disc-one
 # All other returned listings already in seen list. No Telegram alerts sent.
 # NOTE: Telegram not tested — no new qualifying listings this run. api.telegram.org status unknown (no new listings to test against).
 # --- 2026-07-04 run (eighth) — 1 new listing passed filter ---
-# NOTE: Telegram BLOCKED — api.telegram.org returns 403 via egress proxy (proxy tunnel rejected, policy denial). Hardcoded credentials confirmed correct; proxy policy is the block.
+# NOTE: Telegram BLOCKED — api.telegram.org returns 403 via egress proxy (proxy tunnel rejected, policy denial). Hardcoded credentials confirmed correct; proxy policy is the block, not credentials.
 # Listing: Fuji Norcom Straight 1.3 Di2, 55cm, Toruń, 11,500 PLN (~€2,700) — Shimano Ultegra Di2, full carbon TT/triathlon frame
 # NOTE: URL slug differs slightly from previously-seen entry (rower-czasowy-triathlon vs rower-czasowy-triathlonowy) — may be relisting of same bike or a distinct new listing from a different seller
 # Sites checked: SS.lv (403/web search), OLX.pl (403/web search), Allegro.pl (403/web search), Allegrolokalnie.pl (403/web search), Skelbiu.lt (403/web search), Osta.ee (403/web search), Okidoki.ee (403/web search), Andel.lv (DNS failure/offline), Autoplius.lt (no results — auto/vehicle site)
@@ -464,3 +464,11 @@ https://allegro.pl/oferta/rower-triathlonowy-czasowy-bmc-timemachine-01-disc-one
 #   Fuji Norcom Straight 2.3 r.55 L Malbork allegrolokalnie.pl (2.3 spec = Shimano 105 mechanical — fails groupset)
 #   Fuji Norcom Straight 1.3 Gdynia 9,300 PLN (size 51cm — fails size)
 https://allegrolokalnie.pl/oferta/rower-czasowy-triathlon-fuji-norcom-1-3-di2-55
+# --- 2026-07-04 run (ninth) — No new matches found ---
+# Sites checked: SS.lv (403/web search), OLX.pl (403/web search), Allegro.pl (403/web search), Allegrolokalnie.pl (403/web search), Skelbiu.lt (web search), Osta.ee (web search), Okidoki.ee (web search), Andel.lv (DNS failure/offline), Autoplius.lt (auto/car site, no bikes)
+# Candidates found but failed filter:
+#   SS.lv bxkceo (Raleigh steel road/cross €425 — steel frame road bike, not carbon TT/triathlon, fails type and material)
+#   SS.lv cdmnoe (custom build €575, aluminum handlebars — not carbon TT/triathlon, fails type and material)
+#   allegrolokalnie.pl rower-czasowy-fuji-norcom-straight-13-triathlon (Fuji Norcom 1.3 Di2 Olkusz 19,500 PLN — previously assessed as 53cm, fails size; same bike reviewed run 14)
+# All other returned listings already in seen list. No Telegram alerts sent.
+# NOTE: Telegram not tested — no new listings. api.telegram.org blocked via egress proxy per prior runs.
