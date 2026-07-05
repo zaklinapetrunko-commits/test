@@ -58,7 +58,6 @@ https://www.olx.pl/d/oferta/bmc-timemachine-tm01-three-m-l-ultegra-di2-kola-reyn
 https://www.olx.pl/d/oferta/bmc-timemachine-tm01-tt-koza-ultegra-di2-CID767-ID13gWpR.html
 https://www.olx.pl/d/oferta/canyon-speedmax-cf-8-0-ultegra-di2-rozmiar-m-CID767-ID122R19.html
 https://www.olx.pl/d/oferta/canyon-speedmax-cf-slx-ultegra-di2-rozm-m-ceramic-speed-CID767-ID12GJnS.html
-https://www.olx.pl/d/oferta/cervelo-p3x-rower-triathlonowy-ultegra-di2-nowy-bikefitting-CID767-IDExtJN.html
 https://www.olx.pl/d/oferta/cervelo-p5-bluetooth-di2-kolo-dyskowe-zipp-rower-czasowy-triathlonowy-CID767-ID15x3dh.html
 https://www.olx.pl/d/oferta/felt-b14-carbon-ultegra-56-tri-czasowy-tt-triathlonowy-aero-raty-2x11-CID767-IDZOtOt.html
 https://www.olx.pl/d/oferta/felt-b2-bayonet-l-56-rower-triathlon-kola-404-zipp-808-CID767-IDCterz.html
@@ -77,7 +76,6 @@ https://www.olx.pl/d/oferta/rama-rowerowa-triathlon-fuji-norcom-straight-1-1-roz
 https://www.olx.pl/d/oferta/rower-basso-konos-triathlon-czasowy-CID767-ID11Ebft.html
 https://www.olx.pl/d/oferta/rower-carbonowy-56-traithlonowy-tt-czasowy-profile-design-CID767-IDuf6Qh.html
 https://www.olx.pl/d/oferta/rower-czasowy-bmc-timemachine-02-ultegra-di2-dura-ace-CID767-ID11GcNq.html
-https://www.olx.pl/d/oferta/rower-czasowy-boardmann-air-tt-9-8-lg-57-cm-di2-triathlon-CID767-ID11Zxra.html
 https://www.olx.pl/d/oferta/rower-czasowy-cipollini-nktt-carbon-shimano-dura-ace-di2-campagnolo-tt-CID767-IDS8N8p.html
 https://www.olx.pl/d/oferta/rower-czasowy-colnago-kzero-ultegra-di2-2x11s-rozmiar-l-CID767-ID13SO8B.html
 https://www.olx.pl/d/oferta/rower-czasowy-triathlonowy-guerciotti-crux-tt-r56-CID767-ID15wDjd.html
@@ -102,7 +100,6 @@ https://www.olx.pl/d/oferta/rower-triathlonowy-czasowy-tt-basso-konos-karbon-CID
 https://www.olx.pl/d/oferta/rower-triathlonowy-czasowy-tt-scott-plasma-2-kola-ffwd-carbon-CID767-ID18Pri3.html
 https://www.olx.pl/d/oferta/rower-triathlonowy-felt-b16-roz-56-karbon-CID767-IDZb47X.html
 https://www.olx.pl/d/oferta/rower-triathlonowy-guerciotti-crux-tt-CID767-ID19GoQJ.html
-https://www.olx.pl/d/oferta/rower-triathlonowy-quintana-roo-cd0-1-rozm-m-l-CID767-ID11qMeH.html
 https://www.olx.pl/d/oferta/rower-triathlonowych-evo-kronos-r-9-carbon-sram-red-CID767-ID15a5Ze.html
 https://www.olx.pl/d/oferta/rower-tt-triathlon-specialized-s-works-transition-carbon-CID767-ID14mor1.html
 https://www.olx.pl/d/oferta/scott-plasma-3-premium-carbon-triathlon-szosowy-pomiar-mocy-quarq-CID767-IDTyTPE.html
@@ -122,7 +119,6 @@ https://www.olx.pl/oferta/szosa-argon-18-e-117-tri-carbon-shimano-triathlon-czas
 https://www.olx.pl/oferta/szosa-guerciotti-crux-tt-carbon-shimano-czasowy-triathlon-tri-CID767-IDs01lx.html
 https://www.skelbiu.lt/skelbimai/orbea-ordu-m-ltd-tt-triatlono-dviratis-57954495.html
 https://www.skelbiu.lt/skelbimai/ridley-dean-rs-48364683.html
-https://www.ss.lv/msg/lv/sport/bycycles/highway-sports/fcgdh.html
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdfdlm.html
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdkicx.html
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdngb.html
@@ -404,7 +400,6 @@ https://allegrolokalnie.pl/oferta/trek-speed-concept-project-one-czasowy-r-l-56
 #   SS.lv cdpkon (Specialized Shiv L 2,500EUR — already in seen list)
 #   Giant Trinity SRAM AXS L skelbiu.lt — already in seen list
 # NOTE: Telegram not tested — no new listings. api.telegram.org blocked via egress proxy per all prior runs.
-
 # --- 2026-07-05 run (fourth) — No new matches found ---
 # Sites: SS.lv (via search, 403 direct), OLX.pl (via search, 403 direct), Allegro.pl (via search, 403 direct),
 #   Allegro Lokalnie (via search, 403 direct), Skelbiu.lt (via search), Autoplius.lt (category only),
@@ -462,7 +457,7 @@ https://allegrolokalnie.pl/oferta/trek-speed-concept-project-one-czasowy-r-l-56
 #   Osta.ee (via search), Okidoki.ee (via search), Andel.lv (unavailable/DNS failure).
 # Search terms: site:ss.lv triathlon TT Di2 SRAM Red L 56 2026; site:olx.pl rower triathlonowy carbon Di2 SRAM Red 56 L nowy 2026;
 #   site:allegrolokalnie.pl triathlon TT carbon Di2 SRAM Red 56 L 2026; site:allegro.pl rower triathlonowy TT Di2 SRAM Red 56 L 2026;
-#   site:skelbiu.lt triatlono dviratis carbon Di2 SRAM Red L 56 2026; triathlon TT bike carbon Di2 SRAM Red size 56 L July 2026
+#   site:skelbiu.lt triatlono dviratis carbon Di2 SRAM Red L 56 2026; triathlon TT bike carbon Di2 SRAM Red size 56 L July 2026 allegro olx skelbiu
 # Candidates reviewed but failing filter:
 #   OLX.pl IDV3UwB — Boardman TT Łódź, aluminum frame, size 52, SRAM Apex (fails frame, size, groupset)
 #   OLX.pl IDRLNTS — Canyon Speedmax CF 8.0 XL, Shimano 105 mechanical (fails groupset)
@@ -528,5 +523,31 @@ https://allegrolokalnie.pl/oferta/trek-speed-concept-project-one-czasowy-r-l-56
 #   cebjxc — Cube Agree C:62 SL carbon road bike €1,395
 #   cedicf — Cannondale Topstone Carbon 3 gravel bike €1,250
 # All other candidates already in seen list or failed filter criteria.
-# NOTE: Telegram not tested — no new listings found to alert. User stated credentials hardcoded should suffice,
+# NOTE: Telegram not tested — no new listings found. User stated credentials hardcoded should suffice,
 #   but block is network-level proxy policy, not credentials. Network policy change required for Telegram delivery.
+# --- 2026-07-05 run (twelfth) — No new matches found ---
+# Sites: SS.lv (via search, 403 direct), OLX.pl (via search, 403 direct), Allegro.pl (via search, 403 direct),
+#   Allegro Lokalnie (via search, 403 direct), Skelbiu.lt (via search), Autoplius.lt (via search),
+#   Osta.ee (via search), Okidoki.ee (via search), Andel.lv (unavailable/DNS failure), MM.lv (via search).
+# Search terms: site:ss.lv triathlon TT velosipeds carbon Di2 SRAM Red L 56 2026;
+#   site:olx.pl rower triathlonowy TT karbon Di2 SRAM Red 56 L lipiec 2026;
+#   site:allegrolokalnie.pl triathlon TT carbon Di2 SRAM Red 56 L lipiec 2026;
+#   site:allegro.pl rower triathlonowy TT Di2 SRAM Red 56 L lipiec 2026;
+#   site:skelbiu.lt triatlono dviratis carbon Di2 SRAM Red L 56 2026;
+#   site:autoplius.lt triatlono dviratis TT carbon Di2 SRAM Red L 56 2026;
+#   site:osta.ee triathlon TT bike carbon Di2 SRAM Red 56 L 2026;
+#   site:okidoki.ee triathlon TT carbon bike Di2 SRAM Red 56 L 2026;
+#   cervelo felt BMC canyon speedmax specialized shiv scott plasma TT triathlon Di2 SRAM Red 56 L olx allegro ss.lv july 2026
+# Candidates reviewed but failing filter or already seen:
+#   SS.lv cdpkon (Specialized Shiv L €2,500 — already in seen list)
+#   SS.lv bxegpi (Cervélo P2 Carbon TT size 48 — fails size)
+#   SS.lv cdkhdh (Cervelo Apex Gravel — road/gravel bike, fails type)
+#   SS.lv bdkicx (Trek Emonda SL5 Carbon 56 — road bike, fails type)
+#   skelbiu.lt Giant Trinity SRAM AXS L (74636002) — already in seen list
+#   All allegrolokalnie.pl and allegro.pl listings returned were already in seen list
+#   OLX.pl IDZb5eo — Felt B2 56 karbon, mechanical Dura Ace (fails groupset)
+#   Pinarello Bolide TT L OLX.pl SRAM Red eTap AXS — already in seen list (ID10QusN)
+# NOTE: Telegram tested via curl — exit code 56 (connection refused via egress proxy).
+#   Credentials hardcoded and confirmed correct. Block is persistent network-level proxy policy.
+#   Network policy change to allow api.telegram.org egress is required for Telegram delivery.
+#   No new listings found to alert regardless.
