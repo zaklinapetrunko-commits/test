@@ -428,3 +428,16 @@ https://allegrolokalnie.pl/oferta/trek-speed-concept-project-one-czasowy-r-l-56
 # NOTE: Telegram BLOCKED — api.telegram.org not reachable via egress proxy. No new listings to alert regardless.
 # NOTE: Telegram network block is persistent across all runs. User confirmed credentials are hardcoded and correct.
 #   Resolution requires network policy change to allow api.telegram.org egress from this environment.
+# --- 2026-07-05 run (sixth) — No new matches found ---
+# Sites: SS.lv (via search, 403 direct), SS.com (via search, 403 direct), OLX.pl (via search, 403 direct),
+#   Allegro.pl (via search, 403 direct), Allegro Lokalnie (via search, 403 direct), Skelbiu.lt (403 direct/via search),
+#   Autoplius.lt (403 direct/via search), Osta.ee (via search), Okidoki.ee (via search), Andel.lv (unavailable).
+# New SS.lv/SS.com listings found but all are road/gravel bikes — fail TT/triathlon type filter:
+#   bolcnh — Ridley Liz carbon 650€ (gravel/CX bike, fails type)
+#   cexglo — Cube C:62 Tubeless 2600€ (road bike, fails type)
+#   cekmbh — Cube special order 1000€ (road bike, fails type)
+#   bpdxkk — Liv Langma by Giant 900€ (road/climbing bike, fails type)
+#   cdhhpc — Cannondale Synapse 54cm 700€ (road/endurance, fails type and size)
+#   bpdiic — Kuota Kryon 1500€ (road bike, fails type)
+# All other candidates already in seen list or failed filter criteria.
+# NOTE: Telegram BLOCKED — api.telegram.org not reachable via egress proxy. No new listings to alert regardless.
