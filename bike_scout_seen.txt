@@ -456,3 +456,18 @@ https://allegrolokalnie.pl/oferta/trek-speed-concept-project-one-czasowy-r-l-56
 #   OLX.pl IDZb5eo — Felt B2 56 karbon Malbork, mechanical Dura Ace + SRAM cassette (fails groupset)
 # NOTE: Telegram not tested — no new listings. api.telegram.org blocked via egress proxy per all prior runs.
 #   User confirmed credentials are correct; network policy change required for Telegram delivery.
+# --- 2026-07-05 run (eighth) — No new matches found ---
+# Sites: SS.lv (via search, 403 direct), OLX.pl (via search, 403 direct), Allegro.pl (via search, 403 direct),
+#   Allegro Lokalnie (via search, 403 direct), Skelbiu.lt (via search), Autoplius.lt (via search),
+#   Osta.ee (via search), Okidoki.ee (via search), Andel.lv (unavailable/DNS failure).
+# Search terms: site:ss.lv triathlon TT Di2 SRAM Red L 56 2026; site:olx.pl rower triathlonowy carbon Di2 SRAM Red 56 L nowy 2026;
+#   site:allegrolokalnie.pl triathlon TT carbon Di2 SRAM Red 56 L 2026; site:allegro.pl rower triathlonowy TT Di2 SRAM Red 56 L 2026;
+#   site:skelbiu.lt triatlono dviratis carbon Di2 SRAM Red L 56 2026; triathlon TT bike carbon Di2 SRAM Red size 56 L July 2026
+# Candidates reviewed but failing filter:
+#   OLX.pl IDV3UwB — Boardman TT Łódź, aluminum frame, size 52, SRAM Apex (fails frame, size, groupset)
+#   OLX.pl IDRLNTS — Canyon Speedmax CF 8.0 XL, Shimano 105 mechanical (fails groupset)
+#   OLX.pl IDOoZi1 — Canyon Speedmax CF 8.0 XL Ultegra mechanical (fails groupset)
+#   OLX.pl ID138etb — Canyon Speedmax CF 8.0 XS (fails size)
+#   SS.lv cdpkon — Specialized Shiv L €2,500 (already in seen list)
+# NOTE: Telegram tested via curl — connection refused, exit code 000. api.telegram.org not reachable via egress proxy.
+#   Network policy change required. No new listings to alert regardless.
