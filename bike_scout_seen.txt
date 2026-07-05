@@ -587,3 +587,17 @@ https://allegrolokalnie.pl/oferta/rower-czasowy-triathlon-fuji-norcom-1-3-di2-55
 #   FELT IA 2.0 Expert Ultegra Di2 OLX.pl (ID18RPS3 — already in seen list)
 #   Argon 18 E-117 OLX.pl Poznań (Shimano 105 — fails groupset)
 # NOTE: Telegram tested — still blocked. curl to api.telegram.org exits with code 56 (connection refused via proxy). User noted credentials should work; block is confirmed network-level policy, not credentials. No new listings to alert regardless.
+# --- 2026-07-05 run (third) — No new matches found ---
+# Sites checked: SS.lv (403/web search), OLX.pl (403/web search), Allegro.pl (403/web search), Allegrolokalnie.pl (403/web search), Skelbiu.lt (web search), Osta.ee (web search), Okidoki.ee (web search), Andel.lv (DNS failure/offline), Autoplius.lt (web search)
+# Search terms used: triathlon bike carbon TT Di2 SRAM Red 56 L; rower triathlonowy TT karbon Di2 SRAM Red 56 L; triatlona velosipeds TT karbons Di2 SRAM Red 2026; allegrolokalnie triathlon TT Di2 SRAM Red 56 lipiec 2026; olx.pl rower triathlonowy carbon Di2 56 nowy 2026; cervelo felt BMC canyon speedmax specialized shiv scott plasma Di2 SRAM Red 56 L triathlon lipiec 2026
+# All candidates returned were already in seen list or failed filter criteria.
+# Candidates found but failed filter:
+#   Wilier Twin Blade DuraAce Di2 L allegrolokalnie.pl — already in seen list
+#   Bottecchia Tri Di2 Mavic allegrolokalnie.pl — already in seen list
+#   BH Aerolight RC Full Carbon allegrolokalnie.pl — already in seen list
+#   Cannondale Slice Di2 allegrolokalnie.pl — already in seen list
+#   BMC Timemachine 02 SRAM Red eTap OLX.pl (IDw0rzr, Warsaw) — size M/S, fails size
+#   Specialized Roubaix Comp Ultegra Di2 56 OLX.pl (ID19OjcI) — road/endurance bike, fails type
+#   SS.lv cdpkon (Specialized Shiv L 2,500EUR — already in seen list)
+#   Giant Trinity SRAM AXS L skelbiu.lt — already in seen list
+# NOTE: Telegram not tested — no new listings. api.telegram.org blocked via egress proxy per all prior runs.
