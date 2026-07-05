@@ -471,3 +471,25 @@ https://allegrolokalnie.pl/oferta/trek-speed-concept-project-one-czasowy-r-l-56
 #   SS.lv cdpkon — Specialized Shiv L €2,500 (already in seen list)
 # NOTE: Telegram tested via curl — connection refused, exit code 000. api.telegram.org not reachable via egress proxy.
 #   Network policy change required. No new listings to alert regardless.
+# --- 2026-07-05 run (ninth) — No new matches found ---
+# Sites: SS.lv (via search, 403 direct), OLX.pl (via search, 403 direct), Allegro.pl (via search, 403 direct),
+#   Allegro Lokalnie (via search, 403 direct), Skelbiu.lt (via search), Autoplius.lt (via search),
+#   Osta.ee (via search), Okidoki.ee (via search), Andel.lv (unavailable/DNS failure).
+# Search terms: site:ss.lv triathlon TT bike carbon Di2 SRAM Red L 56 July 2026; site:olx.pl rower triathlonowy TT karbon Di2 SRAM Red 56 L lipiec 2026;
+#   site:allegrolokalnie.pl triathlon TT carbon Di2 SRAM Red 56 L 2026; site:allegro.pl rower triathlonowy TT Di2 SRAM Red 56 L 2026;
+#   site:skelbiu.lt triatlono dviratis carbon Di2 SRAM Red L 56 2026; site:autoplius.lt triatlono dviratis carbon Di2 SRAM Red L 56 2026;
+#   site:osta.ee triathlon TT Di2 SRAM Red 56 L; site:okidoki.ee triathlon TT carbon Di2 SRAM Red L 56;
+#   triathlon TT bike carbon Di2 SRAM Red 56 L cervelo felt BMC specialized scott canyon July 2026 allegro olx skelbiu
+# New URLs found (not in seen list):
+#   allegrolokalnie.pl/oferta/felt-da1-dura-ace-triathlon-czas-szosa — Felt DA1 Dura-Ace, full carbon TT/triathlon, UNCONFIRMABLE (size and Di2 vs mechanical unknown, 403 on direct fetch)
+#   allegrolokalnie.pl/oferta/canyon-speedmax-cf7-rower-triathlon — Canyon Speedmax CF7 Toruń, size M (confirmed) — FAILS SIZE
+#   allegrolokalnie.pl/oferta/rower-czasowy-tt-carbon-rozm-s — TT Carbon, size S — FAILS SIZE
+#   allegrolokalnie.pl/oferta/rower-triathlonowy-felt-da1-rozmiar-54 — Felt DA1 size 54 — FAILS SIZE (54 < 55cm minimum)
+# Candidates returning already-seen or otherwise failing filter:
+#   SS.lv cdpkon (Specialized Shiv L €2,500 — already in seen list)
+#   SS.lv bxegpi (Cervélo P2 Carbon 48 size — fails size)
+#   Giant Trinity SRAM AXS L skelbiu.lt (74636002) — already in seen list
+#   Orbea Ora TT allegrolokalnie (rower-czasowy-triathlon-karbon-orbea-ora-tt-ultegr) — previously reviewed, Ultegra 10-speed mechanical + 53-54cm, fails groupset and size
+# NOTE: Telegram BLOCKED — api.telegram.org not reachable via egress proxy. No new confirmed matches to alert regardless.
+#   The Felt DA1 (felt-da1-dura-ace-triathlon-czas-szosa) is a new URL. Direct page access returns 403.
+#   Cannot confirm size (need 55-57cm) or confirm Di2 vs mechanical groupset — held pending verification.
