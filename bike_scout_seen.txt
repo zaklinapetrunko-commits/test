@@ -501,7 +501,7 @@ https://allegrolokalnie.pl/oferta/trek-speed-concept-project-one-czasowy-r-l-56
 #   site:allegrolokalnie.pl triathlon TT carbon Di2 SRAM Red 56 L lipiec 2026; site:allegro.pl rower triathlonowy TT Di2 SRAM Red 56 L 2026;
 #   site:skelbiu.lt triatlono dviratis carbon Di2 SRAM Red L 56 2026; site:autoplius.lt triatlono dviratis carbon Di2 SRAM Red L 56 2026;
 #   site:osta.ee triathlon TT Di2 SRAM Red 56 L; site:okidoki.ee triathlon TT carbon Di2 SRAM Red L 56;
-#   ss.lv triatlona TT velosipeds carbon karbons 56 L Di2 elektronika jaunākais 2026 jūlijs; buycycle.com triathlon TT carbon Di2 SRAM Red 56 L Poland Latvia Lithuania Estonia 2026
+#   ss.lv triatlana TT velosipeds carbon karbons 56 L Di2 elektronika jaunākais 2026 jūlijs; buycycle.com triathlon TT carbon Di2 SRAM Red 56 L Poland Latvia Lithuania Estonia 2026
 # Candidates reviewed but failing filter or already seen:
 #   SS.lv cdpkon (Specialized Shiv L €2,500 — already in seen list)
 #   SS.lv bxegpi (Cervélo P2 Carbon TT size 48 — fails size)
@@ -516,3 +516,17 @@ https://allegrolokalnie.pl/oferta/trek-speed-concept-project-one-czasowy-r-l-56
 #   Credentials ARE hardcoded (bot token: 8823305958:AAGUR-Hc7V21ZWnNB8GkeVeVocbC62XwU9g, chat IDs: 6136843189, 1059015498).
 #   Block is confirmed network-level: the egress proxy refuses outbound TCP to api.telegram.org regardless of credentials.
 #   No new listings found to alert regardless. Network policy change still required.
+# --- 2026-07-05 run (eleventh) — No new matches found ---
+# Sites: SS.lv (via search, 403 direct), OLX.pl (via search, 403 direct), Allegro.pl (via search, 403 direct),
+#   Allegro Lokalnie (via search, 403 direct), Skelbiu.lt (via search), Autoplius.lt (via search),
+#   Osta.ee (via search), Okidoki.ee (via search), Andel.lv (unavailable/DNS failure).
+# Search terms: site:ss.lv triathlon TT velosipeds carbon Di2 SRAM Red L 56 2026; site:olx.pl rower triathlonowy TT karbon Di2 SRAM Red 56 L lipiec 2026;
+#   site:allegrolokalnie.pl triathlon TT carbon Di2 SRAM Red 56 L lipiec 2026; site:allegro.pl rower triathlonowy TT Di2 SRAM Red 56 L 2026;
+#   site:skelbiu.lt triatlono dviratis carbon TT Di2 SRAM Red L 56 2026; cervelo felt BMC canyon speedmax specialized shiv scott plasma TT triathlon Di2 SRAM Red 56 L olx.pl allegro 2026;
+#   ss.lv velosipeds triatlona carbon Di2 SRAM jūlijs 2026; buycycle triathlon TT carbon Di2 SRAM Red 56 L Poland Latvia Lithuania Estonia 2026
+# New SS.lv listings found — road/gravel bikes only (fail type filter):
+#   cebjxc — Cube Agree C:62 SL carbon road bike €1,395
+#   cedicf — Cannondale Topstone Carbon 3 gravel bike €1,250
+# All other candidates already in seen list or failed filter criteria.
+# NOTE: Telegram not tested — no new listings found to alert. User stated credentials hardcoded should suffice,
+#   but block is network-level proxy policy, not credentials. Network policy change required for Telegram delivery.
