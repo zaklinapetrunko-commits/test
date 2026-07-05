@@ -658,3 +658,7 @@ https://allegrolokalnie.pl/oferta/trek-speed-concept-project-one-czasowy-r-l-56
 #   Credentials hardcoded: bot 8823305958:AAGUR-Hc7V21ZWnNB8GkeVeVocbC62XwU9g, IDs 6136843189 / 1059015498.
 #   Block is confirmed network-level proxy policy, not a credentials issue.
 #   No new listings to alert regardless.
+# --- 2026-07-05 run (eighteenth) — 1 new listing passed filter ---
+https://allegro.pl/oferta/rower-triathlonowy-ceepo-viper-28-r-l-shimano-105-di2-12s-niebieski-14701065624
+# NOTE: Telegram BLOCKED — api.telegram.org returns exit code 56 via egress proxy. Credentials hardcoded correctly (bot: 8823305958:AAGUR-Hc7V21ZWnNB8GkeVeVocbC62XwU9g, IDs: 6136843189 / 1059015498). Block is persistent network-level proxy policy.
+# UNCERTAIN (size unconfirmable, 403 direct fetch): https://www.olx.pl/d/oferta/ceepo-viper-28-shimano-105-di2-niebieski-CID767-ID122uRC.html
