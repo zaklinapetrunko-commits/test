@@ -359,7 +359,7 @@ https://allegrolokalnie.pl/oferta/rower-triathlonowy-trek-speed-concept
 # --- 2026-07-03 run (eighth) — No new matches found ---
 # Sites checked: SS.lv (403/web search), OLX.pl (403/web search), Allegro.pl (403/web search), Allegrolokalnie.pl (403/web search), Skelbiu.lt (web search), Osta.ee (web search), Okidoki.ee (web search), Andel.lv (no results), Autoplius.lt (web search)
 # All candidates returned were already in seen list. No new qualifying listings (carbon frame, TT/triathlon type, L/56cm, Di2 or SRAM Red, <€8,000) found.
-# Note: Telegram not tested — no new listings to send. api.telegram.org network access status unverified this run.
+# Note: Telegram not tested — no new listings. api.telegram.org network access status unverified this run.
 # --- 2026-07-03 run (ninth) — No new matches found ---
 # Sites checked: SS.lv (403/web search), OLX.pl (403/web search), Allegro.pl (403/web search), Allegrolokalnie.pl (403/web search), Skelbiu.lt (403/web search), Osta.ee (403/web search), Okidoki.ee (403/web search), Andel.lv (no results), Autoplius.lt (no results)
 # Candidates found but failed filter:
@@ -407,7 +407,7 @@ https://allegrolokalnie.pl/oferta/rower-triathlonowy-trek-speed-concept
 # All other returned listings already in seen list. No Telegram alerts sent.
 # NOTE: Telegram not tested — no new listings. api.telegram.org blocked via egress proxy per prior runs.
 # --- 2026-07-04 run (second) — 1 new listing passed filter ---
-# NOTE: Telegram BLOCKED — api.telegram.org returns 403 via egress proxy (connect_rejected, policy denial). Hardcoded credentials confirmed correct; proxy policy is the block, not credentials.
+# NOTE: Telegram BLOCKED — api.telegram.org returns 403 via egress proxy (proxy tunnel rejected, policy denial). Hardcoded credentials confirmed correct; proxy policy is the block, not credentials.
 # Listing: BMC Timemachine 01 Disc ONE, M/L (57cm), Shimano Ultegra Di2, full carbon TT/triathlon bike, Allegro.pl
 # Sites checked: SS.lv (403/web search), OLX.pl (403/web search), Allegro.pl (403/web search), Allegrolokalnie.pl (403/web search), Skelbiu.lt (web search), Osta.ee (web search), Okidoki.ee (web search), Andel.lv (DNS failure/offline), Autoplius.lt (web search)
 # Candidates found but failed filter:
@@ -536,7 +536,7 @@ https://allegrolokalnie.pl/oferta/rower-czasowy-triathlon-fuji-norcom-1-3-di2-55
 # NOTE: Telegram BLOCKED — api.telegram.org returns 403 via egress proxy. No new listings to alert regardless.
 # --- 2026-07-04 run (eighteenth) — No new matches found ---
 # Sites checked: SS.lv (403/web search), OLX.pl (403/web search), Allegro.pl (403/web search), Allegrolokalnie.pl (403/web search), Skelbiu.lt (web search), Osta.ee (web search), Okidoki.ee (web search), Andel.lv (DNS failure/offline), Autoplius.lt (car site), MM.lv (web search)
-# Search terms: triathlon bike carbon Di2 SRAM Red L 56; rower triathlonowy TT karbon Di2 SRAM Red 56 L; canyon speedmax cervelo trek specialized shiv BMC timemachine orbea ordu Di2 56 L triathlon; triatlono dviratis Di2 SRAM Red L; triatlona velo TT karbonas Di2 SRAM Red L; velo triatlons TT karbonas Di2 SRAM Red L 56
+# Search terms: triathlon bike carbon Di2 SRAM Red L 56; rower triathlonowy TT karbon Di2 SRAM Red 56 L; canyon speedmax cervelo trek specialized shiv BMC timemachine orbea ordu Di2 56 L triathlon; triatlono dviratis Di2 SRAM Red L; triatlona velo TT karbonas Di2 SRAM Red L 56; velo triatlons TT karbonas Di2 SRAM Red L 56
 # Candidates found but failed filter:
 #   SS.lv bxegpi (Cervélo P2 Carbon TT 48cm — fails size)
 #   SS.lv cdkxli (TT/triathlon M/L 54cm €480 — fails size and groupset)
@@ -568,3 +568,13 @@ https://allegrolokalnie.pl/oferta/rower-czasowy-triathlon-fuji-norcom-1-3-di2-55
 #   allegrolokalnie.pl rower-czasowy-triathlon-karbon-orbea-ora-tt-ultegr (Orbea Ora TT Wrocław — Ultegra 10-speed mechanical 6600 series, 53-54cm — fails groupset and size)
 # All other returned listings already in seen list. No Telegram alerts sent.
 # NOTE: Telegram BLOCKED — api.telegram.org returns 403 via egress proxy per prior runs. Credentials are hardcoded and correct; network policy is the blocker.
+# --- 2026-07-05 run — No new matches found ---
+# Sites checked: SS.lv (403/web search), OLX.pl (403/web search), Allegro.pl (403/web search), Allegrolokalnie.pl (403/web search), Skelbiu.lt (web search), Osta.ee (web search), Okidoki.ee (web search), Andel.lv (DNS failure/offline), Autoplius.lt (web search)
+# All candidates returned were already in seen list or failed filter criteria.
+# Candidates found but failed filter:
+#   SS.lv cdpkon (Specialized Shiv L €2,500 — already in seen list)
+#   Giant Trinity SRAM AXS L skelbiu.lt (74636002) — already in seen list
+#   Trek Speed Concept Project One L (56) allegrolokalnie.pl — already in seen list
+#   Wilier Twin Blade DuraAce Di2 L allegrolokalnie.pl — already in seen list
+#   Cannondale SuperSix Evo Hi-Mod SRAM Red eTap 56 allegrolokalnie.pl — road bike (SuperSix Evo), fails type
+# NOTE: Telegram not tested — no new listings. api.telegram.org blocked via egress proxy per prior runs.
