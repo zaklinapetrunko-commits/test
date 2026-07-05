@@ -580,3 +580,21 @@ https://allegrolokalnie.pl/oferta/trek-speed-concept-project-one-czasowy-r-l-56
 #   Credentials are hardcoded correctly (bot: 8823305958:AAGUR-Hc7V21ZWnNB8GkeVeVocbC62XwU9g, IDs: 6136843189 / 1059015498).
 #   Block is network-level: egress proxy refuses TCP to api.telegram.org regardless of credential format in prompt.
 #   No new listings to send anyway.
+# --- 2026-07-05 run (fourteenth) — No new matches found ---
+# Sites: SS.lv (via search, 403 direct), OLX.pl (via search, 403 direct), Allegro.pl (via search, 403 direct),
+#   Allegro Lokalnie (via search, 403 direct), Skelbiu.lt (via search), Autoplius.lt (via search),
+#   Osta.ee (via search), Okidoki.ee (via search), Andel.lv (unavailable/DNS failure), MM.lv (via search).
+# Search terms: site:ss.lv triatlona TT velosipeds carbon Di2 SRAM Red 56 L 2026; site:olx.pl rower triathlonowy TT karbon Di2 SRAM Red 56 L lipiec 2026;
+#   site:allegrolokalnie.pl triathlon TT carbon Di2 SRAM Red 56 L lipiec 2026; site:allegro.pl rower triathlonowy TT Di2 SRAM Red 56 L lipiec 2026;
+#   site:skelbiu.lt triatlono tt dviratis carbon Di2 SRAM Red 56 L naujas 2026; site:autoplius.lt triatlono dviratis TT carbon Di2 SRAM Red L 56 2026;
+#   site:osta.ee triathlon TT bike carbon Di2 SRAM Red 56 L 2026; site:mm.lv velosipeds triatlona TT karbons Di2 SRAM 2026;
+#   triathlon TT bike carbon Di2 SRAM Red size 56 55 57 L new listing July 5 2026 olx allegro ss.lv skelbiu
+# Candidates reviewed but failing filter or already seen:
+#   SS.lv cdpkon (Specialized Shiv L 2,500EUR — already in seen list)
+#   SS.lv bombhb (58cm disc road bike 850EUR — fails type and size)
+#   SS.lv bdlhcd (Rose Backroad gravel 59cm/L — fails type)
+#   Giant Trinity SRAM AXS L skelbiu.lt (74636002) — already in seen list
+#   Allegrolokalnie.pl / Allegro.pl / OLX.pl — all results already in seen list
+# NOTE: Telegram BLOCKED — api.telegram.org returns 403 via egress proxy (CONNECT tunnel refused, exit code 56).
+#   Hardcoded credentials confirmed: bot 8823305958:AAGUR-Hc7V21ZWnNB8GkeVeVocbC62XwU9g, IDs 6136843189 / 1059015498.
+#   Block is network-level proxy policy, not a credentials issue. No new listings found to alert regardless.
