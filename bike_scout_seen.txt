@@ -625,7 +625,7 @@ https://allegrolokalnie.pl/oferta/trek-speed-concept-project-one-czasowy-r-l-56
 # Search terms: site:ss.lv triatlona velosipeds TT karbon Di2 SRAM Red 56 L julijs 2026;
 #   site:olx.pl rower triathlonowy TT karbon Di2 SRAM Red 56 L lipiec 2026;
 #   site:allegrolokalnie.pl triathlon TT carbon Di2 SRAM Red 56 L lipiec 2026;
-#   site:allegro.pl rower triathlonowy TT Di2 SRAM Red 56 L nowy lipiec 2026;
+#   site:allegro.pl rower triathlonowy TT Di2 SRAM Red nowy lipiec 2026;
 #   site:skelbiu.lt triatlono dviratis carbon TT Di2 SRAM Red 56 L 2026;
 #   site:autoplius.lt triatlono dviratis TT carbon Di2 SRAM Red L 56 2026;
 #   triathlon TT Di2 SRAM Red 56 L carbon Baltic new listing July 5 2026;
@@ -636,4 +636,25 @@ https://allegrolokalnie.pl/oferta/trek-speed-concept-project-one-czasowy-r-l-56
 #   All other results returned already-seen or non-qualifying listings.
 # NOTE: Telegram not tested — no new listings found. api.telegram.org blocked via egress proxy per all prior runs.
 #   User stated credentials hardcoded in prompt should suffice; block is confirmed network-level proxy policy.
+#   No new listings to alert regardless.
+# --- 2026-07-05 run (seventeenth) — No new matches found ---
+# Sites: SS.lv (via search, 403 direct), OLX.pl (via search, 403 direct), Allegro.pl (via search, 403 direct),
+#   Allegro Lokalnie (via search, 403 direct), Skelbiu.lt (via search), Autoplius.lt (via search),
+#   Osta.ee (via search), Okidoki.ee (via search), Andel.lv (unavailable/DNS failure).
+# Search terms: site:ss.lv triatlana velosipeds TT karbons Di2 SRAM 56 L 2026;
+#   site:olx.pl rower triathlonowy TT karbon Di2 SRAM Red 56 nowy lipiec 2026;
+#   site:allegrolokalnie.pl triathlon TT carbon Di2 SRAM Red 56 L nowy lipiec 2026;
+#   site:skelbiu.lt triatlono dviratis carbon TT Di2 SRAM Red L 56 2026;
+#   site:autoplius.lt triatlono dviratis TT carbon Di2 SRAM Red L 56 2026;
+#   site:osta.ee triathlon TT bike carbon Di2 SRAM Red 56 L 2026;
+#   triathlon TT bike carbon Di2 SRAM Red 56 L new listing July 5 2026 olx allegro ss.lv cervelo canyon speedmax scott plasma
+# Candidates reviewed but failing filter or already seen:
+#   SS.lv cdpkon (Specialized Shiv L EUR2,500 — already in seen list)
+#   SS.lv bxegpi (Cervelo P2 Carbon TT size 48 — fails size)
+#   SS.lv cdniki (Carbon road bike 56L EUR1,500 — fails type, already noted)
+#   Giant Trinity SRAM AXS L skelbiu.lt (74636002) — already in seen list
+#   All allegrolokalnie.pl, allegro.pl, olx.pl results returned were already in seen list
+# NOTE: Telegram not tested — no new listings found. api.telegram.org blocked via egress proxy per all prior runs.
+#   Credentials hardcoded: bot 8823305958:AAGUR-Hc7V21ZWnNB8GkeVeVocbC62XwU9g, IDs 6136843189 / 1059015498.
+#   Block is confirmed network-level proxy policy, not a credentials issue.
 #   No new listings to alert regardless.
