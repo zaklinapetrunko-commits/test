@@ -642,7 +642,7 @@ https://allegrolokalnie.pl/oferta/trek-speed-concept-project-one-czasowy-r-l-56
 #   Allegro Lokalnie (via search, 403 direct), Skelbiu.lt (via search), Autoplius.lt (via search),
 #   Osta.ee (via search), Okidoki.ee (via search), Andel.lv (unavailable/DNS failure).
 # Search terms: site:ss.lv triatlana velosipeds TT karbons Di2 SRAM 56 L 2026;
-#   site:olx.pl rower triathlonowy TT karbon Di2 SRAM Red 56 nowy lipiec 2026;
+#   site:olx.pl rower triathlonowy TT karbon Di2 SRAM Red 56 L nowy lipiec 2026;
 #   site:allegrolokalnie.pl triathlon TT carbon Di2 SRAM Red 56 L nowy lipiec 2026;
 #   site:skelbiu.lt triatlono dviratis carbon TT Di2 SRAM Red L 56 2026;
 #   site:autoplius.lt triatlono dviratis TT carbon Di2 SRAM Red L 56 2026;
@@ -667,3 +667,29 @@ https://allegro.pl/produkt/rower-triathlonowy-ceepo-viper-28-r-l-shimano-105-di2
 # NOTE: Telegram BLOCKED — api.telegram.org returns exit code 000 via egress proxy (connection refused).
 #   Credentials hardcoded: bot 8823305958:AAGUR-Hc7V21ZWnNB8GkeVeVocbC62XwU9g, IDs 6136843189 / 1059015498.
 #   Block is confirmed network-level proxy policy. Bike: Ceepo Viper 28" r.L Shimano 105 Di2 12s Black ~28,990 PLN (~€6,840).
+# --- 2026-07-05 run (twentieth) — No new matches found ---
+# Sites: SS.lv (403/web search), OLX.pl (403/web search), Allegro.pl (403/web search), Allegrolokalnie.pl (403/web search),
+#   Skelbiu.lt (403/web search), Autoplius.lt (403/web search), Osta.ee (403/web search),
+#   Okidoki.ee (web search), Andel.lv (unavailable/DNS failure), MM.lv (web search).
+# Search terms used across all queries:
+#   site:ss.lv triatlana velosipeds TT karbons Di2 SRAM Red 56 L 2026
+#   site:olx.pl rower triathlonowy TT karbon Di2 SRAM Red 56 L lipiec 2026 nowy
+#   site:allegrolokalnie.pl triathlon TT carbon Di2 SRAM Red 56 L lipiec 2026 nowy
+#   site:allegro.pl rower triathlonowy TT Di2 SRAM Red 56 L lipiec 2026 nowy
+#   site:skelbiu.lt triatlono dviratis carbon TT Di2 SRAM Red L 56 2026
+#   site:autoplius.lt triatlono dviratis TT carbon Di2 SRAM Red L 56 2026
+#   site:osta.ee triathlon TT bike carbon Di2 SRAM Red 56 L 2026
+#   triatlona TT velosipeds karbons L 56 Di2 SRAM pārdod 2026 jauns sludinājums ss.lv mm.lv latvija
+#   cervelo felt BMC canyon speedmax specialized shiv scott plasma orbea ordu TT triathlon Di2 SRAM Red 56 L July 5 2026
+#   rower triathlonowy TT karbon Di2 SRAM Red rozmiar 56 L sprzedam nowe ogłoszenie olx allegro lipiec 2026
+# Candidates reviewed but failing filter or already seen:
+#   SS.lv cdpkon (Specialized Shiv L EUR2,500 — already in seen list)
+#   SS.lv bxegpi (Cervelo P2 Carbon TT size 48 — fails size)
+#   Giant Trinity SRAM AXS L skelbiu.lt (74636002) — already in seen list
+#   Felt IAx Advanced 105 Di2 Allegro.pl (17923320347) — size 51, fails size
+#   Ceepo Viper 28" r.M Shimano 105 Di2 Allegro.pl (14700928039) — size M, fails size
+#   Felt B12 56cm Dura-Ace mechanical Allegro.pl (14729300234) — fails groupset (not Di2/SRAM Red)
+#   All allegrolokalnie.pl results returned were already in seen list
+# NOTE: Telegram not tested — no new listings found. api.telegram.org blocked via egress proxy per all prior runs.
+#   Credentials hardcoded: bot 8823305958:AAGUR-Hc7V21ZWnNB8GkeVeVocbC62XwU9g, IDs 6136843189 / 1059015498.
+#   Block is persistent network-level proxy policy. No new listings to alert regardless.
