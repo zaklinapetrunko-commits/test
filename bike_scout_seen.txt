@@ -441,3 +441,18 @@ https://allegrolokalnie.pl/oferta/trek-speed-concept-project-one-czasowy-r-l-56
 #   bpdiic — Kuota Kryon 1500€ (road bike, fails type)
 # All other candidates already in seen list or failed filter criteria.
 # NOTE: Telegram BLOCKED — api.telegram.org not reachable via egress proxy. No new listings to alert regardless.
+# --- 2026-07-05 run (seventh) — No new matches found ---
+# Sites: SS.lv (via search, 403 direct), OLX.pl (via search, 403 direct), Allegro.pl (via search, 403 direct),
+#   Allegro Lokalnie (via search, 403 direct), Skelbiu.lt (via search), Autoplius.lt (via search),
+#   Osta.ee (via search), Okidoki.ee (N/A), Andel.lv (unavailable/DNS failure).
+# Search terms: site:ss.lv triathlon TT Di2 SRAM Red L 56; site:olx.pl rower triathlonowy TT karbon Di2 SRAM Red 56 L;
+#   site:allegrolokalnie.pl triathlon TT carbon Di2 SRAM Red 56 L; site:allegro.pl triathlon TT Di2 SRAM Red 56 L;
+#   site:skelbiu.lt triatlono dviratis carbon Di2 SRAM Red L 56; site:autoplius.lt triatlono dviratis carbon Di2 SRAM Red L 56;
+#   site:osta.ee triathlon TT Di2 SRAM Red 56 L
+# Candidates reviewed but failing filter:
+#   SS.lv cdniki — Carbon road bike 56L €1,500, Shimano 179 mechanical (fails type and groupset)
+#   SS.lv cembdn — S-Works Venge 56 €4,900 (road bike, fails type)
+#   SS.COM bdlgbg — Triatlona velosipēds M size €1,100 (fails size)
+#   OLX.pl IDZb5eo — Felt B2 56 karbon Malbork, mechanical Dura Ace + SRAM cassette (fails groupset)
+# NOTE: Telegram not tested — no new listings. api.telegram.org blocked via egress proxy per all prior runs.
+#   User confirmed credentials are correct; network policy change required for Telegram delivery.
