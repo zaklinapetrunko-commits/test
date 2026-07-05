@@ -662,3 +662,26 @@ https://allegrolokalnie.pl/oferta/trek-speed-concept-project-one-czasowy-r-l-56
 https://allegro.pl/oferta/rower-triathlonowy-ceepo-viper-28-r-l-shimano-105-di2-12s-niebieski-14701065624
 # NOTE: Telegram BLOCKED — api.telegram.org returns exit code 56 via egress proxy. Credentials hardcoded correctly (bot: 8823305958:AAGUR-Hc7V21ZWnNB8GkeVeVocbC62XwU9g, IDs: 6136843189 / 1059015498). Block is persistent network-level proxy policy.
 # UNCERTAIN (size unconfirmable, 403 direct fetch): https://www.olx.pl/d/oferta/ceepo-viper-28-shimano-105-di2-niebieski-CID767-ID122uRC.html
+# --- 2026-07-05 run (nineteenth) — No new matches found ---
+# Sites: SS.lv (via search, 403 direct), OLX.pl (via search, 403 direct), Allegro.pl (via search, 403 direct),
+#   Allegro Lokalnie (via search, 403 direct), Skelbiu.lt (via search), Autoplius.lt (via search),
+#   Osta.ee (via search), Okidoki.ee (via search), Andel.lv (unavailable/DNS failure).
+# Search terms: site:ss.lv triatlona velosipeds TT karbon Di2 SRAM Red 56 L 2026;
+#   site:olx.pl rower triathlonowy TT karbon Di2 SRAM Red 56 L lipiec 2026;
+#   site:allegrolokalnie.pl triathlon TT carbon Di2 SRAM Red 56 L lipiec 2026;
+#   site:allegro.pl rower triathlonowy TT Di2 SRAM Red 56 L 2026;
+#   site:skelbiu.lt triatlono dviratis carbon TT Di2 SRAM Red L 56 2026;
+#   site:autoplius.lt triatlono dviratis TT carbon Di2 SRAM Red L 56 2026;
+#   site:osta.ee triathlon TT Di2 SRAM Red 56 L; site:okidoki.ee triathlon TT carbon Di2 SRAM Red L 56
+# Candidates reviewed but failing filter or already seen:
+#   SS.lv cdpkon (Specialized Shiv L EUR2,500 — already in seen list)
+#   SS.lv cdkxli (TT M/L 54cm EUR480 — fails size)
+#   SS.lv cdkhdh (Cervelo Apex Gravel — fails type)
+#   OLX.pl IDZb5eo — Felt B2 56 karbon, mechanical Dura Ace (fails groupset, already seen)
+#   OLX.pl ID17I8oR — Factor One Aero Dura Ace Di2 56 Lesko (fails type — road aero)
+#   OLX.pl ID1a8e86 — Cervelo Caledonia 105 Di2 56 Warsaw (fails type — road endurance)
+#   Giant Trinity SRAM AXS L skelbiu.lt (74636002) — already in seen list
+#   All other results returned already-seen or non-qualifying listings.
+# NOTE: Telegram tested via curl — exit code 000 (connection refused). api.telegram.org still blocked at network level.
+#   User stated credentials hardcoded in prompt should suffice; block is confirmed network-level proxy policy, not credentials.
+#   No new listings to alert regardless.
