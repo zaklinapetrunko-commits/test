@@ -414,3 +414,17 @@ https://allegrolokalnie.pl/oferta/trek-speed-concept-project-one-czasowy-r-l-56
 #   SS.lv cdpkon (Specialized Shiv L 2,500EUR) — already in seen list
 #   All other results returned already-seen or non-qualifying listings
 # NOTE: Telegram BLOCKED — api.telegram.org not reachable via egress proxy. No new listings to alert regardless.
+# --- 2026-07-05 run (fifth) — No new matches found ---
+# Sites: SS.lv (via search, 403 direct), OLX.pl (via search, 403 direct), Allegro.pl (via search, 403 direct),
+#   Allegro Lokalnie (via search, 403 direct), Skelbiu.lt (via search), Autoplius.lt (via search),
+#   Osta.ee (via search), Okidoki.ee (via search), Andel.lv (unavailable/DNS failure).
+# Search terms: triathlon bike carbon TT Di2 SRAM Red 56 L; rower triathlonowy TT karbon Di2 SRAM Red 56 L;
+#   triatlona velosipēds TT karbons Di2 SRAM Red; triatlono dviratis carbon Di2 SRAM Red L 56
+# Candidates reviewed but failing filter:
+#   SS.lv bxegpi (Cervélo P2 Carbon TT/triathlon size 48, €1,760 — fails size, need 55-57cm)
+#   SS.lv cdpkon (Specialized Shiv L €2,500 — already in seen list)
+#   Giant Trinity SRAM AXS L skelbiu.lt (74636002) — already in seen list
+#   All other results returned already-seen or non-qualifying listings.
+# NOTE: Telegram BLOCKED — api.telegram.org not reachable via egress proxy. No new listings to alert regardless.
+# NOTE: Telegram network block is persistent across all runs. User confirmed credentials are hardcoded and correct.
+#   Resolution requires network policy change to allow api.telegram.org egress from this environment.
