@@ -598,3 +598,23 @@ https://allegrolokalnie.pl/oferta/trek-speed-concept-project-one-czasowy-r-l-56
 # NOTE: Telegram BLOCKED — api.telegram.org returns 403 via egress proxy (CONNECT tunnel refused, exit code 56).
 #   Hardcoded credentials confirmed: bot 8823305958:AAGUR-Hc7V21ZWnNB8GkeVeVocbC62XwU9g, IDs 6136843189 / 1059015498.
 #   Block is network-level proxy policy, not a credentials issue. No new listings found to alert regardless.
+# --- 2026-07-05 run (fifteenth) — No new matches found ---
+# Sites: SS.lv (via search, 403 direct), OLX.pl (via search, 403 direct), Allegro.pl (via search, 403 direct),
+#   Allegro Lokalnie (via search, 403 direct), Skelbiu.lt (via search), Autoplius.lt (via search),
+#   Osta.ee (via search), Okidoki.ee (via search), Andel.lv (unavailable/DNS failure).
+# Search terms: site:ss.lv triathlon TT velosipeds carbon Di2 SRAM Red 56 L 2026;
+#   site:olx.pl rower triathlonowy TT karbon Di2 SRAM Red 56 L lipiec 2026;
+#   site:allegrolokalnie.pl triathlon TT carbon Di2 SRAM Red 56 L lipiec 2026;
+#   site:allegro.pl rower triathlonowy TT Di2 SRAM Red 56 L 2026;
+#   site:skelbiu.lt triatlono dviratis carbon TT Di2 SRAM Red L 56 2026;
+#   site:autoplius.lt triatlono dviratis TT carbon Di2 SRAM Red L 56 2026;
+#   cervelo felt BMC canyon speedmax specialized shiv scott plasma TT triathlon Di2 SRAM Red 56 L olx.pl allegro ss.lv July 5 2026 new listing
+# New URLs found but failing filter:
+#   SS.lv bdkfce — gravel/adventure carbon €2,199 (fails type)
+#   SS.lv bpcplm — Giant Propel Advanced Carbon ML €1,200 (fails type — road aero)
+#   SS.lv cdmgbk — Specialized S-Works road carbon €1,360 (fails type)
+#   SS.lv cdhkol — Topvelo Corelli €299 (fails type)
+#   Allegro.pl rower-czasowy-triathlonowy-karbonowy-felt-b-12-56-cm-dura-ace-14729300234 — Felt B12 56cm, Dura Ace mechanical (fails groupset)
+# NOTE: Telegram BLOCKED — api.telegram.org not reachable via egress proxy.
+#   Credentials hardcoded: bot 8823305958:AAGUR-Hc7V21ZWnNB8GkeVeVocbC62XwU9g, IDs 6136843189 / 1059015498.
+#   Block is persistent network-level proxy policy. No new listings found to alert regardless.
