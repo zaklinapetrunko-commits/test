@@ -47,7 +47,7 @@ https://allegrolokalnie.pl/oferta/rower-triathlonowy-trek-speed-concept
 https://allegrolokalnie.pl/oferta/rower-triathlonowy-tt-cervelo-pseries-105-56-cm
 https://allegrolokalnie.pl/oferta/rower-triathlonowy-wilier-twin-blade-duraace-di2-l
 https://allegrolokalnie.pl/oferta/scott-plasma-premium
-https://allegrolokalnie.pl/oferta/specialized-shiv-pomiarmocyceramicspeed-triathlon
+https://allegrolokalnie.pl/oferta/specialized-shiv-pomiarmocycelamicspeed-triathlon
 https://allegrolokalnie.pl/oferta/specialized-transition-expert-r56cm-dodatki
 https://allegrolokalnie.pl/oferta/sprzedam-cervelo-p2
 https://allegrolokalnie.pl/oferta/trek-speed-concept-di2-triathlonkarbon
@@ -261,3 +261,9 @@ https://allegro.pl/produkt/rower-triathlonowy-ceepo-viper-28-r-l-shimano-105-di2
 # --- 2026-07-06 run (tenth) — No new matches found. Direct fetch: all sites 403/unreachable (proxy blocks persistent). Via web search: comprehensive multi-term parallel searches across SS.lv, OLX.pl, Allegro.pl, allegrolokalnie.pl, Skelbiu.lt, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, MM.lv using all 7 required search terms in PL/LV/LT/EN. Candidates evaluated: (1) Canyon Speedmax CF OLX.pl (ID17FVv2) Gdynia — size S, Shimano Ultegra R8000 mechanical, fails size and groupset ❌; (2) Fuji Norcom Straight 1.3 Di2 allegrolokalnie.pl (straight-13) Olkusz — size M/L (53cm), fails size ❌; (3) SS.lv bjjgkb.html — carbon aero road bike €2,200, type/groupset unconfirmable from search snippets, likely road not TT/triathlon ❌. No new carbon TT/triathlon bike with Di2/SRAM Red, size L/56, under €8000 found. NOTE: Telegram blocked via egress proxy — api.telegram.org unreachable from this environment. Seen list updated ✓.
 
 # --- 2026-07-06 run (eleventh) — No new matches found. Direct fetch: all sites 403/unreachable (proxy blocks persistent). Via web search: comprehensive multi-term searches across SS.lv, OLX.pl, Allegro.pl, allegrolokalnie.pl, Skelbiu.lt, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv using all 7 required search terms in PL/LV/LT/EN. Candidates evaluated: (1) Cervelo P3 HED H3 allegrolokalnie.pl (smiglo) — Campagnolo Record groupset, not Di2/SRAM Red ❌; (2) Cervelo P3 2018 Ultegra Di2 allegrolokalnie.pl (Poznań) — size 58, fails size ❌; (3) Canyon Speedmax CF SLX7 Disc AXS M OLX.pl (ID13Yr6W) — SRAM Rival eTap (not SRAM Red) ❌. No new carbon TT/triathlon bike with Di2/SRAM Red, size L/56, under €8000 found. NOTE: Telegram blocked via egress proxy — api.telegram.org unreachable from this environment. Seen list updated ✓.
+
+# --- 2026-07-06 run (twelfth) — 1 NEW MATCH FOUND ---
+https://m.skelbiu.lt/skelbimai/orbea-tt-ordu-m20i-di2-2018-l-dydis-73766133.html
+# Orbea TT Ordu M20i Di2 2018 | Size L | €1,400 | Vilnius, Lithuania | Shimano Ultegra Di2 | Full carbon frame
+# Filter: carbon ✓ TT/triathlon ✓ size L ✓ Ultegra Di2 ✓ price €1,400 < €8,000 ✓ | No power meter mentioned.
+# NOTE: Telegram alerts BLOCKED — api.telegram.org returns 403 via egress proxy (persistent network-level policy, all prior runs same). Manual check required: https://m.skelbiu.lt/skelbimai/orbea-tt-ordu-m20i-di2-2018-l-dydis-73766133.html
