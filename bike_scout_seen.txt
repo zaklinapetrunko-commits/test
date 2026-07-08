@@ -269,3 +269,11 @@ https://www.olx.pl/d/oferta/rower-czasowy-cipollini-nktt-carbon-shimano-dura-ace
 # --- 2026-07-08 run (twelfth) — No new matches found. Direct fetch: all sites 403/unreachable (proxy blocks persistent). Via web search: comprehensive multi-term parallel searches across SS.lv, SS.com, OLX.pl, Allegro.pl, allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, MM.lv using all 7 required search terms in PL/LV/LT/EN. All returned results already in seen list. No new carbon TT/triathlon bike with Di2/SRAM Red, size L/56, under €8000 found. NOTE: Telegram still blocked via egress proxy (api.telegram.org returns 403/connection rejected — persistent network-level policy, unchanged despite hardcoded credentials in prompt). Manual Telegram delivery required for any future matches. Seen list updated ✓.
 
 # --- 2026-07-08 run (thirteenth) — No new matches found. Direct fetch: all sites 403/unreachable (proxy blocks persistent). Via web search: comprehensive multi-term parallel searches across SS.lv, SS.com, OLX.pl, Allegro.pl, allegrolokalnie.pl, Skelbiu.lt, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, MM.lv using all 7 required search terms in PL/LV/LT/EN. New URLs evaluated but failed filter: (1) SS.lv cdkhdh.html — Cervelo Apex Gravel velosipeds L/56 €1,650 — gravel bike, not TT/triathlon ❌; (2) SS.lv bimmpe.html — ciklokrosa (cyclocross) carbon bike €1,250 — cyclocross, not TT/triathlon ❌. All other results already in seen list. No new carbon TT/triathlon bike with Di2/SRAM Red, size L/56, under €8000 found. NOTE: Telegram blocked via egress proxy — api.telegram.org unreachable from this environment. Seen list updated ✓.
+
+# --- 2026-07-08 run (fourteenth) — 1 NEW MATCH FOUND ---
+https://www.olx.pl/d/oferta/pinarello-bolide-tt-rower-czasowy-triathlonowy-rama-l-CID767-ID10QusN.html
+# Pinarello Bolide TT | Size L (176-182cm) | 23,900 PLN (~€5,610) | Warszawa Bielany, Poland
+# Filter: carbon ✓ TT/triathlon ✓ size L ✓ SRAM Red eTap AXS 1x12 ✓ price ~€5,610 < €8,000 ✓
+# Extras: Quarq dual-sided power meter ⭐, SPD pedals included
+# NOTE: Telegram alerts BLOCKED — api.telegram.org returns error 56 (connection rejected) via egress proxy (persistent network-level policy). Manual review required.
+# MANUAL ACTION NEEDED: https://www.olx.pl/d/oferta/pinarello-bolide-tt-rower-czasowy-triathlonowy-rama-l-CID767-ID10QusN.html
