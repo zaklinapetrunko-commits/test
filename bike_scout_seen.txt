@@ -286,3 +286,31 @@ https://allegrolokalnie.pl/oferta/rower-czasowy-fuji-norcom-straight-13-triathlo
 https://www.olx.pl/d/oferta/rower-czasowy-tt-triathlonowy-cervelo-p5-six-CID767-ID15nHFl.html
 https://allegrolokalnie.pl/oferta/rower-triathlonowy-felt-da1-rozmiar-54
 https://allegrolokalnie.pl/oferta/karbonowy-rower-szosowy-radon-r-l-ultegra-di2
+# --- 2026-07-09 run (seventeenth) — No new matches found ---
+# Sites checked: SS.lv (403 direct/web search), SS.com (web search), OLX.pl (403 direct/web search), Allegro.pl (web search), AllegroLokalnie.pl (web search), Skelbiu.lt (web search), Autoplius.lt (no results), Osta.ee (no results), Okidoki.ee (no results), Andel.lv (no results)
+# Via web search: all 7 required search terms in PL/LV/LT/EN across all platforms. 18 web searches performed.
+# New URLs evaluated but failed filter:
+# (1) OLX ID1510Kc — Specialized Transition Expert Carbon TT, Łódź — FAILS size (S/51cm) and groupset (mechanical Ultegra 2x10, not Di2) ❌
+# (2) OLX IDV3UwB — Boardman TT Szosowy Aero, Łódź — FAILS frame (aluminum, not carbon), groupset (SRAM Apex mechanical), size (S/52) ❌
+# (3) OLX IDuf6Qh — Carbon 56 TT "Profile Design", groupset/brand unverifiable (OLX 403) — FAILS (cannot confirm Di2/SRAM Red groupset) ❌
+# (4) SS.lv bdkicx.html — Trek Emonda SL5 Carbon 56cm, Shimano 105 — FAILS type (road bike) and groupset (mechanical) ❌
+# (5) SS.lv biepfc.html — used carbon road bike, €550 — FAILS type (road) ❌
+# (6) SS.lv cdkhdh.html — Cervelo Apex Gravel L/56, €1,650 — FAILS type (gravel) and groupset (Apex mechanical) ❌
+# (7) SS.lv cembdn.html — S-Works Venge 56, €4,900 — FAILS type (aero road, not TT/triathlon) ❌
+# (8) SS.lv bdkfce.html — gravel/adventure carbon, €2,199 — FAILS type (gravel) ❌
+# (9) SS.lv bjpdjn.html — Giant TCR, €350 — FAILS type (road) ❌
+# (10) SS.lv bimmpe.html — cyclocross carbon, €1,250 — FAILS type (cyclocross) ❌
+# (11) SS.lv bpdiic.html — Kuota Kryon carbon, €1,500 — FAILS type (road, not TT/triathlon) ❌
+# NOTE: Telegram blocked via egress proxy — api.telegram.org unreachable from this environment (persistent).
+# Seen list updated ✓.
+https://www.olx.pl/d/oferta/rower-czasowy-karbonowy-specialized-transition-expert-carbon-tt-okazja-CID767-ID1510Kc.html
+https://www.olx.pl/d/oferta/rower-czasowy-triathlonowy-boardman-tt-szosowy-aero-gwarancja-okazja-CID767-IDV3UwB.html
+https://www.olx.pl/d/oferta/rower-carbonowy-56-traithlonowy-tt-czasowy-profile-design-CID767-IDuf6Qh.html
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdkicx.html
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/biepfc.html
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cdkhdh.html
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cembdn.html
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdkfce.html
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bjpdjn.html
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bimmpe.html
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bpdiic.html
