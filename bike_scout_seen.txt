@@ -317,3 +317,16 @@ https://www.ss.com/msg/lv/transport/bycycles/highway-sports/cebjxc.html
 # Seen list updated ✓.
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cdkxli.html
 https://www.olx.pl/d/oferta/rower-triathlonowy-czasowy-tt-scott-plasma-2-kola-ffwd-carbon-CID767-ID18Pri3.html
+# --- 2026-07-09 run (twentieth) — No new matches found ---
+# Sites checked: SS.lv (403 direct/web search), SS.com (web search), OLX.pl (403 direct/web search), Allegro.pl (web search), AllegroLokalnie.pl (web search), Skelbiu.lt (web search), Autoplius.lt (no results), Osta.ee (no results), Okidoki.ee (no results), Andel.lv (no results)
+# Via web search: all 7 required search terms in PL/LV/LT/EN across all platforms. 20+ web searches performed.
+# New URLs evaluated but failed filter:
+# (1) OLX IDUzqEq — KTM Team TT frameset, Wrocław — FAILS (frameset only, not complete bike) ❌
+# (2) OLX IDhuCTr — Guerciotti CRUX TT Carbon Shimano 105 11s, Poznań — FAILS groupset (Shimano 105 mechanical, not Di2/SRAM Red) ❌
+# (3) SS.lv bjknpi.html — Specialized 58cm Carbon, €2,800 — FAILS size (58cm > 57cm max) ❌
+# Unverifiable lead: Argon 18 E80 triathlon, Ultegra Di2 + power meter, Łódź (CreatoBike OLX), ~4,299 PLN — URL not retrievable via web search (OLX 403 direct). Cannot confirm size or carbon frame. No URL to add to seen list.
+# NOTE: Telegram blocked via egress proxy — api.telegram.org unreachable from this environment (persistent).
+# Seen list updated ✓.
+https://www.olx.pl/d/oferta/rower-triathlonowy-czasowka-ktm-team-tt-frameset-do-zbudowania-CID767-IDUzqEq.html
+https://www.olx.pl/oferta/nowy-rower-triathlonowy-guerciotti-crux-tt-carbon-shimano-105-11s-5800-CID767-IDhuCTr.html
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bjknpi.html
