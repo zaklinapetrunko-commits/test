@@ -169,3 +169,20 @@ https://allegrolokalnie.pl/oferta/rower-czasowy-triathlon-karbon-orbea-ora-tt-ul
 # All other results already in seen list. No new carbon TT/triathlon bike with Di2/SRAM Red, size L/56, under €8000 found.
 # NOTE: Telegram blocked via egress proxy — api.telegram.org unreachable from this environment (persistent).
 # Seen list updated ✓.
+https://www.olx.pl/d/oferta/nowy-rower-triathlonowy-felt-ia-2-0-expert-ultegra-di2-12s-super-cena-CID767-ID18RPS3.html
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/iekni.html
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cendeb.html
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdlgbg.html
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdphlg.html
+# --- 2026-07-09 run (ninth) — No new matches found ---
+# Sites checked: SS.lv (403 direct/web search), OLX.pl (403 direct/web search), AllegroLokalnie.pl (403 direct/web search), Allegro.pl (403 direct/web search), Skelbiu.lt (web search), Autoplius.lt (no results), Osta.ee (no results), Okidoki.ee (no results), Andel.lv (no results), MM.lv (no results)
+# Via web search: all 7 required search terms in PL/LV/LT/EN across all platforms.
+# New listings evaluated but failed filter:
+# (1) OLX.pl ID18RPS3 — FELT IA 2.0 Expert, carbon, Ultegra Di2, new dealer listing — FAILS (size unverifiable via web search, OLX 403) ❌
+# (2) SS.lv iekni.html — carbon €950, type/groupset unverifiable — FAILS (price suggests mechanical groupset) ❌
+# (3) SS.lv cendeb.html — Felt B14 carbon triathlon, €950 — FAILS (Felt B14 uses mechanical groupset) ❌
+# (4) SS.lv bdlgbg.html — M-size triathlon, aluminum frame, €1,100 — FAILS (aluminum + size M) ❌
+# (5) SS.lv bdphlg.html — TT bike 59cm, €280 — FAILS size (59cm > 57cm max) ❌
+# All other results already in seen list. No new carbon TT/triathlon bike with Di2/SRAM Red, size L/56, under €8000 found.
+# NOTE: Telegram blocked via egress proxy — api.telegram.org unreachable from this environment (persistent).
+# Seen list updated ✓.
