@@ -10,9 +10,10 @@ https://www.ss.lv/msg/lv/sport/bycycles/highway-sports/fcgdh.html
 https://www.olx.pl/d/oferta/cervelo-p3x-rower-triathlonowy-ultegra-di2-nowy-bikefitting-CID767-IDExtJN.html
 https://allegrolokalnie.pl/oferta/cannondale-slice-triathlon
 https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-fuji-norcom-1-3-di2-55
+https://allegrolokalnie.pl/oferta/rower-czasowy-tt-fuji-norcom-straight-1-3-di2-55
 https://allegrolokalnie.pl/oferta/fuji-norcom-13-rozm-ml-527
 https://allegrolokalnie.pl/oferta/fuji-norcom-straight-ultegra-di2
-https://allegrolokalnie.pl/oferta/rower-czasowy-tt-triathlonowy-avenger-tm6-carbon
+https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-tt-avenger-tm6-carbon
 https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-orbea-ordu-m30-ltd-di2-poznan-triathlon-czasowka-fv
 https://m.skelbiu.lt/skelbimai/giant-trinity-triatlono-dviratis-sram-axs-naujas-l-74636002.html
 https://allegro.pl/oferta/rower-czasowy-orbea-ordu-carbon-55-sram-zipp-mavic-7838383416
@@ -268,3 +269,20 @@ https://www.ss.com/msg/lv/transport/bycycles/highway-sports/biicei.html
 https://www.ss.com/msg/lv/transport/bycycles/highway-sports/bjbixf.html
 https://www.ss.com/msg/lv/transport/bycycles/highway-sports/blpnnj.html
 https://www.ss.com/msg/lv/transport/bycycles/highway-sports/cefoji.html
+# --- 2026-07-09 run (sixteenth) — No new matches found ---
+# Sites checked: SS.lv (403 direct/web search), SS.com (web search), OLX.pl (403 direct/web search), Allegro.pl (web search), AllegroLokalnie.pl (web search), Skelbiu.lt (web search), Autoplius.lt (no results), Osta.ee (no results), Okidoki.ee (no results), Andel.lv (no results)
+# Via web search: all 7 required search terms in PL/LV/LT/EN across all platforms. 14 web searches performed.
+# New URLs evaluated but failed filter:
+# (1) OLX.pl IDvJcRN — Massi Carbon TT/triathlon, SRAM Red 10-speed, Bydgoszcz — FAILS size (M-L ≈ 53cm, suited for 180cm rider, below 55cm minimum) ❌
+# (2) AllegroLokalnie rower-czasowy-fuji-norcom-straight-13-triathlon — Fuji Norcom Straight 1.3 Di2, Olkusz, 19,500 PLN — FAILS size (M/L = 53cm, below 55cm minimum) ❌
+# (3) OLX.pl ID15nHFl — Cervelo P5 Six, Bielany Wrocławskie, 18,000 PLN — FAILS size (58cm > 57cm max) ❌
+# (4) AllegroLokalnie rower-triathlonowy-felt-da1-rozmiar-54 — Felt DA1, size 54cm — FAILS size ❌
+# (5) AllegroLokalnie karbonowy-rower-szosowy-radon-r-l-ultegra-di2 — Radon road bike — FAILS type (road, not TT) ❌
+# All other results already in seen list. No new carbon TT/triathlon bike with Di2/SRAM Red, size L/56, under €8000 found.
+# NOTE: Telegram blocked via egress proxy — api.telegram.org unreachable from this environment (persistent).
+# Seen list updated ✓.
+https://www.olx.pl/oferta/rower-czasowy-massi-rower-triathlonowy-carbon-CID767-IDvJcRN.html
+https://allegrolokalnie.pl/oferta/rower-czasowy-fuji-norcom-straight-13-triathlon
+https://www.olx.pl/d/oferta/rower-czasowy-tt-triathlonowy-cervelo-p5-six-CID767-ID15nHFl.html
+https://allegrolokalnie.pl/oferta/rower-triathlonowy-felt-da1-rozmiar-54
+https://allegrolokalnie.pl/oferta/karbonowy-rower-szosowy-radon-r-l-ultegra-di2
