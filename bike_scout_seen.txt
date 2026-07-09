@@ -230,3 +230,22 @@ https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bjbebj.html
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/gfimp.html
 https://www.olx.pl/d/oferta/rower-triathlonowy-czasowy-bmc-time-machine-02-rozmiar-l-CID767-ID13asQS.html
 https://www.olx.pl/oferta/cervelo-p5-56-ultegra-metron-55-triathlon-rower-czasowy-triathlonowy-CID767-IDycb7C.html
+# --- 2026-07-09 run (fourteenth) — No new matches found ---
+# Sites checked: SS.lv (403 direct/web search), SS.com (web search), OLX.pl (403 direct/web search), Allegro.pl (web search), AllegroLokalnie.pl (web search), Skelbiu.lt (web search), Autoplius.lt (no results), Osta.ee (no results), Okidoki.ee (no results), Andel.lv (no results)
+# Via web search: all 7 required search terms in PL/LV/LT/EN across all platforms. 14 web searches performed.
+# New URLs evaluated but failed filter:
+# (1) SS.lv bpdhxh.html — Time NX RS, carbon, full Dura-Ace Di2, €1,000 — FAILS bike type (road racing frame geometry, not TT/triathlon) ❌
+# (2) SS.lv bkhelc.html — SRAM carbon Quarq power, €1,550, S-M size (160-175cm) — FAILS size (S-M ≈ 52-54cm) ❌
+# (3) SS.lv bdngb.html — Giant road bike, €1,800 — FAILS type (road bike) ❌
+# (4) SS.lv bombhb.html — 58cm disc, €850 — FAILS size (58cm > 57cm max) ❌
+# (5) SS.lv bpdxkk.html — Liv Langma by Giant, road bike — FAILS type ❌
+# (6) SS.com cdhhpc.html — Cannondale Synapse 54cm M, SRAM — FAILS type (road) and size ❌
+# All other results already in seen list. No new carbon TT/triathlon bike with Di2/SRAM Red, size L/56, under €8000 found.
+# NOTE: Telegram blocked via egress proxy — api.telegram.org unreachable from this environment (persistent).
+# Seen list updated ✓.
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bpdhxh.html
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bkhelc.html
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdngb.html
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bombhb.html
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bpdxkk.html
+https://www.ss.com/msg/lv/transport/bycycles/highway-sports/cdhhpc.html
