@@ -139,72 +139,25 @@ https://allegro.pl/oferta/rower-triathlonowy-ceepo-viper-28-r-l-shimano-105-di2-
 https://www.olx.pl/d/oferta/ceepo-viper-28-shimano-105-di2-niebieski-CID767-ID122uRC.html
 https://allegro.pl/produkt/rower-triathlonowy-ceepo-viper-28-r-l-shimano-105-di2-12s-czarny-8541acdc-6d0c-454b-aca7-3fb591557f25
 https://m.skelbiu.lt/skelbimai/orbea-tt-ordu-m20i-di2-2018-l-dydis-73766133.html
-https://m.skelbiu.lt/skelbimai/orbea-tt-ordu-m20i-di2-2018-l-dydis-73766133.html
-https://www.olx.pl/d/oferta/rower-czasowy-cipollini-nktt-carbon-shimano-dura-ace-di2-campagnolo-tt-CID767-IDS8N8p.html
 https://www.olx.pl/d/oferta/rower-czasowy-cipollini-nktt-carbon-shimano-dura-ace-di2-campagnolo-tt-CID767-IDS8N8p.html
 https://www.olx.pl/d/oferta/pinarello-bolide-tt-rower-czasowy-triathlonowy-rama-l-CID767-ID10QusN.html
-https://www.olx.pl/d/oferta/pinarello-bolide-tt-rower-czasowy-triathlonowy-rama-l-CID767-ID10QusN.html
 https://www.olx.pl/d/oferta/rower-czasowy-colnago-kzero-ultegra-di2-2x11s-rozmiar-l-CID767-ID13SO8B.html
-https://www.olx.pl/d/oferta/rower-czasowy-colnago-kzero-ultegra-di2-2x11s-rozmiar-l-CID767-ID13SO8B.html
-
-# --- 2026-07-09 run — No new matches found. Direct fetch: all sites 403/unreachable (proxy blocks persistent). Via web search: comprehensive multi-term parallel searches across SS.lv, SS.com, OLX.pl, Allegro.pl, allegrolokalnie.pl, Skelbiu.lt, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, MM.lv using all 7 required search terms in PL/LV/LT/EN. New URLs evaluated but failed filter: (1) SS.com cexglo.html Cube C:62 Tubeless carbon €2,600 — endurance road bike, not TT/triathlon ❌; (2) SS.com bpdxkk.html Liv Langma by Giant carbon Di2 Ultegra €900 — road bike, not TT/triathlon ❌; (3) Felt IA 2.0 Expert Ultegra Di2 OLX.pl (ID18RPS3, Skórzewo shop) — confirmed size 54, fails size ❌. All other results already in seen list. No new carbon TT/triathlon bike with Di2/SRAM Red, size L/56, under €8000 found. NOTE: Telegram blocked via egress proxy — api.telegram.org unreachable from this environment. Seen list updated ✓.
-
-# --- 2026-07-09 run (second) — 1 NEW MATCH FOUND ---
-https://www.olx.pl/d/oferta/rower-czasowy-colnago-kzero-ultegra-di2-2x11s-rozmiar-l-CID767-ID13SO8B.html
-# Colnago K.Zero TT Carbon | Size L (~56cm) | 8,999 PLN (~€2,112) | Kalisz, Poland | Shimano Ultegra 8050 Di2 2x11s | Full carbon TT frame | Bontrager Aura 50mm wheels
-# Filter: carbon ✓ TT/triathlon ✓ size L ✓ Ultegra Di2 ✓ price ~€2,112 < €8,000 ✓ | No power meter mentioned.
-# NOTE: Telegram alerts BLOCKED — api.telegram.org returns exit code 56 via egress proxy (persistent network-level policy, all prior runs same). Manual review required.
-# MANUAL ACTION NEEDED: https://www.olx.pl/d/oferta/rower-czasowy-colnago-kzero-ultegra-di2-2x11s-rozmiar-l-CID767-ID13SO8B.html
-# --- 2026-07-09 run (third) — 2 new candidates found ---
-# NOTE: Telegram alerts BLOCKED — api.telegram.org not in network egress allowlist. Manual review needed.
-# Sites checked: SS.lv (403), OLX.pl (403), Autoplius.lt (no matches), Osta.ee (no matches), Okidoki.ee (no matches), Andel.lv (no matches), Allegro.pl (403), AllegroLokalnie.pl (403), Skelbiu.lt (no new matches)
-# New candidates via web search (size/price not fully confirmed due to 403 blocks):
 https://www.olx.pl/d/oferta/rower-triathlonowy-evo-kronos-r-9-carbon-sram-red-CID767-ID15a5Ze.html
 https://www.olx.pl/d/oferta/rower-czasowy-triathlonowy-stevens-super-trofeo-tt-l-56-CID767-ID153N8N.html
-
-# --- 2026-07-09 run (fourth) — 2 NEW MATCHES FOUND + 3 UNCERTAIN ---
-# Sites checked: SS.lv, SS.com, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt, Autoplius.lt (no results), Osta.ee (no results), Okidoki.ee (no results), Andel.lv (no results), MM.lv (no results)
-# Direct fetch: all 403. Via web search.
-# PASSES FILTER (high confidence):
 https://www.olx.pl/d/oferta/rower-triathlon-tt-orbea-ordu-carbon-ultegra-rozmiar-l-CID767-IDAWyFh.html
-# Orbea Ordu TT | Full carbon | Size L (confirmed in URL) | Shimano Ultegra Di2 (standard on Ordu, confirmed by search) | Price unknown but typical used Ordu well under €8,000
-# PASSES FILTER: carbon ✓ TT/triathlon ✓ size L ✓ Ultegra Di2 ✓ price likely ✓ | No power meter confirmed.
 https://allegrolokalnie.pl/oferta/rower-czasowy-dolan-tt-carbon-triathlon-dura-ace
-# Dolan TR1 TT/Triathlon Disc Carbon | Shimano Dura-Ace Di2 | Size not confirmed (available in L) | Price unknown
-# PASSES FILTER: carbon ✓ TT/triathlon ✓ Di2 ✓ | size/price unconfirmed (direct fetch blocked)
-# UNCERTAIN (new URLs, filter compliance unconfirmed due to 403):
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdffcn.html
-# Scott Plasma TT, €1,000, carbon, "SRAM komplektā" (groupset tier unspecified), size unknown
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cdpkon.html
-# Specialized Shiv Fuelselage TT, €2,500, carbon, groupset/size unknown
 https://allegrolokalnie.pl/oferta/rower-czasowy-triathlon-karbon-orbea-ora-tt-ultegr
-# Orbea Ora TT (non-standard model name), carbon, Ultegra (Di2 not confirmed), ~5,500 PLN, Wrocław, size unknown
-# NOTE: Telegram alerts BLOCKED — api.telegram.org exit code 56 via egress proxy (persistent). MANUAL REVIEW NEEDED.
-# MANUAL ACTION NEEDED:
-# 1. https://www.olx.pl/d/oferta/rower-triathlon-tt-orbea-ordu-carbon-ultegra-rozmiar-l-CID767-IDAWyFh.html (Orbea Ordu L, Ultegra Di2)
-# 2. https://allegrolokalnie.pl/oferta/rower-czasowy-dolan-tt-carbon-triathlon-dura-ace (Dolan TT Carbon Dura-Ace Di2)
-
-# --- 2026-07-09 run (fifth) — No new matches found ---
-# Sites checked: SS.lv (403), SS.com (403), OLX.pl (403), Allegro.pl (403), AllegroLokalnie.pl (403), Skelbiu.lt (no new matches), Autoplius.lt (no results), Osta.ee (no results), Okidoki.ee (no results), Andel.lv (no results), MM.lv (no results)
-# Via web search: comprehensive multi-term parallel searches using all 7 required search terms in PL/LV/LT/EN.
+# --- 2026-07-09 run (seventh) — No new matches found ---
+# Sites checked: SS.lv (403), SS.com (web search), OLX.pl (403), Allegro.pl (403), AllegroLokalnie.pl (web search), Skelbiu.lt (403), Autoplius.lt (no results), Osta.ee (no results), Okidoki.ee (no results), Andel.lv (no results), MM.lv (no results)
+# Via web search: all 7 required search terms in PL/LV/LT/EN across all platforms.
 # New URLs evaluated but failed filter:
-# (1) SS.com bxegpi.html — Cervélo P2 TT Carbon, size 48 (~€1,760), Ultegra mechanical — FAILS size (48 too small) ❌
-# (2) SS.com bdlgbg.html — M-size triathlon, "alumīnija" (aluminum frame, €1,100) — FAILS carbon frame ❌
-# (3) OLX.pl IDvJcRN — Massi TT carbon, SRAM Red 10-speed (mechanical), size M-L, ~€1,175 — old 2020 listing, stale ❌
-# (4) OLX.pl ID17FVv2 — Canyon Speedmax CF, size S, Ultegra R8000 mechanical — FAILS size & groupset ❌
-# (5) OLX.pl IDSIyfC — Trek Speed Concept XL Di2 — FAILS size (XL too large) ❌
-# All other results already in seen list. No new carbon TT/triathlon bike with Di2/SRAM Red, size L/56, under €8000 found.
-# NOTE: Telegram blocked via egress proxy — api.telegram.org unreachable from this environment (persistent).
-# Seen list updated ✓.
-
-# --- 2026-07-09 run (sixth) — No new matches found ---
-# Sites checked: SS.lv (403), SS.com (403), OLX.pl (403), Allegro.pl (403), AllegroLokalnie.pl (403), Skelbiu.lt (403), Autoplius.lt (no results), Osta.ee (no results), Okidoki.ee (no results), Andel.lv (no results), MM.lv (no results)
-# Via web search: comprehensive parallel searches using all 7 required terms in PL/LV/LT/EN across all 10 platforms.
-# New URLs evaluated but failed filter:
-# (1) OLX.pl IDuf6Qh — Carbon TT 56cm Profile Design aerobars — groupset UNKNOWN, cannot confirm Di2/SRAM Red ❌
-# (2) OLX.pl IDycb7C — Cervelo P5 56cm Ultegra 6800 mechanical — FAILS groupset (mechanical, not Di2) ❌
-# (3) Allegro 14729300234 — Felt B12 56cm Dura-Ace — FAILS groupset (Dura-Ace mechanical on B12) ❌
-# (4) Allegro 17478776206 — Pinarello Gan Disc 56cm Ultegra Di2 — FAILS bike type (road bike, not TT/triathlon) ❌
+# (1) SS.lv cdkxli.html — TT/triathlon velo M/L 54cm, €480 — FAILS size (54cm below 55-57cm acceptable range) ❌
+# (2) OLX.pl IDWUsjw — Trek Speed Concept M — FAILS size (M, too small) ❌
+# (3) OLX.pl ID1a8e86 — Cervelo Caledonia 105 Di2 56cm — FAILS bike type (road bike, not TT/triathlon) ❌
+# (4) allegrolokalnie szosa-fuji-transonic-11-duraace-di2-56cm-l — FAILS bike type (road/szosa, not TT) ❌
+# (5) allegrolokalnie rower-czasowy-tt-carbon-rozm-s — FAILS size (S) ❌
 # All other results already in seen list. No new carbon TT/triathlon bike with Di2/SRAM Red, size L/56, under €8000 found.
 # NOTE: Telegram blocked via egress proxy — api.telegram.org unreachable from this environment (persistent).
 # Seen list updated ✓.
