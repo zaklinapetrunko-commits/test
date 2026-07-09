@@ -305,3 +305,15 @@ https://www.olx.pl/d/oferta/giant-trinity-l-xl-rower-tt-triathlonowy-czasowy-dla
 https://www.olx.pl/d/oferta/rower-czasowy-triathlon-carbon-giant-trinity-2-CID767-ID11U7X3.html
 https://www.olx.pl/d/oferta/rower-do-jazdy-na-czas-triathlon-basso-konos-piekny-i-bardzo-szybki-CID767-IDYiwky.html
 https://www.ss.com/msg/lv/transport/bycycles/highway-sports/cebjxc.html
+# --- 2026-07-09 run (nineteenth) — No new matches found ---
+# Sites checked: SS.lv (403 direct/web search), SS.com (403 direct/web search), OLX.pl (403 direct/web search), Allegro.pl (web search), AllegroLokalnie.pl (web search), Skelbiu.lt (web search), Autoplius.lt (no results), Osta.ee (no results), Okidoki.ee (no results), Andel.lv (no results)
+# Via web search: all 7 required search terms in PL/LV/LT/EN across all platforms. 20+ web searches performed.
+# New URLs evaluated but failed filter:
+# (1) SS.lv cdkxli.html — Triatlona/TT velo, M/L = 54cm, Dedacciai wheels, €480 — FAILS size (54cm < 55cm min) ❌
+# (2) OLX ID18Pri3 — Scott Plasma 2, Szczecin, FFWD carbon wheels, mechanical Dura-Ace — FAILS groupset (mechanical, not Di2/SRAM Red) ❌
+# (3) Skelbiu Felt B12 56cm — Shimano 105 mechanical — FAILS groupset ❌
+# All other results already in seen list. No new carbon TT/triathlon bike with Di2/SRAM Red, size L/56, under €8000 found.
+# NOTE: Telegram blocked via egress proxy — api.telegram.org unreachable from this environment (persistent).
+# Seen list updated ✓.
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cdkxli.html
+https://www.olx.pl/d/oferta/rower-triathlonowy-czasowy-tt-scott-plasma-2-kola-ffwd-carbon-CID767-ID18Pri3.html
