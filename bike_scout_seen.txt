@@ -208,7 +208,7 @@ https://www.olx.pl/oferta/cervelo-p5-56-ultegra-metron-55-triathlon-rower-czasow
 # (2) SS.lv bkhelc.html — SRAM carbon Quarq power, €1,550, S-M size (160-175cm) — FAILS size (S-M ≈ 52-54cm) ❌
 # (3) SS.lv bdngb.html — Giant road bike, €1,800 — FAILS type (road bike) ❌
 # (4) SS.lv bombhb.html — 58cm disc, €850 — FAILS size (58cm > 57cm max) ❌
-# (5) SS.lv bpdxkk.html — Liv Langma by Giant, road bike — FAILS type ❌
+# (5) SS.lv bpdxkk.html — Liv Langma by Giant, road bike — FAILS type (road) ❌
 # (6) SS.com cdhhpc.html — Cannondale Synapse 54cm M, SRAM — FAILS type (road) and size ❌
 # All other results already in seen list. No new carbon TT/triathlon bike with Di2/SRAM Red, size L/56, under €8000 found.
 # NOTE: Telegram blocked via egress proxy — api.telegram.org unreachable from this environment (persistent).
@@ -256,7 +256,7 @@ https://www.olx.pl/d/oferta/rower-czasowy-tt-triathlonowy-cervelo-p5-six-CID767-
 https://allegrolokalnie.pl/oferta/rower-triathlonowy-felt-da1-rozmiar-54
 https://allegrolokalnie.pl/oferta/karbonowy-rower-szosowy-radon-r-l-ultegra-di2
 # --- 2026-07-09 run (seventeenth) — No new matches found ---
-# Sites checked: SS.lv (403 direct/web search), SS.com (web search), OLX.pl (403 direct/web search), Allegro.pl (web search), AllegroLokalnie.pl (web search), Skelbiu.lt (web search), Autoplius.lt (no results), Osta.ee (no results), Okidoki.ee (no results), Andel.lv (no results)
+# Sites checked: SS.lv (403 direct/web search), SS.com (web search), OLX.pl (403 direct/web search), Allegro.pl (web search), AllegroLokalnie.pl (web search), Skelbiu.lt (web search), Autoplius.lt (no results), Osta.ee (no results), Okidoki.ee (no results), Andel.lv (no results), MM.lv (no results)
 # Via web search: all 7 required search terms in PL/LV/LT/EN across all platforms. 18 web searches performed.
 # New URLs evaluated but failed filter:
 # (1) OLX ID1510Kc — Specialized Transition Expert Carbon TT, Łódź — FAILS size (S/51cm) and groupset (mechanical Ultegra 2x10, not Di2) ❌
@@ -339,3 +339,18 @@ https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bjknpi.html
 # NOTE: Telegram blocked via egress proxy — api.telegram.org unreachable from this environment (persistent).
 # Seen list updated ✓.
 https://www.olx.pl/d/oferta/trek-speed-concept-xl-di2-tt-triathlon-karbon-CID767-IDSIyfC.html
+# --- 2026-07-09 run (twenty-second) — No new matches found ---
+# Sites checked: SS.lv (403 direct/web search), SS.com (web search), OLX.pl (403 direct/web search), Allegro.pl (web search), AllegroLokalnie.pl (403 direct/web search), Skelbiu.lt (403 direct/web search), Autoplius.lt (no results), Osta.ee (no results), Okidoki.ee (no results), Andel.lv (no results)
+# Via web search: all 7 required search terms in PL/LV/LT/EN across all platforms. 20+ web searches performed.
+# New URLs evaluated but failed filter:
+# (1) SS.lv bpcmfd.html — 56cm road bike, Ultegra mechanical + toeclips pedals, €620 — FAILS type (road bike, not TT/triathlon) and groupset (mechanical) ❌
+# (2) SS.lv bkbfjl.html — Scott Addict Disc L, €2,100 — FAILS type (road/endurance bike, not TT/triathlon) ❌
+# (3) SS.lv blfnjd.html — Cube SL Road 56cm, €549 — FAILS type (hybrid/sport touring, not TT/triathlon) ❌
+# (4) OLX ID12GJnS — Canyon Speedmax CF SLX Ultegra Di2, size M (~52cm), Płońsk — FAILS size (M < 55cm minimum) ❌
+# All other results already in seen list. No new carbon TT/triathlon bike with Di2/SRAM Red, size L/56, under €8000 found.
+# NOTE: Telegram blocked via egress proxy — api.telegram.org unreachable from this environment (persistent).
+# Seen list updated ✓.
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bpcmfd.html
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bkbfjl.html
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/blfnjd.html
+https://www.olx.pl/d/oferta/canyon-speedmax-cf-slx-ultegra-di2-rozm-m-ceramic-speed-CID767-ID12GJnS.html
