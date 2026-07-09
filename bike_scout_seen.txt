@@ -183,3 +183,16 @@ https://allegrolokalnie.pl/oferta/rower-czasowy-triathlon-karbon-orbea-ora-tt-ul
 # MANUAL ACTION NEEDED:
 # 1. https://www.olx.pl/d/oferta/rower-triathlon-tt-orbea-ordu-carbon-ultegra-rozmiar-l-CID767-IDAWyFh.html (Orbea Ordu L, Ultegra Di2)
 # 2. https://allegrolokalnie.pl/oferta/rower-czasowy-dolan-tt-carbon-triathlon-dura-ace (Dolan TT Carbon Dura-Ace Di2)
+
+# --- 2026-07-09 run (fifth) — No new matches found ---
+# Sites checked: SS.lv (403), SS.com (403), OLX.pl (403), Allegro.pl (403), AllegroLokalnie.pl (403), Skelbiu.lt (no new matches), Autoplius.lt (no results), Osta.ee (no results), Okidoki.ee (no results), Andel.lv (no results), MM.lv (no results)
+# Via web search: comprehensive multi-term parallel searches using all 7 required search terms in PL/LV/LT/EN.
+# New URLs evaluated but failed filter:
+# (1) SS.com bxegpi.html — Cervélo P2 TT Carbon, size 48 (~€1,760), Ultegra mechanical — FAILS size (48 too small) ❌
+# (2) SS.com bdlgbg.html — M-size triathlon, "alumīnija" (aluminum frame, €1,100) — FAILS carbon frame ❌
+# (3) OLX.pl IDvJcRN — Massi TT carbon, SRAM Red 10-speed (mechanical), size M-L, ~€1,175 — old 2020 listing, stale ❌
+# (4) OLX.pl ID17FVv2 — Canyon Speedmax CF, size S, Ultegra R8000 mechanical — FAILS size & groupset ❌
+# (5) OLX.pl IDSIyfC — Trek Speed Concept XL Di2 — FAILS size (XL too large) ❌
+# All other results already in seen list. No new carbon TT/triathlon bike with Di2/SRAM Red, size L/56, under €8000 found.
+# NOTE: Telegram blocked via egress proxy — api.telegram.org unreachable from this environment (persistent).
+# Seen list updated ✓.
