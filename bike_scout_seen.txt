@@ -196,3 +196,15 @@ https://allegrolokalnie.pl/oferta/rower-czasowy-triathlon-karbon-orbea-ora-tt-ul
 # All other results already in seen list. No new carbon TT/triathlon bike with Di2/SRAM Red, size L/56, under €8000 found.
 # NOTE: Telegram blocked via egress proxy — api.telegram.org unreachable from this environment (persistent).
 # Seen list updated ✓.
+
+# --- 2026-07-09 run (sixth) — No new matches found ---
+# Sites checked: SS.lv (403), SS.com (403), OLX.pl (403), Allegro.pl (403), AllegroLokalnie.pl (403), Skelbiu.lt (403), Autoplius.lt (no results), Osta.ee (no results), Okidoki.ee (no results), Andel.lv (no results), MM.lv (no results)
+# Via web search: comprehensive parallel searches using all 7 required terms in PL/LV/LT/EN across all 10 platforms.
+# New URLs evaluated but failed filter:
+# (1) OLX.pl IDuf6Qh — Carbon TT 56cm Profile Design aerobars — groupset UNKNOWN, cannot confirm Di2/SRAM Red ❌
+# (2) OLX.pl IDycb7C — Cervelo P5 56cm Ultegra 6800 mechanical — FAILS groupset (mechanical, not Di2) ❌
+# (3) Allegro 14729300234 — Felt B12 56cm Dura-Ace — FAILS groupset (Dura-Ace mechanical on B12) ❌
+# (4) Allegro 17478776206 — Pinarello Gan Disc 56cm Ultegra Di2 — FAILS bike type (road bike, not TT/triathlon) ❌
+# All other results already in seen list. No new carbon TT/triathlon bike with Di2/SRAM Red, size L/56, under €8000 found.
+# NOTE: Telegram blocked via egress proxy — api.telegram.org unreachable from this environment (persistent).
+# Seen list updated ✓.
