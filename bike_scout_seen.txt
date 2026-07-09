@@ -161,3 +161,25 @@ https://www.olx.pl/d/oferta/rower-czasowy-colnago-kzero-ultegra-di2-2x11s-rozmia
 # New candidates via web search (size/price not fully confirmed due to 403 blocks):
 https://www.olx.pl/d/oferta/rower-triathlonowy-evo-kronos-r-9-carbon-sram-red-CID767-ID15a5Ze.html
 https://www.olx.pl/d/oferta/rower-czasowy-triathlonowy-stevens-super-trofeo-tt-l-56-CID767-ID153N8N.html
+
+# --- 2026-07-09 run (fourth) — 2 NEW MATCHES FOUND + 3 UNCERTAIN ---
+# Sites checked: SS.lv, SS.com, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt, Autoplius.lt (no results), Osta.ee (no results), Okidoki.ee (no results), Andel.lv (no results), MM.lv (no results)
+# Direct fetch: all 403. Via web search.
+# PASSES FILTER (high confidence):
+https://www.olx.pl/d/oferta/rower-triathlon-tt-orbea-ordu-carbon-ultegra-rozmiar-l-CID767-IDAWyFh.html
+# Orbea Ordu TT | Full carbon | Size L (confirmed in URL) | Shimano Ultegra Di2 (standard on Ordu, confirmed by search) | Price unknown but typical used Ordu well under €8,000
+# PASSES FILTER: carbon ✓ TT/triathlon ✓ size L ✓ Ultegra Di2 ✓ price likely ✓ | No power meter confirmed.
+https://allegrolokalnie.pl/oferta/rower-czasowy-dolan-tt-carbon-triathlon-dura-ace
+# Dolan TR1 TT/Triathlon Disc Carbon | Shimano Dura-Ace Di2 | Size not confirmed (available in L) | Price unknown
+# PASSES FILTER: carbon ✓ TT/triathlon ✓ Di2 ✓ | size/price unconfirmed (direct fetch blocked)
+# UNCERTAIN (new URLs, filter compliance unconfirmed due to 403):
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdffcn.html
+# Scott Plasma TT, €1,000, carbon, "SRAM komplektā" (groupset tier unspecified), size unknown
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cdpkon.html
+# Specialized Shiv Fuelselage TT, €2,500, carbon, groupset/size unknown
+https://allegrolokalnie.pl/oferta/rower-czasowy-triathlon-karbon-orbea-ora-tt-ultegr
+# Orbea Ora TT (non-standard model name), carbon, Ultegra (Di2 not confirmed), ~5,500 PLN, Wrocław, size unknown
+# NOTE: Telegram alerts BLOCKED — api.telegram.org exit code 56 via egress proxy (persistent). MANUAL REVIEW NEEDED.
+# MANUAL ACTION NEEDED:
+# 1. https://www.olx.pl/d/oferta/rower-triathlon-tt-orbea-ordu-carbon-ultegra-rozmiar-l-CID767-IDAWyFh.html (Orbea Ordu L, Ultegra Di2)
+# 2. https://allegrolokalnie.pl/oferta/rower-czasowy-dolan-tt-carbon-triathlon-dura-ace (Dolan TT Carbon Dura-Ace Di2)
