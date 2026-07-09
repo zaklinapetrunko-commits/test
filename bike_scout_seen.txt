@@ -186,3 +186,16 @@ https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdphlg.html
 # All other results already in seen list. No new carbon TT/triathlon bike with Di2/SRAM Red, size L/56, under €8000 found.
 # NOTE: Telegram blocked via egress proxy — api.telegram.org unreachable from this environment (persistent).
 # Seen list updated ✓.
+# --- 2026-07-09 run (tenth) — No new matches found ---
+# Sites checked: SS.lv (403 direct/web search), OLX.pl (403 direct/web search), AllegroLokalnie.pl (403 direct/web search), Allegro.pl (403 direct/web search), Skelbiu.lt (403 direct/web search), Autoplius.lt (no results), Osta.ee (no results), Okidoki.ee (no results), Andel.lv (no results)
+# Via web search: all 7 required search terms in PL/LV/LT/EN across all platforms.
+# New listings evaluated but failed filter or unverifiable:
+# (1) OLX.pl ID12IgaL — Canyon Speedmax CF7 Di2 2024, carbon TT/triathlon, Di2 groupset — FAILS (size unverifiable, OLX 403) ❌
+# (2) SS.lv bxegpi.html — Cervélo P2 Carbon TT, size 48cm, €1,760, Quarq power — FAILS size (48cm < 55cm minimum) ❌
+# (3) SS.com oxgmb.html — TT carbon €450 — FAILS likely groupset (price too low for Di2/SRAM Red) ❌
+# All other results already in seen list. No new carbon TT/triathlon bike with Di2/SRAM Red, size L/56, under €8000 confirmed.
+# NOTE: Telegram blocked via egress proxy — api.telegram.org unreachable from this environment (persistent).
+# Seen list updated ✓.
+https://www.olx.pl/d/oferta/rower-tt-tri-triathlonowy-canyon-speedmax-cf7-di2-2024-CID767-ID12IgaL.html
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bxegpi.html
+https://www.ss.com/msg/lv/transport/bycycles/highway-sports/oxgmb.html
