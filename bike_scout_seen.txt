@@ -209,3 +209,9 @@ https://www.ss.com/msg/lv/transport/bycycles/highway-sports/oxgmb.html
 # All other results already in seen list. No new carbon TT/triathlon bike with Di2/SRAM Red, size L/56, under €8000 found.
 # NOTE: Telegram blocked via egress proxy — api.telegram.org unreachable from this environment (persistent).
 # Seen list updated ✓.
+# --- 2026-07-09 run (twelfth) — No new matches found ---
+# Sites checked: SS.lv (403 direct), SS.com (web search), OLX.pl (403 direct), Allegro.pl (web search), AllegroLokalnie.pl (403 direct/web search), Skelbiu.lt (403 direct/web search), Autoplius.lt (no results), Osta.ee (no results), Okidoki.ee (no results), Andel.lv (no results)
+# Via web search: all 7 required search terms in PL/LV/LT/EN across all platforms. 14 web searches performed.
+# No new URLs found that have not already been evaluated. No candidate passed all filter criteria.
+# NOTE: Telegram blocked via egress proxy — api.telegram.org unreachable from this environment (persistent).
+# Seen list updated ✓.
