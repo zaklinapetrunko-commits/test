@@ -199,3 +199,13 @@ https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdphlg.html
 https://www.olx.pl/d/oferta/rower-tt-tri-triathlonowy-canyon-speedmax-cf7-di2-2024-CID767-ID12IgaL.html
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bxegpi.html
 https://www.ss.com/msg/lv/transport/bycycles/highway-sports/oxgmb.html
+# --- 2026-07-09 run (eleventh) — No new matches found ---
+# Sites checked: SS.lv (403 direct), SS.com (403 direct), OLX.pl (403 direct), Allegro.pl (403 direct), AllegroLokalnie.pl (403 direct), Skelbiu.lt (403 direct), Autoplius.lt (no results), Osta.ee (no results), Okidoki.ee (no results), Andel.lv (no results)
+# Via web search: all 7 required search terms in PL/LV/LT/EN across all platforms.
+# New listings evaluated but failed filter:
+# (1) OLX.pl IDVPS7G — Orbea Ordu M30i LTD Di2, Poznań, carbon triathlon, 105 Di2 — FAILS size (only XS/S-M/M-L available, max ~54cm, below 55cm minimum) ❌
+# (2) OLX.pl IDQP53K — Orbea Ordu M30i LTD 2023 Di2, Poznań — FAILS size (same model, max M-L ~54cm) ❌
+# (3) BMC Timemachine 02 SRAM Red Etap OLX — FAILS size (MS, ~51cm) and listing is from 2019 ❌
+# All other results already in seen list. No new carbon TT/triathlon bike with Di2/SRAM Red, size L/56, under €8000 found.
+# NOTE: Telegram blocked via egress proxy — api.telegram.org unreachable from this environment (persistent).
+# Seen list updated ✓.
