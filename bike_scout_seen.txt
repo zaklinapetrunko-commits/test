@@ -169,3 +169,9 @@ https://allegrolokalnie.pl/oferta/rower-czasowy-triathlon-karbon-orbea-ora-tt-ul
 # All other results already in seen list. No new carbon TT/triathlon bike with Di2/SRAM Red, size L/56, under €8000 found.
 # NOTE: Telegram blocked via egress proxy — api.telegram.org unreachable from this environment (persistent).
 # Seen list updated ✓.
+# --- 2026-07-09 run (ninth) — No new matches found ---
+# Sites checked: SS.lv (403), OLX.pl (403), Allegro.pl (403), AllegroLokalnie.pl (403), Skelbiu.lt (403), Autoplius.lt (no results), Osta.ee (no results), Okidoki.ee (no results), Andel.lv (ENOTFOUND — domain appears down), MM.lv (no results)
+# Via web search: all 7 required search terms in PL/LV/LT/EN across all sites. 8+ web search passes.
+# No new carbon TT/triathlon bike with Di2/SRAM Red, size L/56, under €8000 found.
+# NOTE: Telegram blocked via egress proxy — api.telegram.org unreachable from this environment (persistent).
+# Seen list updated ✓.
