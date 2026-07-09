@@ -340,7 +340,7 @@ https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bjknpi.html
 # Seen list updated ✓.
 https://www.olx.pl/d/oferta/trek-speed-concept-xl-di2-tt-triathlon-karbon-CID767-IDSIyfC.html
 # --- 2026-07-09 run (twenty-second) — No new matches found ---
-# Sites checked: SS.lv (403 direct/web search), SS.com (web search), OLX.pl (403 direct/web search), Allegro.pl (web search), AllegroLokalnie.pl (403 direct/web search), Skelbiu.lt (403 direct/web search), Autoplius.lt (no results), Osta.ee (no results), Okidoki.ee (no results), Andel.lv (no results)
+# Sites checked: SS.lv (403 direct/web search), SS.com (web search), OLX.pl (403 direct/web search), Allegro.pl (403 direct/web search), AllegroLokalnie.pl (403 direct/web search), Skelbiu.lt (403 direct/web search), Autoplius.lt (no results), Osta.ee (no results), Okidoki.ee (no results), Andel.lv (no results)
 # Via web search: all 7 required search terms in PL/LV/LT/EN across all platforms. 20+ web searches performed.
 # New URLs evaluated but failed filter:
 # (1) SS.lv bpcmfd.html — 56cm road bike, Ultegra mechanical + toeclips pedals, €620 — FAILS type (road bike, not TT/triathlon) and groupset (mechanical) ❌
@@ -354,3 +354,15 @@ https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bpcmfd.html
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bkbfjl.html
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/blfnjd.html
 https://www.olx.pl/d/oferta/canyon-speedmax-cf-slx-ultegra-di2-rozm-m-ceramic-speed-CID767-ID12GJnS.html
+# --- 2026-07-09 run (twenty-third) — No new matches found ---
+# Sites checked: SS.lv (403 direct/web search), SS.com (web search), OLX.pl (403 direct/web search), Allegro.pl (403 direct/web search), AllegroLokalnie.pl (403 direct/web search), Skelbiu.lt (web search), Autoplius.lt (no results), Osta.ee (no results), Okidoki.ee (no results), Andel.lv (no results)
+# Via web search: all 7 required search terms in PL/LV/LT/EN across all platforms. 14 web searches performed.
+# New URLs evaluated but failed filter:
+# (1) SS.com bklped.html — Carbon bike, ridden 3 times, €2,500, Šosejas sporta category — FAILS (type/brand/size/groupset unverifiable from snippet) ❌
+# (2) AllegroLokalnie Orbea Ora TT Ultegra, Wrocław — Frame CC 53-54cm, 5,500 PLN — FAILS size (53-54cm CC below 55cm minimum) ❌
+# (3) Allegro.pl Boardman TTE Shimano Ultegra ID17412425497 — "Shimano Ultegra" without Di2 notation — FAILS groupset (mechanical Ultegra, not Di2/SRAM Red) ❌
+# NOTE: Telegram blocked via egress proxy — api.telegram.org unreachable from this environment (persistent).
+# Seen list updated ✓.
+https://www.ss.com/msg/lv/transport/bycycles/highway-sports/bklped.html
+https://allegrolokalnie.pl/oferta/rower-czasowy-triathlon-karbon-orbea-ora-tt-ultegr
+https://allegro.pl/oferta/rower-szosowy-triathlonowy-tt-boarmdan-tte-shimano-ultegra-17412425497
