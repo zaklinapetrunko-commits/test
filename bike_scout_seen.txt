@@ -461,3 +461,9 @@ https://www.olx.pl/oferta/bmc-timemachine-02-triathlon-sram-red-etap-CID767-IDw0
 https://www.olx.pl/d/oferta/rower-szosowy-triathlonowy-isaac-joule-aerotic-dura-ace-2-9-r-55-CID767-ID15ZDeK.html
 https://www.olx.pl/d/oferta/rower-czasowy-isaac-joule-aerotic-dura-ace-2-9-r-54-CID767-ID15CrvP.html
 https://allegro.pl/oferta/rower-szosowy-pinarello-gan-disc-roz-56-ultegra-di2-17478776206
+# --- 2026-07-10 run (ninth) — No new matches found ---
+# Sites checked: SS.lv (403 direct/web search), SS.com (web search), OLX.pl (403 direct/web search), Allegro.pl (web search), AllegroLokalnie.pl (web search), Skelbiu.lt (web search), Autoplius.lt (no results), Osta.ee (no results), Okidoki.ee (no results), Andel.lv (no results), MM.lv (no results)
+# Via web search: all 7 required search terms in PL/LV/LT/EN across all platforms. 20+ web searches performed.
+# No new URLs found that have not already been evaluated. No candidate passed all filter criteria.
+# NOTE: Telegram blocked via egress proxy — api.telegram.org unreachable (403 Forbidden from proxy, persistent).
+# Seen list updated ✓.
