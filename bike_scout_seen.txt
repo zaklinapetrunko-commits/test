@@ -170,7 +170,7 @@ https://www.olx.pl/d/oferta/rower-tt-tri-triathlonowy-canyon-speedmax-cf7-di2-20
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bxegpi.html
 https://www.ss.com/msg/lv/transport/bycycles/highway-sports/oxgmb.html
 # --- 2026-07-09 run (eleventh) — No new matches found ---
-# Sites checked: SS.lv (403 direct), SS.com (403 direct), OLX.pl (403 direct), Allegro.pl (403 direct), AllegroLokalnie.pl (403 direct), Skelbiu.lt (403 direct), Autoplius.lt (no results), Osta.ee (no results), Okidoki.ee (no results), Andel.lv (no results)
+# Sites checked: SS.lv (403 direct/web search), SS.com (403 direct/web search), OLX.pl (403 direct/web search), Allegro.pl (403 direct/web search), AllegroLokalnie.pl (403 direct/web search), Skelbiu.lt (no results), Autoplius.lt (no results), Osta.ee (no results), Okidoki.ee (no results), Andel.lv (no results)
 # Via web search: all 7 required search terms in PL/LV/LT/EN across all platforms.
 # New listings evaluated but failed filter:
 # (1) OLX.pl IDVPS7G — Orbea Ordu M30i LTD Di2, Poznań, carbon triathlon, 105 Di2 — FAILS size (only XS/S-M/M-L available, max ~54cm, below 55cm minimum) ❌
@@ -505,3 +505,18 @@ https://allegrolokalnie.pl/oferta/bmc-timemachine-tmr02-carbon
 https://www.olx.pl/d/oferta/bmc-timemachine-02-rozmiar-s-CID767-IDQ6775.html
 https://allegrolokalnie.pl/oferta/ridley-dean-fast-r-s-triathlon-rower-czasowy-itt
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bokogf.html
+# --- 2026-07-10 run (thirteenth) — No new matches found ---
+# Sites checked: SS.lv (403 direct/web search), SS.com (web search), OLX.pl (403 direct/web search), Allegro.pl (web search), AllegroLokalnie.pl (web search), Skelbiu.lt (web search), Autoplius.lt (no results), Osta.ee (no results), Okidoki.ee (no results), Andel.lv (no results)
+# Via web search: all 7 required search terms in PL/LV/LT/EN across all platforms. 20+ web searches performed.
+# New URLs evaluated but failed filter:
+# (1) OLX IDGF638 — Felt B14 carbon triathlon, Szczecin, 5,300 PLN, size 56 — FAILS groupset (B14 standard = mechanical; "doinwestowany" but unverifiable, OLX 403) ❌
+# (2) SS.lv cdmgbk.html — Specialized S-Works full carbon szosejas, €1,360 — FAILS type (road bike, not TT/triathlon) ❌
+# (3) Allegro 17472696488 — Apex Skylar Carbon Ultegra, size 54 — FAILS size (54cm) and groupset (mechanical Ultegra) ❌
+# (4) AllegroLokalnie felt-ia-14-r54 — Felt IA 14, size 54 — FAILS size (54cm) ❌
+# All other results already in seen list. No new carbon TT/triathlon bike with Di2/SRAM Red, size L/56, under €8000 found.
+# NOTE: Telegram blocked via egress proxy — api.telegram.org unreachable from this environment (persistent).
+# Seen list updated ✓.
+https://www.olx.pl/oferta/rower-triathlonowy-felt-b14-rozmiar-56-z-rama-karbonowa-doinwestowany-CID767-IDGF638.html
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cdmgbk.html
+https://allegro.pl/oferta/rower-triathlonowy-apex-skylar-carbon-ultegra-roz-54-17472696488
+https://allegrolokalnie.pl/oferta/rower-triathlonowy-felt-ia-14-r54
