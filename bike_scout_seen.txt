@@ -467,3 +467,15 @@ https://allegro.pl/oferta/rower-szosowy-pinarello-gan-disc-roz-56-ultegra-di2-17
 # No new URLs found that have not already been evaluated. No candidate passed all filter criteria.
 # NOTE: Telegram blocked via egress proxy — api.telegram.org unreachable (403 Forbidden from proxy, persistent).
 # Seen list updated ✓.
+# --- 2026-07-10 run (tenth) — No new matches found ---
+# Sites checked: SS.lv (403 direct/web search), SS.com (web search), OLX.pl (403 direct/web search), Allegro.pl (web search), AllegroLokalnie.pl (web search), Skelbiu.lt (web search), Autoplius.lt (no results), Osta.ee (no results), Okidoki.ee (no results), Andel.lv (no results), MM.lv (no results)
+# Via web search: all 7 required search terms in PL/LV/LT/EN across all platforms. 14+ web searches performed.
+# New URLs evaluated but failed filter:
+# (1) SS.lv/SS.com ngjhe.html — €4,500, "Eagle 29x2.35''" — FAILS type (mountain bike, SRAM Eagle = MTB drivetrain, not TT/triathlon) ❌
+# (2) Skelbiu.lt 74457210 — Jensen Carbon K12, Lithuania — FAILS type (road bike geometry, not TT/triathlon), groupset (Shimano 105/Ultegra mechanical, not Di2/SRAM Red), size (54cm < 55cm minimum) ❌
+# All other results already in seen list. No new carbon TT/triathlon bike with Di2/SRAM Red, size L/56, under €8000 found.
+# NOTE: Telegram blocked via egress proxy — api.telegram.org unreachable from this environment (persistent).
+# Seen list updated ✓.
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/ngjhe.html
+https://www.ss.com/msg/lv/transport/bycycles/highway-sports/ngjhe.html
+https://www.skelbiu.lt/skelbimai/jensen-carbon-k12-triathlon-74457210.html
