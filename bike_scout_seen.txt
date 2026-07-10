@@ -239,8 +239,8 @@ https://www.ss.com/msg/lv/transport/bycycles/highway-sports/bjbixf.html
 https://www.ss.com/msg/lv/transport/bycycles/highway-sports/blpnnj.html
 https://www.ss.com/msg/lv/transport/bycycles/highway-sports/cefoji.html
 # --- 2026-07-09 run (sixteenth) — No new matches found ---
-# Sites checked: SS.lv (403 direct/web search), SS.com (web search), OLX.pl (403 direct/web search), Allegro.pl (web search), AllegroLokalnie.pl (web search), Skelbiu.lt (web search), Autoplius.lt (no results), Osta.ee (no results), Okidoki.ee (no results), Andel.lv (no results)
-# Via web search: all 7 required search terms in PL/LV/LT/EN across all platforms. 14 web searches performed.
+# Sites checked: SS.lv (403 direct/web search), SS.com (web search), OLX.pl (403 direct/web search), Allegro.pl (web search), AllegroLokalnie.pl (web search), Skelbiu.lt (web search), Autoplius.lt (no results), Osta.ee (no results), Okidoki.ee (no results), Andel.lv (no results), MM.lv (no results)
+# Via web search: all 7 required search terms in PL/LV/LT/EN across all platforms. 20+ web searches performed.
 # New URLs evaluated but failed filter:
 # (1) OLX.pl IDvJcRN — Massi Carbon TT/triathlon, SRAM Red 10-speed, Bydgoszcz — FAILS size (M-L ≈ 53cm, suited for 180cm rider, below 55cm minimum) ❌
 # (2) AllegroLokalnie rower-czasowy-fuji-norcom-straight-13-triathlon — Fuji Norcom Straight 1.3 Di2, Olkusz, 19,500 PLN — FAILS size (M/L = 53cm, below 55cm minimum) ❌
@@ -448,3 +448,16 @@ https://www.olx.pl/oferta/bmc-timemachine-02-triathlon-sram-red-etap-CID767-IDw0
 # No new URLs found that have not already been evaluated. No candidate passed all filter criteria.
 # NOTE: Telegram blocked via egress proxy — api.telegram.org unreachable from this environment (persistent).
 # Seen list updated ✓.
+# --- 2026-07-10 run (eighth) — No new matches found ---
+# Sites checked: SS.lv (403 direct/web search), SS.com (web search), OLX.pl (403 direct/web search), Allegro.pl (web search), AllegroLokalnie.pl (web search), Skelbiu.lt (web search), Autoplius.lt (no results), Osta.ee (no results), Okidoki.ee (no results), Andel.lv (no results), MM.lv (no results)
+# Via web search: all 7 required search terms in PL/LV/LT/EN across all platforms. 20+ web searches performed.
+# New URLs evaluated but failed filter:
+# (1) OLX ID15ZDeK — Isaac Joule-Aerotic r.55, Kraków, Dura Ace 2/9 (9-speed mechanical) — FAILS groupset (not Di2/SRAM Red) ❌
+# (2) OLX ID15CrvP — Isaac Joule-Aerotic r.54, Dura Ace 2/9 (9-speed mechanical) — FAILS size (54cm) and groupset ❌
+# (3) Allegro 17478776206 — Pinarello Gan Disc 56 Ultegra Di2 — FAILS type (road bike, szosowy) ❌
+# All other results already in seen list. No new carbon TT/triathlon bike with Di2/SRAM Red, size L/56, under €8000 found.
+# NOTE: Telegram blocked via egress proxy — api.telegram.org unreachable from this environment (persistent).
+# Seen list updated ✓.
+https://www.olx.pl/d/oferta/rower-szosowy-triathlonowy-isaac-joule-aerotic-dura-ace-2-9-r-55-CID767-ID15ZDeK.html
+https://www.olx.pl/d/oferta/rower-czasowy-isaac-joule-aerotic-dura-ace-2-9-r-54-CID767-ID15CrvP.html
+https://allegro.pl/oferta/rower-szosowy-pinarello-gan-disc-roz-56-ultegra-di2-17478776206
