@@ -1,4 +1,3 @@
-# Bike Scout seen list
 # --- 2026-06-19 run — No new matches found. Direct fetch: SS.lv 403, OLX.pl 403, Autoplius.lt 403, Osta.ee 403, Okidoki.ee 403, Andel.lv ECONNREFUSED, Allegro.pl 403. Via web search: found 3 candidate listings but none passed all filter criteria — (1) Guerciotti CRUX TT Carbon 56cm Poznań, Shimano 105 groupset (not Di2/SRAM Red); (2) Stevens Crono TT Carbon 56cm OLX.pl, groupset unconfirmable but historically non-Di2; (3) Felt DA1 Carbon Record 56 Allegro.pl, Campagnolo Record (not Di2/SRAM Red).
 # --- 2026-06-19 run (second) — 2 new listings passed filter ---
 https://www.olx.pl/d/oferta/rower-triathlonowy-quintana-roo-cd0-1-rozm-m-l-CID767-ID11qMeH.html
@@ -520,3 +519,15 @@ https://www.olx.pl/oferta/rower-triathlonowy-felt-b14-rozmiar-56-z-rama-karbonow
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cdmgbk.html
 https://allegro.pl/oferta/rower-triathlonowy-apex-skylar-carbon-ultegra-roz-54-17472696488
 https://allegrolokalnie.pl/oferta/rower-triathlonowy-felt-ia-14-r54
+
+# --- 2026-07-10 run (fourteenth) — No new matches found ---
+# Sites checked: SS.lv (403 direct/web search), SS.com (403 direct/web search), OLX.pl (403 direct/web search), Allegro.pl (web search), AllegroLokalnie.pl (web search), Skelbiu.lt (web search), Autoplius.lt (no results), Osta.ee (no results), Okidoki.ee (no results), Andel.lv (no results)
+# Via web search: all 7 required search terms in PL/LV/LT/EN across all platforms. 25+ web searches performed.
+# New URLs evaluated but failed filter:
+# (1) Skelbiu.lt 78359069 — BMC Timemachine 02 Three, Lithuania — FAILS groupset (Shimano 105 mechanical, entry-level build tier) ❌
+# (2) OLX ID19OjcI — Specialized Roubaix Comp Ultegra Di2, r.56, Opacz Mała — FAILS bike type (road endurance bike, not TT/triathlon) ❌
+# All other results already in seen list. No new carbon TT/triathlon bike with Di2/SRAM Red, size L/56, under €8000 found.
+# NOTE: Telegram blocked via egress proxy — api.telegram.org unreachable from this environment (persistent).
+# Seen list updated ✓.
+https://m.skelbiu.lt/skelbimai/bmc-timemachine-02-three-triatlono-dviratis-78359069.html
+https://www.olx.pl/d/oferta/specialized-roubaix-comp-ultegra-di2-carbon-r-56-CID767-ID19OjcI.html
