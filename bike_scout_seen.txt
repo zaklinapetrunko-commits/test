@@ -405,3 +405,9 @@ https://www.olx.pl/d/oferta/tt-canyon-speedmax-cf-m-di2-stages-powermeter-zipp-4
 https://www.olx.pl/d/oferta/factor-one-aero-rower-karbon-shimano-dura-ace-di2-56-CID767-ID17I8oR.html
 https://allegro.pl/oferta/rower-czasowy-triathlonowy-karbonowy-felt-b-12-56-cm-dura-ace-14729300234
 https://www.olx.pl/d/oferta/rower-czasowy-bmc-timemachine-02-ultegra-di2-dura-ace-CID767-ID11GcNq.html
+# --- 2026-07-10 run (third) — No new matches found ---
+# Sites checked: SS.lv (403 direct/web search), SS.com (403 direct/web search), OLX.pl (403 direct/web search), Allegro.pl (403 direct/web search), AllegroLokalnie.pl (403 direct/web search), Skelbiu.lt (web search), Autoplius.lt (no results), Osta.ee (403 direct/no results), Okidoki.ee (no results), Andel.lv (no results), MM.lv (no results)
+# Via web search: all 7 required search terms in PL/LV/LT/EN across all platforms. 20+ web searches performed.
+# No new URLs found that have not already been evaluated. No candidate passed all filter criteria.
+# NOTE: Telegram blocked via egress proxy — api.telegram.org unreachable from this environment (persistent).
+# Seen list updated ✓.
