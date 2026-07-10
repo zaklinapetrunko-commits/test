@@ -250,7 +250,7 @@ https://www.ss.com/msg/lv/transport/bycycles/highway-sports/cefoji.html
 # All other results already in seen list. No new carbon TT/triathlon bike with Di2/SRAM Red, size L/56, under €8000 found.
 # NOTE: Telegram blocked via egress proxy — api.telegram.org unreachable from this environment (persistent).
 # Seen list updated ✓.
-https://www.olx.pl/oferta/rower-czasowy-massi-rower-triathlonowy-carbon-CID767-IDvJcRN.html
+https://www.olx.pl/d/oferta/rower-czasowy-massi-rower-triathlonowy-carbon-CID767-IDvJcRN.html
 https://allegrolokalnie.pl/oferta/rower-czasowy-fuji-norcom-straight-13-triathlon
 https://www.olx.pl/d/oferta/rower-czasowy-tt-triathlonowy-cervelo-p5-six-CID767-ID15nHFl.html
 https://allegrolokalnie.pl/oferta/rower-triathlonowy-felt-da1-rozmiar-54
@@ -366,3 +366,28 @@ https://www.olx.pl/d/oferta/canyon-speedmax-cf-slx-ultegra-di2-rozm-m-ceramic-sp
 https://www.ss.com/msg/lv/transport/bycycles/highway-sports/bklped.html
 https://allegrolokalnie.pl/oferta/rower-czasowy-triathlon-karbon-orbea-ora-tt-ultegr
 https://allegro.pl/oferta/rower-szosowy-triathlonowy-tt-boarmdan-tte-shimano-ultegra-17412425497
+# --- 2026-07-10 run — No new matches found ---
+# Sites checked: SS.lv (403 direct/web search), SS.com (web search), OLX.pl (403 direct/web search), Allegro.pl (web search), AllegroLokalnie.pl (web search), Skelbiu.lt (web search), Autoplius.lt (no results), Osta.ee (no results), Okidoki.ee (no results), Andel.lv (no results)
+# Via web search: all 7 required search terms in PL/LV/LT/EN across all platforms. 20+ web searches performed.
+# New URLs evaluated but failed filter:
+# (1) SS.lv cdiihd.html — Giant Revolt Advanced 2, L, carbon, €1,450 — FAILS type (gravel, not TT/triathlon) ❌
+# (2) SS.com bolcif.html — Specialized Roubaix Ultegra, €1,000 — FAILS type (road endurance, not TT/triathlon) ❌
+# (3) SS.com gkgbh.html — Pinarello Nytro E7 Road Ultegra Di2, €7,200 — FAILS type (e-road, not TT/triathlon) ❌
+# (4) SS.com cehnhl.html — carbon road XL Ultegra, €700 — FAILS type (road, not TT/triathlon) ❌
+# (5) SS.com bdlmib.html — Wilier Izoard, Campagnolo, €600 — FAILS type (road) and groupset (Campagnolo, not Di2/SRAM Red) ❌
+# (6) OLX IDs01lx — Guerciotti CRUX TT, Poznań, aluminum+carbon fork, Shimano 105 — FAILS frame (aluminum, not full carbon) and groupset (mechanical 105) ❌
+# (7) OLX IDtfjeW — Argon 18 E-117, Poznań, Shimano 105 mechanical, size M — FAILS groupset (mechanical) and size (M < 55cm) ❌
+# (8) OLX ID19GoQJ — Guerciotti Crux TT, Oława — FAILS groupset (mechanical 105, same model family) ❌
+# (9) OLX ID15wDjd — Guerciotti Crux TT r56, Wrocław — FAILS groupset (mechanical 105, same model family) ❌
+# All other results already in seen list. No new carbon TT/triathlon bike with Di2/SRAM Red, size L/56, under €8000 found.
+# NOTE: Telegram blocked via egress proxy — api.telegram.org unreachable from this environment (persistent).
+# Seen list updated ✓.
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cdiihd.html
+https://www.ss.com/msg/lv/transport/bycycles/highway-sports/bolcif.html
+https://www.ss.com/msg/lv/transport/bycycles/highway-sports/gkgbh.html
+https://www.ss.com/msg/lv/transport/bycycles/highway-sports/cehnhl.html
+https://www.ss.com/msg/lv/transport/bycycles/highway-sports/bdlmib.html
+https://www.olx.pl/oferta/szosa-guerciotti-crux-tt-carbon-shimano-czasowy-triathlon-tri-CID767-IDs01lx.html
+https://www.olx.pl/oferta/szosa-argon-18-e-117-tri-carbon-shimano-triathlon-czasowy-3t-CID767-IDtfjeW.html
+https://www.olx.pl/d/oferta/rower-triathlonowy-guerciotti-crux-tt-CID767-ID19GoQJ.html
+https://www.olx.pl/d/oferta/rower-czasowy-triathlonowy-tt-guerciotti-crux-tt-r56-CID767-ID15wDjd.html
