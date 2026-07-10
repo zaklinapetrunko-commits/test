@@ -562,3 +562,16 @@ https://www.ss.com/msg/lv/transport/bycycles/highway-sports/cdpkml.html
 # No new carbon TT/triathlon bike with Di2/SRAM Red, size L/56, under €8000 found.
 # NOTE: Telegram blocked via egress proxy — api.telegram.org unreachable from this environment (persistent, 403 from proxy on all attempts).
 # Seen list updated ✓.
+# --- 2026-07-10 run (eighteenth) — No new matches found ---
+# Sites checked: SS.lv (403 direct/web search), SS.com (web search), OLX.pl (403 direct/web search), Allegro.pl (web search), AllegroLokalnie.pl (web search), Skelbiu.lt (web search), Autoplius.lt (no results), Osta.ee (no results), Okidoki.ee (no results), Andel.lv (no results), MM.lv (no results)
+# Via web search: all 7 required search terms in PL/LV/LT/EN across all platforms. 30+ web searches performed.
+# New URLs evaluated but failed filter:
+# (1) OLX ID156rdG — Orbea Ordu M30iLTD, Poznań Górczyn, 31,999 PLN (~€7,529), 105 Di2, carbon triathlon — FAILS size (ML size has seat tube ~48-50cm in TT convention; consistent with previous Orbea Ordu M30i LTD rejections for same sizing issue, max ML ~53cm effective seat tube < 55cm minimum) ❌
+# (2) AllegroLokalnie canyon-speedmax-cf7-rower-triathlon, Toruń — Canyon Speedmax CF7 Di2, size M — FAILS size (M < 55cm minimum) ❌
+# (3) OLX ID122R19 — Canyon Speedmax CF 8.0 Ultegra Di2, size M — FAILS size (M < 55cm minimum) ❌
+# All other results already in seen list. No new carbon TT/triathlon bike with Di2/SRAM Red, size L/56, under €8000 found.
+# NOTE: Telegram blocked via egress proxy — api.telegram.org unreachable from this environment (persistent, 403 from proxy on all attempts).
+# Seen list updated ✓.
+https://www.olx.pl/d/oferta/rower-orbea-ordu-m30iltd-triathlonowy-tri-w-100-gotowy-gratis-bezpl-CID767-ID156rdG.html
+https://allegrolokalnie.pl/oferta/canyon-speedmax-cf7-rower-triathlon
+https://www.olx.pl/d/oferta/canyon-speedmax-cf-8-0-ultegra-di2-rozmiar-m-CID767-ID122R19.html
