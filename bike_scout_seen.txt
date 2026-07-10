@@ -587,3 +587,14 @@ https://www.olx.pl/d/oferta/canyon-speedmax-cf-8-0-ultegra-di2-rozmiar-m-CID767-
 # Seen list updated ✓.
 https://www.olx.pl/d/oferta/specialized-transition-expert-rower-tt-czasowy-carbon-CID767-ID163ecZ.html
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bgfmcl.html
+# --- 2026-07-10 run (twentieth) — No new matches found ---
+# Sites checked: SS.lv (403 direct/web search), SS.com (403 direct/web search), OLX.pl (403 direct/web search), Allegro.pl (web search), AllegroLokalnie.pl (web search), Skelbiu.lt (web search), Autoplius.lt (no results), Osta.ee (no results), Okidoki.ee (no results), Andel.lv (no results)
+# Via web search: all 7 required search terms in PL/LV/LT/EN across all platforms. 24 web searches performed.
+# New URLs evaluated but failed filter:
+# (1) AllegroLokalnie fondriest-tf1 — Fondriest TF1 Carbon Ultegra, Italian triathlon/TT carbon, Shimano Ultegra, size 53cm — FAILS size (53cm < 55cm minimum) ❌
+# (2) SS.lv bxhibd.html — Cube Agree C:62 Pro 58cm, €3,500 — FAILS type (road/endurance bike, not TT/triathlon) and size (58cm > 57cm max) ❌
+# All other results already in seen list. No new carbon TT/triathlon bike with Di2/SRAM Red, size L/56, under €8000 found.
+# NOTE: Telegram blocked via egress proxy — api.telegram.org unreachable from this environment (persistent).
+# Seen list updated ✓.
+https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-fondriest-tf1-carbon-ultegra
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bxhibd.html
