@@ -140,8 +140,8 @@ https://allegrolokalnie.pl/oferta/rower-triathlonowy-felt-ia-2-0-expert-ultegra-
 https://allegrolokalnie.pl/oferta/rower-triathlonowy-felt-ia-2-0-expert-ultegra-di2-skorzew
 https://www.olx.pl/d/oferta/nowy-rower-triathlonowy-felt-ia-2-0-expert-ultegra-di2-12s-super-cena-CID767-ID18RPS3.html
 https://www.olx.pl/d/oferta/rower-orbea-ordu-m30iltd-triathlonowy-tri-w-100-gotowy-gratis-bezpl-CID767-ID156rdG.html
-https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cdpkon.html
-https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdffcn.html
+https://www.ss.lv/msg/lv/sport/bycycles/highway-sports/cdpkon.html
+https://www.ss.lv/msg/lv/sport/bycycles/highway-sports/bdffcn.html
 https://www.ss.com/msg/lv/transport/bycycles/highway-sports/cdpkon.html
 https://www.ss.com/msg/lv/transport/bycycles/highway-sports/bdffcn.html
 # --- Previous run notes ---
@@ -162,4 +162,20 @@ https://www.ss.com/msg/lv/transport/bycycles/highway-sports/bdfdlm.html
 #   Giant Trinity SRAM AXS Skelbiu.lt — already seen. 256 URLs in seen list.
 # Result: 0 new listings found matching all criteria (carbon + triathlon/TT + size L/56cm + Di2 or SRAM Red + under 8000 EUR)
 # NOTE: Telegram alerts not attempted (no new listings to report).
+# Seen list updated.
+
+# --- 2026-07-10 run (second) — No new matches found ---
+# Sites searched via web search: SS.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt
+# Direct fetch: All sites returned 403 (blocked). Web search used throughout.
+# Search terms: triathlon bike carbon, triatlona velosipēds, triatlono dviratis, triathlon rower, TT bike carbon, time trial bike Di2, time trial bike SRAM Red
+# Candidates evaluated (not previously in seen list):
+#   SS.lv bxegpi (Cervelo P2 Carbon TT, 1760 EUR) — size 48cm ❌ (min 55cm)
+#   SS.lv cdkxli (TT velo M/L 54cm, 480 EUR) — size 54cm ❌ (below 55cm min)
+#   SS.lv bkhelc (SRAM carbon Quarq power, S-M frame, 1550 EUR) — size S-M ❌
+#   SS.lv cdniki (Carbon 56(L), Shimano mechanical 179, 1500 EUR) — not Di2/SRAM Red ❌
+#   AllegroLokalnie Felt DA4 Ultegra Di2 (7999 PLN, Elblag) — size 54cm ❌ (below 55cm min)
+#   Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv — no matching listings found
+#   Skelbiu.lt — Orbea Ordu M-LTD (57954495) already in seen list; no new confirmed URLs matching all criteria
+# Result: 0 new listings found matching all criteria
+# NOTE: Telegram alerts not attempted (no new qualifying listings). api.telegram.org remains blocked by egress proxy.
 # Seen list updated.
