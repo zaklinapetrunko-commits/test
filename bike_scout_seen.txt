@@ -531,3 +531,16 @@ https://allegrolokalnie.pl/oferta/rower-triathlonowy-felt-ia-14-r54
 # Seen list updated ✓.
 https://m.skelbiu.lt/skelbimai/bmc-timemachine-02-three-triatlono-dviratis-78359069.html
 https://www.olx.pl/d/oferta/specialized-roubaix-comp-ultegra-di2-carbon-r-56-CID767-ID19OjcI.html
+# --- 2026-07-10 run (fifteenth) — No new matches found ---
+# Sites checked: SS.lv (403 direct/web search), SS.com (web search), OLX.pl (403 direct/web search), Allegro.pl (web search), AllegroLokalnie.pl (web search), Skelbiu.lt (web search), Autoplius.lt (no results), Osta.ee (no results), Okidoki.ee (no results), Andel.lv (no results)
+# Via web search: all 7 required search terms in PL/LV/LT/EN across all platforms. 20+ web searches performed.
+# New URLs evaluated but failed filter:
+# (1) SS.com binhop.html — "Pardodas šosejas trīs reizes lietots 178-188 pedāļiem. velosipēds," €2,500 — FAILS bike type (šosejas/road bike, not TT/triathlon), groupset unverifiable ❌
+# (2) SS.com bpdipb.html — Moozes Aero, carbon, "Shimano grupa," jauns, €850 — FAILS bike type (not labeled triatlona/TT) and groupset (mechanical Shimano at €850) ❌
+# (3) SS.com bolcnh.html — Ridley Liz carbon, "Shimano," €650 — FAILS bike type (Ridley Liz = women's road bike) and groupset (mechanical Shimano) ❌
+# All other results already in seen list. No new carbon TT/triathlon bike with Di2/SRAM Red, size L/56, under €8000 found.
+# NOTE: Telegram blocked via egress proxy — api.telegram.org unreachable from this environment (persistent, 403 from proxy on all attempts).
+# Seen list updated ✓.
+https://www.ss.com/msg/lv/transport/bycycles/highway-sports/binhop.html
+https://www.ss.com/msg/lv/transport/bycycles/highway-sports/bpdipb.html
+https://www.ss.com/msg/lv/transport/bycycles/highway-sports/bolcnh.html
