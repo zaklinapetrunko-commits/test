@@ -422,3 +422,14 @@ https://www.olx.pl/d/oferta/rower-czasowy-bmc-timemachine-02-ultegra-di2-dura-ac
 # Seen list updated ✓.
 https://www.olx.pl/d/oferta/rower-felt-fr-2-sram-red-pomiar-quarq-top-56cm-zamiana-CID767-IDKVyJC.html
 https://www.olx.pl/d/oferta/rower-cannondale-synapse-sram-red-axs-hydraulika-karbon-56cm-CID767-ID15DSdh.html
+# --- 2026-07-10 run (fifth) — No new matches found ---
+# Sites checked: SS.lv (403 direct/web search), SS.com (web search), OLX.pl (403 direct/web search), Allegro.pl (web search), AllegroLokalnie.pl (web search), Skelbiu.lt (web search), Autoplius.lt (no results), Osta.ee (no results), Okidoki.ee (no results), Andel.lv (no results), MM.lv (no results)
+# Via web search: all 7 required search terms in PL/LV/LT/EN across all platforms. 20+ web searches performed.
+# New URLs evaluated but failed filter:
+# (1) OLX ID14Tpku — Boardman TTE full carbon TT triathlon, OLX.pl — FAILS (size and groupset unverifiable, OLX 403) ❌
+# (2) Allegro i7672847526 — Di2 Shimano Ultegra demo/test carbon 56cm L — FAILS bike type (road bike demo, not TT/triathlon, type unconfirmable) ❌
+# All other results already in seen list. No new carbon TT/triathlon bike with Di2/SRAM Red, size L/56, under €8000 found.
+# NOTE: Telegram blocked via egress proxy — api.telegram.org unreachable from this environment (persistent).
+# Seen list updated ✓.
+https://www.olx.pl/d/oferta/rower-szosowy-triathlon-tt-boardman-tte-full-carbon-CID767-ID14Tpku.html
+https://allegro.pl/di2-shimano-ultegra-demo-bike-56-carbon-testowy-l-i7672847526.html
