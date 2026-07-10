@@ -433,3 +433,12 @@ https://www.olx.pl/d/oferta/rower-cannondale-synapse-sram-red-axs-hydraulika-kar
 # Seen list updated ✓.
 https://www.olx.pl/d/oferta/rower-szosowy-triathlon-tt-boardman-tte-full-carbon-CID767-ID14Tpku.html
 https://allegro.pl/di2-shimano-ultegra-demo-bike-56-carbon-testowy-l-i7672847526.html
+# --- 2026-07-10 run (sixth) — No new matches found ---
+# Sites checked: SS.lv (403 direct/web search), SS.com (web search), OLX.pl (403 direct/web search), Allegro.pl (web search), AllegroLokalnie.pl (web search), Skelbiu.lt (web search), Autoplius.lt (no results), Osta.ee (no results), Okidoki.ee (no results), Andel.lv (no results), MM.lv (no results)
+# Via web search: all 7 required search terms in PL/LV/LT/EN across all platforms. 14+ web searches performed.
+# New URLs evaluated but failed filter:
+# (1) OLX IDw0rzr — BMC Timemachine 02, SRAM Red Etap, TM02 frame (typical ~51-54cm) — FAILS size (TM02 max ~54cm, below 55cm minimum) ❌
+# All other results already in seen list. No new carbon TT/triathlon bike with Di2/SRAM Red, size L/56, under €8000 found.
+# NOTE: Telegram blocked via egress proxy — api.telegram.org unreachable from this environment (persistent, curl exit 56).
+# Seen list updated ✓.
+https://www.olx.pl/oferta/bmc-timemachine-02-triathlon-sram-red-etap-CID767-IDw0rzr.html
