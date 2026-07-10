@@ -391,3 +391,17 @@ https://www.olx.pl/oferta/szosa-guerciotti-crux-tt-carbon-shimano-czasowy-triath
 https://www.olx.pl/oferta/szosa-argon-18-e-117-tri-carbon-shimano-triathlon-czasowy-3t-CID767-IDtfjeW.html
 https://www.olx.pl/d/oferta/rower-triathlonowy-guerciotti-crux-tt-CID767-ID19GoQJ.html
 https://www.olx.pl/d/oferta/rower-czasowy-triathlonowy-tt-guerciotti-crux-tt-r56-CID767-ID15wDjd.html
+# --- 2026-07-10 run (second) — No new matches found ---
+# Sites checked: SS.lv (403 direct/web search), SS.com (403 direct/web search), OLX.pl (403 direct/web search), Allegro.pl (403 direct/web search), AllegroLokalnie.pl (403 direct/web search), Skelbiu.lt (web search), Autoplius.lt (no results), Osta.ee (403 direct/no results), Okidoki.ee (403 direct/no results), Andel.lv (no results), MM.lv (no results)
+# Via web search: all 7 required search terms in PL/LV/LT/EN across all platforms. 20+ web searches performed.
+# New URLs evaluated but failed filter:
+# (1) OLX ID11GnQb — Canyon Speedmax CF (M) Di2 + Stages power meter + Zipp 404 NSW, Kraków — FAILS size (M ≈ 52-54cm, below 55cm minimum) ❌
+# (2) OLX ID17I8oR — Factor ONE Aero Carbon Dura-Ace Di2 56cm, Lesko, 18,100 PLN — FAILS bike type (aero road race bike, not TT/triathlon) ❌
+# (3) Allegro 14729300234 — Felt B12 56cm "Dura-Ace", triathlon — FAILS groupset (Dura-Ace without Di2 notation = mechanical Dura-Ace) ❌
+# (4) OLX ID11GcNq — BMC Timemachine 02 Ultegra Di2 Dura-Ace, Wrocław Fabryczna, 7,999 PLN — FAILS: size unverifiable (OLX 403 direct, no size in title) ❌
+# NOTE: Telegram blocked via egress proxy — api.telegram.org unreachable from this environment (persistent).
+# Seen list updated ✓.
+https://www.olx.pl/d/oferta/tt-canyon-speedmax-cf-m-di2-stages-powermeter-zipp-404-nsw-CID767-ID11GnQb.html
+https://www.olx.pl/d/oferta/factor-one-aero-rower-karbon-shimano-dura-ace-di2-56-CID767-ID17I8oR.html
+https://allegro.pl/oferta/rower-czasowy-triathlonowy-karbonowy-felt-b-12-56-cm-dura-ace-14729300234
+https://www.olx.pl/d/oferta/rower-czasowy-bmc-timemachine-02-ultegra-di2-dura-ace-CID767-ID11GcNq.html
