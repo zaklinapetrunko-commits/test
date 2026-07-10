@@ -442,3 +442,9 @@ https://allegro.pl/di2-shimano-ultegra-demo-bike-56-carbon-testowy-l-i7672847526
 # NOTE: Telegram blocked via egress proxy — api.telegram.org unreachable from this environment (persistent, curl exit 56).
 # Seen list updated ✓.
 https://www.olx.pl/oferta/bmc-timemachine-02-triathlon-sram-red-etap-CID767-IDw0rzr.html
+# --- 2026-07-10 run (seventh) — No new matches found ---
+# Sites checked: SS.lv (403 direct/web search), SS.com (web search), OLX.pl (403 direct/web search), Allegro.pl (web search), AllegroLokalnie.pl (web search), Skelbiu.lt (web search), Autoplius.lt (no results), Osta.ee (no results), Okidoki.ee (no results), Andel.lv (no results), MM.lv (no results)
+# Via web search: all 7 required search terms in PL/LV/LT/EN across all platforms. 14+ web searches performed.
+# No new URLs found that have not already been evaluated. No candidate passed all filter criteria.
+# NOTE: Telegram blocked via egress proxy — api.telegram.org unreachable from this environment (persistent).
+# Seen list updated ✓.
