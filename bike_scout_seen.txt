@@ -180,7 +180,7 @@ https://www.ss.com/msg/lv/transport/bycycles/highway-sports/oxgmb.html
 # NOTE: Telegram blocked via egress proxy — api.telegram.org unreachable from this environment (persistent).
 # Seen list updated ✓.
 # --- 2026-07-09 run (twelfth) — No new matches found ---
-# Sites checked: SS.lv (403 direct), SS.com (web search), OLX.pl (403 direct), Allegro.pl (web search), AllegroLokalnie.pl (403 direct/web search), Skelbiu.lt (403 direct/web search), Autoplius.lt (no results), Osta.ee (no results), Okidoki.ee (no results), Andel.lv (no results)
+# Sites checked: SS.lv (403 direct/web search), SS.com (web search), OLX.pl (403 direct/web search), Allegro.pl (web search), AllegroLokalnie.pl (403 direct/web search), Skelbiu.lt (web search), Autoplius.lt (no results), Osta.ee (no results), Okidoki.ee (no results), Andel.lv (no results)
 # Via web search: all 7 required search terms in PL/LV/LT/EN across all platforms. 14 web searches performed.
 # No new URLs found that have not already been evaluated. No candidate passed all filter criteria.
 # NOTE: Telegram blocked via egress proxy — api.telegram.org unreachable from this environment (persistent).
@@ -439,7 +439,7 @@ https://allegro.pl/di2-shimano-ultegra-demo-bike-56-carbon-testowy-l-i7672847526
 # New URLs evaluated but failed filter:
 # (1) OLX IDw0rzr — BMC Timemachine 02, SRAM Red Etap, TM02 frame (typical ~51-54cm) — FAILS size (TM02 max ~54cm, below 55cm minimum) ❌
 # All other results already in seen list. No new carbon TT/triathlon bike with Di2/SRAM Red, size L/56, under €8000 found.
-# NOTE: Telegram blocked via egress proxy — api.telegram.org unreachable from this environment (persistent, curl exit 56).
+# NOTE: Telegram blocked via egress proxy — api.telegram.org unreachable (persistent, curl exit 56).
 # Seen list updated ✓.
 https://www.olx.pl/oferta/bmc-timemachine-02-triathlon-sram-red-etap-CID767-IDw0rzr.html
 # --- 2026-07-10 run (seventh) — No new matches found ---
@@ -449,7 +449,7 @@ https://www.olx.pl/oferta/bmc-timemachine-02-triathlon-sram-red-etap-CID767-IDw0
 # NOTE: Telegram blocked via egress proxy — api.telegram.org unreachable from this environment (persistent).
 # Seen list updated ✓.
 # --- 2026-07-10 run (eighth) — No new matches found ---
-# Sites checked: SS.lv (403 direct/web search), SS.com (web search), OLX.pl (403 direct/web search), Allegro.pl (web search), AllegroLokalnie.pl (web search), Skelbiu.lt (web search), Autoplius.lt (no results), Osta.ee (no results), Okidoki.ee (no results), Andel.lv (no results), MM.lv (no results)
+# Sites checked: SS.lv (403 direct/web search), SS.com (403 direct/web search), OLX.pl (403 direct/web search), Allegro.pl (web search), AllegroLokalnie.pl (web search), Skelbiu.lt (web search), Autoplius.lt (no results), Osta.ee (no results), Okidoki.ee (no results), Andel.lv (no results), MM.lv (no results)
 # Via web search: all 7 required search terms in PL/LV/LT/EN across all platforms. 20+ web searches performed.
 # New URLs evaluated but failed filter:
 # (1) OLX ID15ZDeK — Isaac Joule-Aerotic r.55, Kraków, Dura Ace 2/9 (9-speed mechanical) — FAILS groupset (not Di2/SRAM Red) ❌
@@ -479,3 +479,9 @@ https://allegro.pl/oferta/rower-szosowy-pinarello-gan-disc-roz-56-ultegra-di2-17
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/ngjhe.html
 https://www.ss.com/msg/lv/transport/bycycles/highway-sports/ngjhe.html
 https://www.skelbiu.lt/skelbimai/jensen-carbon-k12-triathlon-74457210.html
+# --- 2026-07-10 run (eleventh) — No new matches found ---
+# Sites checked: SS.lv (403 direct/web search), SS.com (403 direct/web search), OLX.pl (403 direct/web search), Allegro.pl (web search), AllegroLokalnie.pl (web search), Skelbiu.lt (web search), Autoplius.lt (no results), Osta.ee (no results), Okidoki.ee (no results), Andel.lv (no results), MM.lv (no results)
+# Via web search: all 7 required search terms in PL/LV/LT/EN across all platforms. 20+ web searches performed.
+# No new URLs found that have not already been evaluated. No candidate passed all filter criteria.
+# NOTE: Telegram blocked via egress proxy — api.telegram.org unreachable from this environment (persistent).
+# Seen list updated ✓.
