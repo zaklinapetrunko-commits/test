@@ -485,3 +485,23 @@ https://www.skelbiu.lt/skelbimai/jensen-carbon-k12-triathlon-74457210.html
 # No new URLs found that have not already been evaluated. No candidate passed all filter criteria.
 # NOTE: Telegram blocked via egress proxy — api.telegram.org unreachable from this environment (persistent).
 # Seen list updated ✓.
+# --- 2026-07-10 run (twelfth) — No new matches found ---
+# Sites checked: SS.lv (403 direct/web search), SS.com (403 direct/web search), OLX.pl (403 direct/web search), Allegro.pl (web search), AllegroLokalnie.pl (403 direct/web search), Skelbiu.lt (web search), Autoplius.lt (no results), Osta.ee (no results), Okidoki.ee (no results), Andel.lv (no results)
+# Via web search: all 7 required search terms in PL/LV/LT/EN across all platforms. 25+ web searches performed.
+# New URLs evaluated but failed filter:
+# (1) OLX IDWOwY6 — Trek Speed Concept Di2 M, Warszawa Włochy, carbon — FAILS size (M ≈ 52-54cm, below 55cm minimum) ❌
+# (2) OLX IDWUsjw — Trek Speed Concept M, Warszawa Włochy, carbon — FAILS size (M, below 55cm minimum) ❌
+# (3) AllegroLokalnie bmc-timemachine-tmr02-carbon — BMC Timemachine TMR02, Modlniczka, 5,100 PLN — FAILS groupset (mechanical Ultegra) and size (TMR02 max 54cm) ❌
+# (4) OLX IDQ6775 — BMC Timemachine 02, Katowice, size S — FAILS size (S < 55cm minimum) ❌
+# (5) AllegroLokalnie ridley-dean-fast-r-s-triathlon-rower-czasowy-itt — Ridley Dean Fast, Głogów, size S — FAILS size (S < 55cm minimum) ❌
+# (6) SS.lv bokogf.html — Merida Mission 6000, Karbona gravelis, SRAM, €1,500 — FAILS type (gravel bike, not TT/triathlon) ❌
+# Argon 18 E80 (CreatoBike OLX Łódź, April 2026) — FAILS frame (aluminum, not carbon) ❌
+# All other results already in seen list. No new carbon TT/triathlon bike with Di2/SRAM Red, size L/56, under €8000 found.
+# NOTE: Telegram blocked via egress proxy — api.telegram.org unreachable from this environment (persistent).
+# Seen list updated ✓.
+https://www.olx.pl/d/oferta/trek-speed-concept-di2-m-triathlon-rower-triathlonowy-szosa-CID767-IDWOwY6.html
+https://www.olx.pl/d/oferta/trek-speed-concept-m-triathlon-rower-triathlonowy-szosowy-karbon-CID767-IDWUsjw.html
+https://allegrolokalnie.pl/oferta/bmc-timemachine-tmr02-carbon
+https://www.olx.pl/d/oferta/bmc-timemachine-02-rozmiar-s-CID767-IDQ6775.html
+https://allegrolokalnie.pl/oferta/ridley-dean-fast-r-s-triathlon-rower-czasowy-itt
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bokogf.html
