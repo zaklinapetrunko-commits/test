@@ -544,3 +544,14 @@ https://www.olx.pl/d/oferta/specialized-roubaix-comp-ultegra-di2-carbon-r-56-CID
 https://www.ss.com/msg/lv/transport/bycycles/highway-sports/binhop.html
 https://www.ss.com/msg/lv/transport/bycycles/highway-sports/bpdipb.html
 https://www.ss.com/msg/lv/transport/bycycles/highway-sports/bolcnh.html
+# --- 2026-07-10 run (sixteenth) — No new matches found ---
+# Sites checked: SS.lv (403 direct/web search), SS.com (web search), OLX.pl (403 direct/web search), Allegro.pl (web search), AllegroLokalnie.pl (web search), Skelbiu.lt (web search), Autoplius.lt (no results), Osta.ee (no results), Okidoki.ee (no results), Andel.lv (no results), MM.lv (no results)
+# Via web search: all 7 required search terms in PL/LV/LT/EN across all platforms. 20+ web searches performed.
+# New URLs evaluated but failed filter:
+# (1) OLX IDRrpuj — Fuji Aloha 1.0 triathlon, r56, SRAM/Shimano mixed — FAILS frame (aluminum, not full carbon) and groupset (mechanical, not Di2/SRAM Red) ❌
+# (2) SS.com cdpkml.html — Cervelo R3 carbon road, €750 — FAILS type (road bike, not TT/triathlon) ❌
+# All other results already in seen list. No new carbon TT/triathlon bike with Di2/SRAM Red, size L/56, under €8000 found.
+# NOTE: Telegram blocked via egress proxy — api.telegram.org unreachable from this environment (persistent, 403 from proxy on all attempts).
+# Seen list updated ✓.
+https://www.olx.pl/d/oferta/rower-czasowy-triathlon-fuji-aloha-1-0-sram-shimano-r56-CID767-IDRrpuj.html
+https://www.ss.com/msg/lv/transport/bycycles/highway-sports/cdpkml.html
