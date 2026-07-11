@@ -525,3 +525,23 @@ https://www.ss.com/msg/lv/transport/bycycles/highway-sports/bilgdm.html
 # Matched filter: 0. New: 0. Telegram: not sent (no qualifying listings).
 # NOTE: api.telegram.org remains blocked by egress proxy (persistent).
 # Seen list updated ✓.
+
+# --- 2026-07-11 run (twenty-second) — No new matches found ---
+# Sites searched: SS.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt
+# Direct fetch: All sites 403. Web search used throughout (~22 search queries).
+# Search terms: triatlana velosipēds karbon Di2 SRAM ss.lv jūlijs 2026, rower triathlonowy carbon Di2 SRAM Red 56cm L olx.pl lipiec 2026, rower triathlonowy carbon Di2 SRAM Red 56 L allegrolokalnie nowe 2026, rower triathlonowy TT carbon Di2 SRAM Red 56 L allegro.pl nowe 2026, triatlono dviratis karbon Di2 SRAM Red L 56 autoplius skelbiu 2026, triathlon bike carbon Di2 SRAM Red L 56 osta.ee okidoki.ee, Canyon Speedmax Cervelo P5 Orbea Ordu BMC Timemachine Scott Plasma Trek Speed Concept carbon L 56 Di2 SRAM Red sprzedam nowe 2026
+# Candidates evaluated (not previously in seen list):
+#   OLX.pl IDAWyFh (Orbea Ordu TT Carbon Ultegra, size L) — mechanical Ultegra groupset (no Di2), fails groupset filter ❌
+#   SS.lv bpdxkk (Liv Langma by Giant carbon Di2, €900) — women's road race bike, NOT TT/triathlon ❌
+#   SS.lv biepfc (road bike carbon, €550) — šosejas velosipēds (road bicycle), NOT TT/triathlon ❌
+#   AllegroLokalnie Canyon Speedmax AL (aluminum frame, size S) — aluminum + wrong size ❌
+#   Skelbiu.lt — only 57954495 (Orbea Ordu M-LTD, already seen); no new qualifying URLs
+#   Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv — no qualifying listings found
+# Scanned: ~9 sites. Matched filter: 0. New: 0. Telegram: not sent. api.telegram.org blocked (persistent).
+# Seen list updated ✓.
+https://www.olx.pl/d/oferta/rower-triathlon-tt-orbea-ordu-carbon-ultegra-rozmiar-l-CID767-IDAWyFh.html
+https://www.ss.lv/msg/lv/sport/bycycles/highway-sports/bpdxkk.html
+https://www.ss.com/msg/lv/transport/bycycles/highway-sports/bpdxkk.html
+https://www.ss.lv/msg/lv/sport/bycycles/highway-sports/biepfc.html
+https://www.ss.com/msg/lv/transport/bycycles/highway-sports/biepfc.html
+https://allegrolokalnie.pl/oferta/rower-triathlonowy-canyon-speedmax-al-rama-s
