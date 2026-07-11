@@ -241,3 +241,18 @@ https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdlgbg.html
 # Seen list updated ✓.
 https://www.ss.com/msg/lv/transport/bycycles/highway-sports/oxgmb.html
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/oxgmb.html
+
+# --- 2026-07-11 run (fourth) — No new matches found ---
+# Sites searched via web search: SS.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt
+# Direct fetch: All sites returned 403 (blocked). Web search used throughout.
+# Search terms: triathlon bike carbon Di2 SRAM, rower triathlonowy carbon Di2, triatlona velosipēds karbon Di2, triatlono dviratis carbon Di2, triathlon bike carbon SRAM Red L 56 Poland Latvia Lithuania
+# Candidates evaluated (not previously in seen list):
+#   SS.lv bxhhel (Canyon Speedmax CF 8.0, €2,890, Latvia) — size M ❌ (requires L/55-57cm)
+#   OLX.pl CreatoBike ARGON 18 E80 (4,299 PLN, Łódź, April 2026) — aluminum frame ❌ (E-80 is alloy, not carbon)
+#   Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv — no qualifying listings found
+#   All AllegroLokalnie/Allegro.pl/Skelbiu.lt results: already in seen list or category pages only
+# Result: 0 new listings found matching all criteria
+# NOTE: Telegram alerts not attempted (no qualifying listings). api.telegram.org remains blocked by egress proxy (persistent).
+# Seen list updated ✓.
+https://www.ss.lv/msg/lv/sport/bycycles/highway-sports/bxhhel.html
+https://www.ss.com/msg/lv/transport/bycycles/highway-sports/bxhhel.html
