@@ -472,9 +472,9 @@ https://www.olx.pl/d/oferta/tt-triathlon-sram-red-axs-12-sr-m-CID767-IDSsUsR.htm
 # --- 2026-07-11 run (eighteenth) — No new matches found ---
 # Sites searched via web search: SS.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt
 # Direct fetch: All sites returned 403 (blocked). Web search used throughout.
-# Search terms: site:ss.lv triatlana velosipēds karbons Di2 SRAM Red L 56 2026, site:olx.pl rower triathlonowy carbon Di2 SRAM Red 56cm L lipiec 2026, site:allegrolokalnie.pl rower triathlonowy carbon Di2 SRAM Red 56 L 2026, site:allegro.pl rower triathlonowy TT carbon Di2 SRAM Red 56 L nowe 2026, site:skelbiu.lt triatlono dviratis carbon Di2 SRAM Red L 56 2026, site:autoplius.lt triatlono dviratis karbon Di2 SRAM Red 2026, Canyon Speedmax Cervelo P5 BMC Timemachine Scott Plasma carbon Di2 SRAM Red 56 L sprzedam nowe lipiec 2026, Orbea Ordu Trek Speed Concept Felt IA carbon L 56 Di2 SRAM Red sprzedam 2026, triathlon TT bike carbon Di2 SRAM Red L 56 Baltic Latvia Lithuania Estonia 2026, allegrolokalnie rower triathlon TT karbon carbon SRAM Red Di2 56 L nowe lipiec 2026
+# Search terms: site:ss.lv triatlana velosipēds karbons Di2 SRAM Red L 56 2026, site:olx.pl rower triathlonowy carbon Di2 SRAM Red 56cm L lipiec 2026, site:allegrolokalnie.pl rower triathlonowy carbon Di2 SRAM Red 56 L 2026, site:allegro.pl rower triathlonowy TT carbon Di2 SRAM Red 56 L nowe 2026, site:skelbiu.lt triatlono dviratis carbon Di2 SRAM Red L 56 2026, site:autoplius.lt triatlono dviratis karbon Di2 SRAM Red 2026, Canyon Speedmax Cervelo P5 Orbea Ordu BMC Timemachine Scott Plasma carbon Di2 SRAM Red 56 L sprzedam nowe lipiec 2026, Orbea Ordu Trek Speed Concept Felt IA carbon L 56 Di2 SRAM Red sprzedam 2026, triathlon TT bike carbon Di2 SRAM Red L 56 Baltic Latvia Lithuania Estonia 2026, allegrolokalnie rower triathlon TT karbon carbon SRAM Red Di2 56 L nowe lipiec 2026
 # Candidates evaluated (not previously in seen list):
-#   AllegroLokalnie Orbea Ora TT Carbon Wrocław (rower-czasowy-triathlon-karbon-orbea-ora-tt-ultegr) — mechanical Ultegra 10-speed groupset, size ~53-54cm ❌ (fails groupset and size criteria)
+#   AllegroLokalnie Orbea Ora TT Carbon Wrocław (rower-czasowy-triathlon-karbon-orbea-ora-tt-ultegr) — mechanical Ultegra 10-speed groupset, size ~53-54cm ❌ (fails both groupset and size criteria)
 #   All other results: already in seen list or category pages only
 # Scanned: SS.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt (~22 search queries).
 # Matched filter: 0. New: 0. Telegram: not sent (no qualifying listings).
@@ -545,3 +545,17 @@ https://www.ss.com/msg/lv/transport/bycycles/highway-sports/bpdxkk.html
 https://www.ss.lv/msg/lv/sport/bycycles/highway-sports/biepfc.html
 https://www.ss.com/msg/lv/transport/bycycles/highway-sports/biepfc.html
 https://allegrolokalnie.pl/oferta/rower-triathlonowy-canyon-speedmax-al-rama-s
+
+# --- 2026-07-11 run (twenty-third) — 1 NEW MATCH FOUND ---
+# Sites searched via web search: SS.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt
+# Direct fetch: All sites returned 403 (blocked). Web search used throughout.
+# Search terms: triathlon bike carbon Di2 SRAM Red L 56, rower triathlonowy TT carbon Di2 SRAM Red 56 L, triatlana velosipēds karbon Di2 SRAM Red, triatlono dviratis carbon Di2 SRAM Red L 56
+# NEW MATCH — passes all filters:
+#   OLX.pl ID10QusN: Pinarello Bolide TT, Rower czasowy triathlonowy, Rama L, Warszawa Bielany
+#   Frame: Carbon (Pinarello Bolide TT) ✓ | Type: TT/triathlon ✓ | Size: L ✓
+#   Groupset: SRAM Red eTap AXS 1x12 ✓ | Price: 23,900 PLN (~€5,596) ✓ (under €8,000)
+#   ⭐ Power meter: dual-sided power measurement included
+# NOTE: Telegram alerts BLOCKED — api.telegram.org not in network egress allowlist (exit 56, persistent).
+#       MANUAL REVIEW NEEDED — check OLX listing and contact seller directly.
+# Seen list updated ✓.
+https://www.olx.pl/d/oferta/pinarello-bolide-tt-rower-czasowy-triathlonowy-rama-l-CID767-ID10QusN.html
