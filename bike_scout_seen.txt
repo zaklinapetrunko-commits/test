@@ -515,3 +515,13 @@ https://www.ss.com/msg/lv/transport/bycycles/highway-sports/bilgdm.html
 # Matched filter: 0. New: 0. Telegram: not sent (no qualifying listings).
 # NOTE: api.telegram.org remains blocked by egress proxy (persistent).
 # Seen list updated ✓.
+
+# --- 2026-07-11 run (twenty-first) — No new matches found ---
+# Sites searched via web search: SS.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt
+# Direct fetch: All sites returned 403 (blocked). Web search used throughout.
+# Search terms: rower triathlonowy carbon Di2 SRAM Red 56 L allegrolokalnie 2026, rower czasowy TT carbon Di2 SRAM Red 56cm L olx.pl lipiec 2026, triatlana velosipēds karbon Di2 SRAM Red ss.lv 2026, triatlono dviratis karbon Di2 SRAM Red L 56 autoplius skelbiu 2026, triathlon TT carbon Di2 SRAM Red L 56 osta.ee okidoki.ee 2026, Canyon Speedmax Cervelo P5 BMC Timemachine carbon SRAM Red AXS Di2 56 L sprzedam nowe allegrolokalnie olx lipiec 2026, Specialized Shiv S-Works Scott Plasma Orbea Ordu carbon Di2 SRAM Red 56 L Poland Baltic sprzedam 2026, rower triathlonowy TT carbon Di2 SRAM Red rozmiar 56 L sprzedam 2026 lipiec allegro olx nowe
+# Candidates evaluated (not previously in seen list): None — all search results returned category pages or already-seen listings.
+# Scanned: SS.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt (~8 search queries).
+# Matched filter: 0. New: 0. Telegram: not sent (no qualifying listings).
+# NOTE: api.telegram.org remains blocked by egress proxy (persistent).
+# Seen list updated ✓.
