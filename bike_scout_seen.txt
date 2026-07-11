@@ -224,7 +224,7 @@ https://www.olx.pl/d/oferta/rama-rowerowa-triathlon-fuji-norcom-straight-1-1-roz
 # Scanned: ~15 search result pages across all sites. Matched filter: 0. New: 0.
 # NOTE: Telegram alerts not attempted (no qualifying listings). api.telegram.org remains blocked by egress proxy (persistent).
 # Seen list updated ✓.
-https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdlgbg.html
+https://www.ss.lv/msg/lv/sport/bycycles/highway-sports/bdlgbg.html
 
 # --- 2026-07-11 run (third) — No new matches found ---
 # Sites searched via web search: SS.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt
@@ -310,3 +310,18 @@ https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cdkhdh.html
 # NOTE: Telegram alerts not attempted (no qualifying listings). api.telegram.org remains blocked by egress proxy (persistent).
 # Seen list updated ✓.
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bpdhxh.html
+
+# --- 2026-07-11 run (eighth) — No new matches found ---
+# Sites searched via web search: SS.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt
+# Direct fetch: All sites returned 403 (blocked). Web search used throughout.
+# Search terms: triathlon bike carbon Di2 SRAM Red size L 56cm site:ss.lv/olx.pl/allegro.pl, rower triathlonowy karbonowy Di2 SRAM Red 56cm L sprzedam 2026, triatlona velosipēds karbon Di2 SRAM L ss.lv 2026, triatlono dviratis carbon Di2 SRAM Red L 56 autoplius skelbiu 2026, TT bike carbon Di2 SRAM Red size L 56 osta.ee okidoki.ee 2026, rower triathlonowy TT karbon Di2 SRAM Red 56 L sprzedam lipiec 2026 nowe ogłoszenie, BMC Timemachine triathlon carbon Di2 SRAM Red L 56 olx allegro 2026
+# Candidates evaluated (not previously in seen list):
+#   OLX.pl IDw0rzr (BMC Timemachine 02, SRAM Red Etap, Warszawa Białołęka, 12,999 PLN) — size MS ❌ (not L/55-57cm)
+#   Allegro.pl 15713862858 (Planet X Stealth TT Carbon Triathlon) — mechanical SRAM groupset, old listing, NOT Di2/SRAM Red eTap ❌
+#   Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv — no qualifying listings found
+#   All other results: already in seen list or category/archive pages only
+# Result: 0 new listings found matching all criteria
+# NOTE: Telegram alerts not attempted (no qualifying listings). api.telegram.org remains blocked by egress proxy (persistent).
+# Seen list updated ✓.
+https://www.olx.pl/oferta/bmc-timemachine-02-triathlon-sram-red-etap-CID767-IDw0rzr.html
+https://allegro.pl/oferta/rower-planet-x-stealth-tt-carbon-triathlon-15713862858
