@@ -177,7 +177,7 @@ https://www.ss.com/msg/lv/transport/bycycles/highway-sports/bdfdlm.html
 #   Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv — no matching listings found
 #   Skelbiu.lt — Orbea Ordu M-LTD (57954495) already in seen list; no new confirmed URLs matching all criteria
 # Result: 0 new listings found matching all criteria
-# NOTE: Telegram alerts not attempted (no new qualifying listings). api.telegram.org remains blocked by egress proxy.
+# NOTE: Telegram alerts not attempted (no qualifying listings). api.telegram.org remains blocked by egress proxy.
 # Seen list updated.
 
 # --- 2026-07-11 run — No new matches found ---
@@ -256,3 +256,27 @@ https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/oxgmb.html
 # Seen list updated ✓.
 https://www.ss.lv/msg/lv/sport/bycycles/highway-sports/bxhhel.html
 https://www.ss.com/msg/lv/transport/bycycles/highway-sports/bxhhel.html
+
+# --- 2026-07-11 run (fifth) — No new matches found ---
+# Sites searched via web search: SS.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt, Biklo.lv
+# Direct fetch: All sites returned 403 (blocked). Web search used throughout.
+# Search terms: triathlon bike carbon Di2 SRAM Red, rower triathlonowy carbon Di2 SRAM Red 56 L, triatlona velosipēds karbon Di2, triatlono dviratis carbon Di2 L, TT bike carbon SRAM Red size L 56 Baltic Poland Latvia Lithuania
+# Candidates evaluated (not previously in seen list):
+#   SS.lv cendeb (Felt B14 karbona triatlona ritenis, €950) — mechanical Dura Ace 9K/microSHIFT groupset, NOT Di2/SRAM Red ❌
+#   OLX.pl ID12w0Xx (Felt B12 56cm, Dura Ace, Poznań, ~6389 PLN ~€1476) — mechanical Dura Ace 9K groupset, NOT Di2/SRAM Red ❌
+#   Allegro.pl 14729300234 (Felt B12 56cm, Dura Ace, ~5111 PLN ~€1180) — same model, mechanical groupset ❌
+#   AllegroLokalnie rondo-ruut-cf0-di2-gravel (Rondo Ruut CF0 Di2 56/L, Gdynia) — GRAVEL bike, NOT TT/triathlon ❌
+#   SS.lv cembdn (Specialized S-Works Venge 56, €4900) — road aero bike, NOT TT/triathlon ❌
+#   SS.lv cdkhdh (Cervelo Apex Gravel L/56, €1650) — GRAVEL bike, NOT TT/triathlon ❌
+#   Biklo.lv — no qualifying listings found
+#   Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv — no qualifying listings found
+#   Skelbiu.lt — Giant Trinity SRAM AXS (74636002) already in seen list; no other new listings
+# Scanned: ~10 sites, ~20 search queries. Matched filter: 0. New: 0.
+# NOTE: Telegram alerts not attempted (no qualifying listings). api.telegram.org remains blocked by egress proxy (persistent).
+# Seen list updated ✓.
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cendeb.html
+https://www.olx.pl/d/oferta/rower-czasowy-triathlonowy-karbonowy-felt-b-12-56-cm-dura-ace-promocja-CID767-ID12w0Xx.html
+https://allegro.pl/oferta/rower-czasowy-triathlonowy-karbonowy-felt-b-12-56-cm-dura-ace-14729300234
+https://allegrolokalnie.pl/oferta/rondo-ruut-cf0-di2-gravel-56-l-jak-nowy-karbon
+https://www.ss.com/msg/lv/transport/bycycles/highway-sports/cembdn.html
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cdkhdh.html
