@@ -213,3 +213,15 @@ https://www.olx.pl/d/oferta/rower-triathlonowych-evo-kronos-r-9-carbon-sram-red-
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/ngjhe.html
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bklped.html
 https://www.olx.pl/d/oferta/rama-rowerowa-triathlon-fuji-norcom-straight-1-1-rozmiar-55cm-karbon-CID767-ID15acGW.html
+
+# --- 2026-07-11 run (second) — No new matches found ---
+# Sites searched via web search: SS.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt
+# Direct fetch: All sites returned 403 (blocked). Web search used throughout.
+# Search terms: triathlon/TT bike carbon Di2 SRAM Red L 56, rower triathlonowy carbon Di2 SRAM Red 56cm L, triatlona velosipēds karbon Di2, triatlono dviratis carbon Di2 L, time trial bike Di2 SRAM Red size L 56 Baltic Poland Latvia Lithuania
+# Candidates evaluated (not previously in seen list):
+#   SS.lv bdlgbg (triatlona velosipēds, M izmērs, €1,100) — aluminum frame, size M ❌ (fails both frame material and size)
+#   All other results: category pages only — no new individual listing URLs surfaced
+# Scanned: ~15 search result pages across all sites. Matched filter: 0. New: 0.
+# NOTE: Telegram alerts not attempted (no qualifying listings). api.telegram.org remains blocked by egress proxy (persistent).
+# Seen list updated ✓.
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdlgbg.html
