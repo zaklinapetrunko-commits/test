@@ -296,3 +296,17 @@ https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cdkhdh.html
 # Result: 0 new listings found matching all criteria
 # NOTE: Telegram alerts not attempted (no qualifying listings). api.telegram.org remains blocked by egress proxy (persistent).
 # Seen list updated ✓.
+
+# --- 2026-07-11 run (seventh) — No new matches found ---
+# Sites searched via web search: SS.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt
+# Direct fetch: All sites returned 403 (blocked). Web search used throughout.
+# Search terms: triatlona velosipēds karbons Di2 SRAM L ss.lv, rower triathlonowy carbon Di2 SRAM Red 56 L allegrolokalnie 2026, rower triathlonowy carbon Di2 SRAM Red L 56 olx.pl, triatlono dviratis carbon Di2 SRAM Red L 56 autoplius skelbiu, triathlon bike carbon Di2 SRAM Red osta.ee okidoki.ee
+# Candidates evaluated (not previously in seen list):
+#   SS.lv bpdhxh (Time NX RS, Full Di2, €1,000) — road bike (Time brand, NX RS is a road climbing line), NOT TT/triathlon ❌
+#   All AllegroLokalnie/OLX.pl results: already in seen list or category pages only
+#   Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv — no qualifying listings found
+#   Skelbiu.lt — no new qualifying listings; Giant Trinity (74636002) still only result, already seen
+# Scanned: ~10 sites, ~8 search queries. Matched filter: 0. New: 0.
+# NOTE: Telegram alerts not attempted (no qualifying listings). api.telegram.org remains blocked by egress proxy (persistent).
+# Seen list updated ✓.
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bpdhxh.html
