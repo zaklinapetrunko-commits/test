@@ -280,3 +280,19 @@ https://allegro.pl/oferta/rower-czasowy-triathlonowy-karbonowy-felt-b-12-56-cm-d
 https://allegrolokalnie.pl/oferta/rondo-ruut-cf0-di2-gravel-56-l-jak-nowy-karbon
 https://www.ss.com/msg/lv/transport/bycycles/highway-sports/cembdn.html
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cdkhdh.html
+
+# --- 2026-07-11 run (sixth) — No new matches found ---
+# Sites searched via web search: SS.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt
+# Direct fetch: All sites returned 403 (blocked). Web search used throughout.
+# Search terms: site:ss.lv triathlon bike carbon Di2 SRAM Red L 56, site:olx.pl rower triathlonowy carbon Di2 SRAM Red 56cm L, site:allegrolokalnie.pl rower triathlonowy carbon Di2 SRAM Red 56 L, site:allegro.pl rower triathlonowy carbon Di2 SRAM Red 56 L, site:skelbiu.lt triatlono dviratis carbon Di2 SRAM, site:autoplius.lt triatlono dviratis carbon Di2 SRAM Red
+# Candidates evaluated (not previously in seen list):
+#   Cervelo P3 Carbon 105 55cm allegrolokalnie — Shimano 105 groupset, NOT Di2/SRAM Red ❌
+#   Cervelo P-Series 105 56cm allegrolokalnie (Pruszków) — Shimano 105, NOT Di2/SRAM Red ❌
+#   Bottecchia Tri Di2 (Białystok) allegrolokalnie — already in seen list ❌
+#   Wilier Twin Blade DuraAce Di2 L (Kraków) allegrolokalnie — already in seen list ❌
+#   Scott Spark Team L (SRAM) ss.lv bdggbo — MTB, NOT TT/triathlon ❌
+#   Autoplius.lt — no qualifying bike listings found (only MTB, road, electric bikes)
+#   Skelbiu.lt — only Giant Trinity (already seen) and category pages
+# Result: 0 new listings found matching all criteria
+# NOTE: Telegram alerts not attempted (no qualifying listings). api.telegram.org remains blocked by egress proxy (persistent).
+# Seen list updated ✓.
