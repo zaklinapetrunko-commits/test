@@ -325,3 +325,17 @@ https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bpdhxh.html
 # Seen list updated ✓.
 https://www.olx.pl/oferta/bmc-timemachine-02-triathlon-sram-red-etap-CID767-IDw0rzr.html
 https://allegro.pl/oferta/rower-planet-x-stealth-tt-carbon-triathlon-15713862858
+
+# --- 2026-07-11 run (ninth) — No new matches found ---
+# Sites searched via web search: SS.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt
+# Direct fetch: All sites returned 403 (blocked). Web search used throughout.
+# Search terms: triathlon bike carbon Di2 SRAM Red L 56 ss.lv/ss.com, rower triathlonowy carbon Di2 SRAM Red 56cm L olx.pl/allegrolokalnie.pl, triatlona velosipēds karbon Di2 SRAM Red pārdod L 56, triatlono dviratis carbon Di2 SRAM Red L 56 autoplius/skelbiu, triathlon TT carbon Di2 SRAM osta.ee/okidoki.ee/andel.lv, Canyon Speedmax Cervelo P5 Orbea Ordu BMC Timemachine carbon Di2 SRAM Red L 56 sprzedam 2026
+# Candidates evaluated (not previously in seen list):
+#   SS.COM bpcmfd (56cm, Carbon Ultegra, €620, Vecmīlgrāvis) — road bike with mechanical Ultegra, NOT TT/triathlon and NOT Di2/SRAM Red ❌
+#   OLX.pl ID15DSdh (Cannondale Synapse SRAM Red AXS 56cm, Żyrardów) — endurance road bike (Synapse), NOT TT/triathlon ❌
+#   All other results: already in seen list or category pages only
+# Result: 0 new listings found matching all criteria
+# NOTE: Telegram alerts not attempted (no qualifying listings). api.telegram.org remains blocked by egress proxy (persistent).
+# Seen list updated ✓.
+https://www.ss.com/msg/lv/transport/bycycles/highway-sports/bpcmfd.html
+https://www.olx.pl/d/oferta/rower-cannondale-synapse-sram-red-axs-hydraulika-karbon-56cm-CID767-ID15DSdh.html
