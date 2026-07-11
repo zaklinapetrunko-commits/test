@@ -339,3 +339,25 @@ https://allegro.pl/oferta/rower-planet-x-stealth-tt-carbon-triathlon-15713862858
 # Seen list updated ✓.
 https://www.ss.com/msg/lv/transport/bycycles/highway-sports/bpcmfd.html
 https://www.olx.pl/d/oferta/rower-cannondale-synapse-sram-red-axs-hydraulika-karbon-56cm-CID767-ID15DSdh.html
+
+# --- 2026-07-11 run (tenth) — No new matches found ---
+# Sites searched via web search: SS.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt
+# Direct fetch: All sites returned 403 (blocked). Web search used throughout.
+# Search terms: triathlon bike carbon Di2 SRAM Red L 56, rower triathlonowy TT carbon Di2 SRAM Red 56 L, triatlona velosipēds karbons Di2 SRAM Red pārdod, triatlono dviratis carbon Di2 SRAM Red L 56, Canyon Speedmax Cervelo P5 BMC Timemachine Scott Plasma Trek Speed Concept L 56 Di2 SRAM Red sprzedam
+# Candidates evaluated (not previously in seen list):
+#   SS.lv bpdipb (Moozes Aero carbon, €850, Shimano group) — road/aero bike brand, NOT TT/triathlon ❌
+#   SS.lv cexglo (Cube C:62 Tubeless carbon, €2,600) — road race bike, NOT TT/triathlon ❌
+#   AllegroLokalnie Felt DA4 Ultegra Di2 (Elbląg, 7999 PLN) — size 54cm ❌ (below 55cm min)
+#   Allegro.pl Apex Skylar Carbon Ultegra 54 (17472696488) — size 54cm and mechanical Ultegra ❌
+#   Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv — no qualifying listings found
+#   Skelbiu.lt — no new qualifying listings
+# Scanned: SS.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt (~14 search queries).
+# Result: 0 new listings found matching all criteria
+# NOTE: Telegram alerts not attempted (no qualifying listings). api.telegram.org remains blocked by egress proxy (persistent).
+# Seen list updated ✓.
+https://www.ss.com/msg/lv/transport/bycycles/highway-sports/bpdipb.html
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bpdipb.html
+https://www.ss.com/msg/lv/transport/bycycles/highway-sports/cexglo.html
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cexglo.html
+https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-felt-da4-ultegra-di2
+https://allegro.pl/oferta/rower-triathlonowy-apex-skylar-carbon-ultegra-roz-54-17472696488
