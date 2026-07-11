@@ -345,7 +345,7 @@ https://www.olx.pl/d/oferta/rower-cannondale-synapse-sram-red-axs-hydraulika-kar
 # --- 2026-07-11 run (tenth) — No new matches found ---
 # Sites searched via web search: SS.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt
 # Direct fetch: All sites returned 403 (blocked). Web search used throughout.
-# Search terms: triathlon bike carbon Di2 SRAM Red L 56, rower triathlonowy TT carbon Di2 SRAM Red 56 L, triatlona velosipēds karbons Di2 SRAM Red pārdod, triatlono dviratis carbon Di2 SRAM Red L 56, Canyon Speedmax Cervelo P5 BMC Timemachine Scott Plasma Trek Speed Concept L 56 Di2 SRAM Red sprzedam
+# Search terms: triathlon bike carbon Di2 SRAM Red L 56, rower triathlonowy TT carbon Di2 SRAM Red 56 L, triatlona velosipēds karbon Di2 SRAM Red pārdod, triatlono dviratis carbon Di2 SRAM Red L 56, Canyon Speedmax Cervelo P5 BMC Timemachine Scott Plasma Trek Speed Concept L 56 Di2 SRAM Red sprzedam
 # Candidates evaluated (not previously in seen list):
 #   SS.lv bpdipb (Moozes Aero carbon, €850, Shimano group) — road/aero bike brand, NOT TT/triathlon ❌
 #   SS.lv cexglo (Cube C:62 Tubeless carbon, €2,600) — road race bike, NOT TT/triathlon ❌
@@ -443,3 +443,18 @@ https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bpcokl.html
 # Result: 0 new listings found matching all criteria (carbon + triathlon/TT + size L/56cm + Di2 or SRAM Red + under 8000 EUR)
 # NOTE: Telegram alerts not attempted (no qualifying listings). api.telegram.org remains blocked by egress proxy (persistent).
 # Seen list updated ✓.
+
+# --- 2026-07-11 run (sixteenth) — No new matches found ---
+# Sites searched via web search: SS.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt, Biklo.lv, MM.lv
+# Direct fetch: All sites returned 403 (blocked). Web search used throughout.
+# Search terms: triathlon bike carbon Di2 SRAM Red L 56 2026, rower triathlonowy carbon Di2 SRAM Red 56cm L lipiec 2026, triatlana velosipēds karbon Di2 SRAM Red 2026, triatlono dviratis carbon Di2 SRAM Red L 56 2026, Canyon Speedmax Cervelo P5 BMC Timemachine Scott Plasma Trek Speed Concept Felt IA Orbea Ordu carbon L 56 Di2 SRAM Red sprzedam nowe 2026, TT triathlon SRAM Red Di2 56 L andel.lv mm.lv biklo.lv osta.ee okidoki.ee
+# Candidates evaluated (not previously in seen list):
+#   OLX.pl IDSsUsR (TT Triathlon SRAM Red AXS 12s) — URL slug indicates size "M" (medium), fails size criterion ❌
+#   Scott Plasma 20 allegrolokalnie (Bydgoszcz) — mechanical Ultegra, NOT Di2/SRAM Red ❌
+#   Giant Liv Avow Advanced Pro 1 M allegrolokalnie (Warszawa) — size M ❌
+#   All other results: category pages, already in seen list, or non-qualifying bikes
+# Scanned: ~11 sites, ~16 search queries. Matched filter: 0. New: 0.
+# Result: 0 new listings found matching all criteria (carbon + triathlon/TT + size L/56cm + Di2 or SRAM Red + under 8000 EUR)
+# NOTE: Telegram alerts not attempted (no qualifying listings). api.telegram.org remains blocked by egress proxy (persistent).
+# Seen list updated ✓.
+https://www.olx.pl/d/oferta/tt-triathlon-sram-red-axs-12-sr-m-CID767-IDSsUsR.html
