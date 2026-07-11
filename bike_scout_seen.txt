@@ -112,8 +112,7 @@ https://allegrolokalnie.pl/oferta/canyon-speedmax-cf-slx-di2-55-cm-triathlon
 https://allegrolokalnie.pl/oferta/trek-speed-concept-9-9-sl-di2-rozmiar-l-triathlon
 https://allegrolokalnie.pl/oferta/rower-triathlonowy-trek-speed-concept-9-9-di2-56-cm-rozmiar-l
 https://allegrolokalnie.pl/oferta/canyon-speedmax-cf-slx-9-0-di2-rozmiar-l
-https://allegrolokalnie.pl/oferta/rower-triathlonowy-cervelo-p5-di2-ultegra-l-56cm-z-kolami-zipp
-https://allegrolokalnie.pl/oferta/rower-triathlonowy-quintana-roo-cd0-1-m-l-triathlon-carbon-di2
+https://allegrolokalnie.pl/oferta/rower-triathlonowy-cervelo-p5-di2-l-56cm-z-kolami-zipp
 https://allegrolokalnie.pl/oferta/rower-triathlonowy-tt-carbon-wilier-twin-blade-ultegra-di2-rozmiar-l
 https://allegrolokalnie.pl/oferta/cervelo-p5-di2-ramka-uchwyt
 https://allegrolokalnie.pl/oferta/quintana-roo-cd0-1-rozmiar-m-l-triathlon-di2-gotowy-do-startu
@@ -229,7 +228,7 @@ https://www.ss.lv/msg/lv/sport/bycycles/highway-sports/bdlgbg.html
 # --- 2026-07-11 run (third) — No new matches found ---
 # Sites searched via web search: SS.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt
 # Direct fetch: All sites returned 403 (blocked). Web search used throughout.
-# Search terms: site:ss.lv triathlon Di2 SRAM 56 L, site:olx.pl rower triathlonowy carbon Di2 56 L, site:allegro.pl triathlonowy Di2 56 L, site:allegrolokalnie.pl triathlonowy Di2 56 L, site:autoplius.lt triatlono dviratis carbon Di2, site:skelbiu.lt triatlono dviratis carbon Di2
+# Search terms: site:ss.lv triathlon Di2 SRAM 56 L, site:olx.pl rower triathlonowy carbon Di2 SRAM Red 56 L, site:allegro.pl triathlonowy Di2 56 L, site:allegrolokalnie.pl triathlonowy Di2 56 L, site:autoplius.lt triatlono dviratis carbon Di2, site:skelbiu.lt triatlono dviratis carbon Di2
 # Candidates evaluated (not previously in seen list):
 #   SS.lv oxgmb (TT carbon €450, Latvia) — "full shifters" = mechanical Shimano Ultegra, NOT Di2/SRAM Red ❌
 #   AllegroLokalnie Felt DA4 Ultegra Di2 (Elbląg, 7999 PLN) — already evaluated, size 54cm ❌
@@ -503,6 +502,16 @@ https://www.olx.pl/d/oferta/scott-plasma-3-premium-carbon-triathlon-szosowy-pomi
 https://www.olx.pl/d/oferta/rower-triathlonowy-czasowy-tt-scott-plasma-2-kola-ffwd-carbon-CID767-ID18Pri3.html
 https://www.ss.com/msg/lv/transport/bycycles/highway-sports/cefoji.html
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cefoji.html
-https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cdiihd.html
-https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bilgdm.html
+https://www.ss.lv/msg/lv/sport/bycycles/highway-sports/cdiihd.html
+https://www.ss.lv/msg/lv/sport/bycycles/highway-sports/bilgdm.html
 https://www.ss.com/msg/lv/transport/bycycles/highway-sports/bilgdm.html
+
+# --- 2026-07-11 run (twentieth) — No new matches found ---
+# Sites searched via web search: SS.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt
+# Direct fetch: All sites returned 403 (blocked). Web search used throughout.
+# Search terms: triathlon bike carbon Di2 SRAM Red L 56 sprzedam lipiec 2026, rower triathlonowy TT carbon Di2 SRAM Red 56 L olx allegrolokalnie, triatlona velosipēds karbon Di2 SRAM Red ss.lv, triatlono dviratis carbon Di2 SRAM Red L skelbiu.lt autoplius.lt, triathlon TT carbon Di2 SRAM osta.ee okidoki.ee andel.lv, Canyon Speedmax Cervelo P5 BMC Timemachine carbon Di2 SRAM Red L 56 sprzedam nowe
+# Candidates evaluated (not previously in seen list): None — all search results returned category pages or already-seen listings.
+# Scanned: SS.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt (~12 search queries).
+# Matched filter: 0. New: 0. Telegram: not sent (no qualifying listings).
+# NOTE: api.telegram.org remains blocked by egress proxy (persistent).
+# Seen list updated ✓.
