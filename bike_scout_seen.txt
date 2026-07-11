@@ -379,3 +379,19 @@ https://allegro.pl/oferta/rower-triathlonowy-apex-skylar-carbon-ultegra-roz-54-1
 # Seen list updated ✓.
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdkfce.html
 https://www.ss.com/msg/lv/transport/bycycles/highway-sports/bdkfce.html
+
+# --- 2026-07-11 run (twelfth) — No new matches found ---
+# Sites searched via web search: SS.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt, Biklo.lv, MM.lv
+# Direct fetch: All sites returned 403 (blocked). Web search used throughout.
+# Search terms: rower triathlonowy TT carbon Di2 SRAM Red 56 L allegrolokalnie 2026, site:ss.lv triatlona velosipēds karbon Di2 SRAM 2026, triathlon bike carbon Di2 SRAM Red L 56 osta.ee okidoki.ee autoplius.lt 2026, rower triathlonowy carbon Di2 SRAM Red 56cm L olx.pl allegro.pl lipiec 2026, Canyon Speedmax Cervelo P5 BMC Timemachine Trek Speed Concept carbon L 56 Di2 SRAM Red sprzedam nowe 2026, Cervelo P-Series P3 P5 Scott Plasma carbon Di2 SRAM Red 56 L allegrolokalnie 2026, BMC Timemachine 01 Canyon Speedmax CF SLX carbon Di2 56 L sprzedam lipiec 2026
+# Candidates evaluated (not previously in seen list):
+#   SS.lv bdffcn (Scott Plasma TT, SRAM, €1,000) — already in seen list ❌
+#   SS.lv cdpkon (Specialized Shiv L, €2,500) — already in seen list ❌
+#   SS.lv bdlgbg (triatlona velosipēds, M, €1,100) — already in seen list ❌
+#   AllegroLokalnie Bottecchia Tri Di2 Mavic (Białystok) — already in seen list ❌
+#   AllegroLokalnie Wilier Twin Blade DuraAce Di2 L (Kraków) — already in seen list ❌
+#   All other results: category pages, non-matching models, or already in seen list
+# Scanned: ~11 sites, ~16 search queries. Matched filter: 0. New: 0.
+# Result: 0 new listings found matching all criteria (carbon + triathlon/TT + size L/56cm + Di2 or SRAM Red + under 8000 EUR)
+# NOTE: Telegram alerts not attempted (no qualifying listings). api.telegram.org remains blocked by egress proxy (persistent).
+# Seen list updated ✓.
