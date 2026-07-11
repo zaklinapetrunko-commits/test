@@ -183,6 +183,21 @@ https://www.ss.com/msg/lv/transport/bycycles/highway-sports/bdfdlm.html
 # --- 2026-07-11 run — No new matches found ---
 # Sites searched via web search: SS.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt
 # Direct fetch: All sites returned 403 (blocked). Web search used throughout.
+# Search terms: triathlon bike carbon, triatlona velosipēds, triatlono dviratis, triathlon rower, TT bike carbon, time trial bike Di2, time trial bike SRAM Red
+# Candidates evaluated (not previously in seen list):
+#   SS.lv cdkxli (TT 54cm €480) — already seen/evaluated ❌
+#   Trek Speed Concept allegrolokalnie (Kazimierz Biskupi, L, 15900 PLN, Di2) — already in seen list ❌
+#   Fondriest TF1 Carbon Ultegra allegrolokalnie (Wrocław) — mechanical Ultegra, not Di2/SRAM Red ❌
+#   LOOK 796 Monoblade RS allegrolokalnie (Kraków, L/XL, Ultegra Di2) — already in seen list ❌
+#   AllegroLokalnie Specialized Shiv Pro XS Di2 (Malbork) — already in seen list ❌
+# Result: 0 new listings found matching all criteria
+# NOTE: Telegram alerts not attempted (no qualifying listings). api.telegram.org remains blocked (curl exit 56).
+# Seen list updated ✓.
+https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-fondriest-tf1-carbon-ultegra
+
+# --- 2026-07-11 run — No new matches found ---
+# Sites searched via web search: SS.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt
+# Direct fetch: All sites returned 403 (blocked). Web search used throughout.
 # Search terms: triathlon bike carbon Di2 SRAM Red, rower triathlonowy carbon Di2, triatlona velosipēds karbon, triatlono dviratis carbon Di2, TT bike carbon SRAM
 # Candidates evaluated (not previously in seen list):
 #   OLX.pl ID15a5Ze (EVO2MAX Kronos R-9, TT carbon SRAM Red) — size unconfirmed (custom UK build, no size data in search snippets) ❌
