@@ -225,3 +225,19 @@ https://www.olx.pl/d/oferta/rama-rowerowa-triathlon-fuji-norcom-straight-1-1-roz
 # NOTE: Telegram alerts not attempted (no qualifying listings). api.telegram.org remains blocked by egress proxy (persistent).
 # Seen list updated ✓.
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdlgbg.html
+
+# --- 2026-07-11 run (third) — No new matches found ---
+# Sites searched via web search: SS.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt
+# Direct fetch: All sites returned 403 (blocked). Web search used throughout.
+# Search terms: site:ss.lv triathlon Di2 SRAM 56 L, site:olx.pl rower triathlonowy carbon Di2 56 L, site:allegro.pl triathlonowy Di2 56 L, site:allegrolokalnie.pl triathlonowy Di2 56 L, site:autoplius.lt triatlono dviratis carbon Di2, site:skelbiu.lt triatlono dviratis carbon Di2
+# Candidates evaluated (not previously in seen list):
+#   SS.lv oxgmb (TT carbon €450, Latvia) — "full shifters" = mechanical Shimano Ultegra, NOT Di2/SRAM Red ❌
+#   AllegroLokalnie Felt DA4 Ultegra Di2 (Elbląg, 7999 PLN) — already evaluated, size 54cm ❌
+#   OLX.pl Felt FR 2 SRAM Red 56cm (Kolbuszowa) — road bike (FR line), NOT triathlon/TT ❌
+#   OLX.pl Cannondale Synapse SRAM Red AXS 56cm (Żyrardów) — road bike (Synapse), NOT triathlon/TT ❌
+#   Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv — no listings found
+# Result: 0 new listings found matching all criteria
+# NOTE: Telegram alerts not attempted (no qualifying listings). api.telegram.org remains blocked by egress proxy (persistent).
+# Seen list updated ✓.
+https://www.ss.com/msg/lv/transport/bycycles/highway-sports/oxgmb.html
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/oxgmb.html
