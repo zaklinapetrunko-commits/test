@@ -395,3 +395,28 @@ https://www.ss.com/msg/lv/transport/bycycles/highway-sports/bdkfce.html
 # Result: 0 new listings found matching all criteria (carbon + triathlon/TT + size L/56cm + Di2 or SRAM Red + under 8000 EUR)
 # NOTE: Telegram alerts not attempted (no qualifying listings). api.telegram.org remains blocked by egress proxy (persistent).
 # Seen list updated ✓.
+
+# --- 2026-07-11 run (thirteenth) — No new matches found ---
+# Sites searched via web search: SS.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt
+# Direct fetch: All sites returned 403 (blocked). Web search used throughout.
+# Search terms: triathlon bike carbon Di2 SRAM Red L 56, rower triathlonowy carbon Di2 SRAM Red 56cm L, triatlona velosipēds karbon Di2 SRAM Red, triatlono dviratis carbon Di2 SRAM Red L, Canyon Speedmax Cervelo P5 Orbea Ordu BMC Timemachine Scott Plasma Felt IA carbon L 56 Di2 SRAM Red sprzedam nowe
+# Candidates evaluated (not previously in seen list):
+#   SS.lv bokogf (Merida Misson 6000, karbona gravelis, SRAM, €1,500) — GRAVEL bike, NOT TT/triathlon ❌
+#   SS.lv gfimp (Scott Foil 10, karbona aero šoseja, Ultegra, €1,650) — road aero bike, NOT TT/triathlon ❌
+#   SS.lv bimmpe (ciklokrosa velosipēds, karbons, €1,250) — CYCLOCROSS, NOT TT/triathlon ❌
+#   SS.com bpcokl (Merida Speeder, carbon fork, €590) — road/hybrid, NOT TT/triathlon ❌
+#   Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv — no qualifying listings found
+#   All AllegroLokalnie/Allegro.pl/OLX.pl results: already in seen list or category pages only
+#   Skelbiu.lt — no new qualifying listings (Giant Trinity 74636002 already seen)
+# Scanned: ~10 sites, ~16 search queries. Matched filter: 0. New: 0.
+# Result: 0 new listings found matching all criteria (carbon + triathlon/TT + size L/56cm + Di2 or SRAM Red + under 8000 EUR)
+# NOTE: Telegram alerts not attempted (no qualifying listings). api.telegram.org remains blocked by egress proxy (persistent).
+# Seen list updated ✓.
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bokogf.html
+https://www.ss.com/msg/lv/transport/bycycles/highway-sports/bokogf.html
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/gfimp.html
+https://www.ss.com/msg/lv/transport/bycycles/highway-sports/gfimp.html
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bimmpe.html
+https://www.ss.com/msg/lv/transport/bycycles/highway-sports/bimmpe.html
+https://www.ss.com/msg/lv/transport/bycycles/highway-sports/bpcokl.html
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bpcokl.html
