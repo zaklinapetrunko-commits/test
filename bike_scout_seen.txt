@@ -216,7 +216,7 @@ https://www.olx.pl/d/oferta/rama-rowerowa-triathlon-fuji-norcom-straight-1-1-roz
 # --- 2026-07-11 run (second) — No new matches found ---
 # Sites searched via web search: SS.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt
 # Direct fetch: All sites returned 403 (blocked). Web search used throughout.
-# Search terms: triathlon/TT bike carbon Di2 SRAM Red L 56, rower triathlonowy carbon Di2 SRAM Red 56cm L, triatlona velosipēds karbon Di2, triatlono dviratis carbon Di2 L, time trial bike Di2 SRAM Red size L 56 Baltic Poland Latvia Lithuania
+# Search terms: triathlon/TT bike carbon Di2 SRAM Red L 56, rower triathlonowy carbon Di2 SRAM Red 56cm L, triatlona velosipēds karbon Di2, triatlono dviratis carbon Di2 L, time trial TT velosipēds karbon Di2 SRAM Red Latvija 2026
 # Candidates evaluated (not previously in seen list):
 #   SS.lv bdlgbg (triatlona velosipēds, M izmērs, €1,100) — aluminum frame, size M ❌ (fails both frame material and size)
 #   All other results: category pages only — no new individual listing URLs surfaced
@@ -230,7 +230,7 @@ https://www.ss.lv/msg/lv/sport/bycycles/highway-sports/bdlgbg.html
 # Direct fetch: All sites returned 403 (blocked). Web search used throughout.
 # Search terms: site:ss.lv triathlon Di2 SRAM 56 L, site:olx.pl rower triathlonowy carbon Di2 SRAM Red 56cm L, site:allegro.pl triathlonowy Di2 56 L, site:allegrolokalnie.pl triathlonowy Di2 56 L, site:autoplius.lt triatlono dviratis carbon Di2, site:skelbiu.lt triatlono dviratis carbon Di2
 # Candidates evaluated (not previously in seen list):
-#   SS.lv oxgmb (TT carbon €450, Latvia) — "full shifters" = mechanical Shimano Ultegra, NOT Di2/SRAM Red ❌
+#   SS.lv oxgmb (TT carbon €450, Latvia) — \"full shifters\" = mechanical Shimano Ultegra, NOT Di2/SRAM Red ❌
 #   AllegroLokalnie Felt DA4 Ultegra Di2 (Elbląg, 7999 PLN) — already evaluated, size 54cm ❌
 #   OLX.pl Felt FR 2 SRAM Red 56cm (Kolbuszowa) — road bike (FR line), NOT triathlon/TT ❌
 #   OLX.pl Cannondale Synapse SRAM Red AXS 56cm (Żyrardów) — road bike (Synapse), NOT triathlon/TT ❌
@@ -344,7 +344,7 @@ https://www.olx.pl/d/oferta/rower-cannondale-synapse-sram-red-axs-hydraulika-kar
 # --- 2026-07-11 run (tenth) — No new matches found ---
 # Sites searched via web search: SS.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt
 # Direct fetch: All sites returned 403 (blocked). Web search used throughout.
-# Search terms: triathlon bike carbon Di2 SRAM Red L 56, rower triathlonowy TT carbon Di2 SRAM Red 56 L, triatlona velosipēds karbon Di2 SRAM Red pārdod, triatlono dviratis carbon Di2 SRAM Red L 56, Canyon Speedmax Cervelo P5 BMC Timemachine Scott Plasma Trek Speed Concept L 56 Di2 SRAM Red sprzedam
+# Search terms: triathlon bike carbon Di2 SRAM Red L 56, rower triathlonowy TT carbon Di2 SRAM Red 56 L, triatlona velosipēds karbon Di2 SRAM Red, triatlono dviratis carbon Di2 SRAM Red L 56, Canyon Speedmax Cervelo P5 BMC Timemachine Scott Plasma Trek Speed Concept L 56 Di2 SRAM Red sprzedam
 # Candidates evaluated (not previously in seen list):
 #   SS.lv bpdipb (Moozes Aero carbon, €850, Shimano group) — road/aero bike brand, NOT TT/triathlon ❌
 #   SS.lv cexglo (Cube C:62 Tubeless carbon, €2,600) — road race bike, NOT TT/triathlon ❌
@@ -448,7 +448,7 @@ https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bpcokl.html
 # Direct fetch: All sites returned 403 (blocked). Web search used throughout.
 # Search terms: triathlon bike carbon Di2 SRAM Red L 56 2026, rower triathlonowy carbon Di2 SRAM Red 56cm L lipiec 2026, triatlana velosipēds karbon Di2 SRAM Red 2026, triatlono dviratis carbon Di2 SRAM Red L 56 2026, Canyon Speedmax Cervelo P5 BMC Timemachine Scott Plasma Trek Speed Concept Felt IA Orbea Ordu carbon L 56 Di2 SRAM Red sprzedam nowe 2026, TT triathlon SRAM Red Di2 56 L andel.lv mm.lv biklo.lv osta.ee okidoki.ee
 # Candidates evaluated (not previously in seen list):
-#   OLX.pl IDSsUsR (TT Triathlon SRAM Red AXS 12s) — URL slug indicates size "M" (medium), fails size criterion ❌
+#   OLX.pl IDSsUsR (TT Triathlon SRAM Red AXS 12s) — URL slug indicates size \"M\" (medium), fails size criterion ❌
 #   Scott Plasma 20 allegrolokalnie (Bydgoszcz) — mechanical Ultegra, NOT Di2/SRAM Red ❌
 #   Giant Liv Avow Advanced Pro 1 M allegrolokalnie (Warszawa) — size M ❌
 #   All other results: category pages, already in seen list, or non-qualifying bikes
@@ -606,3 +606,23 @@ https://www.olx.pl/d/oferta/rower-czasowy-triathlonowy-stevens-super-trofeo-tt-l
 # NOTE: Telegram alerts not attempted (no qualifying listings). api.telegram.org remains blocked by egress proxy (persistent).
 # Seen list updated ✓.
 https://www.olx.pl/d/oferta/canyon-speedmax-cf-slx-ultegra-di2-rozm-m-ceramic-speed-CID767-ID12GJnS.html
+
+# --- 2026-07-12 run (fourth) — No new matches found ---
+# Sites searched via web search: SS.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt
+# Direct fetch: All sites returned 403 (blocked). Web search used throughout.
+# Search terms: triatlona velosipēds karbon Di2 SRAM Red L 56, rower triathlonowy carbon Di2 SRAM Red 56cm L lipiec 2026, triatlono dviratis karboninis Di2 SRAM Red L 56, triathlon bike carbon Di2 SRAM Red size L 56, Canyon Speedmax Cervelo P5 BMC Timemachine Trek Speed Concept Orbea Ordu carbon Di2 SRAM Red L 56 sprzedam nowe lipiec 2026, rower triathlonowy TT carbon Di2 SRAM Red rozmiar 56 L sprzedam 2026 nowe allegrolokalnie olx, triatlona šosejas velosipēds carbon Di2 SRAM 2026 ss.lv, triatlono dviratis karboninis Di2 SRAM Red L 56 parduodu 2026 liepa skelbiu autoplius
+# Candidates evaluated (not previously in seen list):
+#   SS.lv bdphlg (Triatlona/TT velo, €280, 59cm frame) — size 59cm ❌ (requires 55-57cm)
+#   Canyon Speedmax CF7 Toruń allegrolokalnie — size M, Shimano mechanical groupset ❌ (fails size AND groupset)
+#   Cervelo R5 SRAM Red Size 56 Lublin allegrolokalnie — road racing bike (R5 is not TT/triathlon) ❌
+#   Cervelo R5 SRAM Red eTAP 6.9kg Olsztyn allegrolokalnie — road racing bike (R5 is not TT/triathlon) ❌
+#   Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv — no qualifying listings found
+#   Skelbiu.lt — Giant Trinity SRAM AXS L (74636002) still only result, already seen
+# Scanned: SS.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt (~28 search queries). Matched filter: 0. New: 0.
+# NOTE: Telegram alerts not attempted (no qualifying listings). api.telegram.org remains blocked by egress proxy (persistent).
+# Seen list updated ✓.
+https://www.ss.lv/msg/lv/sport/bycycles/highway-sports/bdphlg.html
+https://www.ss.com/msg/lv/transport/bycycles/highway-sports/bdphlg.html
+https://allegrolokalnie.pl/oferta/canyon-speedmax-cf7-rower-triathlon
+https://allegrolokalnie.pl/oferta/cervelo-r5-sram-red-lightweight-56-65-kg
+https://allegrolokalnie.pl/oferta/cervelo-r5-sram-red-etap-69kg
