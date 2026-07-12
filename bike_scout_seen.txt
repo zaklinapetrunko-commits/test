@@ -559,3 +559,26 @@ https://allegrolokalnie.pl/oferta/rower-triathlonowy-canyon-speedmax-al-rama-s
 #       MANUAL REVIEW NEEDED — check OLX listing and contact seller directly.
 # Seen list updated ✓.
 https://www.olx.pl/d/oferta/pinarello-bolide-tt-rower-czasowy-triathlonowy-rama-l-CID767-ID10QusN.html
+
+# --- 2026-07-12 run — No new matches found ---
+# Sites searched via web search: SS.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt, MM.lv, Biklo.lv
+# Direct fetch: All sites returned 403 (blocked). Web search used throughout.
+# Search terms: triatlona velosipēds karbon Di2 SRAM Red L 56, rower triathlonowy carbon Di2 SRAM Red 56cm L lipiec 2026, triatlono dviratis karboninis Di2 SRAM Red L 56, triathlon bike carbon Di2 SRAM Red size L 56, Canyon Speedmax Cervelo P5 BMC Timemachine Trek Speed Concept Orbea Ordu carbon Di2 SRAM Red L 56 sprzedam nowe lipiec 2026
+# Candidates evaluated (not previously in seen list):
+#   OLX.pl IDuf6Qh (carbon TT 56cm, Profile Design aero accessories) — groupset unconfirmable from search snippets; no Di2/SRAM Red mentioned; likely mechanical ❌
+#   OLX.pl ID19GoQJ (Guerciotti Crux TT, Oława, 56cm) — Shimano 105 mechanical groupset ❌
+#   OLX.pl ID15wDjd (Guerciotti Crux TT r56, Wrocław Krzyki) — Shimano 105 mechanical groupset ❌
+#   OLX.pl ID1510Kc (Specialized Transition Expert Carbon, Łódź, size S/51cm) — fails size filter AND mechanical Dura Ace/Ultegra ❌
+#   OLX.pl ID163ecZ (Specialized Transition Expert, Oborniki, size M, Ultegra 2x10) — fails size AND groupset filters ❌
+#   SS.lv — only cdpkon (Specialized Shiv L) and bdffcn (Scott Plasma TT SRAM) consistently surfacing, both already in seen list
+#   AllegroLokalnie — Bottecchia Tri Di2, Wilier Twin Blade Di2 L, Felt DA4 Di2, Specialized Shiv XS Di2 all previously evaluated
+#   Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Biklo.lv, MM.lv — no qualifying listings found
+#   Skelbiu.lt — Giant Trinity SRAM AXS L (74636002) still only result, already seen
+# Scanned: ~11 sites, ~26 search queries. Matched filter: 0. New: 0.
+# NOTE: Telegram alerts not attempted (no qualifying listings). api.telegram.org remains blocked by egress proxy (persistent).
+# Seen list updated ✓.
+https://www.olx.pl/d/oferta/rower-carbonowy-56-traithlonowy-tt-czasowy-profile-design-CID767-IDuf6Qh.html
+https://www.olx.pl/d/oferta/rower-triathlonowy-guerciotti-crux-tt-CID767-ID19GoQJ.html
+https://www.olx.pl/d/oferta/rower-czasowy-triathlonowy-tt-guerciotti-crux-tt-r56-CID767-ID15wDjd.html
+https://www.olx.pl/d/oferta/rower-czasowy-karbonowy-specialized-transition-expert-carbon-tt-okazja-CID767-ID1510Kc.html
+https://www.olx.pl/d/oferta/specialized-transition-expert-rower-tt-czasowy-carbon-CID767-ID163ecZ.html
