@@ -4,8 +4,8 @@ https://www.olx.pl/d/oferta/rower-triathlonowy-quintana-roo-cd0-1-rozm-m-l-CID76
 https://allegro.pl/oferta/rower-czasowy-tt-fuji-norcom-straight-1-3-di2-10721918404
 # NOTE: Telegram alerts BLOCKED — api.telegram.org not in network egress allowlist. Manual review needed.
 # --- 2026-06-19 run (third) — 1 new listing passed filter ---
-https://www.olx.pl/d/oferta/rower-czasowy-boardmann-air-tt-9-8-lg-57-cm-di2-triathlon-CID767-ID11Zxra.html
 https://www.ss.lv/msg/lv/sport/bycycles/highway-sports/fcgdh.html
+https://www.olx.pl/d/oferta/rower-czasowy-boardmann-air-tt-9-8-lg-57-cm-di2-triathlon-CID767-ID11Zxra.html
 https://www.olx.pl/d/oferta/cervelo-p3x-rower-triathlonowy-ultegra-di2-nowy-bikefitting-CID767-IDExtJN.html
 https://allegrolokalnie.pl/oferta/cannondale-slice-triathlon
 https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-fuji-norcom-1-3-di2-55
@@ -302,3 +302,4 @@ https://allegrolokalnie.pl/oferta/cervelo-r5-sram-red-etap-69kg
 # --- 2026-07-12 run (fourth) — No new matches found. Direct fetch: All sites 403/blocked. Via web search: 15+ queries across all 10 target sites. Only new candidate: SS.lv bxegpi.html (Cervélo P2 Carbon TT/triathlon, 48cm — fails size filter min 55cm). No new qualifying listings found.
 # --- 2026-07-12 run (fifth) — No new matches found. Direct fetch: All sites 403/blocked. Via web search: 25+ queries across all 10 target sites. Candidates found but failed filters: Canyon Speedmax CF7 Toruń (size M — fails size filter); Canyon Speedmax CF8 Di2 Szczecin (allegrolokalnie.pl/oferta/rower-canyon-speedmax-cf-8-di-2, new URL, carbon, Di2, €4700 — size unverifiable, cannot confirm L/55-57cm). No new qualifying listings confirmed. Telegram alerts: 0 sent.
 https://allegrolokalnie.pl/oferta/rower-canyon-speedmax-cf-8-di-2
+# --- 2026-07-12 run (sixth) — No new matches found. Direct fetch: All sites 403/blocked. Via web search: 25+ queries across all 10 target sites (SS.lv, OLX.pl, Allegro.pl, Allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Skelbiu.lt, Andel.lv). Candidates found but failed filters: SS.lv bkhelc.html (SRAM carbon S-M — fails size); SS.lv cdkxli.html (TT 54cm — fails size); OLX.pl Kuota KT5 (size S — fails size); Giant TCR Di2 (road bike, not TT/tri). No new qualifying listings found. Telegram alerts: 0 sent.
