@@ -559,3 +559,13 @@ https://allegrolokalnie.pl/oferta/rower-triathlonowy-canyon-speedmax-al-rama-s
 #       MANUAL REVIEW NEEDED — check OLX listing and contact seller directly.
 # Seen list updated ✓.
 https://www.olx.pl/d/oferta/pinarello-bolide-tt-rower-czasowy-triathlonowy-rama-l-CID767-ID10QusN.html
+
+# --- 2026-07-12 run — No new matches found ---
+# Sites searched via web search: SS.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt
+# Direct fetch: All sites returned 403 (blocked). Web search used throughout.
+# Search terms: triathlon bike carbon Di2 SRAM Red L 56, rower triathlonowy carbon Di2 SRAM Red 56cm L, triatlona velosipēds karbon Di2 SRAM Red, triatlono dviratis carbon Di2 SRAM Red L 56, Canyon Speedmax Cervelo P5 BMC Timemachine Scott Plasma Trek Speed Concept Pinarello Bolide Felt IA Orbea Ordu carbon L 56 Di2 SRAM Red sprzedam lipiec 2026
+# Candidates evaluated (not previously in seen list): None — all search results returned category pages or already-seen listings (SS.lv cdpkon/bdffcn consistently re-surfacing)
+# Scanned: SS.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt (~18 search queries).
+# Matched filter: 0. New: 0. Telegram: not sent (no qualifying listings).
+# NOTE: api.telegram.org remains blocked by egress proxy (persistent). buycycle.com also returned 403.
+# Seen list updated ✓.
