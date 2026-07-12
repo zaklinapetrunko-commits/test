@@ -182,13 +182,7 @@ https://www.ss.lv/msg/lv/sport/bycycles/highway-sports/bimmpe.html
 https://www.ss.com/msg/lv/transport/bycycles/highway-sports/bimmpe.html
 https://www.ss.com/msg/lv/transport/bycycles/highway-sports/bpcokl.html
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bpcokl.html
-https://www.olx.pl/d/oferta/tt-triathlon-sram-red-axs-12-sr-m-CID767-IDSsUsR.html
-https://allegrolokalnie.pl/oferta/rower-czasowy-triathlon-karbon-orbea-ora-tt-ultegr
-https://www.olx.pl/d/oferta/scott-plasma-3-premium-carbon-triathlon-szosowy-pomiar-mocy-quarq-CID767-IDTyTPE.html
-https://www.olx.pl/d/oferta/rower-triathlonowy-czasowy-tt-scott-plasma-2-kola-ffwd-carbon-CID767-ID18Pri3.html
-https://www.ss.com/msg/lv/transport/bycycles/highway-sports/cefoji.html
-https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cefoji.html
-https://www.ss.lv/msg/lv/sport/bycycles/highway-sports/cdiihd.html
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cdiihd.html
 https://www.ss.lv/msg/lv/sport/bycycles/highway-sports/bilgdm.html
 https://www.ss.com/msg/lv/transport/bycycles/highway-sports/bilgdm.html
 https://www.olx.pl/d/oferta/rower-triathlon-tt-orbea-ordu-carbon-ultegra-rozmiar-l-CID767-IDAWyFh.html
@@ -318,3 +312,4 @@ https://www.olx.pl/d/oferta/rower-czasowy-colnago-kzero-ultegra-di2-2x11s-rozmia
 https://www.olx.pl/d/oferta/rower-czasowy-bmc-timemachine-02-ultegra-di2-dura-ace-CID767-ID11GcNq.html
 https://www.olx.pl/d/oferta/rower-triathlonowy-czasowy-bmc-time-machine-02-rozmiar-l-CID767-ID13asQS.html
 https://www.olx.pl/d/oferta/rower-czasowy-bmc-timemachine-tm02-ultegra-ml-CID767-IDZWkei.html
+# --- 2026-07-12 run (twelfth) — No new matches found. Direct fetch: All sites 403/blocked. Via web search: 20+ queries across all 10 target sites (SS.lv, OLX.pl, Allegro.pl, Allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Skelbiu.lt, Andel.lv). New candidates checked but failed filters: OLX.pl Massi Carbon SRAM Red 10-speed Bydgoszcz (IDvJcRN) — size M-L for 180cm (ambiguous, borderline 54-55cm for TT bike), old mechanical SRAM Red 10-speed (not eTap electronic), price unconfirmable via 403. No new qualifying listings found. Telegram alerts: 0 sent. Note: api.telegram.org remains inaccessible from this execution environment.
