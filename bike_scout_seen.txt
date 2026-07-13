@@ -318,3 +318,23 @@ https://www.olx.pl/d/oferta/rower-czasowy-bmc-timemachine-tm02-ultegra-ml-CID767
 # --- 2026-07-13 run — No new matches found. Direct fetch: All sites 403/blocked (Andel.lv ENOTFOUND). Via web search: 20+ queries across all 10 target sites (SS.lv, OLX.pl, Allegro.pl, Allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Skelbiu.lt, Andel.lv). New candidates checked but failed filters: Skelbiu.lt BMC Timemachine 02 Three (78359069) — Shimano 105 entry-level spec, fails groupset filter; SS.lv biicei.html (Giant TCR Advanced 1+ Di2) — road bike, fails TT/tri type filter; OLX.pl IDycb7C (Cervelo P5 56 Ultegra Metron 55 Mrowino) — mechanical Ultegra 6800, not Di2, fails groupset filter. No new qualifying listings found. Telegram alerts: 0 sent. Note: api.telegram.org remains inaccessible from this execution environment — Telegram alerts require manual action or network whitelist change.
 # --- 2026-07-13 run (second) — No new matches found. Direct fetch: All sites 403/blocked. Via web search: 25+ queries across all 10 target sites (SS.lv, OLX.pl, Allegro.pl, Allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Skelbiu.lt, Andel.lv, MM.lv). New candidates checked but failed filters or unverifiable: SS.com bdkehb.html — URL not in seen list but content unverifiable (403 block, no metadata in search snippets); Giant Trinity L XL OLX.pl (ID17jILQ) — likely not carbon/Di2/SRAM Red; SS.lv bdkeip.html (€190 aluminum road bike — fails frame/type/groupset); SS.lv bdpegl.html (€200 gravel bike — fails type filter). No new qualifying listings confirmed. Telegram alerts: 0 sent. Note: api.telegram.org remains inaccessible from this execution environment.
 https://www.ss.com/msg/lv/transport/bycycles/highway-sports/bdkehb.html
+# --- 2026-07-13 run (third) — 2 new listings passed ALL filters ---
+# 1. Basso Konos Triathlon/TT Warszawa Mokotów, OLX.pl — 11,500 PLN (~€2,720), Carbon frame, Shimano Ultegra Di2 (electronic), ~57cm (fits 180–190cm rider)
+# 2. Basso Konos TT Warszawa Śródmieście, OLX.pl — 25,500 PLN (~€6,000), Carbon, Ultegra Di2, ⭐ power meter in crankset, FFWD F6 + disc wheels
+# Telegram alerts: 0 sent — api.telegram.org BLOCKED (HTTP 403 from egress proxy, exit code 56). Manual review required.
+# Sites checked: SS.lv, SS.com, OLX.pl, Allegro.pl, Allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Skelbiu.lt, Andel.lv. Direct fetch: all 403/blocked.
+# New candidates seen but FAILED/UNCERTAIN filters:
+#   OLX.pl Basso Konos Rzeszów (ID12Z6mB) — groupset unconfirmed (just serviced cables, no Di2/SRAM Red mention)
+#   OLX.pl Basso Carbon Konos Wieliczka (ID146yN8) — groupset ambiguous (one source says Ultegra Di2, another says Dura-Ace shifters mechanical)
+#   OLX.pl Canyon Speedmax CF Gdynia Leszczynki (ID17FVv2) — size S (169cm rider) fails size filter; mechanical Ultegra R8000 fails groupset
+#   OLX.pl Giant Trinity 2 Golczewo (ID11U7X3) — specs unverifiable
+#   OLX.pl Trek Speed Concept carbon (IDWDWW0) — specs unverifiable
+#   OLX.pl Fuji Aloha 1.0 SRAM+Shimano r56 (IDRrpuj) — groupset ambiguous
+https://www.olx.pl/d/oferta/rower-basso-konos-triathlon-czasowy-CID767-ID11Ebft.html
+https://www.olx.pl/d/oferta/rower-do-jazdy-na-czas-triathlon-basso-konos-piekny-i-bardzo-szybki-CID767-IDYiwky.html
+https://www.olx.pl/d/oferta/basso-carbon-konos-ultegra-di2-CID767-ID146yN8.html
+https://www.olx.pl/d/oferta/rower-triathlonowy-czasowy-tt-basso-konos-karbon-CID767-ID12Z6mB.html
+https://www.olx.pl/d/oferta/rower-czasowy-triathlon-canyon-speedmax-cf-ultegra-carbon-reynolds-CID767-ID17FVv2.html
+https://www.olx.pl/d/oferta/rower-czasowy-triathlon-carbon-giant-trinity-2-CID767-ID11U7X3.html
+https://www.olx.pl/d/oferta/rower-czasowy-triathlonowy-triathlon-trek-speedconcept-carbon-CID767-IDWDWW0.html
+https://www.olx.pl/d/oferta/rower-czasowy-triathlon-fuji-aloha-1-0-sram-shimano-r56-CID767-IDRrpuj.html
