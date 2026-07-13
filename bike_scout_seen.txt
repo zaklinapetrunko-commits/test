@@ -371,3 +371,23 @@ https://www.olx.pl/d/oferta/van-rysel-fcr-rozmiar-l-triathlon-ultegra-di2-CID767
 https://www.olx.pl/d/oferta/van-rysel-fcr-ultegra-di2-CID767-IDZNcsg.html
 https://www.olx.pl/d/oferta/van-rysel-fcr-xl-ultegra-di2-CID767-IDZX7il.html
 # --- 2026-07-13 run (sixteenth) — No new matches found. Direct fetch: All sites 403/blocked (SS.lv, OLX.pl, Allegro.pl, Allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Skelbiu.lt, Andel.lv). Via web search: 25+ queries across all 10 target sites. All candidates matched previously seen listings or failed filters. SS.lv: cdpkon (Specialized Shiv €2,500), bdffcn (Scott Plasma €1,000), cdkxli (54cm fails size), bxegpi (Cervelo P2 48cm fails size), cendeb (Felt B14 fails groupset — not Di2/SRAM Red) — all known. OLX.pl: Massi IDvJcRN (mechanical SRAM Red 10-speed), Felt IA ID18RPS3, Scott Plasma ID18Pri3 (mechanical), Cervelo P5 Six ID15nHFl (58cm) — all known/fail filters. Allegrolokalnie: Canyon Speedmax CF SLX L, Canyon CF7 Toruń, Felt DA4 Di2, Ribble Deda TT, Bottecchia Tri Di2 — all known. Skelbiu.lt: Giant Trinity SRAM AXS L (known). Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, MM.lv: no new qualifying listings. Telegram alerts: 0 sent — api.telegram.org inaccessible (HTTP 403 egress proxy, persistent restriction). Telegram alerts require network whitelist change or manual action.
+# --- 2026-07-13 run (seventeenth) — No new matches found. Direct fetch: All sites 403/blocked. Via web search: 30+ queries across all 10 target sites (SS.lv, SS.com, OLX.pl, Allegro.pl, Allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Skelbiu.lt, Andel.lv). New candidates checked but all failed filters:
+#   Allegrolokalnie Ridley Dean Fast Ultegra Di2 Grębocice (9,200 PLN) — size S, fails size filter
+#   Allegrolokalnie Ridley Dean Fast r S Głogów — size S, fails size filter
+#   Allegrolokalnie Fuji Norcom Straight 1.3 D Gdynia (9,300 PLN) — size 51cm M, fails size filter (51cm < 55cm min)
+#   Allegrolokalnie TT Carbon size S Tychy (12,500 PLN) — size S, fails size filter
+#   SS.com bjbixf — carbon SRAM 2x10 mechanical road/sport bike, fails groupset and type filters
+#   OLX.pl Canyon Speedmax CF M Di2 + Stages powermeter Kraków (ID11GnQb) — size M, fails size filter
+#   OLX.pl Canyon Speedmax CF SLX Ultegra Di2 size M Płońsk (ID12GJnS) — size M, fails size filter
+#   OLX.pl Canyon Speedmax CF 8.0 Ultegra Di2 size M (ID122R19) — size M, fails size filter
+#   OLX.pl Trek Speed Concept M Warszawa (IDWUsjw) — size M, fails size filter
+# Telegram alerts: 0 sent — api.telegram.org inaccessible (HTTP 403 egress proxy, persistent restriction). Telegram alerts require network whitelist change or manual action.
+https://allegrolokalnie.pl/oferta/rower-czasowy-ridley-dean-fast-ultegra-di2
+https://allegrolokalnie.pl/oferta/ridley-dean-fast-r-s-triathlon-rower-czasowy-itt
+https://allegrolokalnie.pl/oferta/rower-czasowy-triathlon-fuji-norcom-straight-1-3-d
+https://allegrolokalnie.pl/oferta/rower-czasowy-tt-carbon-rozm-s
+https://www.ss.com/msg/lv/transport/bycycles/highway-sports/bjbixf.html
+https://www.olx.pl/d/oferta/tt-canyon-speedmax-cf-m-di2-stages-powermeter-zipp-404-nsw-CID767-ID11GnQb.html
+https://www.olx.pl/d/oferta/canyon-speedmax-cf-slx-ultegra-di2-rozm-m-ceramic-speed-CID767-ID12GJnS.html
+https://www.olx.pl/d/oferta/canyon-speedmax-cf-8-0-ultegra-di2-rozmiar-m-CID767-ID122R19.html
+https://www.olx.pl/d/oferta/trek-speed-concept-m-triathlon-rower-triathlonowy-szosowy-karbon-CID767-IDWUsjw.html
