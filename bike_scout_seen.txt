@@ -396,3 +396,10 @@ https://allegro.pl/oferta/cervelo-p-series-ultegra-di2-rower-triathlonowy-wh-919
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bxhkxh.html
 https://www.ss.com/msg/lv/transport/bycycles/highway-sports/bxhkxh.html
 https://www.ss.com/msg/lv/transport/bycycles/highway-sports/cenecb.html
+# --- 2026-07-14 run (second) — No new matches found. Direct fetch: All sites 403/blocked (SS.lv, SS.com, OLX.pl, Allegro.pl, Allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Skelbiu.lt, Andel.lv). Via web search: 30+ queries across all 10 target sites. New candidates checked but failed filters: SS.com cdniki.html (carbon road bike 56L, Shimano 105 — not Di2, fails groupset and type filters); SS.com cefoji.html (Scott carbon gravel bike — fails type filter); OLX.pl ID153N8N (Stevens Super Trofeo TT L 56, Kiełczów — mechanical Ultegra, fails groupset filter); OLX.pl ID14mor1 (Specialized S-Works Transition carbon TT Oborniki — mechanical 2x10 Dura-Ace/Ultegra, fails groupset filter); OLX.pl ID150mOE (Canyon Speedmax CF 8.0 Di2 size M — fails size filter). No new qualifying TT/triathlon carbon Di2/SRAM Red L (55-57cm) listings found. Telegram alerts: 0 sent — api.telegram.org inaccessible (HTTP 403 egress proxy, persistent restriction). Seen list updated.
+https://www.ss.com/msg/lv/transport/bycycles/highway-sports/cdniki.html
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cdniki.html
+https://www.ss.com/msg/lv/transport/bycycles/highway-sports/cefoji.html
+https://www.olx.pl/d/oferta/rower-czasowy-triathlonowy-stevens-super-trofeo-tt-l-56-CID767-ID153N8N.html
+https://www.olx.pl/d/oferta/rower-tt-triathlon-specialized-s-works-transition-carbon-CID767-ID14mor1.html
+https://www.olx.pl/d/oferta/rower-triathlonowy-canyon-speedmax-cf-8-0-roz-m-di2-raty-0-CID767-ID150mOE.html
