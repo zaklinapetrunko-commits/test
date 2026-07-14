@@ -156,8 +156,7 @@ https://allegrolokalnie.pl/oferta/rower-czasowy-tt-carbon-tt-alu-dura-ace-di2
 https://allegrolokalnie.pl/oferta/rower-trathlonowy-tt-czasowy-triathlon-full-carbon
 https://allegrolokalnie.pl/oferta/rower-czasowy-tt-triathlon-pardus-karbon-carbon
 https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-fondriest-tf1-carbon-ultegra
-https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-ribble-deda-tt-carbon
-https://allegrolokalnie.pl/oferta/rower-czasowy-fuji-norcom-straight-13-triathlon
+https://allegrolokalnie.pl/oferta/rower-triathlonowy-ribble-deda-tt-carbon
 https://allegrolokalnie.pl/oferta/boardman-tte-najwyzszy-model-czasowka-tt-tri
 https://allegrolokalnie.pl/oferta/rower-triathlonowy-wilier-twin-blade-duraace-di2-l
 https://allegrolokalnie.pl/oferta/cannondale-slice-hi-mod-dura-ace-di2
@@ -334,3 +333,4 @@ https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/oxkfo.html
 # --- 2026-07-14 run — No new matches found. Direct fetch: SS.lv 403, OLX.pl 403, Autoplius.lt 403, Osta.ee 403, Okidoki.ee 403, Andel.lv ECONNREFUSED, Allegro.pl 403, Allegrolokalnie.pl 403. Via web search: scanned SS.lv, OLX.pl, Allegro.pl, Allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv — no new listings found passing all filter criteria (full carbon frame, triathlon/TT type, size L/56cm 55-57cm, Di2 or SRAM Red groupset, under €8000).
 # --- 2026-07-14 run (second) — No new matches found. Direct fetch: all sites 403/blocked. Via web search: scanned SS.lv/ss.com, OLX.pl, Allegro.pl, Allegrolokalnie.pl, Autoplius.lt (auto-only, no bikes), Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt. 1 unverifiable candidate found: OLX.pl Canyon Speedmax CF size L (IDvcvPg) — groupset unconfirmable, did not pass filter (Di2/SRAM Red unverified). No Telegram sent.
 # --- 2026-07-14 run (third) — No new matches found. Direct fetch: all sites 403/blocked. Via web search: scanned SS.lv/ss.com, OLX.pl, Allegro.pl, Allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt. 1 candidate found but failed filter: OLX.pl Argon 18 E-112 tri carbon (IDtXOyT) — Shimano Ultegra mechanical groupset (not Di2/SRAM Red). No new listings passed all criteria. No Telegram sent.
+# --- 2026-07-14 run (fourth) — No new matches found. Direct fetch: all sites 403/blocked. Via web search: scanned SS.lv (new: bkhelc S/M size — fails; cdkxli 54cm — fails), OLX.pl, Allegro.pl, Allegrolokalnie.pl (all previously seen), Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv (blocked), Skelbiu.lt. Candidates found but failed filter: SS.lv bkhelc (SRAM carbon Quarq, but size S-M not L); SS.lv cdkxli (TT velo, 54cm below 55-57cm range). No new listings passed all criteria. No Telegram sent.
