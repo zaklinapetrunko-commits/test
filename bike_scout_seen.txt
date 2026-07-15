@@ -13,7 +13,7 @@ https://allegrolokalnie.pl/oferta/rower-czasowy-tt-fuji-norcom-straight-1-3-di2-
 https://allegrolokalnie.pl/oferta/fuji-norcom-13-rozm-ml-527
 https://allegrolokalnie.pl/oferta/fuji-norcom-straight-ultegra-di2
 https://allegrolokalnie.pl/oferta/rower-czasowy-tt-avenger-tm6-carbon
-https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-orbea-ordu-m30-ltd-di2-poznan-triathlon-czasowka-fv
+https://allegrolokalnie.pl/oferta/rower-triathlonowy-czasowy-orbea-ordu-m30-ltd-di2-poznan-triathlon-czasowka-fv
 https://m.skelbiu.lt/skelbimai/giant-trinity-triatlono-dviratis-sram-axs-naujas-l-74636002.html
 https://allegro.pl/oferta/rower-czasowy-orbea-ordu-carbon-55-sram-zipp-mavic-7838383416
 https://allegro.pl/oferta/rower-czasowy-triathlonowy-bmc-timemachine-01-disc-one-roz-m-l-17141379570
@@ -338,3 +338,6 @@ https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/oxkfo.html
 # --- 2026-07-14 run (sixth) — No new matches found. Direct fetch: all sites 403/blocked. Via web search: scanned SS.lv (new candidate bxegpi: Cervélo P2 Carbon TT, size 48 — FAIL size too small), OLX.pl (new candidate IDs01lx: Guerciotti CRUX TT carbon, Shimano mechanical — FAIL groupset), Allegro.pl, Allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv (blocked), Skelbiu.lt. No new listings passed all filter criteria. Telegram: not sent (no new matches). Seen list updated.
 # --- 2026-07-14 run (seventh) — No new matches found. Direct fetch: all sites 403/blocked. Via web search: scanned SS.lv (bpcmfd 56cm carbon Ultegra — FAIL groupset not Di2/SRAM Red; bkhelc SRAM S-M — FAIL size; cdkxli 54cm TT — FAIL size; bxegpi 48cm TT — FAIL size), OLX.pl (IDKVyJC Felt FR2 SRAM Red 56cm — FAIL bike type road not TT/triathlon; IDQk60O Kuota KT5 size S Di2 — FAIL size), Allegro.pl, Allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv (blocked), Skelbiu.lt. No new listings passed all filter criteria. Telegram: not sent (no new matches). Seen list updated.
 # --- 2026-07-15 run — No new matches found. Direct fetch: all sites 403/blocked. Via web search: scanned SS.lv/ss.com, OLX.pl, Allegro.pl, Allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv (blocked), Skelbiu.lt. All returned listings match previously seen URLs. No new listings passed all filter criteria. Telegram: not sent (no new matches). Seen list updated.
+# --- 2026-07-15 run (second) — 1 new listing passed filter ---
+https://allegrolokalnie.pl/oferta/rower-triathlonowy-wilier-twin-blade-duraace-di2-l
+# Wilier Twin Blade DuraAce Di2 R9150 2x11, Size L, Kraków, 9000 PLN (~€2143), Zipp 404/808 wheels. Passes all filter criteria. Telegram: BLOCKED — api.telegram.org not accessible (exit code 56, network-level block). Manual review required — check listing directly.
