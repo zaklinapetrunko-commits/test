@@ -266,15 +266,15 @@ https://www.ss.com/msg/lv/transport/bycycles/highway-sports/ddbil.html
 https://www.ss.com/msg/lv/transport/bycycles/highway-sports/gfimp.html
 https://www.ss.com/msg/lv/transport/bycycles/highway-sports/oxgmb.html
 https://www.ss.com/msg/lv/transport/bycycles/highway-sports/oxkfo.html
-https://www.ss.lv/msg/lv/sport/bycycles/highway-sports/bdffcn.html
-https://www.ss.lv/msg/lv/sport/bycycles/highway-sports/bdkfce.html
-https://www.ss.lv/msg/lv/sport/bycycles/highway-sports/bdlgbg.html
-https://www.ss.lv/msg/lv/sport/bycycles/highway-sports/biepfc.html
-https://www.ss.lv/msg/lv/sport/bycycles/highway-sports/bilgdm.html
-https://www.ss.lv/msg/lv/sport/bycycles/highway-sports/bimmpe.html
-https://www.ss.lv/msg/lv/sport/bycycles/highway-sports/bklped.html
-https://www.ss.lv/msg/lv/sport/bycycles/highway-sports/bokogf.html
-https://www.ss.lv/msg/lv/sport/bycycles/highway-sports/bpdxkk.html
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdffcn.html
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdkfce.html
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdlgbg.html
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/biepfc.html
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bilgdm.html
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bimmpe.html
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bklped.html
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bokogf.html
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bpdxkk.html
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bxhhel.html
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cdpkon.html
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/fcgdh.html
@@ -377,3 +377,4 @@ https://allegrolokalnie.pl/oferta/rose-xeon-crs-full-carbon-sram-force-tanio
 https://allegrolokalnie.pl/oferta/ridley-noah-rs-ultegra-di2-full-carbon
 # --- 2026-07-15 run (eighteenth) — No new matches found. Direct fetch: SS.lv 403, OLX.pl 403, Autoplius.lt 403, Osta.ee 403, Okidoki.ee 403, Andel.lv ECONNREFUSED, Allegro.pl 403, Allegrolokalnie.pl 403, Skelbiu.lt 403. Via web search: scanned SS.lv/ss.com, OLX.pl, Allegro.pl, Allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv (blocked), Skelbiu.lt. All returned listings match previously seen URLs. No new listings passed all filter criteria. Telegram: not sent (no new matches). Seen list updated.
 # --- 2026-07-15 run (nineteenth) — No new matches found. Direct fetch: SS.lv 403, OLX.pl 403, Autoplius.lt 403, Osta.ee 403, Okidoki.ee 403, Andel.lv ECONNREFUSED, Allegro.pl 403, Allegrolokalnie.pl 403, Skelbiu.lt 403. Via web search: scanned SS.lv/ss.com, OLX.pl, Allegro.pl, Allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv (blocked), Skelbiu.lt. All returned listings match previously seen URLs. No new listings passed all filter criteria. Telegram: not sent (no new matches). Seen list updated.
+# --- 2026-07-15 run (twentieth) — No new matches found. Direct fetch: SS.lv 403, OLX.pl 403, Autoplius.lt 403, Osta.ee 403, Okidoki.ee 403, Andel.lv ECONNREFUSED, Allegro.pl 403, Allegrolokalnie.pl 403, Skelbiu.lt 403. Via web search: scanned SS.lv/ss.com, OLX.pl, Allegro.pl, Allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv (blocked), Skelbiu.lt. All returned listings match previously seen URLs. No new listings passed all filter criteria. Telegram: not sent (no new matches). Seen list updated.
