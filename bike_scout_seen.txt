@@ -361,3 +361,6 @@ https://www.olx.pl/d/oferta/trek-speed-concept-m-triathlon-rower-triathlonowy-sz
 https://allegro.pl/oferta/rower-szosowy-triathlonowy-tt-boarmdan-tte-shimano-ultegra-17412425497
 https://allegro.pl/oferta/rower-triathlonowy-apex-skylar-carbon-ultegra-roz-54-17472696488
 https://www.olx.pl/oferta/rower-triathlonowy-felt-b14-rozmiar-56-z-rama-karbonowa-doinwestowany-CID767-IDGF638.html
+# --- 2026-07-15 run (thirteenth) — No new matches found. Direct fetch: all sites 403/blocked (SS.lv, OLX.pl, Allegro.pl, Allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Skelbiu.lt) / ECONNREFUSED (Andel.lv). Via web search: scanned SS.lv/ss.com, OLX.pl, Allegro.pl, Allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv (blocked), Skelbiu.lt. Candidates evaluated but failed filter: Allegrolokalnie rower-czasowy-fuji-norcom-straight-13-triathlon (Fuji Norcom Straight 1.3 Di2, Olkusz, 19500 PLN — FAIL size 53cm M/L); Allegrolokalnie rower-czasowy-triathlon-fuji-norcom-straight-1-3-d (Fuji Norcom Straight 1.3, Gdynia, 9300 PLN — FAIL size 51cm M). No new listings passed all filter criteria. Telegram: not sent (no new matches). Seen list updated.
+https://allegrolokalnie.pl/oferta/rower-czasowy-fuji-norcom-straight-13-triathlon
+https://allegrolokalnie.pl/oferta/rower-czasowy-triathlon-fuji-norcom-straight-1-3-d
