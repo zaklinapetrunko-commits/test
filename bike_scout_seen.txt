@@ -100,7 +100,7 @@ https://allegrolokalnie.pl/oferta/rower-triathlonowy-cervelo-p5-di2-56-carbon-go
 https://allegrolokalnie.pl/oferta/rower-triathlonowy-cervelo-p5-di2-56-carbon-gotowy-do-startu-v2
 https://allegrolokalnie.pl/oferta/rower-triathlonowy-cervelo-p5-di2-l-56cm-z-kolami-zipp
 https://allegrolokalnie.pl/oferta/cervelo-p5-ps3
-https://allegrolokalnie.pl/oferta/rower-triathlonowy-tt-cervelo-pseries-105-56-cm
+https://allegrolokalnie.pl/oferta/rower-triathlonowy-tt-cervelo-pseries-r58
 https://allegrolokalnie.pl/oferta/rower-triathlonowy-cervelo-pseries-r58
 https://allegrolokalnie.pl/oferta/rower-triathlonowy-cervelo-p3-vw5
 https://allegrolokalnie.pl/oferta/sprzedam-cervelo-p2
@@ -242,3 +242,7 @@ https://allegro.pl/oferta/rower-triathlonowy-ceepo-viper-28-r-l-shimano-105-di2-
 https://www.ss.com/msg/lv/transport/bycycles/highway-sports/cdheko.html
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cdheko.html
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cdhhpc.html
+# --- 2026-07-17 run (thirty-second) — No new matches found. Direct fetch: SS.lv 403, SS.com 403, OLX.pl 403, Autoplius.lt no qualifying results, Osta.ee no qualifying results, Okidoki.ee no qualifying results, Andel.lv ECONNREFUSED, Allegro.pl category pages only, Allegrolokalnie.pl no new qualifying results, Skelbiu.lt no new qualifying results. Via web search: scanned SS.lv/ss.com, OLX.pl, Allegro.pl, Allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv (blocked), Skelbiu.lt. Search terms: triatlona velosipeds TT carbon Di2 SRAM Red izmers L 56 ss.lv ss.com jauns 2026, rower triathlonowy carbon Di2 SRAM Red rozmiar L 56 allegrolokalnie.pl lipiec 2026, rower triathlonowy TT carbon Di2 SRAM Red rozmiar L 56 allegro.pl lipiec 2026, rower triathlonowy carbon Di2 SRAM Red rozmiar L 56 OLX.pl lipiec 2026, triathlon bike carbon Di2 SRAM Red L 56 osta.ee okidoki.ee autoplius.lt July 2026, triatlono dviratis carbon SRAM Red Di2 L 56 skelbiu.lt autoplius.lt 2026, canyon speedmax cervelo p5 trek BMC triathlon carbon Di2 SRAM Red L 56 sprzedam olx allegrolokalnie July 2026, rower triathlonowy carbon Di2 SRAM Red L 56 OLX allegrolokalnie nowy lipiec 2026, ss.lv ss.com triatlona velosipeds carbon TT Di2 Dura-Ace SRAM Red julijs 2026, specialized shiv canyon speedmax cervelo trek BMC triathlon carbon Di2 SRAM Red size L sprzedam nowe ogloszenie 2026. Candidates evaluated but failed filter: (1) Allegrolokalnie.pl rower-triathlonowy-tt-cervelo-pseries-105-56-cm — Cervelo P-Series 105, 56cm (FAIL: Shimano 105 groupset, not Di2/SRAM Red); (2) Allegro.pl 17472696488 — APEX SKYLAR CARBON ULTEGRA size 54 (FAIL: size 54cm out of range, Ultegra not Di2/SRAM Red); (3) Allegro.pl 17412425497 — Boardman TTE Shimano Ultegra (FAIL: Ultegra not Di2/SRAM Red); (4) SS.COM/SS.LV cendeb — Felt B14 karbona triatlona 58cm €950 (FAIL: size 58cm outside 55-57cm range). No new listings passed all filter criteria. Telegram: not sent (no new matches). Seen list updated.
+https://allegrolokalnie.pl/oferta/rower-triathlonowy-tt-cervelo-pseries-105-56-cm
+https://allegro.pl/oferta/rower-triathlonowy-apex-skylar-carbon-ultegra-roz-54-17472696488
+https://allegro.pl/oferta/rower-szosowy-triathlonowy-tt-boarmdan-tte-shimano-ultegra-17412425497
