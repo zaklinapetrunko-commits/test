@@ -339,3 +339,9 @@ https://www.olx.pl/d/oferta/pinarello-bolide-tt-rower-czasowy-triathlonowy-rama-
 # Telegram: BLOCKED — api.telegram.org not in network egress allowlist
 # New listings found but UNCERTAIN (documented to prevent re-evaluation):
 # UNCERTAIN (BMC Timemachine 02 Ultegra Di2, Wrocław, 7,999 PLN — size unconfirmable, direct fetch 403): https://www.olx.pl/d/oferta/rower-czasowy-bmc-timemachine-02-ultegra-di2-dura-ace-CID767-ID11GcNq.html
+# --- 2026-07-18 run (ninth) — No new matches found ---
+# Sites checked (direct fetch blocked 403): SS.lv, OLX.pl, Allegro.pl, allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt
+# Via web search: ~20 new candidates evaluated; 0 passed all filter criteria
+# Telegram: BLOCKED — api.telegram.org not in network egress allowlist
+# New listings found but UNCERTAIN (documented to prevent re-evaluation):
+# UNCERTAIN (EVO MAX Kronos R-9 carbon TT bike, SRAM Red in title — size/price unconfirmable, direct fetch 403): https://www.olx.pl/d/oferta/rower-triathlonowy-evo-kronos-r-9-carbon-sram-red-CID767-ID15a5Ze.html
