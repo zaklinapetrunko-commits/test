@@ -305,3 +305,11 @@ https://www.olx.pl/d/oferta/pinarello-bolide-tt-rower-czasowy-triathlonowy-rama-
 # UNCERTAIN (Shiv S-Works L €1,800, groupset unconfirmable — direct fetch 403): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bxhkxh.html
 # UNCERTAIN (Dolan TT Carbon Dura-Ace, size/Di2 unconfirmable — direct fetch 403): https://allegrolokalnie.pl/oferta/rower-czasowy-dolan-tt-carbon-triathlon-dura-ace
 # UNCERTAIN (Stevens Super Trofeo TT L 56, groupset likely Ultegra mechanical): https://www.olx.pl/d/oferta/rower-czasowy-triathlonowy-stevens-super-trofeo-tt-l-56-CID767-ID153N8N.html
+# --- 2026-07-18 run (fifth) — No new matches found ---
+# Sites checked (direct fetch blocked 403): SS.lv, OLX.pl, Allegro.pl, allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt
+# Via web search: ~20 new candidates evaluated; 0 passed all filter criteria
+# Telegram: BLOCKED — api.telegram.org not in network egress allowlist
+# New listings found but FAILED filter criteria:
+# UNCERTAIN (SS.lv bklped, carbon €2,500, NOT confirmed TT/triathlon type, groupset/size unknown): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bklped.html
+# FAIL (M/L = 53cm, too small per Fuji size chart): https://allegrolokalnie.pl/oferta/rower-czasowy-fuji-norcom-straight-13-triathlon — Fuji Norcom Straight 1.3 Di2, 19,500 PLN (~€4,560), Olkusz
+# FAIL (M = 51cm, too small): https://allegrolokalnie.pl/oferta/rower-czasowy-triathlon-fuji-norcom-straight-1-3-d — Fuji Norcom Straight 1.3, 9,300 PLN, Gdynia
