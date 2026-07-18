@@ -252,7 +252,7 @@ https://allegrolokalnie.pl/oferta/rower-triathlonowy-cervelo-p5-disc-di2-l56-202
 # Sites checked: SS.lv (403), OLX.pl (403), Allegro.pl (403), allegrolokalnie.pl (403), Autoplius.lt (no matches), Osta.ee (no matches), Okidoki.ee (no matches), Andel.lv (no results)
 # Via web search: 15+ candidate listings evaluated; 1 passed all filter criteria
 # Telegram: BLOCKED — api.telegram.org not in network egress allowlist (proxy 403)
-# New listing (filter PASS, Telegram BLOCKED):
+# New listing (filter PASS, Telegram BLOCKED — requires manual review):
 https://allegrolokalnie.pl/oferta/rower-cervelo-p5-ps3
 # New listings found but FAILED filter criteria (documented to prevent re-evaluation):
 # FAIL (road bike, not TT): https://www.olx.pl/d/oferta/van-rysel-fcr-rozmiar-l-triathlon-ultegra-di2-CID767-IDVVkn2.html
@@ -275,3 +275,14 @@ https://allegrolokalnie.pl/oferta/rower-triathlonowy-wilier-twin-blade-duraace-d
 # FAIL (54cm too small): https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-felt-da4-ultegra-di2
 # UNCERTAIN (groupset unconfirmable from search snippets): https://www.ss.lv/msg/ru/transport/bycycles/highway-sports/cdpkon.html
 # FAIL (SRAM unspecified level, price €1,000 suggests not Red): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdffcn.html
+# --- 2026-07-18 run (third) — No new matches found ---
+# Sites checked (direct fetch blocked 403): SS.lv, OLX.pl, Allegro.pl, allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt
+# Via web search: ~15 new candidates evaluated; 0 passed all filter criteria
+# Telegram: BLOCKED — api.telegram.org not in network egress allowlist
+# New listings found but FAILED filter criteria:
+# FAIL (48cm too small): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bxegpi.html — Cervelo P2 Carbon TT 48cm €1,760
+# FAIL (M size ~52-54cm): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bxhhel.html — Canyon Speedmax CF 8.0 M €2,890
+# FAIL (road bike Aeroad): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/heogb.html — Canyon Aeroad CF SLX Di2 €2,999
+# FAIL (gravel bike): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cdkhdh.html — Cervelo Apex Gravel L/56
+# FAIL (aluminum, M size): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdlgbg.html — aluminum triathlon M €1,100
+# UNCERTAIN (size not confirmed from search, listing at shop price 29,999 PLN ~€7,143): https://www.olx.pl/d/oferta/nowy-rower-triathlonowy-felt-ia-2-0-expert-ultegra-di2-12s-super-cena-CID767-ID18RPS3.html — Felt IA 2.0 Expert Ultegra Di2 12s new
