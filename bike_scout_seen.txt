@@ -322,3 +322,14 @@ https://www.olx.pl/d/oferta/pinarello-bolide-tt-rower-czasowy-triathlonowy-rama-
 # FAIL (Shimano 105 mechanical, not Di2/SRAM Red): https://allegrolokalnie.pl/oferta/argon-18-e112-rower-triathlonowy-carbon-rama-l — Argon 18 E-112 carbon triathlon L Pawlikowice
 # FAIL (Shimano Ultegra 2x10 mechanical, not Di2/SRAM Red): https://allegrolokalnie.pl/oferta/rower-triathlonowy-czasowy-scott-plasma-20 — Scott Plasma 20 Bydgoszcz 5,300 PLN
 # FAIL (road bike Cervelo S5, not TT/triathlon): https://allegrolokalnie.pl/oferta/cervelo-s5-r-56-shimano-ultegra-di2-lightweight — Cervelo S5 56 Ultegra Di2 Lightweight
+# --- 2026-07-18 run (seventh) — No new matches found ---
+# Sites checked (direct fetch blocked 403): SS.lv, OLX.pl, Allegro.pl, allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt
+# Via web search: ~25 new candidates evaluated; 0 passed all filter criteria
+# Telegram: BLOCKED — api.telegram.org not in network egress allowlist
+# New listings found but FAILED filter criteria (documented to prevent re-evaluation):
+# UNCERTAIN (Cervelo P3 56cm "Dura-Ace/Ultegra" unconfirmed Di2, 9,200 PLN, Grójec): https://allegrolokalnie.pl/oferta/rower-triathlonowy-cervelo-p3-vw5
+# UNCERTAIN (Cervelo P3 TT, groupset Di2 unconfirmed): https://allegrolokalnie.pl/oferta/rower-czasowy-triathlon-cervelo-p3
+# UNCERTAIN (carbon 56 TT with Profile Design aerobars, brand/groupset unknown): https://www.olx.pl/d/oferta/rower-carbonowy-56-traithlonowy-tt-czasowy-profile-design-CID767-IDuf6Qh.html
+# FAIL (SRAM Red 10-speed mechanical, not eTap AXS electronic): https://www.olx.pl/oferta/rower-czasowy-massi-rower-triathlonowy-carbon-CID767-IDvJcRN.html
+# FAIL (TT €450, mechanical "full shifters"): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/oxgmb.html
+# FAIL (TT 59cm too large, €280): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdphlg.html
