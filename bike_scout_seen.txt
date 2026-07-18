@@ -286,3 +286,22 @@ https://allegrolokalnie.pl/oferta/rower-triathlonowy-wilier-twin-blade-duraace-d
 # FAIL (gravel bike): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cdkhdh.html — Cervelo Apex Gravel L/56
 # FAIL (aluminum, M size): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdlgbg.html — aluminum triathlon M €1,100
 # UNCERTAIN (size not confirmed from search, listing at shop price 29,999 PLN ~€7,143): https://www.olx.pl/d/oferta/nowy-rower-triathlonowy-felt-ia-2-0-expert-ultegra-di2-12s-super-cena-CID767-ID18RPS3.html — Felt IA 2.0 Expert Ultegra Di2 12s new
+# --- 2026-07-18 run (fourth) — 1 new listing passed filter ---
+# Sites checked (direct fetch blocked 403): SS.lv, OLX.pl, Allegro.pl, allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt
+# Via web search: ~20 new candidates evaluated; 1 passed all filter criteria
+# Telegram: BLOCKED — api.telegram.org curl exit 56 (recv error), proxy deny-list persists
+# New listing (filter PASS, Telegram BLOCKED — requires manual review):
+https://www.olx.pl/d/oferta/pinarello-bolide-tt-rower-czasowy-triathlonowy-rama-l-CID767-ID10QusN.html
+# Confirmed specs: Pinarello Bolide TT, full carbon, Size L (56cm, 176-182cm rider), SRAM Red eTap AXS 1x12, Quarq dual-sided power meter, SPD pedals, 23,900 PLN (~€5,578), Warszawa Bielany
+# *** REQUIRES MANUAL CHECK — Telegram alert could not be sent ***
+# FAIL (size MS too small): https://www.olx.pl/oferta/bmc-timemachine-02-triathlon-sram-red-etap-CID767-IDw0rzr.html — BMC Timemachine 02, SRAM Red eTap, 12,999 PLN
+# FAIL (Shimano 105, not Di2/SRAM Red): https://allegrolokalnie.pl/oferta/rower-triathlonowy-tt-cervelo-pseries-105-56-cm — Cervelo P-Series 105 56cm
+# FAIL (Ultegra 6700 mechanical, size S): https://allegrolokalnie.pl/oferta/merida-warp-tt-lampre-czasowy-triathlonowy — Merida Warp TT LAMPRE
+# FAIL (54cm too small): https://allegrolokalnie.pl/oferta/rower-triathlonowy-cervelo-p2-r54-y5z — Cervelo P2 54cm
+# FAIL (58cm too large): https://allegrolokalnie.pl/oferta/rower-czasowy-cervelo-p2-triathlon-rozmiar-58 — Cervelo P2 58cm
+# FAIL (road bike, 58cm): https://allegrolokalnie.pl/oferta/cervelo-s5-disc-ultegra-di2-dt-swiss-58cm-nowy — Cervelo S5 road
+# FAIL (size S-M too small): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bkhelc.html — S-M frame, SRAM, Quarq power €1,550
+# FAIL (54cm too small): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cdkxli.html — M/L 54cm TT velo €480
+# UNCERTAIN (Shiv S-Works L €1,800, groupset unconfirmable — direct fetch 403): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bxhkxh.html
+# UNCERTAIN (Dolan TT Carbon Dura-Ace, size/Di2 unconfirmable — direct fetch 403): https://allegrolokalnie.pl/oferta/rower-czasowy-dolan-tt-carbon-triathlon-dura-ace
+# UNCERTAIN (Stevens Super Trofeo TT L 56, groupset likely Ultegra mechanical): https://www.olx.pl/d/oferta/rower-czasowy-triathlonowy-stevens-super-trofeo-tt-l-56-CID767-ID153N8N.html
