@@ -264,3 +264,14 @@ https://allegrolokalnie.pl/oferta/rower-cervelo-p5-ps3
 # FAIL (road bike, TIME NXR): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bpdhxh.html
 # UNCERTAIN (specs unconfirmable): https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-tt-avenger-tm6-carbon
 # UNCERTAIN (specs unconfirmable): https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-ribble-deda-tt-carbon
+# --- 2026-07-18 run (second) — 1 new listing passed filter ---
+# Sites checked (direct fetch blocked 403): SS.lv, OLX.pl, Allegro.pl, allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv
+# Via web search: 12 candidate listings evaluated; 1 passed all filter criteria
+# Telegram: BLOCKED — api.telegram.org:443 confirmed in proxy deny-list (403 connect_rejected)
+# New listing (filter PASS, Telegram BLOCKED — requires manual review):
+https://allegrolokalnie.pl/oferta/rower-triathlonowy-wilier-twin-blade-duraace-di2-l
+# Confirmed specs: Wilier Twin Blade carbon TT/tri frame, Shimano Dura-Ace Di2 R9150 2x11, Size L (178cm), Zipp 404/808, 9,000 PLN (~€2,100), Kraków
+# FAIL (51/53cm too small): https://allegrolokalnie.pl/oferta/rower-triathlonowy-bottecchia-tri-di2-mavic
+# FAIL (54cm too small): https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-felt-da4-ultegra-di2
+# UNCERTAIN (groupset unconfirmable from search snippets): https://www.ss.lv/msg/ru/transport/bycycles/highway-sports/cdpkon.html
+# FAIL (SRAM unspecified level, price €1,000 suggests not Red): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdffcn.html
