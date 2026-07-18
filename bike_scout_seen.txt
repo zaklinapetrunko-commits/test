@@ -294,3 +294,8 @@ https://www.olx.pl/d/oferta/canyon-speedmax-al-f8-rower-triathlonowy-pomiar-mocy
 https://m.skelbiu.lt/skelbimai/bmc-timemachine-02-three-triatlono-dviratis-78359069.html
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/blpnnj.html
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cdoxni.html
+
+# --- 2026-07-18 run (fifty-first) — No new matches found. Direct fetch: SS.lv 403, SS.com 403, OLX.pl 403, Autoplius.lt 403, Osta.ee 403, Okidoki.ee 403, Andel.lv unreachable, Allegro.pl 403, Allegrolokalnie.pl 403, Skelbiu.lt 403. Via web search: scanned all 10 target sites with 14+ search queries. Candidates evaluated but failed filter: (1) SS.LV/SS.COM cdniki — carbon frame 56cm (L) €1,500, not confirmed TT/triathlon type, groupset unconfirmed (not Di2/SRAM Red); (2) OLX.pl IDKVyJC — Felt FR2 SRAM Red 56cm (FAIL: FR2 is aero road bike, not TT/triathlon type). All other returned URLs already in seen list. No new listings passed all filter criteria. Telegram: not sent (no new matches). Seen list updated.
+https://www.ss.com/msg/lv/transport/bycycles/highway-sports/cdniki.html
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cdniki.html
+https://www.olx.pl/d/oferta/rower-felt-fr-2-sram-red-pomiar-quarq-top-56cm-zamiana-CID767-IDKVyJC.html
