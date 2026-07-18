@@ -333,3 +333,9 @@ https://www.olx.pl/d/oferta/pinarello-bolide-tt-rower-czasowy-triathlonowy-rama-
 # FAIL (SRAM Red 10-speed mechanical, not eTap AXS electronic): https://www.olx.pl/oferta/rower-czasowy-massi-rower-triathlonowy-carbon-CID767-IDvJcRN.html
 # FAIL (TT €450, mechanical "full shifters"): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/oxgmb.html
 # FAIL (TT 59cm too large, €280): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdphlg.html
+# --- 2026-07-18 run (eighth) — No new matches found ---
+# Sites checked (direct fetch blocked 403): SS.lv, OLX.pl, Allegro.pl, allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt
+# Via web search: ~25 new candidates evaluated; 0 passed all filter criteria
+# Telegram: BLOCKED — api.telegram.org not in network egress allowlist
+# New listings found but UNCERTAIN (documented to prevent re-evaluation):
+# UNCERTAIN (BMC Timemachine 02 Ultegra Di2, Wrocław, 7,999 PLN — size unconfirmable, direct fetch 403): https://www.olx.pl/d/oferta/rower-czasowy-bmc-timemachine-02-ultegra-di2-dura-ace-CID767-ID11GcNq.html
