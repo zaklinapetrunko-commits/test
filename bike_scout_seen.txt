@@ -197,6 +197,7 @@ https://allegrolokalnie.pl/oferta/rower-triathlonowy-cervelo-p5-disc-di2-rozmiar
 https://allegrolokalnie.pl/oferta/rower-triathlonowy-cervelo-p5-l-sram-red-axs-2025
 https://allegrolokalnie.pl/oferta/rower-triathlonowy-cervelo-p5-l-di2-ultegra-2025
 https://allegrolokalnie.pl/oferta/rower-triathlonowy-cervelo-p5-l-di2-ultegra-2025-1
+https://allegrolokalnie.pl/oferta/rower-triathlonowy-cervelo-p5-l-sram-red-axs-2025
 https://allegrolokalnie.pl/oferta/rower-triathlonowy-cervelo-p5-sram-red-axs-l-2025
 https://allegrolokalnie.pl/oferta/rower-triathlonowy-cervelo-p5-disc-sram-red-axs-l-2025
 https://allegrolokalnie.pl/oferta/rower-triathlonowy-cervelo-p5-disc-sram-red-axs-56-2025
@@ -420,3 +421,12 @@ https://m.skelbiu.lt/skelbimai/orbea-tt-ordu-m20i-di2-2018-l-dydis-73766133.html
 # FAIL (SRAM Rival, not SRAM Red): https://allegrolokalnie.pl/oferta/planet-x-rower-tt-triathlon-full-carbon — Planet X TT full carbon 56cm Warsaw, 4,200 PLN
 # FAIL (size 52 too small, Shimano 105): https://allegrolokalnie.pl/oferta/planet-x-stealth-rower-czasowytriathlonowytt — Planet X Stealth Rzeszów
 # FAIL (mechanical Ultegra 6700, size S): https://allegrolokalnie.pl/oferta/rower-czasowy-tt-triathlonowy-szosa-argon-18 — Argon 18 TT Warsaw, 4,900 PLN
+# --- 2026-07-19 run (ninth) — 1 new listing passed filter ---
+# Sites checked (direct fetch blocked 403): SS.lv, OLX.pl, Allegro.pl, allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv (ECONNREFUSED), Skelbiu.lt
+# Via web search: ~30 candidate listings evaluated; 1 passed all filter criteria
+# Telegram: BLOCKED — api.telegram.org curl exit 56, proxy deny-list persists
+# New listing (filter PASS, Telegram BLOCKED — requires manual review):
+https://allegrolokalnie.pl/oferta/rower-triathlonowy-kestrel
+# Confirmed specs: Kestrel 4000 LTD Di2, full carbon (high-modulus), TT/triathlon bike, Size L (57.5cm), Shimano Dura-Ace Di2, Profile Design Volna aerobars, Vision TriMax Aero Carbon crank, Oval Concepts wheels, ~3,500km, 12,500 PLN (~€2,917), Sopot
+# *** REQUIRES MANUAL CHECK — Telegram alert could not be sent ***
+# UNCERTAIN (OLX — TT triathlon SRAM Red AXS 12 "SR M" in title, size M suspected — direct fetch 403): https://www.olx.pl/d/oferta/tt-triathlon-sram-red-axs-12-sr-m-CID767-IDSsUsR.html
