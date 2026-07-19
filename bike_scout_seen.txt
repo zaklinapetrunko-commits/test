@@ -477,3 +477,15 @@ https://allegrolokalnie.pl/oferta/rower-triathlonowy-kestrel
 # New listings found but FAILED filter criteria (documented to prevent re-evaluation):
 # FAIL (size M, not L): https://www.olx.pl/d/oferta/trek-speed-concept-di2-m-triathlon-rower-triathlonowy-szosa-CID767-IDWOwY6.html — Trek Speed Concept Di2 size M, Warszawa Włochy
 # No new listings passed all filter criteria — all known qualifying candidates already in seen list
+# --- 2026-07-19 run (eighteenth) — No new matches found ---
+# Sites checked (direct fetch blocked 403/ECONNREFUSED): SS.lv, OLX.pl, Allegro.pl, allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv (ECONNREFUSED), Skelbiu.lt
+# Via web search: ~25 candidate listings evaluated; 0 passed all filter criteria
+# Telegram: BLOCKED — api.telegram.org not in network egress allowlist (proxy deny-list persists all runs)
+# No new listings found — all known qualifying candidates already in seen list
+# New listings found but FAILED filter criteria (documented to prevent re-evaluation):
+# FAIL (Shimano 105 mechanical, not Di2/SRAM Red): https://www.olx.pl/d/oferta/rower-triathlonowy-czasowy-bmc-time-machine-02-rozmiar-l-CID767-ID13asQS.html — BMC Time Machine 02 size L Gdańsk, Shimano 105 mechanical
+# FAIL (gravel bike, not TT/triathlon): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bokogf.html — Merida Mission 6000 gravel carbon €1,500
+# FAIL (road bike Synapse, not TT/triathlon, size M 54cm): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cdhhpc.html — Cannondale Synapse 54cm M Force €700
+# FAIL (road bike TCR, not TT/triathlon): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/biicei.html — Giant TCR Advanced 1+ Di2 2024 M/ML €1,800
+# FAIL (Ultegra 6800 mechanical, not Di2/SRAM Red): https://www.olx.pl/oferta/rower-szosowy-szosa-argon-18-e-112-tri-carbon-shimano-triathlon-CID767-IDtXOyT.html — Argon 18 E-112 Poznań, Shimano Ultegra 6800 mechanical
+# UNCERTAIN (groupset unconfirmable — direct fetch 403, Argon 18 E-112 carbon TT with Token wheels): https://allegro.pl/oferta/rower-szosowe-czasowy-triathlon-tt-argon-18-e-112-kola-token-17099886377
