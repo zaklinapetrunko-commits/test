@@ -169,10 +169,11 @@ https://allegrolokalnie.pl/oferta/rower-triathlonowy-cervelo-p5x-ultegra-di2-l
 https://allegrolokalnie.pl/oferta/rower-triathlonowy-cervelo-p5x-di2-ultegra-l-56
 https://allegrolokalnie.pl/oferta/rower-triathlonowy-cervelo-p5x-di2-dura-ace-56
 https://allegrolokalnie.pl/oferta/rower-triathlonowy-cervelo-p5x-dura-ace-di2-56
+https://allegrolokalnie.pl/oferta/rower-triathlonowy-cervelo-p5x-di2-l-56
 https://allegrolokalnie.pl/oferta/rower-triathlonowy-cervelo-p5x-di2-l-56-2
 https://allegrolokalnie.pl/oferta/rower-triathlonowy-cervelo-p5x-di2-l-56-3
 https://allegrolokalnie.pl/oferta/cervelo-p5x-di2-sram-l-56
-https://allegrolokalnie.pl/oferta/rower-triathlonowy-cervelo-p5x-di2-56-l-2018
+https://allegrolokalnie.pl/oferta/rower-triathlonowy-cervelo-p5x-di2-l-56-2018
 https://allegrolokalnie.pl/oferta/rower-triathlonowy-cervelo-p5x-sram-red-axs-zipp-l56-2
 https://allegrolokalnie.pl/oferta/rower-triathlonowy-cervelo-p5x-di2-l-2021
 https://allegrolokalnie.pl/oferta/cervelo-p5x-sram-etap-red-axs-l-zipp
@@ -273,7 +274,7 @@ https://allegrolokalnie.pl/oferta/rower-triathlonowy-wilier-twin-blade-duraace-d
 # Confirmed specs: Wilier Twin Blade carbon TT/tri frame, Shimano Dura-Ace Di2 R9150 2x11, Size L (178cm), Zipp 404/808, 9,000 PLN (~€2,100), Kraków
 # FAIL (51/53cm too small): https://allegrolokalnie.pl/oferta/rower-triathlonowy-bottecchia-tri-di2-mavic
 # FAIL (54cm too small): https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-felt-da4-ultegra-di2
-# UNCERTAIN (groupset unconfirmable from search snippets): https://www.ss.lv/msg/ru/transport/bycycles/highway-sports/cdpkon.html
+# UNCERTAIN (groupset Di2 unconfirmed): https://www.ss.lv/msg/ru/transport/bycycles/highway-sports/cdpkon.html
 # FAIL (SRAM unspecified level, price €1,000 suggests not Red): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdffcn.html
 # --- 2026-07-18 run (third) — No new matches found ---
 # Sites checked (direct fetch blocked 403): SS.lv, OLX.pl, Allegro.pl, allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt
@@ -345,3 +346,10 @@ https://www.olx.pl/d/oferta/pinarello-bolide-tt-rower-czasowy-triathlonowy-rama-
 # Telegram: BLOCKED — api.telegram.org not in network egress allowlist
 # New listings found but UNCERTAIN (documented to prevent re-evaluation):
 # UNCERTAIN (EVO MAX Kronos R-9 carbon TT bike, SRAM Red in title — size/price unconfirmable, direct fetch 403): https://www.olx.pl/d/oferta/rower-triathlonowy-evo-kronos-r-9-carbon-sram-red-CID767-ID15a5Ze.html
+# --- 2026-07-19 run — No new matches found ---
+# Sites checked (direct fetch blocked 403): SS.lv, OLX.pl, Allegro.pl, allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv (ECONNREFUSED), Skelbiu.lt
+# Via web search: ~30 candidate listings evaluated; 0 passed all filter criteria
+# Telegram: BLOCKED — api.telegram.org not in network egress allowlist
+# New listings found but FAILED filter criteria (documented to prevent re-evaluation):
+# FAIL (Dura Ace mechanical, not Di2/SRAM Red): https://www.olx.pl/d/oferta/rower-triathlonowy-felt-b2-roz-56-karbon-CID767-IDZb5eo.html — Felt B2 56cm, Dura Ace mechanical SRAM cassette, 4,900 PLN, Malbork
+# STILL UNCERTAIN (size/price unconfirmable — direct fetch 403, SRAM Red in title but version unknown): https://www.olx.pl/d/oferta/rower-triathlonowy-evo-kronos-r-9-carbon-sram-red-CID767-ID15a5Ze.html
