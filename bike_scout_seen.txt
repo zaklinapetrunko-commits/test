@@ -403,3 +403,12 @@ https://m.skelbiu.lt/skelbimai/orbea-tt-ordu-m20i-di2-2018-l-dydis-73766133.html
 # New listings found but FAILED filter criteria:
 # FAIL (size S, not L): https://allegrolokalnie.pl/oferta/ridley-dean-fast-r-s-triathlon-rower-czasowy-itt — Ridley Dean Fast r S triathlon ITT, size S, Głogów
 # FAIL (size S, not L): https://allegrolokalnie.pl/oferta/rower-czasowy-ridley-dean-fast-ultegra-di2 — Ridley Dean Fast Ultegra Di2, size S, 9,200 PLN, Grębocice
+# --- 2026-07-19 run (seventh) — No new matches found ---
+# Sites checked (direct fetch blocked 403): SS.lv, OLX.pl, Allegro.pl, allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv (ECONNREFUSED), Skelbiu.lt
+# Via web search: ~40 candidate listings evaluated; 0 passed all filter criteria
+# Telegram: BLOCKED — api.telegram.org not in network egress allowlist
+# New listings found but FAILED filter criteria (documented to prevent re-evaluation):
+# FAIL (Shimano 105, not Di2/SRAM Red): https://allegrolokalnie.pl/oferta/rower-triathlonowy-bh-aerolight-rc-full-carbon — BH Aerolight RC Full Carbon 55cm Marki, 5,000 PLN, sold without wheels
+# FAIL (SRAM Force AXS, not Red): https://www.olx.pl/d/oferta/rower-triathlonowy-cervelo-p5-sram-force-axs-pomiar-mocy-bikefitting-CID767-ID12ccuw.html — Cervelo P5 SRAM Force AXS with power meter
+# FAIL (road bike, not TT/triathlon): https://www.olx.pl/d/oferta/rower-cannondale-synapse-sram-red-axs-hydraulika-karbon-56cm-CID767-ID15DSdh.html — Cannondale Synapse SRAM Red AXS 56cm road bike
+# UNCERTAIN (OLX — TT triathlon SRAM Red AXS 12, size/brand/model unconfirmable — direct fetch 403): https://www.olx.pl/d/oferta/tt-triathlon-sram-red-axs-12-sr-m-CID767-IDSsUsR.html
