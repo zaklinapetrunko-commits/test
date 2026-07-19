@@ -442,3 +442,8 @@ https://allegrolokalnie.pl/oferta/rower-triathlonowy-kestrel
 # Via web search: ~50 candidate listings evaluated across multiple search angles; 0 passed all filter criteria
 # Telegram: BLOCKED — api.telegram.org not in network egress allowlist (proxy deny-list persists all runs)
 # No new listings found — market thoroughly covered for today; all qualifying candidates already in seen list
+# --- 2026-07-19 run (twelfth) — No new matches found ---
+# Sites checked (direct fetch blocked 403): SS.lv, OLX.pl, Allegro.pl, allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv (ECONNREFUSED), Skelbiu.lt, Autoplius.lt
+# Via web search: ~30 candidate listings evaluated across multiple search angles; 0 passed all filter criteria
+# Telegram: BLOCKED — api.telegram.org not in network egress allowlist (proxy deny-list confirmed)
+# No new listings found — all known qualifying candidates already in seen list
