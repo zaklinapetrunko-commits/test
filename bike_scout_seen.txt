@@ -367,3 +367,14 @@ https://www.olx.pl/d/oferta/pinarello-bolide-tt-rower-czasowy-triathlonowy-rama-
 # FAIL (likely Shimano 105 mechanical at 6,600 PLN ~€1,540): https://allegrolokalnie.pl/oferta/rower-czasowy-tt-triathlon-pardus-karbon-carbon — Pardus TT carbon Konin
 # FAIL (size S): https://allegrolokalnie.pl/oferta/rower-czasowy-tt-carbon-rozm-s — TT carbon Size S Tychy
 # FAIL (road bike, not TT/triathlon): https://www.olx.pl/d/oferta/rower-felt-fr-2-sram-red-pomiar-quarq-top-56cm-zamiana-CID767-IDKVyJC.html — Felt FR2 SRAM Red Quarq 56cm road bike
+# --- 2026-07-19 run (third) — 1 new listing passed filter ---
+# Sites checked (direct fetch blocked 403): SS.lv, OLX.pl, Allegro.pl, allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv (ECONNREFUSED), Skelbiu.lt
+# Via web search: ~25 candidate listings evaluated; 1 passed all filter criteria
+# Telegram: BLOCKED — api.telegram.org not in network egress allowlist (403 confirmed)
+# New listing (filter PASS, Telegram BLOCKED — requires manual review):
+https://www.olx.pl/d/oferta/rower-czasowy-cipollini-nktt-carbon-shimano-dura-ace-di2-campagnolo-tt-CID767-IDS8N8p.html
+# Confirmed specs: Cipollini NKTT carbon TT frame, Shimano Dura Ace Di2 disc groupset, Size L, Campagnolo Bora One 50 disc wheels, Vision Trimax Carbon aerobars, ~100km use, 34,000 PLN (~€7,944), Poznań
+# *** REQUIRES MANUAL CHECK — Telegram alert could not be sent ***
+# FAIL (mechanical Ultegra): https://www.olx.pl/d/oferta/felt-b12-triathlon-czasowka-CID767-ID16tf6S.html — Felt B12 Leszno, Ultegra mechanical
+# FAIL (road bike, not TT): https://www.olx.pl/d/oferta/factor-one-aero-rower-karbon-shimano-dura-ace-di2-56-CID767-ID17I8oR.html — Factor One Aero road bike 56cm
+# FAIL (mechanical Dura Ace, ~€1,195): https://www.olx.pl/d/oferta/rower-czasowy-triathlonowy-karbonowy-felt-b-12-56-cm-dura-ace-promocja-CID767-ID12w0Xx.html — Felt B12 56cm Poznań mechanical
