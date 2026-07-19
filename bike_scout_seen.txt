@@ -387,3 +387,12 @@ https://allegrolokalnie.pl/oferta/look-796-monoblade-rs-jak-nowy
 # Confirmed specs: Look 796 Monoblade RS, full carbon VHMC, TT/triathlon bike, Size L/XL, Shimano Dura Ace R9270 Di2, Campagnolo Bora Ultra WTO 60 wheels, ~1,500km, 26,500 PLN (~€6,177), Kraków
 # *** REQUIRES MANUAL CHECK — Telegram alert could not be sent ***
 # FAIL (1,900 PLN ~€443, mechanical groupset assumed at this price): https://allegrolokalnie.pl/oferta/rower-trathlonowy-tt-czasowy-triathlon-full-carbon — TT carbon Full Carbon Żory
+# --- 2026-07-19 run (fifth) — 1 new listing passed filter ---
+# Sites checked (direct fetch blocked 403): SS.lv, OLX.pl, Allegro.pl, allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv (ECONNREFUSED), Skelbiu.lt
+# Via web search: ~30 candidate listings evaluated; 1 passed all filter criteria
+# Telegram: BLOCKED — api.telegram.org:443 proxy 403 connect_rejected
+# New listing (filter PASS, Telegram BLOCKED — requires manual review):
+https://m.skelbiu.lt/skelbimai/orbea-tt-ordu-m20i-di2-2018-l-dydis-73766133.html
+# Confirmed specs: Orbea Ordu M20i Di2, full carbon TT/triathlon frame, Size L, Shimano Ultegra Di2, €1,400, Vilnius Lithuania
+# *** REQUIRES MANUAL CHECK — Telegram alert could not be sent ***
+# FAIL (M-L size = not confirmed L, Ultegra mechanical drivetrain not Di2): https://www.skelbiu.lt/skelbimai/orbea-ordu-m-ltd-tt-triatlono-dviratis-57954495.html — Orbea Ordu M-LTD TT, Ultegra mechanical, Dura-Ace brakes only
