@@ -378,3 +378,12 @@ https://www.olx.pl/d/oferta/rower-czasowy-cipollini-nktt-carbon-shimano-dura-ace
 # FAIL (mechanical Ultegra): https://www.olx.pl/d/oferta/felt-b12-triathlon-czasowka-CID767-ID16tf6S.html — Felt B12 Leszno, Ultegra mechanical
 # FAIL (road bike, not TT): https://www.olx.pl/d/oferta/factor-one-aero-rower-karbon-shimano-dura-ace-di2-56-CID767-ID17I8oR.html — Factor One Aero road bike 56cm
 # FAIL (mechanical Dura Ace, ~€1,195): https://www.olx.pl/d/oferta/rower-czasowy-triathlonowy-karbonowy-felt-b-12-56-cm-dura-ace-promocja-CID767-ID12w0Xx.html — Felt B12 56cm Poznań mechanical
+# --- 2026-07-19 run (fourth) — 1 new listing passed filter ---
+# Sites checked (direct fetch blocked 403): SS.lv, OLX.pl, Allegro.pl, allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv (ECONNREFUSED), Skelbiu.lt
+# Via web search: ~25 candidate listings evaluated; 1 passed all filter criteria
+# Telegram: BLOCKED — api.telegram.org curl exit 56 (recv error), proxy deny-list persists
+# New listing (filter PASS, Telegram BLOCKED — requires manual review):
+https://allegrolokalnie.pl/oferta/look-796-monoblade-rs-jak-nowy
+# Confirmed specs: Look 796 Monoblade RS, full carbon VHMC, TT/triathlon bike, Size L/XL, Shimano Dura Ace R9270 Di2, Campagnolo Bora Ultra WTO 60 wheels, ~1,500km, 26,500 PLN (~€6,177), Kraków
+# *** REQUIRES MANUAL CHECK — Telegram alert could not be sent ***
+# FAIL (1,900 PLN ~€443, mechanical groupset assumed at this price): https://allegrolokalnie.pl/oferta/rower-trathlonowy-tt-czasowy-triathlon-full-carbon — TT carbon Full Carbon Żory
