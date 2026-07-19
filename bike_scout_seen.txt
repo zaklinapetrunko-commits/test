@@ -350,6 +350,20 @@ https://www.olx.pl/d/oferta/pinarello-bolide-tt-rower-czasowy-triathlonowy-rama-
 # Sites checked (direct fetch blocked 403): SS.lv, OLX.pl, Allegro.pl, allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv (ECONNREFUSED), Skelbiu.lt
 # Via web search: ~30 candidate listings evaluated; 0 passed all filter criteria
 # Telegram: BLOCKED — api.telegram.org not in network egress allowlist
-# New listings found but FAILED filter criteria (documented to prevent re-evaluation):
+# New listings found but FAILED filter criteria:
 # FAIL (Dura Ace mechanical, not Di2/SRAM Red): https://www.olx.pl/d/oferta/rower-triathlonowy-felt-b2-roz-56-karbon-CID767-IDZb5eo.html — Felt B2 56cm, Dura Ace mechanical SRAM cassette, 4,900 PLN, Malbork
 # STILL UNCERTAIN (size/price unconfirmable — direct fetch 403, SRAM Red in title but version unknown): https://www.olx.pl/d/oferta/rower-triathlonowy-evo-kronos-r-9-carbon-sram-red-CID767-ID15a5Ze.html
+# --- 2026-07-19 run (second) — No new matches found ---
+# Sites checked (direct fetch blocked 403): SS.lv, OLX.pl, Allegro.pl, allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv (ECONNREFUSED), Skelbiu.lt
+# Via web search: ~30 candidate listings evaluated; 0 passed all filter criteria
+# Telegram: BLOCKED — api.telegram.org not in network egress allowlist
+# New listings found but FAILED filter criteria (documented to prevent re-evaluation):
+# FAIL (mechanical Ultegra groupset, too cheap ~€950 for Di2/SRAM Red): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cendeb.html — Felt B14 carbon triathlon €950
+# FAIL (2x10 Dura-Ace mechanical, not Di2): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bjbebj.html — carbon 56cm 2x10 Dura-Ace €1,190
+# FAIL (mechanical Ultegra, not Di2/SRAM Red): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bpcmfd.html — 56cm carbon Ultegra €620
+# FAIL (road aero bike, not TT/triathlon): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bpdipb.html — Moozes Aero carbon €850
+# FAIL (road bike, not TT): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bkbhhg.html — S-Works Tarmac Dura-Ace XL €600
+# FAIL (bikepacking bike): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cejgjd.html — Lapierre Crosshill CF 8.0 €3,500
+# FAIL (likely Shimano 105 mechanical at 6,600 PLN ~€1,540): https://allegrolokalnie.pl/oferta/rower-czasowy-tt-triathlon-pardus-karbon-carbon — Pardus TT carbon Konin
+# FAIL (size S): https://allegrolokalnie.pl/oferta/rower-czasowy-tt-carbon-rozm-s — TT carbon Size S Tychy
+# FAIL (road bike, not TT/triathlon): https://www.olx.pl/d/oferta/rower-felt-fr-2-sram-red-pomiar-quarq-top-56cm-zamiana-CID767-IDKVyJC.html — Felt FR2 SRAM Red Quarq 56cm road bike
