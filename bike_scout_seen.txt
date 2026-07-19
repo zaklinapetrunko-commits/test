@@ -396,3 +396,10 @@ https://m.skelbiu.lt/skelbimai/orbea-tt-ordu-m20i-di2-2018-l-dydis-73766133.html
 # Confirmed specs: Orbea Ordu M20i Di2, full carbon TT/triathlon frame, Size L, Shimano Ultegra Di2, €1,400, Vilnius Lithuania
 # *** REQUIRES MANUAL CHECK — Telegram alert could not be sent ***
 # FAIL (M-L size = not confirmed L, Ultegra mechanical drivetrain not Di2): https://www.skelbiu.lt/skelbimai/orbea-ordu-m-ltd-tt-triatlono-dviratis-57954495.html — Orbea Ordu M-LTD TT, Ultegra mechanical, Dura-Ace brakes only
+# --- 2026-07-19 run (sixth) — No new matches found ---
+# Sites checked (direct fetch blocked 403): SS.lv, OLX.pl, Allegro.pl, allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv (ECONNREFUSED), Skelbiu.lt
+# Via web search: ~40 candidate listings evaluated; 0 passed all filter criteria
+# Telegram: BLOCKED — api.telegram.org not in network egress allowlist
+# New listings found but FAILED filter criteria:
+# FAIL (size S, not L): https://allegrolokalnie.pl/oferta/ridley-dean-fast-r-s-triathlon-rower-czasowy-itt — Ridley Dean Fast r S triathlon ITT, size S, Głogów
+# FAIL (size S, not L): https://allegrolokalnie.pl/oferta/rower-czasowy-ridley-dean-fast-ultegra-di2 — Ridley Dean Fast Ultegra Di2, size S, 9,200 PLN, Grębocice
