@@ -412,3 +412,11 @@ https://m.skelbiu.lt/skelbimai/orbea-tt-ordu-m20i-di2-2018-l-dydis-73766133.html
 # FAIL (SRAM Force AXS, not Red): https://www.olx.pl/d/oferta/rower-triathlonowy-cervelo-p5-sram-force-axs-pomiar-mocy-bikefitting-CID767-ID12ccuw.html — Cervelo P5 SRAM Force AXS with power meter
 # FAIL (road bike, not TT/triathlon): https://www.olx.pl/d/oferta/rower-cannondale-synapse-sram-red-axs-hydraulika-karbon-56cm-CID767-ID15DSdh.html — Cannondale Synapse SRAM Red AXS 56cm road bike
 # UNCERTAIN (OLX — TT triathlon SRAM Red AXS 12, size/brand/model unconfirmable — direct fetch 403): https://www.olx.pl/d/oferta/tt-triathlon-sram-red-axs-12-sr-m-CID767-IDSsUsR.html
+# --- 2026-07-19 run (eighth) — No new matches found ---
+# Sites checked (direct fetch blocked 403): SS.lv, OLX.pl, Allegro.pl, allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv (ECONNREFUSED), Skelbiu.lt
+# Via web search: ~25 candidate listings evaluated; 0 passed all filter criteria
+# Telegram: BLOCKED — api.telegram.org curl exit 56, proxy deny-list persists
+# New listings found but FAILED filter criteria (documented to prevent re-evaluation):
+# FAIL (SRAM Rival, not SRAM Red): https://allegrolokalnie.pl/oferta/planet-x-rower-tt-triathlon-full-carbon — Planet X TT full carbon 56cm Warsaw, 4,200 PLN
+# FAIL (size 52 too small, Shimano 105): https://allegrolokalnie.pl/oferta/planet-x-stealth-rower-czasowytriathlonowytt — Planet X Stealth Rzeszów
+# FAIL (mechanical Ultegra 6700, size S): https://allegrolokalnie.pl/oferta/rower-czasowy-tt-triathlonowy-szosa-argon-18 — Argon 18 TT Warsaw, 4,900 PLN
