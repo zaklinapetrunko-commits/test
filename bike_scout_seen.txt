@@ -430,3 +430,10 @@ https://allegrolokalnie.pl/oferta/rower-triathlonowy-kestrel
 # Confirmed specs: Kestrel 4000 LTD Di2, full carbon (high-modulus), TT/triathlon bike, Size L (57.5cm), Shimano Dura-Ace Di2, Profile Design Volna aerobars, Vision TriMax Aero Carbon crank, Oval Concepts wheels, ~3,500km, 12,500 PLN (~€2,917), Sopot
 # *** REQUIRES MANUAL CHECK — Telegram alert could not be sent ***
 # UNCERTAIN (OLX — TT triathlon SRAM Red AXS 12 "SR M" in title, size M suspected — direct fetch 403): https://www.olx.pl/d/oferta/tt-triathlon-sram-red-axs-12-sr-m-CID767-IDSsUsR.html
+# --- 2026-07-19 run (tenth) — No new matches found ---
+# Sites checked (direct fetch blocked 403): SS.lv, OLX.pl, Allegro.pl, allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv (ECONNREFUSED), Skelbiu.lt
+# Via web search: ~40 candidate listings evaluated; 0 passed all filter criteria
+# Telegram: BLOCKED — api.telegram.org not in network egress allowlist
+# New listings found but FAILED filter criteria (documented to prevent re-evaluation):
+# FAIL (58cm too large, Ultegra Di2 not qualifying groupset): https://www.olx.pl/d/oferta/rower-czasowy-tt-triathlonowy-cervelo-p5-six-CID767-ID15nHFl.html — Cervelo P5 Six 58cm Ultegra Di2, 18,000 PLN, Bielany Wrocławskie
+# FAIL (size M, not L): https://www.olx.pl/d/oferta/rower-cipollini-nktt-czasowy-triathlonowy-tt-tri-m-uzywany-CID767-ID15h08u.html — Cipollini NKTT size M (from Bardiani team 2022 season), 24,999 PLN, Józefosław
