@@ -203,7 +203,7 @@ https://allegrolokalnie.pl/oferta/rower-triathlonowy-wilier-twin-blade-duraace-d
 # FAIL (48cm too small): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bxegpi.html
 # FAIL (M size ~52-54cm): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bxhhel.html
 # FAIL (road bike Aeroad): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/heogb.html
-# FAIL (gravel bike): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cdkhdh.html
+# FAIL (gravel bike): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cejgjd.html
 # FAIL (aluminum, M size): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdlgbg.html
 # UNCERTAIN (size not confirmed, 29,999 PLN ~€7,143): https://www.olx.pl/d/oferta/nowy-rower-triathlonowy-felt-ia-2-0-expert-ultegra-di2-12s-super-cena-CID767-ID18RPS3.html
 # --- 2026-07-18 run (fourth) — 1 new listing passed filter ---
@@ -338,3 +338,11 @@ https://allegrolokalnie.pl/oferta/rower-triathlonowy-kestrel
 # RESOLVED UNCERTAIN: Scott Plasma 3 Premium, Piekoszów → FAIL (size S-52, too small): https://allegrolokalnie.pl/oferta/scott-plasma-3-premium-carbon-triathlon-szosowy
 # No new listings found — all candidates either already seen or failed filter criteria
 # PERSISTENT NOTE: Telegram delivery has been blocked on every run since 2026-06-19. All PASS listings in this file require manual review directly on the linked URLs.
+# --- 2026-07-20 run (eleventh) — No new matches found ---
+# Sites checked (direct fetch blocked 403/ECONNREFUSED): SS.lv, OLX.pl, Allegro.pl, allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv (ECONNREFUSED), Skelbiu.lt
+# Via web search: ~35 candidate listings evaluated across 20+ search queries; 0 passed all filter criteria
+# Telegram: BLOCKED — api.telegram.org not in network egress allowlist (proxy deny-list persists)
+# FAIL (Basso Konos Ultegra Di2, Rzeszów, size 53cm): https://www.olx.pl/d/oferta/rower-czasowy-triathlon-basso-konos-shimano-ultegra-di2-r53-CID767-ID166uWD.html
+# STILL UNCERTAIN: Scott Plasma Premium Dura-Ace Di2 Warszawa 25,000 PLN allegrolokalnie (size unconfirmed, direct access blocked)
+# STILL UNCERTAIN: Basso Konos Ultegra Di2 set up for 188cm Warszawa (frame size unconfirmable without direct access)
+# No new listings found — all candidates either already seen or failed filter criteria
