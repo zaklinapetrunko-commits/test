@@ -282,225 +282,112 @@ https://allegrolokalnie.pl/oferta/rower-triathlonowy-wilier-twin-blade-duraace-d
 # Via web search: ~15 new candidates evaluated; 0 passed all filter criteria
 # Telegram: BLOCKED — api.telegram.org not in network egress allowlist
 # New listings found but FAILED filter criteria:
-# FAIL (48cm too small): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bxegpi.html — Cervelo P2 Carbon TT 48cm €1,760
-# FAIL (M size ~52-54cm): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bxhhel.html — Canyon Speedmax CF 8.0 M €2,890
-# FAIL (road bike Aeroad): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/heogb.html — Canyon Aeroad CF SLX Di2 €2,999
-# FAIL (gravel bike): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cdkhdh.html — Cervelo Apex Gravel L/56
-# FAIL (aluminum, M size): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdlgbg.html — aluminum triathlon M €1,100
-# UNCERTAIN (size not confirmed from search, listing at shop price 29,999 PLN ~€7,143): https://www.olx.pl/d/oferta/nowy-rower-triathlonowy-felt-ia-2-0-expert-ultegra-di2-12s-super-cena-CID767-ID18RPS3.html — Felt IA 2.0 Expert Ultegra Di2 12s new
+# FAIL (48cm too small): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bxegpi.html
+# FAIL (M size ~52-54cm): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bxhhel.html
+# FAIL (road bike Aeroad): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/heogb.html
+# FAIL (gravel bike): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cdkhdh.html
+# FAIL (aluminum, M size): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdlgbg.html
+# UNCERTAIN (size not confirmed, 29,999 PLN ~€7,143): https://www.olx.pl/d/oferta/nowy-rower-triathlonowy-felt-ia-2-0-expert-ultegra-di2-12s-super-cena-CID767-ID18RPS3.html
 # --- 2026-07-18 run (fourth) — 1 new listing passed filter ---
-# Sites checked (direct fetch blocked 403): SS.lv, OLX.pl, Allegro.pl, allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt
-# Via web search: ~20 new candidates evaluated; 1 passed all filter criteria
-# Telegram: BLOCKED — api.telegram.org curl exit 56 (recv error), proxy deny-list persists
-# New listing (filter PASS, Telegram BLOCKED — requires manual review):
 https://www.olx.pl/d/oferta/pinarello-bolide-tt-rower-czasowy-triathlonowy-rama-l-CID767-ID10QusN.html
-# Confirmed specs: Pinarello Bolide TT, full carbon, Size L (56cm, 176-182cm rider), SRAM Red eTap AXS 1x12, Quarq dual-sided power meter, SPD pedals, 23,900 PLN (~€5,578), Warszawa Bielany
+# Confirmed specs: Pinarello Bolide TT, full carbon, Size L, SRAM Red eTap AXS 1x12, Quarq power meter, 23,900 PLN (~€5,578), Warszawa Bielany
 # *** REQUIRES MANUAL CHECK — Telegram alert could not be sent ***
-# FAIL (size MS too small): https://www.olx.pl/oferta/bmc-timemachine-02-triathlon-sram-red-etap-CID767-IDw0rzr.html — BMC Timemachine 02, SRAM Red eTap, 12,999 PLN
-# FAIL (Shimano 105, not Di2/SRAM Red): https://allegrolokalnie.pl/oferta/rower-triathlonowy-tt-cervelo-pseries-105-56-cm — Cervelo P-Series 105 56cm
-# FAIL (Ultegra 6700 mechanical, size S): https://allegrolokalnie.pl/oferta/merida-warp-tt-lampre-czasowy-triathlonowy — Merida Warp TT LAMPRE
-# FAIL (54cm too small): https://allegrolokalnie.pl/oferta/rower-triathlonowy-cervelo-p2-r54-y5z — Cervelo P2 54cm
-# FAIL (58cm too large): https://allegrolokalnie.pl/oferta/rower-czasowy-cervelo-p2-triathlon-rozmiar-58 — Cervelo P2 58cm
-# FAIL (road bike, 58cm): https://allegrolokalnie.pl/oferta/cervelo-s5-disc-ultegra-di2-dt-swiss-58cm-nowy — Cervelo S5 road
-# FAIL (size S-M too small): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bkhelc.html — S-M frame, SRAM, Quarq power €1,550
-# FAIL (54cm too small): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cdkxli.html — M/L 54cm TT velo €480
-# UNCERTAIN (Shiv S-Works L €1,800, groupset unconfirmable — direct fetch 403): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bxhkxh.html
-# UNCERTAIN (Dolan TT Carbon Dura-Ace, size/Di2 unconfirmable — direct fetch 403): https://allegrolokalnie.pl/oferta/rower-czasowy-dolan-tt-carbon-triathlon-dura-ace
+# FAIL (size MS too small): https://www.olx.pl/oferta/bmc-timemachine-02-triathlon-sram-red-etap-CID767-IDw0rzr.html
+# FAIL (Shimano 105): https://allegrolokalnie.pl/oferta/rower-triathlonowy-tt-cervelo-pseries-105-56-cm
+# FAIL (Ultegra 6700 mechanical, size S): https://allegrolokalnie.pl/oferta/merida-warp-tt-lampre-czasowy-triathlonowy
+# FAIL (54cm too small): https://allegrolokalnie.pl/oferta/rower-triathlonowy-cervelo-p2-r54-y5z
+# FAIL (58cm too large): https://allegrolokalnie.pl/oferta/rower-czasowy-cervelo-p2-triathlon-rozmiar-58
+# FAIL (road bike, 58cm): https://allegrolokalnie.pl/oferta/cervelo-s5-disc-ultegra-di2-dt-swiss-58cm-nowy
+# FAIL (size S-M): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bkhelc.html
+# FAIL (54cm too small): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cdkxli.html
+# UNCERTAIN (Shiv S-Works L €1,800): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bxhkxh.html
+# UNCERTAIN (Dolan TT Carbon Dura-Ace): https://allegrolokalnie.pl/oferta/rower-czasowy-dolan-tt-carbon-triathlon-dura-ace
 # UNCERTAIN (Stevens Super Trofeo TT L 56, groupset likely Ultegra mechanical): https://www.olx.pl/d/oferta/rower-czasowy-triathlonowy-stevens-super-trofeo-tt-l-56-CID767-ID153N8N.html
 # --- 2026-07-18 run (fifth) — No new matches found ---
-# Sites checked (direct fetch blocked 403): SS.lv, OLX.pl, Allegro.pl, allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt
-# Via web search: ~20 new candidates evaluated; 0 passed all filter criteria
-# Telegram: BLOCKED — api.telegram.org not in network egress allowlist
-# New listings found but FAILED filter criteria:
-# UNCERTAIN (SS.lv bklped, carbon €2,500, NOT confirmed TT/triathlon type, groupset/size unknown): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bklped.html
-# FAIL (M/L = 53cm, too small per Fuji size chart): https://allegrolokalnie.pl/oferta/rower-czasowy-fuji-norcom-straight-13-triathlon — Fuji Norcom Straight 1.3 Di2, 19,500 PLN (~€4,560), Olkusz
-# FAIL (M = 51cm, too small): https://allegrolokalnie.pl/oferta/rower-czasowy-triathlon-fuji-norcom-straight-1-3-d — Fuji Norcom Straight 1.3, 9,300 PLN, Gdynia
+# UNCERTAIN: https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bklped.html
+# FAIL (53cm): https://allegrolokalnie.pl/oferta/rower-czasowy-fuji-norcom-straight-13-triathlon
+# FAIL (51cm): https://allegrolokalnie.pl/oferta/rower-czasowy-triathlon-fuji-norcom-straight-1-3-d
 # --- 2026-07-18 run (sixth) — No new matches found ---
-# Sites checked (direct fetch blocked 403): SS.lv, OLX.pl, Allegro.pl, allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt
-# Via web search: ~20 new candidates evaluated; 0 passed all filter criteria
-# Telegram: BLOCKED — api.telegram.org not in network egress allowlist
-# New listings found but FAILED filter criteria (documented to prevent re-evaluation):
-# FAIL (Shimano 179 = 105 R7100 12s mechanical, not Di2/SRAM Red): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cdniki.html — Carbon road 56 (L) €1,500 SS.lv
-# FAIL (Shimano 105 mechanical, not Di2/SRAM Red): https://allegrolokalnie.pl/oferta/argon-18-e112-rower-triathlonowy-carbon-rama-l — Argon 18 E-112 carbon triathlon L Pawlikowice
-# FAIL (Shimano Ultegra 2x10 mechanical, not Di2/SRAM Red): https://allegrolokalnie.pl/oferta/rower-triathlonowy-czasowy-scott-plasma-20 — Scott Plasma 20 Bydgoszcz 5,300 PLN
-# FAIL (road bike Cervelo S5, not TT/triathlon): https://allegrolokalnie.pl/oferta/cervelo-s5-r-56-shimano-ultegra-di2-lightweight — Cervelo S5 56 Ultegra Di2 Lightweight
+# FAIL (Shimano 105 R7100 mechanical): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cdniki.html
+# FAIL (Shimano 105 mechanical): https://allegrolokalnie.pl/oferta/argon-18-e112-rower-triathlonowy-carbon-rama-l
+# FAIL (Ultegra 2x10 mechanical): https://allegrolokalnie.pl/oferta/rower-triathlonowy-czasowy-scott-plasma-20
+# FAIL (road bike S5): https://allegrolokalnie.pl/oferta/cervelo-s5-r-56-shimano-ultegra-di2-lightweight
 # --- 2026-07-18 run (seventh) — No new matches found ---
-# Sites checked (direct fetch blocked 403): SS.lv, OLX.pl, Allegro.pl, allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt
-# Via web search: ~25 new candidates evaluated; 0 passed all filter criteria
-# Telegram: BLOCKED — api.telegram.org not in network egress allowlist
-# New listings found but FAILED filter criteria (documented to prevent re-evaluation):
-# UNCERTAIN (Cervelo P3 56cm "Dura-Ace/Ultegra" unconfirmed Di2, 9,200 PLN, Grójec): https://allegrolokalnie.pl/oferta/rower-triathlonowy-cervelo-p3-vw5
-# UNCERTAIN (Cervelo P3 TT, groupset Di2 unconfirmed): https://allegrolokalnie.pl/oferta/rower-czasowy-triathlon-cervelo-p3
-# UNCERTAIN (carbon 56 TT with Profile Design aerobars, brand/groupset unknown): https://www.olx.pl/d/oferta/rower-carbonowy-56-traithlonowy-tt-czasowy-profile-design-CID767-IDuf6Qh.html
-# FAIL (SRAM Red 10-speed mechanical, not eTap AXS electronic): https://www.olx.pl/oferta/rower-czasowy-massi-rower-triathlonowy-carbon-CID767-IDvJcRN.html
-# FAIL (TT €450, mechanical "full shifters"): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/oxgmb.html
-# FAIL (TT 59cm too large, €280): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdphlg.html
+# UNCERTAIN (Cervelo P3 56cm Di2 unconfirmed): https://allegrolokalnie.pl/oferta/rower-triathlonowy-cervelo-p3-vw5
+# UNCERTAIN (Cervelo P3 TT Di2 unconfirmed): https://allegrolokalnie.pl/oferta/rower-czasowy-triathlon-cervelo-p3
+# UNCERTAIN (carbon 56 TT Profile Design): https://www.olx.pl/d/oferta/rower-carbonowy-56-traithlonowy-tt-czasowy-profile-design-CID767-IDuf6Qh.html
+# FAIL (SRAM Red 10s mechanical): https://www.olx.pl/oferta/rower-czasowy-massi-rower-triathlonowy-carbon-CID767-IDvJcRN.html
+# FAIL (TT €450 mechanical): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/oxgmb.html
+# FAIL (59cm too large): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdphlg.html
 # --- 2026-07-18 run (eighth) — No new matches found ---
-# Sites checked (direct fetch blocked 403): SS.lv, OLX.pl, Allegro.pl, allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt
-# Via web search: ~25 new candidates evaluated; 0 passed all filter criteria
-# Telegram: BLOCKED — api.telegram.org not in network egress allowlist
-# New listings found but UNCERTAIN (documented to prevent re-evaluation):
-# UNCERTAIN (BMC Timemachine 02 Ultegra Di2, Wrocław, 7,999 PLN — size unconfirmable, direct fetch 403): https://www.olx.pl/d/oferta/rower-czasowy-bmc-timemachine-02-ultegra-di2-dura-ace-CID767-ID11GcNq.html
+# UNCERTAIN (BMC Timemachine 02 Ultegra Di2 size unconfirmable): https://www.olx.pl/d/oferta/rower-czasowy-bmc-timemachine-02-ultegra-di2-dura-ace-CID767-ID11GcNq.html
 # --- 2026-07-18 run (ninth) — No new matches found ---
-# Sites checked (direct fetch blocked 403): SS.lv, OLX.pl, Allegro.pl, allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt
-# Via web search: ~20 new candidates evaluated; 0 passed all filter criteria
-# Telegram: BLOCKED — api.telegram.org not in network egress allowlist
-# New listings found but UNCERTAIN (documented to prevent re-evaluation):
-# UNCERTAIN (EVO MAX Kronos R-9 carbon TT bike, SRAM Red in title — size/price unconfirmable, direct fetch 403): https://www.olx.pl/d/oferta/rower-triathlonowy-evo-kronos-r-9-carbon-sram-red-CID767-ID15a5Ze.html
+# UNCERTAIN (EVO MAX Kronos R-9 SRAM Red size/price unconfirmable): https://www.olx.pl/d/oferta/rower-triathlonowy-evo-kronos-r-9-carbon-sram-red-CID767-ID15a5Ze.html
 # --- 2026-07-19 run — No new matches found ---
-# Sites checked (direct fetch blocked 403): SS.lv, OLX.pl, Allegro.pl, allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv (ECONNREFUSED), Skelbiu.lt
-# Via web search: ~30 candidate listings evaluated; 0 passed all filter criteria
-# Telegram: BLOCKED — api.telegram.org not in network egress allowlist
-# New listings found but FAILED filter criteria:
-# FAIL (Dura Ace mechanical, not Di2/SRAM Red): https://www.olx.pl/d/oferta/rower-triathlonowy-felt-b2-roz-56-karbon-CID767-IDZb5eo.html — Felt B2 56cm, Dura Ace mechanical SRAM cassette, 4,900 PLN, Malbork
-# STILL UNCERTAIN (size/price unconfirmable — direct fetch 403, SRAM Red in title but version unknown): https://www.olx.pl/d/oferta/rower-triathlonowy-evo-kronos-r-9-carbon-sram-red-CID767-ID15a5Ze.html
+# FAIL (Dura Ace mechanical): https://www.olx.pl/d/oferta/rower-triathlonowy-felt-b2-roz-56-karbon-CID767-IDZb5eo.html
+# STILL UNCERTAIN: https://www.olx.pl/d/oferta/rower-triathlonowy-evo-kronos-r-9-carbon-sram-red-CID767-ID15a5Ze.html
 # --- 2026-07-19 run (second) — No new matches found ---
-# Sites checked (direct fetch blocked 403): SS.lv, OLX.pl, Allegro.pl, allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv (ECONNREFUSED), Skelbiu.lt
-# Via web search: ~30 candidate listings evaluated; 0 passed all filter criteria
-# Telegram: BLOCKED — api.telegram.org not in network egress allowlist
-# New listings found but FAILED filter criteria (documented to prevent re-evaluation):
-# FAIL (mechanical Ultegra groupset, too cheap ~€950 for Di2/SRAM Red): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cendeb.html — Felt B14 carbon triathlon €950
-# FAIL (2x10 Dura-Ace mechanical, not Di2): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bjbebj.html — carbon 56cm 2x10 Dura-Ace €1,190
-# FAIL (mechanical Ultegra, not Di2/SRAM Red): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bpcmfd.html — 56cm carbon Ultegra €620
-# FAIL (road aero bike, not TT/triathlon): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bpdipb.html — Moozes Aero carbon €850
-# FAIL (road bike, not TT): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bkbhhg.html — S-Works Tarmac Dura-Ace XL €600
-# FAIL (bikepacking bike): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cejgjd.html — Lapierre Crosshill CF 8.0 €3,500
-# FAIL (likely Shimano 105 mechanical at 6,600 PLN ~€1,540): https://allegrolokalnie.pl/oferta/rower-czasowy-tt-triathlon-pardus-karbon-carbon — Pardus TT carbon Konin
-# FAIL (size S): https://allegrolokalnie.pl/oferta/rower-czasowy-tt-carbon-rozm-s — TT carbon Size S Tychy
-# FAIL (road bike, not TT/triathlon): https://www.olx.pl/d/oferta/rower-felt-fr-2-sram-red-pomiar-quarq-top-56cm-zamiana-CID767-IDKVyJC.html — Felt FR2 SRAM Red Quarq 56cm road bike
+# FAIL (Ultegra mechanical ~€950): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cendeb.html
+# FAIL (2x10 Dura-Ace mechanical): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bjbebj.html
+# FAIL (Ultegra mechanical): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bpcmfd.html
+# FAIL (road aero, not TT): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bpdipb.html
+# FAIL (road bike Tarmac): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bkbhhg.html
+# FAIL (bikepacking): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cejgjd.html
+# FAIL (Shimano 105 mechanical ~€1,540): https://allegrolokalnie.pl/oferta/rower-czasowy-tt-triathlon-pardus-karbon-carbon
+# FAIL (size S): https://allegrolokalnie.pl/oferta/rower-czasowy-tt-carbon-rozm-s
+# FAIL (road bike Felt FR2): https://www.olx.pl/d/oferta/rower-felt-fr-2-sram-red-pomiar-quarq-top-56cm-zamiana-CID767-IDKVyJC.html
 # --- 2026-07-19 run (third) — 1 new listing passed filter ---
-# Sites checked (direct fetch blocked 403): SS.lv, OLX.pl, Allegro.pl, allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv (ECONNREFUSED), Skelbiu.lt
-# Via web search: ~25 candidate listings evaluated; 1 passed all filter criteria
-# Telegram: BLOCKED — api.telegram.org not in network egress allowlist (403 confirmed)
-# New listing (filter PASS, Telegram BLOCKED — requires manual review):
 https://www.olx.pl/d/oferta/rower-czasowy-cipollini-nktt-carbon-shimano-dura-ace-di2-campagnolo-tt-CID767-IDS8N8p.html
-# Confirmed specs: Cipollini NKTT carbon TT frame, Shimano Dura Ace Di2 disc groupset, Size L, Campagnolo Bora One 50 disc wheels, Vision Trimax Carbon aerobars, ~100km use, 34,000 PLN (~€7,944), Poznań
+# Confirmed specs: Cipollini NKTT carbon TT, Shimano Dura Ace Di2 disc, Size L, Bora One 50, 34,000 PLN (~€7,944), Poznań
 # *** REQUIRES MANUAL CHECK — Telegram alert could not be sent ***
-# FAIL (mechanical Ultegra): https://www.olx.pl/d/oferta/felt-b12-triathlon-czasowka-CID767-ID16tf6S.html — Felt B12 Leszno, Ultegra mechanical
-# FAIL (road bike, not TT): https://www.olx.pl/d/oferta/factor-one-aero-rower-karbon-shimano-dura-ace-di2-56-CID767-ID17I8oR.html — Factor One Aero road bike 56cm
-# FAIL (mechanical Dura Ace, ~€1,195): https://www.olx.pl/d/oferta/rower-czasowy-triathlonowy-karbonowy-felt-b-12-56-cm-dura-ace-promocja-CID767-ID12w0Xx.html — Felt B12 56cm Poznań mechanical
+# FAIL (Ultegra mechanical): https://www.olx.pl/d/oferta/felt-b12-triathlon-czasowka-CID767-ID16tf6S.html
+# FAIL (road bike Factor One Aero): https://www.olx.pl/d/oferta/factor-one-aero-rower-karbon-shimano-dura-ace-di2-56-CID767-ID17I8oR.html
+# FAIL (mechanical Dura Ace): https://www.olx.pl/d/oferta/rower-czasowy-triathlonowy-karbonowy-felt-b-12-56-cm-dura-ace-promocja-CID767-ID12w0Xx.html
 # --- 2026-07-19 run (fourth) — 1 new listing passed filter ---
-# Sites checked (direct fetch blocked 403): SS.lv, OLX.pl, Allegro.pl, allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv (ECONNREFUSED), Skelbiu.lt
-# Via web search: ~25 candidate listings evaluated; 1 passed all filter criteria
-# Telegram: BLOCKED — api.telegram.org curl exit 56 (recv error), proxy deny-list persists
-# New listing (filter PASS, Telegram BLOCKED — requires manual review):
 https://allegrolokalnie.pl/oferta/look-796-monoblade-rs-jak-nowy
-# Confirmed specs: Look 796 Monoblade RS, full carbon VHMC, TT/triathlon bike, Size L/XL, Shimano Dura Ace R9270 Di2, Campagnolo Bora Ultra WTO 60 wheels, ~1,500km, 26,500 PLN (~€6,177), Kraków
+# Confirmed specs: Look 796 Monoblade RS, full carbon VHMC, TT/tri, Size L/XL, Shimano Dura Ace R9270 Di2, Bora Ultra WTO 60, 26,500 PLN (~€6,177), Kraków
 # *** REQUIRES MANUAL CHECK — Telegram alert could not be sent ***
-# FAIL (1,900 PLN ~€443, mechanical groupset assumed at this price): https://allegrolokalnie.pl/oferta/rower-trathlonowy-tt-czasowy-triathlon-full-carbon — TT carbon Full Carbon Żory
+# FAIL (€443 mechanical): https://allegrolokalnie.pl/oferta/rower-trathlonowy-tt-czasowy-triathlon-full-carbon
 # --- 2026-07-19 run (fifth) — 1 new listing passed filter ---
-# Sites checked (direct fetch blocked 403): SS.lv, OLX.pl, Allegro.pl, allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv (ECONNREFUSED), Skelbiu.lt
-# Via web search: ~30 candidate listings evaluated; 1 passed all filter criteria
-# Telegram: BLOCKED — api.telegram.org:443 proxy 403 connect_rejected
-# New listing (filter PASS, Telegram BLOCKED — requires manual review):
 https://m.skelbiu.lt/skelbimai/orbea-tt-ordu-m20i-di2-2018-l-dydis-73766133.html
-# Confirmed specs: Orbea Ordu M20i Di2, full carbon TT/triathlon frame, Size L, Shimano Ultegra Di2, €1,400, Vilnius Lithuania
+# Confirmed specs: Orbea Ordu M20i Di2, full carbon TT/tri, Size L, Shimano Ultegra Di2, €1,400, Vilnius
 # *** REQUIRES MANUAL CHECK — Telegram alert could not be sent ***
-# FAIL (M-L size = not confirmed L, Ultegra mechanical drivetrain not Di2): https://www.skelbiu.lt/skelbimai/orbea-ordu-m-ltd-tt-triatlono-dviratis-57954495.html — Orbea Ordu M-LTD TT, Ultegra mechanical, Dura-Ace brakes only
+# FAIL (Ultegra mechanical): https://www.skelbiu.lt/skelbimai/orbea-ordu-m-ltd-tt-triatlono-dviratis-57954495.html
 # --- 2026-07-19 run (sixth) — No new matches found ---
-# Sites checked (direct fetch blocked 403): SS.lv, OLX.pl, Allegro.pl, allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv (ECONNREFUSED), Skelbiu.lt
-# Via web search: ~40 candidate listings evaluated; 0 passed all filter criteria
-# Telegram: BLOCKED — api.telegram.org not in network egress allowlist
-# New listings found but FAILED filter criteria:
-# FAIL (size S, not L): https://allegrolokalnie.pl/oferta/ridley-dean-fast-r-s-triathlon-rower-czasowy-itt — Ridley Dean Fast r S triathlon ITT, size S, Głogów
-# FAIL (size S, not L): https://allegrolokalnie.pl/oferta/rower-czasowy-ridley-dean-fast-ultegra-di2 — Ridley Dean Fast Ultegra Di2, size S, 9,200 PLN, Grębocice
+# FAIL (size S): https://allegrolokalnie.pl/oferta/ridley-dean-fast-r-s-triathlon-rower-czasowy-itt
+# FAIL (size S): https://allegrolokalnie.pl/oferta/rower-czasowy-ridley-dean-fast-ultegra-di2
 # --- 2026-07-19 run (seventh) — No new matches found ---
-# Sites checked (direct fetch blocked 403): SS.lv, OLX.pl, Allegro.pl, allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv (ECONNREFUSED), Skelbiu.lt
-# Via web search: ~40 candidate listings evaluated; 0 passed all filter criteria
-# Telegram: BLOCKED — api.telegram.org not in network egress allowlist
-# New listings found but FAILED filter criteria (documented to prevent re-evaluation):
-# FAIL (Shimano 105, not Di2/SRAM Red): https://allegrolokalnie.pl/oferta/rower-triathlonowy-bh-aerolight-rc-full-carbon — BH Aerolight RC Full Carbon 55cm Marki, 5,000 PLN, sold without wheels
-# FAIL (SRAM Force AXS, not Red): https://www.olx.pl/d/oferta/rower-triathlonowy-cervelo-p5-sram-force-axs-pomiar-mocy-bikefitting-CID767-ID12ccuw.html — Cervelo P5 SRAM Force AXS with power meter
-# FAIL (road bike, not TT/triathlon): https://www.olx.pl/d/oferta/rower-cannondale-synapse-sram-red-axs-hydraulika-karbon-56cm-CID767-ID15DSdh.html — Cannondale Synapse SRAM Red AXS 56cm road bike
-# UNCERTAIN (OLX — TT triathlon SRAM Red AXS 12, size/brand/model unconfirmable — direct fetch 403): https://www.olx.pl/d/oferta/tt-triathlon-sram-red-axs-12-sr-m-CID767-IDSsUsR.html
+# FAIL (Shimano 105): https://allegrolokalnie.pl/oferta/rower-triathlonowy-bh-aerolight-rc-full-carbon
+# FAIL (SRAM Force AXS not Red): https://www.olx.pl/d/oferta/rower-triathlonowy-cervelo-p5-sram-force-axs-pomiar-mocy-bikefitting-CID767-ID12ccuw.html
+# FAIL (road bike Synapse): https://www.olx.pl/d/oferta/rower-cannondale-synapse-sram-red-axs-hydraulika-karbon-56cm-CID767-ID15DSdh.html
+# UNCERTAIN (TT SRAM Red AXS 12, size M suspected): https://www.olx.pl/d/oferta/tt-triathlon-sram-red-axs-12-sr-m-CID767-IDSsUsR.html
 # --- 2026-07-19 run (eighth) — No new matches found ---
-# Sites checked (direct fetch blocked 403): SS.lv, OLX.pl, Allegro.pl, allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv (ECONNREFUSED), Skelbiu.lt
-# Via web search: ~25 candidate listings evaluated; 0 passed all filter criteria
-# Telegram: BLOCKED — api.telegram.org curl exit 56, proxy deny-list persists
-# New listings found but FAILED filter criteria (documented to prevent re-evaluation):
-# FAIL (SRAM Rival, not SRAM Red): https://allegrolokalnie.pl/oferta/planet-x-rower-tt-triathlon-full-carbon — Planet X TT full carbon 56cm Warsaw, 4,200 PLN
-# FAIL (size 52 too small, Shimano 105): https://allegrolokalnie.pl/oferta/planet-x-stealth-rower-czasowytriathlonowytt — Planet X Stealth Rzeszów
-# FAIL (mechanical Ultegra 6700, size S): https://allegrolokalnie.pl/oferta/rower-czasowy-tt-triathlonowy-szosa-argon-18 — Argon 18 TT Warsaw, 4,900 PLN
+# FAIL (SRAM Rival): https://allegrolokalnie.pl/oferta/planet-x-rower-tt-triathlon-full-carbon
+# FAIL (size 52, Shimano 105): https://allegrolokalnie.pl/oferta/planet-x-stealth-rower-czasowytriathlonowytt
+# FAIL (Ultegra 6700 size S): https://allegrolokalnie.pl/oferta/rower-czasowy-tt-triathlonowy-szosa-argon-18
 # --- 2026-07-19 run (ninth) — 1 new listing passed filter ---
-# Sites checked (direct fetch blocked 403): SS.lv, OLX.pl, Allegro.pl, allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv (ECONNREFUSED), Skelbiu.lt
-# Via web search: ~30 candidate listings evaluated; 1 passed all filter criteria
-# Telegram: BLOCKED — api.telegram.org curl exit 56, proxy deny-list persists
-# New listing (filter PASS, Telegram BLOCKED — requires manual review):
 https://allegrolokalnie.pl/oferta/rower-triathlonowy-kestrel
-# Confirmed specs: Kestrel 4000 LTD Di2, full carbon (high-modulus), TT/triathlon bike, Size L (57.5cm), Shimano Dura-Ace Di2, Profile Design Volna aerobars, Vision TriMax Aero Carbon crank, Oval Concepts wheels, ~3,500km, 12,500 PLN (~€2,917), Sopot
+# Confirmed specs: Kestrel 4000 LTD Di2, full carbon, TT/tri, Size L (57.5cm), Shimano Dura-Ace Di2, 12,500 PLN (~€2,917), Sopot
 # *** REQUIRES MANUAL CHECK — Telegram alert could not be sent ***
-# UNCERTAIN (OLX — TT triathlon SRAM Red AXS 12 "SR M" in title, size M suspected — direct fetch 403): https://www.olx.pl/d/oferta/tt-triathlon-sram-red-axs-12-sr-m-CID767-IDSsUsR.html
+# UNCERTAIN (TT SRAM Red AXS 12 "SR M" in title, size M suspected): https://www.olx.pl/d/oferta/tt-triathlon-sram-red-axs-12-sr-m-CID767-IDSsUsR.html
 # --- 2026-07-19 run (tenth) — No new matches found ---
-# Sites checked (direct fetch blocked 403): SS.lv, OLX.pl, Allegro.pl, allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv (ECONNREFUSED), Skelbiu.lt
-# Via web search: ~40 candidate listings evaluated; 0 passed all filter criteria
-# Telegram: BLOCKED — api.telegram.org not in network egress allowlist
-# New listings found but FAILED filter criteria (documented to prevent re-evaluation):
-# FAIL (58cm too large, Ultegra Di2 not qualifying groupset): https://www.olx.pl/d/oferta/rower-czasowy-tt-triathlonowy-cervelo-p5-six-CID767-ID15nHFl.html — Cervelo P5 Six 58cm Ultegra Di2, 18,000 PLN, Bielany Wrocławskie
-# FAIL (size M, not L): https://www.olx.pl/d/oferta/rower-cipollini-nktt-czasowy-triathlonowy-tt-tri-m-uzywany-CID767-ID15h08u.html — Cipollini NKTT size M (from Bardiani team 2022 season), 24,999 PLN, Józefosław
-# --- 2026-07-19 run (eleventh) — No new matches found ---
-# Sites checked (direct fetch blocked 403): SS.lv, OLX.pl, Allegro.pl, allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv (ECONNREFUSED), Skelbiu.lt
-# Via web search: ~50 candidate listings evaluated across multiple search angles; 0 passed all filter criteria
-# Telegram: BLOCKED — api.telegram.org not in network egress allowlist (proxy deny-list persists all runs)
-# No new listings found — market thoroughly covered for today; all qualifying candidates already in seen list
-# --- 2026-07-19 run (twelfth) — No new matches found ---
-# Sites checked (direct fetch blocked 403/ECONNREFUSED): SS.lv, OLX.pl, Allegro.pl, allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv (ECONNREFUSED), Skelbiu.lt, Autoplius.lt
-# Via web search: ~30 candidate listings evaluated across multiple search angles; 0 passed all filter criteria
-# Telegram: BLOCKED — api.telegram.org not in network egress allowlist (proxy deny-list confirmed)
-# No new listings found — all known qualifying candidates already in seen list
-# --- 2026-07-19 run (thirteenth) — No new matches found ---
-# Sites checked (direct fetch blocked 403/ECONNREFUSED): SS.lv, OLX.pl, Allegro.pl, allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt
-# Via web search: ~30 candidate listings evaluated across multiple search angles; 0 passed all filter criteria
-# Telegram: BLOCKED — api.telegram.org curl exit 56, proxy deny-list persists
-# No new listings found — all known qualifying candidates already in seen list
-# --- 2026-07-19 run (fourteenth) — No new matches found ---
+# FAIL (58cm too large): https://www.olx.pl/d/oferta/rower-czasowy-tt-triathlonowy-cervelo-p5-six-CID767-ID15nHFl.html
+# FAIL (size M): https://www.olx.pl/d/oferta/rower-cipollini-nktt-czasowy-triathlonowy-tt-tri-m-uzywany-CID767-ID15h08u.html
+# --- 2026-07-19 runs (eleventh through twenty-first) — No new matches found ---
+# FAIL (size M): https://www.olx.pl/d/oferta/trek-speed-concept-di2-m-triathlon-rower-triathlonowy-szosa-CID767-IDWOwY6.html
+# FAIL (Shimano 105): https://www.olx.pl/d/oferta/rower-triathlonowy-czasowy-bmc-time-machine-02-rozmiar-l-CID767-ID13asQS.html
+# FAIL (gravel): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bokogf.html
+# FAIL (road bike Synapse 54cm M): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cdhhpc.html
+# FAIL (road bike TCR): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/biicei.html
+# FAIL (Ultegra 6800 mechanical): https://www.olx.pl/oferta/rower-szosowy-szosa-argon-18-e-112-tri-carbon-shimano-triathlon-CID767-IDtXOyT.html
+# UNCERTAIN (Argon 18 E-112 groupset unconfirmable): https://allegro.pl/oferta/rower-szosowe-czasowy-triathlon-tt-argon-18-e-112-kola-token-17099886377
+# FAIL (Shimano 105 mechanical Guerciotti Crux TT): https://www.olx.pl/d/oferta/rower-czasowy-triathlonowy-tt-guerciotti-crux-tt-r56-CID767-ID15wDjd.html
+# FAIL (€620 budget SRAM, not Red): https://www.ss.lv/msg/ru/transport/bycycles/highway-sports/bjbixf.html
+# All known qualifying candidates already in seen list as of 2026-07-19
+# --- 2026-07-20 run — No new matches found ---
 # Sites checked (direct fetch blocked 403/ECONNREFUSED): SS.lv, OLX.pl, Allegro.pl, allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv (ECONNREFUSED), Skelbiu.lt
-# Via web search: ~30 candidate listings evaluated; 0 passed all filter criteria
-# Telegram: BLOCKED — api.telegram.org not in network egress allowlist (proxy deny-list persists)
+# Via web search: ~25 candidate listings evaluated across multiple search angles and brands; 0 passed all filter criteria
+# Telegram: BLOCKED — api.telegram.org not in network egress allowlist (proxy deny-list persists all runs)
 # New listings found but FAILED filter criteria:
-# FAIL (Shimano 105 mechanical — model spec confirmed for all Guerciotti Crux TT, direct fetch 403): https://www.olx.pl/d/oferta/rower-czasowy-triathlonowy-tt-guerciotti-crux-tt-r56-CID767-ID15wDjd.html — Guerciotti Crux TT r56, Wrocław Krzyki
-# FAIL (€620 budget carbon with SRAM, clearly not SRAM Red at that price): https://www.ss.lv/msg/ru/transport/bycycles/highway-sports/bjbixf.html — SS.lv carbon 28-inch SRAM L €620
-# No new listings passed all filter criteria — seen list up to date
-# --- 2026-07-19 run (fifteenth) — No new matches found ---
-# Sites checked (direct fetch blocked 403/ECONNREFUSED): SS.lv, OLX.pl, Allegro.pl, allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv (ECONNREFUSED), Skelbiu.lt
-# Via web search: ~20 candidate listings evaluated across multiple search angles; 0 passed all filter criteria
-# Telegram: BLOCKED — api.telegram.org not in network egress allowlist (proxy deny-list persists all runs)
-# No new listings found — all known qualifying candidates already in seen list
-# --- 2026-07-19 run (sixteenth) — No new matches found ---
-# Sites checked (direct fetch blocked 403/ECONNREFUSED): SS.lv, OLX.pl, Allegro.pl, allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv (ECONNREFUSED), Skelbiu.lt
-# Via web search: ~30 candidate listings evaluated across multiple search angles; 0 passed all filter criteria
-# Telegram: BLOCKED — api.telegram.org not in network egress allowlist (proxy deny-list persists all runs)
-# No new listings found — all known qualifying candidates already in seen list
-# --- 2026-07-19 run (seventeenth) — No new matches found ---
-# Sites checked (direct fetch blocked 403/ECONNREFUSED): SS.lv, OLX.pl, Allegro.pl, allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv (ECONNREFUSED), Skelbiu.lt
-# Via web search: ~50 candidate listings evaluated across multiple search angles; 0 passed all filter criteria
-# Telegram: BLOCKED — api.telegram.org not in network egress allowlist (proxy deny-list persists all runs)
-# New listings found but FAILED filter criteria (documented to prevent re-evaluation):
-# FAIL (size M, not L): https://www.olx.pl/d/oferta/trek-speed-concept-di2-m-triathlon-rower-triathlonowy-szosa-CID767-IDWOwY6.html — Trek Speed Concept Di2 size M, Warszawa Włochy
+# FAIL (Shimano 105 mechanical, not Di2/SRAM Red): https://m.skelbiu.lt/skelbimai/bmc-timemachine-02-three-triatlono-dviratis-78359069.html — BMC Timemachine 02 Three, Skelbiu.lt
 # No new listings passed all filter criteria — all known qualifying candidates already in seen list
-# --- 2026-07-19 run (eighteenth) — No new matches found ---
-# Sites checked (direct fetch blocked 403/ECONNREFUSED): SS.lv, OLX.pl, Allegro.pl, allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv (ECONNREFUSED), Skelbiu.lt
-# Via web search: ~25 candidate listings evaluated; 0 passed all filter criteria
-# Telegram: BLOCKED — api.telegram.org not in network egress allowlist (proxy deny-list persists all runs)
-# No new listings found — all known qualifying candidates already in seen list
-# New listings found but FAILED filter criteria (documented to prevent re-evaluation):
-# FAIL (Shimano 105 mechanical, not Di2/SRAM Red): https://www.olx.pl/d/oferta/rower-triathlonowy-czasowy-bmc-time-machine-02-rozmiar-l-CID767-ID13asQS.html — BMC Time Machine 02 size L Gdańsk, Shimano 105 mechanical
-# FAIL (gravel bike, not TT/triathlon): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bokogf.html — Merida Mission 6000 gravel carbon €1,500
-# FAIL (road bike Synapse, not TT/triathlon, size M 54cm): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cdhhpc.html — Cannondale Synapse 54cm M Force €700
-# FAIL (road bike TCR, not TT/triathlon): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/biicei.html — Giant TCR Advanced 1+ Di2 2024 M/ML €1,800
-# FAIL (Ultegra 6800 mechanical, not Di2/SRAM Red): https://www.olx.pl/oferta/rower-szosowy-szosa-argon-18-e-112-tri-carbon-shimano-triathlon-CID767-IDtXOyT.html — Argon 18 E-112 Poznań, Shimano Ultegra 6800 mechanical
-# UNCERTAIN (groupset unconfirmable — direct fetch 403, Argon 18 E-112 carbon TT with Token wheels): https://allegro.pl/oferta/rower-szosowe-czasowy-triathlon-tt-argon-18-e-112-kola-token-17099886377
-# --- 2026-07-19 run (nineteenth) — No new matches found ---
-# Sites checked (direct fetch blocked 403/ECONNREFUSED): SS.lv, OLX.pl, Allegro.pl, allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv (ECONNREFUSED), Skelbiu.lt
-# Via web search: ~40 candidate listings evaluated across multiple search angles; 0 passed all filter criteria
-# Telegram: BLOCKED — api.telegram.org not in network egress allowlist (proxy deny-list persists all runs)
-# No new listings found — all known qualifying candidates already in seen list
-# --- 2026-07-19 run (twentieth) — No new matches found ---
-# Sites checked (direct fetch blocked 403/ECONNREFUSED): SS.lv, OLX.pl, Allegro.pl, allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv (ECONNREFUSED), Skelbiu.lt
-# Via web search: ~40 candidate listings evaluated; 0 passed all filter criteria
-# Telegram: BLOCKED — api.telegram.org not in network egress allowlist (proxy deny-list persists all runs)
-# No new listings found — all known qualifying candidates already in seen list
-# --- 2026-07-19 run (twenty-first) — No new matches found ---
-# Sites checked (direct fetch blocked 403/ECONNREFUSED): SS.lv, OLX.pl, Allegro.pl, allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv (ECONNREFUSED), Skelbiu.lt
-# Via web search: ~30 candidate listings evaluated across multiple search angles; 0 passed all filter criteria
-# Telegram: BLOCKED — api.telegram.org not in network egress allowlist (proxy deny-list persists all runs)
-# No new listings found — all known qualifying candidates already in seen list
