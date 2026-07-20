@@ -425,3 +425,8 @@ https://allegrolokalnie.pl/oferta/rower-triathlonowy-kestrel
 # FAIL (road bike MMR Adrenaline SL10): https://www.olx.pl/d/oferta/nowy-rower-szosowy-mmr-adrenaline-sl-10-carbon-ultegra-di2-2x12-2026-CID767-ID19Bgc7.html
 # FAIL (frameset only, not complete bike): https://www.olx.pl/d/oferta/rower-triathlonowy-czasowka-ktm-team-tt-frameset-do-zbudowania-CID767-IDUzqEq.html
 # All known qualifying candidates already in seen list — no new PASS listings found
+# --- 2026-07-20 run (fifth) — No new matches found ---
+# Sites checked (direct fetch blocked 403/ECONNREFUSED): SS.lv, OLX.pl, Allegro.pl, allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv (ECONNREFUSED), Skelbiu.lt
+# Via web search: ~30 candidate listings evaluated across 20+ search queries; 0 passed all filter criteria
+# Telegram: BLOCKED — api.telegram.org not in network egress allowlist (proxy deny-list persists all runs)
+# No new listings found — all candidates either already seen or failed filter criteria
