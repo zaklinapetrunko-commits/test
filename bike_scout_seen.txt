@@ -362,3 +362,16 @@ https://allegrolokalnie.pl/oferta/rower-triathlonowy-kestrel
 # STILL UNCERTAIN: Scott Plasma Premium Dura-Ace Di2 Warszawa allegrolokalnie (direct access blocked)
 # STILL UNCERTAIN: Basso Konos Ultegra Di2 sized for 188cm Warszawa OLX IDYiwky (direct access blocked)
 # PERSISTENT NOTE: Telegram has been blocked every run since 2026-06-19. All PASS listings require manual review.
+# --- 2026-07-20 run (fourteenth) — No new matches found ---
+# Sites checked (direct fetch blocked 403/ECONNREFUSED): SS.lv, OLX.pl, Allegro.pl, allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv (ECONNREFUSED), Skelbiu.lt
+# Via web search: ~40 candidate listings evaluated across 25+ search queries; 0 passed all filter criteria
+# Telegram: BLOCKED — api.telegram.org not in network egress allowlist (proxy deny-list persists all runs)
+# FAIL (size 48.5 too small): https://allegrolokalnie.pl/oferta/pinarello-bolide-tt
+# FAIL (size 48.5 too small): https://allegrolokalnie.pl/oferta/pinarello-bolide-tt-ig
+# FAIL (size M too small): https://allegrolokalnie.pl/oferta/rower-pinarello-bolide-xsz
+# FAIL (size M women's): https://allegrolokalnie.pl/oferta/rower-triathlonowy-giant-liv-avow-advanced-pro-1-m-rower-czasowy
+# UNCERTAIN (Pinarello Bolide TT Team SKY Dura-Ace Di2, 29,900 PLN ~€6,977, Nowa Sucha — size unconfirmed): https://allegrolokalnie.pl/oferta/pinarello-bolid-durace-di2-team-sky
+# No new listings confirmed PASS — all candidates failed filter or size unconfirmable
+# STILL UNCERTAIN: Scott Plasma Premium Dura-Ace Di2 Warszawa allegrolokalnie (direct access blocked)
+# STILL UNCERTAIN: Basso Konos Ultegra Di2 sized for 188cm Warszawa OLX IDYiwky (direct access blocked)
+# PERSISTENT NOTE: Telegram has been blocked every run since 2026-06-19. All PASS listings require manual review.
