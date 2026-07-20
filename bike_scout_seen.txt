@@ -411,3 +411,17 @@ https://allegrolokalnie.pl/oferta/rower-triathlonowy-kestrel
 # FAIL (Shimano 105 mechanical, size XL for 185cm+, 9,900 PLN, Julianów): https://www.olx.pl/d/oferta/giant-trinity-l-xl-rower-tt-triathlonowy-czasowy-dla-wysokiego-CID767-ID17jILQ.html
 # FAIL (carbon road bike €950, Shimano mechanical — price rules out Di2): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/iekni.html
 # All known qualifying candidates already in seen list — no new PASS listings found
+# --- 2026-07-20 run (fourth) — No new matches found ---
+# Sites checked (direct fetch blocked 403/ECONNREFUSED): SS.lv, OLX.pl, Allegro.pl, allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv (ECONNREFUSED), Skelbiu.lt
+# Via web search: ~20 candidate listings evaluated across multiple search queries; 0 passed all filter criteria
+# Telegram: BLOCKED — api.telegram.org not in network egress allowlist (proxy deny-list persists all runs)
+# New listings found but FAILED filter criteria:
+# FAIL (size S, mechanical Ultegra R8000 ~10,000 PLN): https://www.olx.pl/d/oferta/rower-czasowy-triathlon-canyon-speedmax-cf-ultegra-carbon-reynolds-CID767-ID17FVv2.html
+# FAIL (size M Di2): https://www.olx.pl/d/oferta/rower-triathlonowy-canyon-speedmax-cf-8-0-roz-m-di2-raty-0-CID767-ID150mOE.html
+# FAIL (size M Di2): https://www.olx.pl/d/oferta/rower-triathlonowy-canyon-speedmax-cf-8-0-roz-m-di2-raty-0-CID767-ID15tWNI.html
+# FAIL (size M Di2): https://www.olx.pl/d/oferta/canyon-speedmax-cf-slx-ultegra-di2-rozm-m-ceramic-speed-CID767-ID12GJnS.html
+# FAIL (size XL): https://www.olx.pl/d/oferta/canyon-speedmax-cf-8-0-xl-ultegra-rower-triathlonowy-reynolds-62mm-CID767-IDOoZi1.html
+# FAIL (aero road bike, not TT/tri): https://www.olx.pl/d/oferta/rower-karbonowy-tavelo-arow-di2-nowy-personalizacja-dealer-pl-CID767-ID19Uf3V.html
+# FAIL (road bike MMR Adrenaline SL10): https://www.olx.pl/d/oferta/nowy-rower-szosowy-mmr-adrenaline-sl-10-carbon-ultegra-di2-2x12-2026-CID767-ID19Bgc7.html
+# FAIL (frameset only, not complete bike): https://www.olx.pl/d/oferta/rower-triathlonowy-czasowka-ktm-team-tt-frameset-do-zbudowania-CID767-IDUzqEq.html
+# All known qualifying candidates already in seen list — no new PASS listings found
