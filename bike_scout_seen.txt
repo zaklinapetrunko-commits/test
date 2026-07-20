@@ -446,3 +446,11 @@ https://allegrolokalnie.pl/oferta/rower-triathlonowy-kestrel
 # UNCERTAIN (Scott Plasma Premium carbon TT, Dura-Ace Di2, Warszawa — size and price unconfirmed): https://allegrolokalnie.pl/oferta/scott-plasma-premium
 # NOTE: Scott Plasma "Premium" / "3 Premium" models are confirmed Di2-equipped TT/tri bikes (HMX carbon, Dura-Ace Di2) available in 56cm. Size verification needed before alert.
 # PERSISTENT TELEGRAM BLOCK: api.telegram.org unreachable from this environment. All PASS/UNCERTAIN listings require manual review directly on the linked URLs.
+# --- 2026-07-20 run (eighth) — No new matches found ---
+# Sites checked (direct fetch blocked 403/ECONNREFUSED): SS.lv, OLX.pl, Allegro.pl, allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv (ECONNREFUSED), Skelbiu.lt
+# Via web search: ~20 candidate listings evaluated across 20+ search queries; 0 passed all filter criteria
+# Telegram: BLOCKED — api.telegram.org not in network egress allowlist (proxy deny-list persists all runs)
+# New listings found but FAILED filter criteria:
+# FAIL (Ultegra mechanical, 53cm too small, Wrocław): https://www.olx.pl/d/oferta/rower-triathlonowy-fondriest-tf1-carbon-ultegra-CID767-IDSnTpQ.html
+# All known qualifying candidates already in seen list — no new PASS listings found
+# PERSISTENT NOTE: Telegram delivery has been blocked on every run since 2026-06-19. All PASS listings in this file require manual review directly on the linked URLs.
