@@ -454,3 +454,11 @@ https://allegrolokalnie.pl/oferta/rower-triathlonowy-kestrel
 # FAIL (Ultegra mechanical, 53cm too small, Wrocław): https://www.olx.pl/d/oferta/rower-triathlonowy-fondriest-tf1-carbon-ultegra-CID767-IDSnTpQ.html
 # All known qualifying candidates already in seen list — no new PASS listings found
 # PERSISTENT NOTE: Telegram delivery has been blocked on every run since 2026-06-19. All PASS listings in this file require manual review directly on the linked URLs.
+# --- 2026-07-20 run (ninth) — No new matches found ---
+# Sites checked (direct fetch blocked 403/ECONNREFUSED): SS.lv, OLX.pl, Allegro.pl, allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv (ECONNREFUSED), Skelbiu.lt
+# Via web search: ~25 candidate listings evaluated across 20+ search queries; 0 passed all filter criteria
+# Telegram: BLOCKED — api.telegram.org not in network egress allowlist (proxy deny-list persists all runs)
+# New listings found but FAILED filter criteria:
+# FAIL (size XL too large, Di2, Swarzędz): https://www.olx.pl/d/oferta/trek-speed-concept-xl-di2-tt-triathlon-karbon-CID767-IDSIyfC.html
+# All known qualifying candidates already in seen list — no new PASS listings found
+# PERSISTENT NOTE: Telegram delivery has been blocked on every run since 2026-06-19. All PASS listings in this file require manual review directly on the linked URLs.
