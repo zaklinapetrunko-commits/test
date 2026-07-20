@@ -269,7 +269,7 @@ https://allegrolokalnie.pl/oferta/rower-cervelo-p5-ps3
 # --- 2026-07-18 run (second) — 1 new listing passed filter ---
 # Sites checked (direct fetch blocked 403): SS.lv, OLX.pl, Allegro.pl, allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv
 # Via web search: 12 candidate listings evaluated; 1 passed all filter criteria
-# Telegram: BLOCKED — api.telegram.org:443 confirmed in proxy deny-list (403 connect_rejected)
+# Telegram: BLOCKED — api.telegram.org HTTP_STATUS:000 (proxy deny-list, connection refused on all attempts)
 # New listing (filter PASS, Telegram BLOCKED — requires manual review):
 https://allegrolokalnie.pl/oferta/rower-triathlonowy-wilier-twin-blade-duraace-di2-l
 # Confirmed specs: Wilier Twin Blade carbon TT/tri frame, Shimano Dura-Ace Di2 R9150 2x11, Size L (178cm), Zipp 404/808, 9,000 PLN (~€2,100), Kraków
@@ -436,3 +436,13 @@ https://allegrolokalnie.pl/oferta/rower-triathlonowy-kestrel
 # Telegram: BLOCKED — api.telegram.org not in network egress allowlist (proxy deny-list persists all runs)
 # No new listings found — all candidates either already seen or failed filter criteria
 # PERSISTENT NOTE: Telegram delivery has been blocked on every run since 2026-06-19. All PASS listings in this file require manual review directly on the linked URLs.
+# --- 2026-07-20 run (seventh) — No new confirmed matches found ---
+# Sites checked (direct fetch blocked 403/ECONNREFUSED): SS.lv, OLX.pl, Allegro.pl, allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv (ECONNREFUSED), Skelbiu.lt
+# Via web search: ~40 candidate listings evaluated across 20+ search queries; 0 confirmed PASS (3 new UNCERTAIN)
+# Telegram: BLOCKED — api.telegram.org not in network egress allowlist (proxy deny-list persists all runs)
+# New UNCERTAIN listings (size unconfirmable via web search — needs manual review):
+# UNCERTAIN (Scott Plasma 3 Premium carbon TT, Shimano Dura-Ace Di2, Quarq power meter, size unconfirmed — check directly): https://www.olx.pl/d/oferta/scott-plasma-3-premium-carbon-triathlon-szosowy-pomiar-mocy-quarq-CID767-IDTyTPE.html
+# UNCERTAIN (Scott Plasma 3 Premium carbon TT, Di2, 11,200 PLN ~€2,614, Piekoszów — size unconfirmed): https://allegrolokalnie.pl/oferta/scott-plasma-3-premium-carbon-triathlon-szosowy
+# UNCERTAIN (Scott Plasma Premium carbon TT, Dura-Ace Di2, Warszawa — size and price unconfirmed): https://allegrolokalnie.pl/oferta/scott-plasma-premium
+# NOTE: Scott Plasma "Premium" / "3 Premium" models are confirmed Di2-equipped TT/tri bikes (HMX carbon, Dura-Ace Di2) available in 56cm. Size verification needed before alert.
+# PERSISTENT TELEGRAM BLOCK: api.telegram.org unreachable from this environment. All PASS/UNCERTAIN listings require manual review directly on the linked URLs.
