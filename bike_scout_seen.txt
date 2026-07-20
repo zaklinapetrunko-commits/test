@@ -391,3 +391,14 @@ https://allegrolokalnie.pl/oferta/rower-triathlonowy-kestrel
 # New listings found but FAILED filter criteria:
 # FAIL (Shimano 105 mechanical, not Di2/SRAM Red): https://m.skelbiu.lt/skelbimai/bmc-timemachine-02-three-triatlono-dviratis-78359069.html — BMC Timemachine 02 Three, Skelbiu.lt
 # No new listings passed all filter criteria — all known qualifying candidates already in seen list
+# --- 2026-07-20 run (second) — No new confirmed matches found ---
+# Sites checked (direct fetch blocked 403/ECONNREFUSED): SS.lv, OLX.pl, Allegro.pl, allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv (ECONNREFUSED), Skelbiu.lt
+# Via web search: ~30 candidate listings evaluated; 0 confirmed PASS (3 UNCERTAIN, 1 FAIL new)
+# Telegram: BLOCKED — api.telegram.org HTTP_STATUS:000 (proxy deny-list, connection refused on all attempts)
+# New FAIL listings (newly evaluated):
+# FAIL (size M, 540mm seat tube, 3,299 PLN, Rzeszów): https://www.olx.pl/d/oferta/rower-triathlonowy-czasowy-tt-basso-konos-karbon-CID767-ID12Z6mB.html
+# New UNCERTAIN listings (size unconfirmable via web search — needs manual review):
+# UNCERTAIN (Basso Konos TT carbon, Ultegra Di2, sized for 180-190cm rider, Warszawa Mokotów): https://www.olx.pl/d/oferta/rower-basso-konos-triathlon-czasowy-CID767-ID11Ebft.html
+# UNCERTAIN (Basso Konos TT carbon, Ultegra Di2, 25,500 PLN ~€5,953, FFWD F6 wheels, power meter, set up for 188cm, Warszawa Srodmiescie): https://www.olx.pl/d/oferta/rower-do-jazdy-na-czas-triathlon-basso-konos-piekny-i-bardzo-szybki-CID767-IDYiwky.html
+# UNCERTAIN (Basso Carbon Konos Wieliczka, mixed/mechanical drivetrain, 6,999 PLN ~€1,633): https://www.olx.pl/d/oferta/basso-carbon-konos-ultegra-di2-CID767-ID146yN8.html
+# PERSISTENT TELEGRAM BLOCK: api.telegram.org unreachable from this environment (HTTP_STATUS:000 on all runs since 2026-06-19). All PASS listings above require manual review.
