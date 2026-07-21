@@ -262,7 +262,7 @@ https://www.olx.pl/d/oferta/rower-czasowy-cipollini-nktt-carbon-shimano-dura-ace
 # --- 2026-07-19 run (fourth) — 1 new listing passed filter ---
 https://allegrolokalnie.pl/oferta/look-796-monoblade-rs-jak-nowy
 # Confirmed specs: Look 796 Monoblade RS, full carbon VHMC, TT/tri, Size L/XL, Shimano Dura Ace R9270 Di2, Bora Ultra WTO 60, 26,500 PLN (~€6,177), Kraków *** REQUIRES MANUAL CHECK — Telegram BLOCKED ***
-# FAIL (€443 mechanical): https://allegrolokalnie.pl/oferta/rower-trathlonowy-tt-czasowy-triathlon-full-carbon
+# FAIL (€443 mechanical): https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-tt-avenger-tm6-carbon
 # --- 2026-07-19 run (fifth) — 1 new listing passed filter ---
 https://m.skelbiu.lt/skelbimai/orbea-tt-ordu-m20i-di2-2018-l-dydis-73766133.html
 # Confirmed specs: Orbea Ordu M20i Di2, full carbon TT/tri, Size L, Shimano Ultegra Di2, €1,400, Vilnius *** REQUIRES MANUAL CHECK — Telegram BLOCKED ***
@@ -374,4 +374,15 @@ https://allegrolokalnie.pl/oferta/rower-triathlonowy-kestrel
 # No new listings confirmed PASS — all candidates failed filter or size unconfirmable
 # STILL UNCERTAIN: Scott Plasma Premium Dura-Ace Di2 Warszawa allegrolokalnie (direct access blocked)
 # STILL UNCERTAIN: Basso Konos Ultegra Di2 sized for 188cm Warszawa OLX IDYiwky (direct access blocked)
+# PERSISTENT NOTE: Telegram has been blocked every run since 2026-06-19. All PASS listings require manual review.
+# --- 2026-07-21 run — No new matches found ---
+# Sites checked (direct fetch blocked 403/ECONNREFUSED): SS.lv, OLX.pl, Allegro.pl, allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv (ECONNREFUSED), Skelbiu.lt, Velomarket.lv
+# Via web search: ~40 candidate listings evaluated across 20+ search queries; 0 passed all filter criteria
+# Telegram: BLOCKED — api.telegram.org not in network egress allowlist (proxy deny-list persists all runs)
+# FAIL (archived 2019 listing): https://www.olx.pl/oferta/pinarello-bolide-tt-team-sky-CID767-IDy0ykH.html
+# FAIL (Ribble DEDA TT, groupset/size unconfirmable): https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-ribble-deda-tt-carbon
+# FAIL (Full carbon TT Żory 1,900 PLN — price confirms mechanical groupset): https://allegrolokalnie.pl/oferta/rower-trathlonowy-tt-czasowy-triathlon-full-carbon
+# STILL UNCERTAIN: Scott Plasma Premium Dura-Ace Di2 Warszawa allegrolokalnie (direct access blocked)
+# STILL UNCERTAIN: Basso Konos Ultegra Di2 sized for 188cm Warszawa OLX IDYiwky (direct access blocked)
+# STILL UNCERTAIN: Pinarello Bolide TT Team SKY Dura-Ace Di2, Nowa Sucha (direct access blocked, size unconfirmed)
 # PERSISTENT NOTE: Telegram has been blocked every run since 2026-06-19. All PASS listings require manual review.
