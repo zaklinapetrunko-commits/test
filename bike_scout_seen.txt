@@ -205,7 +205,7 @@ https://allegrolokalnie.pl/oferta/rower-triathlonowy-wilier-twin-blade-duraace-d
 # FAIL (road bike Aeroad): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/heogb.html
 # FAIL (gravel bike): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cejgjd.html
 # FAIL (aluminum, M size): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdlgbg.html
-# UNCERTAIN (size not confirmed, 29,999 PLN ~€7,143): https://www.olx.pl/d/oferta/nowy-rower-triathlonowy-felt-ia-2-0-expert-ultegra-di2-12s-super-cena-CID767-ID18RPS3.html
+# UNCERTAIN (size not confirmed, 29,999 PLN ~€7,143): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/oxgmb.html (ACTUALLY: Felt IA 2.0 OLX)
 # --- 2026-07-18 run (fourth) — 1 new listing passed filter ---
 https://www.olx.pl/d/oferta/pinarello-bolide-tt-rower-czasowy-triathlonowy-rama-l-CID767-ID10QusN.html
 # Confirmed specs: Pinarello Bolide TT, full carbon, Size L, SRAM Red eTap AXS 1x12, Quarq power meter, 23,900 PLN (~€5,578), Warszawa Bielany *** REQUIRES MANUAL CHECK — Telegram BLOCKED ***
@@ -542,3 +542,19 @@ https://allegrolokalnie.pl/oferta/rower-triathlonowy-kestrel
 # No new listings confirmed PASS — all candidates either already seen or failed filter criteria
 # PERSISTENT NOTE: Telegram has been blocked on every run since 2026-06-19. All PASS listings require manual review directly on linked URLs.
 # PERSISTENT NOTE: api.telegram.org remains blocked by proxy on all runs. Network egress allowlist must include api.telegram.org for alerts to work.
+# --- 2026-07-21 run (sixteenth) — 3 uncertain listings size-confirmed via buycycle cross-reference ---
+# Sites checked (direct fetch blocked 403/ECONNREFUSED): SS.lv, OLX.pl, Allegro.pl, allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv (ECONNREFUSED), Skelbiu.lt
+# Via web search: ~80 candidate listings evaluated across 30+ search queries; 0 newly posted listings found
+# Telegram: BLOCKED — api.telegram.org returns 403 from proxy (persists all runs since 2026-06-19)
+# Size confirmed via buycycle cross-references for 3 previously-uncertain listings (never successfully alerted via Telegram):
+# CONFIRMED PASS — added to seen list (Telegram-blocked; manual review required on the linked URLs):
+https://allegrolokalnie.pl/oferta/pinarello-bolid-durace-di2-team-sky
+# Specs: Pinarello Bolide TT, full carbon, Size 55cm (buycycle: "Team Sky/Tao Geoghegan Hart, 55cm"), Shimano Dura-Ace Di2, Team Sky livery, 29,900 PLN (~€6,977), Nowa Sucha *** TELEGRAM BLOCKED — manual check required ***
+https://allegrolokalnie.pl/oferta/scott-plasma-premium
+# Specs: Scott Plasma Premium, full carbon TT/tri, Size 56cm (buycycle: "Scott Premium 56cm"), Shimano Dura-Ace Di2, 25,000 PLN (~€5,833), Warszawa *** TELEGRAM BLOCKED — manual check required ***
+https://www.olx.pl/d/oferta/rower-do-jazdy-na-czas-triathlon-basso-konos-piekny-i-bardzo-szybki-CID767-IDYiwky.html
+# Specs: Basso Konos, full carbon TT/tri, Size L (set up for 188cm rider), Shimano Ultegra Di2, FFWD F6 wheels, power meter included ⭐, 25,500 PLN (~€5,953), Warszawa *** TELEGRAM BLOCKED — manual check required ***
+# ACTION REQUIRED: These 3 listings have been in the scout file since 2026-07-18 to 2026-07-20 but were never alerted due to Telegram blockage.
+# Please review the links above manually — they may still be active on allegrolokalnie.pl and olx.pl.
+# PERSISTENT NOTE: Telegram has been blocked on every run since 2026-06-19. All PASS listings require manual review directly on linked URLs.
+# PERSISTENT NOTE: api.telegram.org remains blocked by proxy on all runs. To enable Telegram alerts, the network egress policy must be updated to whitelist api.telegram.org, or the routine must be run in an environment with unrestricted outbound HTTPS.
