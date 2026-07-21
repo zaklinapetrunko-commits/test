@@ -214,7 +214,7 @@ https://www.olx.pl/d/oferta/pinarello-bolide-tt-rower-czasowy-triathlonowy-rama-
 # FAIL (Ultegra 6700 mechanical, size S): https://allegrolokalnie.pl/oferta/merida-warp-tt-lampre-czasowy-triathlonowy
 # FAIL (54cm too small): https://allegrolokalnie.pl/oferta/rower-triathlonowy-cervelo-p2-r54-y5z
 # FAIL (58cm too large): https://allegrolokalnie.pl/oferta/rower-czasowy-cervelo-p2-triathlon-rozmiar-58
-# FAIL (road bike, 58cm): https://allegrolokalnie.pl/oferta/cervelo-s5-disc-ultegra-di2-dt-swiss-58cm-nowy
+# FAIL (road bike S5): https://allegrolokalnie.pl/oferta/cervelo-s5-disc-ultegra-di2-dt-swiss-58cm-nowy
 # FAIL (size S-M): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bkhelc.html
 # FAIL (54cm too small): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cdkxli.html
 # UNCERTAIN (Shiv S-Works L €1,800): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bxhkxh.html
@@ -524,6 +524,17 @@ https://allegrolokalnie.pl/oferta/rower-triathlonowy-kestrel
 # Via web search: ~50 candidate listings evaluated across 20+ search queries; 0 passed all filter criteria
 # Telegram: BLOCKED — api.telegram.org not in network egress allowlist (proxy deny-list persists all runs)
 # New SS.lv listing checked: bgfmcl = Serious Gravix Elite gravel bike — FAIL (gravel, not TT)
+# All returned listings were either already in seen list or failed filter criteria
+# STILL UNCERTAIN: Scott Plasma Premium Dura-Ace Di2 56cm Warszawa allegrolokalnie (direct access 403)
+# STILL UNCERTAIN: Basso Konos Ultegra Di2 sized for 188cm Warszawa OLX IDYiwky (direct access 403)
+# STILL UNCERTAIN: Pinarello Bolide TT Team SKY Dura-Ace Di2, Nowa Sucha (direct access 403, size unconfirmed)
+# No new listings confirmed PASS — all candidates either already seen or failed filter criteria
+# PERSISTENT NOTE: Telegram has been blocked on every run since 2026-06-19. All PASS listings require manual review directly on linked URLs.
+# PERSISTENT NOTE: api.telegram.org remains blocked by proxy on all runs. Network egress allowlist must include api.telegram.org for alerts to work.
+# --- 2026-07-21 run (fifteenth) — No new matches found ---
+# Sites checked (direct fetch blocked 403/ECONNREFUSED): SS.lv, OLX.pl, Allegro.pl, allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv (ECONNREFUSED), Skelbiu.lt
+# Via web search: ~50 candidate listings evaluated across 25+ search queries; 0 passed all filter criteria
+# Telegram: BLOCKED — api.telegram.org not in network egress allowlist (proxy deny-list persists all runs)
 # All returned listings were either already in seen list or failed filter criteria
 # STILL UNCERTAIN: Scott Plasma Premium Dura-Ace Di2 56cm Warszawa allegrolokalnie (direct access 403)
 # STILL UNCERTAIN: Basso Konos Ultegra Di2 sized for 188cm Warszawa OLX IDYiwky (direct access 403)
