@@ -395,3 +395,13 @@ https://allegrolokalnie.pl/oferta/rower-triathlonowy-kestrel
 # STILL UNCERTAIN: Basso Konos Ultegra Di2 sized for 188cm Warszawa OLX IDYiwky (direct access blocked)
 # STILL UNCERTAIN: Pinarello Bolide TT Team SKY Dura-Ace Di2, Nowa Sucha (direct access blocked, size unconfirmed)
 # PERSISTENT NOTE: Telegram has been blocked on every run since 2026-06-19. All PASS listings require manual review directly on linked URLs.
+# --- 2026-07-21 run (third) — No new matches found ---
+# Sites checked (direct fetch blocked 403/ECONNREFUSED): SS.lv, OLX.pl, Allegro.pl, allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv (ECONNREFUSED), Skelbiu.lt
+# Via web search: ~60 candidate listings evaluated across 14+ search queries; 0 passed all filter criteria
+# Telegram: BLOCKED — api.telegram.org not in network egress allowlist (proxy deny-list persists all runs)
+# All returned listings were either already in seen list or failed filter (wrong size, wrong groupset, road bike, not TT/tri)
+# STILL UNCERTAIN: Scott Plasma Premium Dura-Ace Di2 Warszawa allegrolokalnie (direct access blocked)
+# STILL UNCERTAIN: Basso Konos Ultegra Di2 sized for 188cm Warszawa OLX IDYiwky (direct access blocked)
+# STILL UNCERTAIN: Pinarello Bolide TT Team SKY Dura-Ace Di2, Nowa Sucha (direct access blocked, size unconfirmed)
+# PERSISTENT NOTE: Telegram has been blocked on every run since 2026-06-19. All PASS listings require manual review directly on linked URLs.
+# PERSISTENT NOTE: api.telegram.org remains blocked by proxy on all runs. To enable Telegram alerts, the network egress policy must be updated to whitelist api.telegram.org, or the routine must be run in an environment with unrestricted outbound HTTPS.
