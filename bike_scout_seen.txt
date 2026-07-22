@@ -585,3 +585,18 @@ https://www.olx.pl/d/oferta/rower-do-jazdy-na-czas-triathlon-basso-konos-piekny-
 # No new listings confirmed PASS — all candidates either already seen or failed filter criteria
 # PERSISTENT NOTE: Telegram has been blocked on every run since 2026-06-19. All PASS listings require manual review directly on linked URLs.
 # PERSISTENT NOTE: api.telegram.org remains blocked by proxy on all runs. Network egress allowlist must include api.telegram.org for alerts to work.
+# --- 2026-07-22 run (third) — No new matches found ---
+# Sites checked (direct fetch blocked 403/ECONNREFUSED): SS.lv, OLX.pl, Allegro.pl, allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv (ECONNREFUSED), Skelbiu.lt
+# Via web search: ~30 candidate listings evaluated across 15+ search queries; 0 passed all filter criteria
+# Telegram: BLOCKED — api.telegram.org returns curl exit 56 (network error, proxy deny-list persists all runs)
+# UNCERTAIN (new SS.lv listing, carbon top-class bike EUR 7,990, original EUR 12,000 — type/groupset/size unconfirmable, direct fetch 403): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cdheko.html
+# FAIL (cyclocross carbon, not TT): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bimmpe.html
+# FAIL (Liv Langma by Giant road bike, not TT): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bpdxkk.html
+# FAIL (Cube Agree C:62 SL road bike, not TT): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cebjxc.html
+# FAIL (ITT carbon frame only, not complete bike): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cfcnjh.html
+# No new listings confirmed PASS — all candidates failed filter or specs unconfirmable
+# STILL UNCERTAIN: Scott Plasma Premium Dura-Ace Di2 56cm Warszawa allegrolokalnie (direct access 403)
+# STILL UNCERTAIN: Basso Konos Ultegra Di2 sized for 188cm Warszawa OLX IDYiwky (direct access 403)
+# STILL UNCERTAIN: Pinarello Bolide TT Team SKY Dura-Ace Di2, Nowa Sucha (direct access 403, size unconfirmed)
+# PERSISTENT NOTE: Telegram has been blocked on every run since 2026-06-19. All PASS listings require manual review directly on linked URLs.
+# PERSISTENT NOTE: api.telegram.org remains blocked by proxy on all runs. Network egress allowlist must include api.telegram.org for alerts to work.
