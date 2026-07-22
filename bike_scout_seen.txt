@@ -334,7 +334,7 @@ https://www.olx.pl/d/oferta/rower-do-jazdy-na-czas-triathlon-basso-konos-piekny-
 # FAIL (SS.lv Rose Backroad 59cm gravel bike, not TT): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdlhcd.html
 # FAIL (SS.lv Bergamont Dolce Carbon road bike, not TT): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/blpnnj.html
 # UNCERTAIN (SS.lv sports/other category, Jauns karbona velo EUR 2880, TT/tri type unconfirmable, direct fetch 403): https://www.ss.lv/msg/ru/entertainment/sports/other/bxlfpe.html
-# FAIL (AllegroLokalnie Felt DA1 size 54 - too small): https://allegrolokalnie.pl/oferta/rower-triathlonowy-felt-da1-rozmiar-54
+# FAIL (AllegroLokalnie Felt DA1 size 54 - too small): https://allegrolokalnie.pl/oferta/rower-triathlonowy-felt-ia-14-r54
 # Telegram: BLOCKED --- api.telegram.org blocked by proxy deny-list (connect_rejected persists all runs since 2026-06-19)
 # PERSISTENT NOTE: Telegram has been blocked on every run since 2026-06-19. All PASS listings require manual review directly on linked URLs.
 # PERSISTENT NOTE: api.telegram.org remains blocked by proxy on all runs. Network egress allowlist must include api.telegram.org for alerts to work.
@@ -421,6 +421,16 @@ https://www.olx.pl/d/oferta/rower-do-jazdy-na-czas-triathlon-basso-konos-piekny-
 # Via web search: ~20 searches run across all target marketplaces and brands; all listings found were already in seen list or failed filter criteria
 # New URLs assessed this run:
 # FAIL (BMC Timemachine TMR02 AllegroLokalnie - aero road bike, not TT/triathlon type): https://allegrolokalnie.pl/oferta/bmc-timemachine-tmr02-carbon
+# Telegram: BLOCKED --- api.telegram.org blocked by proxy deny-list (connect_rejected persists all runs since 2026-06-19)
+# PERSISTENT NOTE: Telegram has been blocked on every run since 2026-06-19. All PASS listings require manual review directly on linked URLs.
+# PERSISTENT NOTE: api.telegram.org remains blocked by proxy on all runs. Network egress allowlist must include api.telegram.org for alerts to work.
+# --- 2026-07-22 run (fourteenth) --- No new matches found ---
+# Sites checked: SS.lv, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt
+# Direct fetch: All sites return 403 (proxy blocked)
+# Via web search: ~20 searches run across all target marketplaces and brands; all listings found were already in seen list or failed filter criteria
+# New URLs assessed this run:
+# FAIL (AllegroLokalnie Felt IA 14 r54 - size 54 too small): https://allegrolokalnie.pl/oferta/rower-triathlonowy-felt-ia-14-r54
+# Search terms used: SS.lv triathlon TT carbon Di2 SRAM Red; allegrolokalnie carbon Di2 SRAM Red L 56; olx.pl triathlon carbon Di2 SRAM Red L 56; allegro.pl triathlon carbon Di2 SRAM Red L 56; skelbiu.lt triatlono dviratis carbon Di2 SRAM Red L; autoplius.lt triathlon carbon Di2 SRAM Red; triathlon TT carbon Di2 SRAM Red ss.lv osta.ee okidoki.ee; brand-specific: Cervelo P5/P3X, Canyon Speedmax CFR, Trek Speed Concept SLR, Specialized Shiv, BMC TM01, Giant Trinity, Orbea Ordu, Pinarello Bolide
 # Telegram: BLOCKED --- api.telegram.org blocked by proxy deny-list (connect_rejected persists all runs since 2026-06-19)
 # PERSISTENT NOTE: Telegram has been blocked on every run since 2026-06-19. All PASS listings require manual review directly on linked URLs.
 # PERSISTENT NOTE: api.telegram.org remains blocked by proxy on all runs. Network egress allowlist must include api.telegram.org for alerts to work.
