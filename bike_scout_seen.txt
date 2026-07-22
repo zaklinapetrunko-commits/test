@@ -185,7 +185,7 @@ https://allegrolokalnie.pl/oferta/rower-triathlonowy-wilier-twin-blade-duraace-d
 # FAIL (58cm too big): https://allegrolokalnie.pl/oferta/cervelo-p3-2018-ultegra-di2-rozmiar-58
 # FAIL (size unconfirmed, likely wrong size): https://allegrolokalnie.pl/oferta/rower-czasowy-triathlon-fuji-norcom-straight-1-3-d
 # FAIL (OLX Scott Plasma 2, old model, no Di2): https://www.olx.pl/d/oferta/rower-triathlonowy-czasowy-tt-scott-plasma-2-kola-ffwd-carbon-CID767-ID18Pri3.html
-# UNCERTAIN (SS.lv listing, specs unverifiable due to 403): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bpdhxh.html
+# FAIL (size unconfirmed, likely wrong size): https://allegrolokalnie.pl/oferta/rower-czasowy-triathlon-fuji-norcom-straight-1-3-d
 # FAIL (Avenger TM6 carbon - generic brand, groupset unverifiable): https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-tt-avenger-tm6-carbon
 # FAIL (Ribble Deda TT Carbon - groupset/size unverifiable): https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-ribble-deda-tt-carbon
 # FAIL (Bottecchia Tri Di2 Mavic - 51cm): https://allegrolokalnie.pl/oferta/rower-triathlonowy-bottecchia-tri-di2-mavic
@@ -441,6 +441,15 @@ https://www.olx.pl/d/oferta/rower-do-jazdy-na-czas-triathlon-basso-konos-piekny-
 # New URLs assessed this run:
 # FAIL (AllegroLokalnie Cervelo P-Series r58 - size 58 too big): https://allegrolokalnie.pl/oferta/rower-triathlonowy-cervelo-pseries-r58
 # Search terms used: triathlon TT carbon Di2 SRAM Red L 56 site:allegrolokalnie.pl; rower triathlonowy carbon Di2 SRAM Red L 56 site:olx.pl; triathlon TT carbon Di2 SRAM Red L 56 site:allegro.pl; triatlona velosipeds karbon Di2 SRAM Red site:ss.lv; triatlono dviratis carbon Di2 SRAM Red L site:skelbiu.lt; Cervelo P5 Di2 SRAM Red L allegrolokalnie; Canyon Speedmax CFR Di2 L allegrolokalnie; Trek Speed Concept SLR Di2 L 56 olx.pl; ss.lv triatlona velosipeds Di2 jauns 2026; specialized shiv Di2 SRAM Red L allegrolokalnie; BMC Timemachine TM01 Di2 L allegrolokalnie OLX; Orbea Ordu Di2 SRAM Red L allegrolokalnie OLX skelbiu; Giant Trinity Advanced Pro Di2 SRAM Red L allegrolokalnie; rower triathlonowy carbon Di2 SRAM Red rozmiar L 56 ogłoszenie lipiec 2026; cervelo p5 canyon speedmax trek speed concept allegrolokalnie nowe ogłoszenie lipiec 2026; triathlon TT carbon Di2 SRAM Red L 56 sale Baltic Poland classifieds new July 2026; autoplius.lt triatlono dviratis carbon Di2 SRAM Red L 2026; velosipeds karbona triatlona TT Di2 site:mm.lv 2026; ss.lv highway-sports new listing karbona triatlona velo 2026 TT Di2; site:olx.pl triathlon carbon Di2 SRAM Red L 56 rower nowy lipiec 2026; site:allegrolokalnie.pl rower triathlonowy Di2 SRAM Red L 56 carbon nowy 2026; rower triathlonowy nowy olx.pl allegrolokalnie skelbiu cervelo canyon trek BMC lipiec 2026; ss.lv triatlona karbons Di2 TT jauns sludinajums julijs 2026; triathlon TT carbon Di2 "rozmiar L" OR "56 cm" nowe ogłoszenie allegrolokalnie olx lipiec 2026
+# Telegram: BLOCKED --- api.telegram.org blocked by proxy deny-list (connect_rejected persists all runs since 2026-06-19)
+# PERSISTENT NOTE: Telegram has been blocked on every run since 2026-06-19. All PASS listings require manual review directly on linked URLs.
+# PERSISTENT NOTE: api.telegram.org remains blocked by proxy on all runs. Network egress allowlist must include api.telegram.org for alerts to work.
+# --- 2026-07-22 run (sixteenth) --- No new matches found ---
+# Sites checked: SS.lv, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt
+# Direct fetch: All sites return 403 (proxy blocked)
+# Via web search: ~18 searches run; all listings found were already in seen list or failed filter criteria
+# New URLs assessed this run:
+# FAIL (OLX Rondo Ruut CF 2 - gravel bike, not TT/triathlon): https://www.olx.pl/d/oferta/rower-gravel-rondo-ruut-cf-2-rama-l-carbon-sram-apex-xplr-1x12-twintip-CID767-ID1bjKEs.html
 # Telegram: BLOCKED --- api.telegram.org blocked by proxy deny-list (connect_rejected persists all runs since 2026-06-19)
 # PERSISTENT NOTE: Telegram has been blocked on every run since 2026-06-19. All PASS listings require manual review directly on linked URLs.
 # PERSISTENT NOTE: api.telegram.org remains blocked by proxy on all runs. Network egress allowlist must include api.telegram.org for alerts to work.
