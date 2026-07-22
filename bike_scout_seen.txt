@@ -188,9 +188,7 @@ https://allegrolokalnie.pl/oferta/rower-triathlonowy-wilier-twin-blade-duraace-d
 # UNCERTAIN (SS.lv listing, specs unverifiable due to 403): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bpdhxh.html
 # FAIL (Avenger TM6 carbon - generic brand, groupset unverifiable): https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-tt-avenger-tm6-carbon
 # FAIL (Ribble Deda TT Carbon - groupset/size unverifiable): https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-ribble-deda-tt-carbon
-# PASS! Wilier Twin Blade DuraAce Di2 L already listed above
 # FAIL (Bottecchia Tri Di2 Mavic - 51cm): https://allegrolokalnie.pl/oferta/rower-triathlonowy-bottecchia-tri-di2-mavic
-# FAIL (Wilier Twin Blade listed again - duplicate): already seen above
 # FAIL (Felt DA4 Ultegra Di2 - size unverifiable, likely S/M): https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-felt-da4-ultegra-di2
 # FAIL (SS.lv Latvian listing, specs unverifiable): https://www.ss.lv/msg/ru/transport/bycycles/highway-sports/cdpkon.html
 # FAIL (SS.lv: road bike, not TT): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdffcn.html
@@ -323,6 +321,20 @@ https://www.olx.pl/d/oferta/rower-do-jazdy-na-czas-triathlon-basso-konos-piekny-
 # Direct fetch: All sites return 403/ECONNREFUSED (proxy blocked)
 # Via web search: ~14 searches run; all listings found were already in seen list. No new PASS listings today.
 # FAIL (dealer multi-size listing, size unconfirmed): https://www.olx.pl/d/oferta/nowy-rower-triathlonowy-felt-ia-2-0-expert-ultegra-di2-12s-super-cena-CID767-ID18RPS3.html
+# Telegram: BLOCKED --- api.telegram.org blocked by proxy deny-list (connect_rejected persists all runs since 2026-06-19)
+# PERSISTENT NOTE: Telegram has been blocked on every run since 2026-06-19. All PASS listings require manual review directly on linked URLs.
+# PERSISTENT NOTE: api.telegram.org remains blocked by proxy on all runs. Network egress allowlist must include api.telegram.org for alerts to work.
+# --- 2026-07-22 run (third) --- No new matches found ---
+# Sites checked: SS.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv
+# Direct fetch: All sites return 403 (proxy blocked)
+# Via web search: ~16 searches run; all listings found were already in seen list or failed filter criteria
+# New URLs assessed this run:
+# FAIL (SS.lv Scott Foil 10 road aero bike, not TT): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/gfimp.html
+# FAIL (SS.lv Scott Foil RC 10 road bike, not TT): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cdoxni.html
+# FAIL (SS.lv Rose Backroad 59cm gravel bike, not TT): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdlhcd.html
+# FAIL (SS.lv Bergamont Dolce Carbon road bike, not TT): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/blpnnj.html
+# UNCERTAIN (SS.lv sports/other category, Jauns karbona velo EUR 2880, TT/tri type unconfirmable, direct fetch 403): https://www.ss.lv/msg/ru/entertainment/sports/other/bxlfpe.html
+# FAIL (AllegroLokalnie Felt DA1 size 54 - too small): https://allegrolokalnie.pl/oferta/rower-triathlonowy-felt-da1-rozmiar-54
 # Telegram: BLOCKED --- api.telegram.org blocked by proxy deny-list (connect_rejected persists all runs since 2026-06-19)
 # PERSISTENT NOTE: Telegram has been blocked on every run since 2026-06-19. All PASS listings require manual review directly on linked URLs.
 # PERSISTENT NOTE: api.telegram.org remains blocked by proxy on all runs. Network egress allowlist must include api.telegram.org for alerts to work.
