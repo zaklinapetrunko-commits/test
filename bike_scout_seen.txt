@@ -415,3 +415,12 @@ https://www.olx.pl/d/oferta/rower-do-jazdy-na-czas-triathlon-basso-konos-piekny-
 # Telegram: BLOCKED --- api.telegram.org blocked by proxy deny-list (connect_rejected persists all runs since 2026-06-19)
 # PERSISTENT NOTE: Telegram has been blocked on every run since 2026-06-19. All PASS listings require manual review directly on linked URLs.
 # PERSISTENT NOTE: api.telegram.org remains blocked by proxy on all runs. Network egress allowlist must include api.telegram.org for alerts to work.
+# --- 2026-07-22 run (thirteenth) --- No new matches found ---
+# Sites checked: SS.lv, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt
+# Direct fetch: All sites return 403 (proxy blocked)
+# Via web search: ~20 searches run across all target marketplaces and brands; all listings found were already in seen list or failed filter criteria
+# New URLs assessed this run:
+# FAIL (BMC Timemachine TMR02 AllegroLokalnie - aero road bike, not TT/triathlon type): https://allegrolokalnie.pl/oferta/bmc-timemachine-tmr02-carbon
+# Telegram: BLOCKED --- api.telegram.org blocked by proxy deny-list (connect_rejected persists all runs since 2026-06-19)
+# PERSISTENT NOTE: Telegram has been blocked on every run since 2026-06-19. All PASS listings require manual review directly on linked URLs.
+# PERSISTENT NOTE: api.telegram.org remains blocked by proxy on all runs. Network egress allowlist must include api.telegram.org for alerts to work.
