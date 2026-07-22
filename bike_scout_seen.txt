@@ -338,3 +338,13 @@ https://www.olx.pl/d/oferta/rower-do-jazdy-na-czas-triathlon-basso-konos-piekny-
 # Telegram: BLOCKED --- api.telegram.org blocked by proxy deny-list (connect_rejected persists all runs since 2026-06-19)
 # PERSISTENT NOTE: Telegram has been blocked on every run since 2026-06-19. All PASS listings require manual review directly on linked URLs.
 # PERSISTENT NOTE: api.telegram.org remains blocked by proxy on all runs. Network egress allowlist must include api.telegram.org for alerts to work.
+# --- 2026-07-22 run (fourth) --- No new matches found ---
+# Sites checked: SS.lv, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt
+# Direct fetch: All sites return 403/ECONNREFUSED (proxy blocked)
+# Via web search: ~20 searches run; all listings found were already in seen list or failed filter criteria
+# New URLs assessed this run:
+# FAIL (OLX Pinarello Bolide TT r48 - size 48 too small): https://www.olx.pl/d/oferta/pinarello-bolide-tt-r-48-dura-ace-CID767-IDYVrvD.html
+# FAIL (OLX Basso Diamante Di2 - road endurance bike, not TT geometry): https://www.olx.pl/d/oferta/basso-diamante-ultegra-di2-CID767-ID15FHmH.html
+# Telegram: BLOCKED --- api.telegram.org blocked by proxy deny-list (connect_rejected persists all runs since 2026-06-19)
+# PERSISTENT NOTE: Telegram has been blocked on every run since 2026-06-19. All PASS listings require manual review directly on linked URLs.
+# PERSISTENT NOTE: api.telegram.org remains blocked by proxy on all runs. Network egress allowlist must include api.telegram.org for alerts to work.
