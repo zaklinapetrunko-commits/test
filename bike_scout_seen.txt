@@ -390,3 +390,12 @@ https://www.olx.pl/d/oferta/rower-do-jazdy-na-czas-triathlon-basso-konos-piekny-
 # Telegram: BLOCKED --- api.telegram.org blocked by proxy deny-list (connect_rejected persists all runs since 2026-06-19)
 # PERSISTENT NOTE: Telegram has been blocked on every run since 2026-06-19. All PASS listings require manual review directly on linked URLs.
 # PERSISTENT NOTE: api.telegram.org remains blocked by proxy on all runs. Network egress allowlist must include api.telegram.org for alerts to work.
+# --- 2026-07-22 run (tenth) --- No new matches found ---
+# Sites checked: SS.lv, MM.lv, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt
+# Direct fetch: All sites return 403 (proxy blocked)
+# Via web search: ~25 searches run across all target marketplaces and brands; all listings found were already in seen list or failed filter criteria
+# Search terms used: triathlon TT carbon Di2 SRAM Red L 56 across SS.lv, OLX.pl, AllegroLokalnie, Allegro, Skelbiu.lt, Autoplius, Osta.ee, MM.lv; brand-specific searches for Cervelo, Canyon Speedmax, Trek Speed Concept, Specialized Shiv, BMC Timemachine, Giant Trinity
+# New URLs assessed this run: none — no new candidate listings found beyond seen list
+# Telegram: BLOCKED --- api.telegram.org blocked by proxy deny-list (connect_rejected persists all runs since 2026-06-19)
+# PERSISTENT NOTE: Telegram has been blocked on every run since 2026-06-19. All PASS listings require manual review directly on linked URLs.
+# PERSISTENT NOTE: api.telegram.org remains blocked by proxy on all runs. Network egress allowlist must include api.telegram.org for alerts to work.
