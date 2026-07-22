@@ -573,3 +573,14 @@ https://www.olx.pl/d/oferta/rower-do-jazdy-na-czas-triathlon-basso-konos-piekny-
 # No new listings confirmed PASS — all candidates either already seen or failed filter criteria
 # PERSISTENT NOTE: Telegram has been blocked on every run since 2026-06-19. All PASS listings require manual review directly on linked URLs.
 # PERSISTENT NOTE: api.telegram.org remains blocked by proxy on all runs. Network egress allowlist must include api.telegram.org for alerts to work.
+# --- 2026-07-22 run (second) — No new matches found ---
+# Sites checked (direct fetch blocked 403/ECONNREFUSED): SS.lv, OLX.pl, Allegro.pl, allegrolokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv (ECONNREFUSED), Skelbiu.lt
+# Via web search: ~100 candidate listings evaluated across 25+ search queries; 0 passed all filter criteria
+# Telegram: BLOCKED — api.telegram.org HTTP_STATUS:000 (proxy deny-list persists all runs since 2026-06-19)
+# All returned listings were either already in seen list or failed filter criteria
+# STILL UNCERTAIN: Scott Plasma Premium Dura-Ace Di2 56cm Warszawa allegrolokalnie (direct access 403)
+# STILL UNCERTAIN: Pinarello Bolide TT Team SKY Dura-Ace Di2, Nowa Sucha (direct access 403, size unconfirmed)
+# STILL UNCERTAIN: Basso Konos Ultegra Di2 sized for 188cm Warszawa OLX IDYiwky (direct access 403)
+# No new listings confirmed PASS — all candidates either already seen or failed filter criteria
+# PERSISTENT NOTE: Telegram has been blocked on every run since 2026-06-19. All PASS listings require manual review directly on linked URLs.
+# PERSISTENT NOTE: api.telegram.org remains blocked by proxy on all runs. Network egress allowlist must include api.telegram.org for alerts to work.
