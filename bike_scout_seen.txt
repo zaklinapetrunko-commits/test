@@ -525,3 +525,19 @@ https://www.olx.pl/d/oferta/pinarello-bolide-tt-rower-czasowy-triathlonowy-rama-
 # Telegram: BLOCKED --- api.telegram.org blocked by proxy deny-list (connect_rejected persists all runs since 2026-06-19)
 # PERSISTENT NOTE: Telegram has been blocked on every run since 2026-06-19. All PASS listings require manual review directly on linked URLs.
 # PERSISTENT NOTE: api.telegram.org remains blocked by proxy on all runs. Network egress allowlist must include api.telegram.org for alerts to work.
+# --- 2026-07-23 run (twentieth) — No new confirmed matches found ---
+# Sites checked: SS.lv, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl
+# Direct fetch: All sites return 403 (proxy blocked); web search used
+# ~30 searches run across all marketplaces and search terms
+# New URLs assessed this run (not in seen list):
+# UNCERTAIN (Canyon Speedmax CF 8 Di2 Szczecin, 20,000 PLN, 4iiii power meter, Di2 — size UNCONFIRMED, manually check): https://allegrolokalnie.pl/oferta/rower-canyon-speedmax-cf-8-di-2
+# FAIL (BMC TM01 Three M/L Ultegra Di2 Warsaw Mokotów, Reynolds 72 aero — M/L ≈54cm, under 55cm threshold): https://www.olx.pl/d/oferta/bmc-timemachine-tm01-three-m-l-ultegra-di2-kola-reynolds-72-aero-tri-CID767-ID14rxlx.html
+# FAIL (Orbea Ordu M30i LTD new Poznań 25,999 PLN, 105 Di2 — max available size M/L ≈54cm): https://www.olx.pl/d/oferta/nowy-rower-orbea-ordu-m30i-ltd-di2-poznan-triathlon-czasowka-fv-CID767-IDVPS7G.html
+# FAIL (Orbea Ordu M30i LTD 2023 new Poznań Junikowo, 105 Di2 — same size issue M/L ≈54cm): https://www.olx.pl/d/oferta/nowy-rower-orbea-ordu-m30i-ltd-2023-di2-poznan-triathlon-czasowka-CID767-IDQP53K.html
+# FAIL (Orbea Ordu M30iLTD used Poznań Górczyn, 105 Di2 — same size issue): https://www.olx.pl/d/oferta/rower-orbea-ordu-m30iltd-triathlonowy-tri-w-100-gotowy-gratis-bezpl-CID767-ID156rdG.html
+# FAIL (SS.lv cdniki — carbon 56/L €1,500, šoseja road category, not TT/triathlon; Shimano mechanical groupset): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cdniki.html
+# FAIL (AllegroLokalnie Merida Warp TT Lampre — older TT, mechanical Ultegra, no Di2/SRAM Red): https://allegrolokalnie.pl/oferta/merida-warp-tt-lampre-czasowy-triathlonowy
+# FAIL (OLX Pinarello Bolide TT size 48 Dura-Ace — frame 48cm, too small): https://www.olx.pl/d/oferta/pinarello-bolide-tt-r-48-dura-ace-CID767-IDYVrvD.html
+# Telegram: BLOCKED — api.telegram.org blocked by proxy deny-list (connect_rejected persists all runs since 2026-06-19)
+# PERSISTENT NOTE: Telegram has been blocked on every run since 2026-06-19. All PASS listings require manual review directly on linked URLs.
+# PERSISTENT NOTE: api.telegram.org remains blocked by proxy on all runs. Network egress allowlist must include api.telegram.org for alerts to work.
