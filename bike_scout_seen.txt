@@ -283,7 +283,7 @@ https://www.olx.pl/d/oferta/rower-do-jazdy-na-czas-triathlon-basso-konos-piekny-
 # FAIL (Scott Plasma Premium allegrolokalnie): https://allegrolokalnie.pl/oferta/scott-plasma-premium
 # FAIL (Fondriest TF1 carbon Ultegra - Ultegra mechanical): https://www.olx.pl/d/oferta/rower-triathlonowy-fondriest-tf1-carbon-ultegra-CID767-IDSnTpQ.html
 # FAIL (Trek Speed Concept XL Di2 - size XL): https://www.olx.pl/d/oferta/trek-speed-concept-xl-di2-tt-triathlon-karbon-CID767-IDSIyfC.html
-# FAIL (Basso Konos 53cm - too small): https://www.olx.pl/d/oferta/rower-czasowy-triathlon-basso-konos-shimano-ultegra-di2-r53-CID767-ID166uWD.html
+# FAIL (Basso Konos 53cm - too small): https://www.olx.pl/d/oferta/rower-czasowy-triathlon-basso-konos-shimano-ultegra-di2-r53-CID767-ID166yN8.html
 # FAIL (Pinarello Bolide TT - size unconfirmed via web): https://allegrolokalnie.pl/oferta/pinarello-bolide-tt
 # FAIL (Pinarello Bolide TT ig): https://allegrolokalnie.pl/oferta/pinarello-bolide-tt-ig
 # FAIL (Pinarello Bolide XSZ - size wrong): https://allegrolokalnie.pl/oferta/rower-pinarello-bolide-xsz
@@ -486,6 +486,18 @@ https://www.olx.pl/d/oferta/rower-do-jazdy-na-czas-triathlon-basso-konos-piekny-
 # Via web search: ~14 searches run; 1 new listing URL assessed; 0 passed filter (groupset unconfirmable)
 # New URLs assessed this run:
 # UNCERTAIN (OLX Stevens Super Trofeo TT L 56 Kiełczów - carbon TT frame confirmed, size L 56, but groupset unconfirmable via web search, direct fetch 403): https://www.olx.pl/d/oferta/rower-czasowy-triathlonowy-stevens-super-trofeo-tt-l-56-CID767-ID153N8N.html
+# Telegram: BLOCKED --- api.telegram.org blocked by proxy deny-list (connect_rejected persists all runs since 2026-06-19)
+# PERSISTENT NOTE: Telegram has been blocked on every run since 2026-06-19. All PASS listings require manual review directly on linked URLs.
+# PERSISTENT NOTE: api.telegram.org remains blocked by proxy on all runs. Network egress allowlist must include api.telegram.org for alerts to work.
+# --- 2026-07-23 run (fourth) --- No new matches found ---
+# Sites checked: SS.lv, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt
+# Direct fetch: All sites return 403 (proxy blocked)
+# Via web search: ~25 searches run; 4 new listing URLs assessed; 0 matched filter criteria
+# New URLs assessed this run:
+# FAIL (OLX Stevens Super Trofeo XL - size XL too big): https://www.olx.pl/d/oferta/szosa-tri-triathlon-czasowy-stevens-super-trofeo-rozm-xl-CID767-ID141KLG.html
+# FAIL (SS.lv bklnmk - full carbon road/gravel bike XL, not TT/triathlon type): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bklnmk.html
+# FAIL (SS.lv bdngb - used Giant road bike Ultegra, not TT/triathlon): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdngb.html
+# FAIL (SS.lv bpcokl - Merida Speeder Carbon hybrid, Sora groupset, not TT/triathlon): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bpcokl.html
 # Telegram: BLOCKED --- api.telegram.org blocked by proxy deny-list (connect_rejected persists all runs since 2026-06-19)
 # PERSISTENT NOTE: Telegram has been blocked on every run since 2026-06-19. All PASS listings require manual review directly on linked URLs.
 # PERSISTENT NOTE: api.telegram.org remains blocked by proxy on all runs. Network egress allowlist must include api.telegram.org for alerts to work.
