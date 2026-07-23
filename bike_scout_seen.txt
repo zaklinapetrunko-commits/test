@@ -525,3 +525,14 @@ https://www.olx.pl/d/oferta/pinarello-bolide-tt-rower-czasowy-triathlonowy-rama-
 # Telegram: BLOCKED --- api.telegram.org blocked by proxy deny-list (connect_rejected persists all runs since 2026-06-19)
 # PERSISTENT NOTE: Telegram has been blocked on every run since 2026-06-19. All PASS listings require manual review directly on linked URLs.
 # PERSISTENT NOTE: api.telegram.org remains blocked by proxy on all runs. Network egress allowlist must include api.telegram.org for alerts to work.
+
+# --- 2026-07-23 run (twentieth) — No new matches found ---
+# Sites checked: SS.lv, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt
+# Direct fetch: All sites return 403 (proxy blocked); web search used
+# ~35 searches run across all marketplaces and search terms (triathlon TT carbon Di2 SRAM Red L 56; brand-specific: Cervelo P5, Canyon Speedmax CFR, BMC TM01, Trek Speed Concept SLR, Specialized Shiv, Wilier Twin Blade, Pinarello Bolide, Giant Trinity, LOOK 796)
+# New URLs assessed this run:
+# UNCERTAIN - already seen (LOOK 796 Monoblade RS Ultegra Di2 L/XL Kraków - Di2 confirmed, size L/XL may be ~56-58cm, already in seen list): https://allegrolokalnie.pl/oferta/look-796-monoblade-rs-jak-nowy
+# No genuinely new listings found beyond those already in seen list
+# Telegram: BLOCKED --- api.telegram.org blocked by proxy deny-list (connect_rejected persists all runs since 2026-06-19)
+# PERSISTENT NOTE: Telegram has been blocked on every run since 2026-06-19. All PASS listings require manual review directly on linked URLs.
+# PERSISTENT NOTE: api.telegram.org remains blocked by proxy on all runs. Network egress allowlist must include api.telegram.org for alerts to work.
