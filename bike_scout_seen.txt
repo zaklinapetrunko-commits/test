@@ -476,3 +476,15 @@ https://www.olx.pl/d/oferta/pinarello-bolide-tt-rower-czasowy-triathlonowy-rama-
 # Telegram: BLOCKED --- api.telegram.org blocked by proxy deny-list (connect_rejected persists all runs since 2026-06-19)
 # PERSISTENT NOTE: Telegram has been blocked on every run since 2026-06-19. All PASS listings require manual review directly on linked URLs.
 # PERSISTENT NOTE: api.telegram.org remains blocked by proxy on all runs. Network egress allowlist must include api.telegram.org for alerts to work.
+# --- 2026-07-23 run (fifteenth) — No new matches found ---
+# Sites checked: SS.lv, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt
+# Direct fetch: All sites return 403 (proxy blocked); web search used
+# ~25 searches run across all marketplaces and search terms
+# New URLs assessed this run:
+# FAIL (SS.lv cehlpl - Ridley Kanzo Adventure gravel/bikepacking, SRAM Rival Xplr, not TT/triathlon): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cehlpl.html
+# FAIL (SS.lv bdhojg - S-M frame Equator 2x11 power meter, size too small): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdhojg.html
+# FAIL (Allegro Apex Skylar Carbon Ultegra size 54 - too small and Ultegra mechanical): https://allegro.pl/oferta/rower-triathlonowy-apex-skylar-carbon-ultegra-roz-54-17472696488
+# FAIL (Allegro Boarmdan TTE Shimano Ultegra - Ultegra mechanical, not Di2/SRAM Red): https://allegro.pl/oferta/rower-szosowy-triathlonowy-tt-boarmdan-tte-shimano-ultegra-17412425497
+# Telegram: BLOCKED --- api.telegram.org blocked by proxy deny-list (connect_rejected persists all runs since 2026-06-19)
+# PERSISTENT NOTE: Telegram has been blocked on every run since 2026-06-19. All PASS listings require manual review directly on linked URLs.
+# PERSISTENT NOTE: api.telegram.org remains blocked by proxy on all runs. Network egress allowlist must include api.telegram.org for alerts to work.
