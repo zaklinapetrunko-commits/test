@@ -448,3 +448,19 @@ https://www.olx.pl/d/oferta/pinarello-bolide-tt-rower-czasowy-triathlonowy-rama-
 # Telegram: BLOCKED --- api.telegram.org blocked by proxy deny-list (connect_rejected persists all runs since 2026-06-19)
 # PERSISTENT NOTE: Telegram has been blocked on every run since 2026-06-19. All PASS listings require manual review directly on linked URLs.
 # PERSISTENT NOTE: api.telegram.org remains blocked by proxy on all runs. Network egress allowlist must include api.telegram.org for alerts to work.
+# --- 2026-07-23 run (tenth) — No new matches found ---
+# Sites checked: SS.lv, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt
+# Direct fetch: All sites return 403 (proxy blocked); web search used
+# ~20 searches run; all candidate listings failed filter criteria or were already in seen list
+# Candidates assessed this run (all already seen or category pages):
+# ALREADY SEEN: https://allegrolokalnie.pl/oferta/rower-triathlonowy-wilier-twin-blade-duraace-di2-l (Wilier Twin Blade Di2 L — PASS, already logged)
+# ALREADY SEEN: https://allegrolokalnie.pl/oferta/trek-speed-concept-di2-triathlonkarbon (Trek Speed Concept Di2 XL — FAIL, too large)
+# ALREADY SEEN: https://allegrolokalnie.pl/oferta/cannondale-slice-triathlon (Cannondale Slice — FAIL, size 48)
+# ALREADY SEEN: https://allegrolokalnie.pl/oferta/rower-czasowy-dolan-tt-carbon-triathlon-dura-ace (Dolan TR1 Di2 — UNCERTAIN, size unconfirmed)
+# ALREADY SEEN: https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-felt-da4-ultegra-di2 (Felt DA4 Di2 — FAIL, size unverifiable)
+# ALREADY SEEN: https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-ribble-deda-tt-carbon (Ribble Deda TT — FAIL, specs unverifiable)
+# ALREADY SEEN: https://www.olx.pl/d/oferta/pinarello-bolide-tt-rower-czasowy-triathlonowy-rama-l-CID767-ID10QusN.html (Pinarello Bolide TT L SRAM Red — PASS, already logged)
+# ALREADY SEEN: https://www.olx.pl/oferta/bmc-timemachine-02-triathlon-sram-red-etap-CID767-IDw0rzr.html (BMC TM02 — FAIL, size SM)
+# Telegram: BLOCKED --- api.telegram.org blocked by proxy deny-list (connect_rejected persists all runs since 2026-06-19)
+# PERSISTENT NOTE: Telegram has been blocked on every run since 2026-06-19. All PASS listings require manual review directly on linked URLs.
+# PERSISTENT NOTE: api.telegram.org remains blocked by proxy on all runs. Network egress allowlist must include api.telegram.org for alerts to work.
