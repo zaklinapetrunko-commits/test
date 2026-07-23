@@ -471,3 +471,12 @@ https://www.olx.pl/d/oferta/rower-do-jazdy-na-czas-triathlon-basso-konos-piekny-
 # Telegram: BLOCKED --- api.telegram.org blocked by proxy deny-list (connect_rejected persists all runs since 2026-06-19)
 # PERSISTENT NOTE: Telegram has been blocked on every run since 2026-06-19. All PASS listings require manual review directly on linked URLs.
 # PERSISTENT NOTE: api.telegram.org remains blocked by proxy on all runs. Network egress allowlist must include api.telegram.org for alerts to work.
+# --- 2026-07-23 run (second) --- No new matches found ---
+# Sites checked: SS.lv, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt
+# Direct fetch: All sites return 403 (proxy blocked)
+# Via web search: ~16 searches run across all target marketplaces and brands; all listings found were already in seen list or failed filter criteria
+# Search terms used: rower triathlonowy carbon Di2 SRAM Red rozmiar L 56 allegrolokalnie; triathlon bike carbon Di2 SRAM Red L 56 olx.pl July 2026; triathlon TT carbon Di2 SRAM Red L 56 ss.lv skelbiu.lt allegro.pl; Cervelo P5 Canyon Speedmax Trek Speed Concept Specialized Shiv Di2 SRAM Red L 56; rower czasowy triathlonowy carbon Di2 SRAM Red L 56 nowe ogłoszenie lipiec 2026; site:ss.lv triatlona karbon Di2 TT jauns 2026; triatlono dviratis carbon Di2 SRAM Red L skelbiu.lt autoplius.lt; site:allegrolokalnie.pl rower triathlonowy SRAM Red Di2 L 56 carbon new July 2026; triathlon TT bike carbon SRAM Red Di2 rozmiar L osta.ee okidoki.ee andel.lv; ss.lv highway-sports triathlon TT carbon Di2 2026; BMC Timemachine TM01 Orbea Ordu Giant Trinity carbon Di2 L allegrolokalnie olx.pl; rower triathlonowy czasowy carbon Di2 SRAM Red L olx.pl 2026; triathlon carbon bike Di2 SRAM Red L 56 allegro.pl new listing July 2026; Canyon Speedmax CFR Trek Speed Concept Cervelo P5 Di2 SRAM Red L 56 new sale Poland Baltic July 2026; rower triathlonowy carbon Di2 SRAM Red 56 nowy allegro olx skelbiu ss.lv 2026; triathlon TT carbon SRAM Red axs Di2 L 56 Poland Lithuania Latvia Estonia for sale new 2026
+# New URLs assessed this run: 0 — no new candidate listings found beyond seen list
+# Telegram: BLOCKED --- api.telegram.org blocked by proxy deny-list (connect_rejected persists all runs since 2026-06-19)
+# PERSISTENT NOTE: Telegram has been blocked on every run since 2026-06-19. All PASS listings require manual review directly on linked URLs.
+# PERSISTENT NOTE: api.telegram.org remains blocked by proxy on all runs. Network egress allowlist must include api.telegram.org for alerts to work.
