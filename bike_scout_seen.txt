@@ -533,3 +533,19 @@ https://www.olx.pl/d/oferta/rower-do-jazdy-na-czas-triathlon-basso-konos-piekny-
 # Telegram: BLOCKED --- api.telegram.org blocked by proxy deny-list (connect_rejected persists all runs since 2026-06-19)
 # PERSISTENT NOTE: Telegram has been blocked on every run since 2026-06-19. All PASS listings require manual review directly on linked URLs.
 # PERSISTENT NOTE: api.telegram.org remains blocked by proxy on all runs. Network egress allowlist must include api.telegram.org for alerts to work.
+# --- 2026-07-23 run (eighth) --- No new matches found ---
+# Sites checked: SS.lv, Autoplius.lt (not a bike marketplace — motorcycles/cars only), Osta.ee, Okidoki.ee, Andel.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt (bonus Lithuanian site)
+# Direct fetch: All sites return 403 (proxy blocked)
+# Via web search: ~20 searches run; all listings found were already in seen list or failed filter criteria
+# New URLs assessed this run:
+# ALREADY SEEN (SS.lv cdpkon - Specialized Shiv TT, €2,500): https://www.ss.lv/msg/ru/transport/bycycles/highway-sports/cdpkon.html
+# ALREADY SEEN (SS.lv bdffcn - Scott Plasma TT, €1,000): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdffcn.html
+# ALREADY SEEN (Allegro Cannondale Slice full carbon TT): https://allegro.pl/oferta/rower-czasowy-tt-triathlon-czasowka-cannondale-slice-full-carbon-17345886252
+# ALREADY SEEN (AllegroLokalnie Trek Speed Concept Project One L/56 Banino): https://allegrolokalnie.pl/oferta/trek-speed-concept-project-one-czasowy-r-l-56
+# ALREADY SEEN (AllegroLokalnie Dolan TT carbon Dura-Ace): https://allegrolokalnie.pl/oferta/rower-czasowy-dolan-tt-carbon-triathlon-dura-ace
+# ALREADY SEEN (Skelbiu.lt Giant Trinity SRAM AXS Naujas L, €4,500, Vilnius): https://m.skelbiu.lt/skelbimai/giant-trinity-triatlono-dviratis-sram-axs-naujas-l-74636002.html
+# FAIL (AllegroLokalnie full carbon TT Żory - price 1900 PLN, likely old/non-Di2 groupset): https://allegrolokalnie.pl/oferta/rower-trathlonowy-tt-czasowy-triathlon-full-carbon
+# FAIL (AllegroLokalnie Ridley Dean Fast - size S not L, wrong size): https://allegrolokalnie.pl/oferta/ridley-dean-fast-r-s-triathlon-rower-czasowy-itt
+# Telegram: BLOCKED --- api.telegram.org blocked by proxy deny-list (connect_rejected persists all runs since 2026-06-19)
+# PERSISTENT NOTE: Telegram has been blocked on every run since 2026-06-19. All PASS listings require manual review directly on linked URLs.
+# PERSISTENT NOTE: api.telegram.org remains blocked by proxy on all runs. Network egress allowlist must include api.telegram.org for alerts to work.
