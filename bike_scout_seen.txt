@@ -465,3 +465,14 @@ https://www.olx.pl/d/oferta/pinarello-bolide-tt-rower-czasowy-triathlonowy-rama-
 # FAIL (SS.lv gfimp.html Scott Foil 10 carbon aero road bike €1,650 - road aero type, not TT/triathlon): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/gfimp.html
 # Telegram: BLOCKED --- api.telegram.org blocked by proxy deny-list
 # PERSISTENT NOTE: Telegram has been blocked on every run since 2026-06-19. Network egress allowlist must include api.telegram.org for alerts to work. Prompt states hardcoded credentials should work — but network proxy blocks the outbound connection entirely; credential format is not the issue.
+# --- 2026-07-23 run (fourteenth) — No new confirmed matches found ---
+# Sites checked: SS.lv, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt
+# Direct fetch: All sites return 403 (proxy blocked); web search used
+# ~30 searches run across all marketplaces and search terms
+# New URLs assessed this run (cannot confirm pass — size unverifiable via 403):
+# UNCERTAIN (OLX EVO Kronos R-9 carbon TT, SRAM Red confirmed from URL title, size not verifiable — check manually): https://www.olx.pl/d/oferta/rower-triathlonowy-evo-kronos-r-9-carbon-sram-red-CID767-ID15a5Ze.html
+# UNCERTAIN (SS.lv bdfdlm - SRAM Red electronics, carbon, €2,250, bike type/size unverifiable via 403): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdfdlm.html
+# UNCERTAIN (SS.lv cdheko - carbon top-class, orig €12,000 now €7,990, bike type/size unverifiable via 403): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cdheko.html
+# Telegram: BLOCKED --- api.telegram.org blocked by proxy deny-list (connect_rejected persists all runs since 2026-06-19)
+# PERSISTENT NOTE: Telegram has been blocked on every run since 2026-06-19. All PASS listings require manual review directly on linked URLs.
+# PERSISTENT NOTE: api.telegram.org remains blocked by proxy on all runs. Network egress allowlist must include api.telegram.org for alerts to work.
