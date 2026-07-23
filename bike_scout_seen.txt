@@ -474,3 +474,16 @@ https://www.olx.pl/d/oferta/pinarello-bolide-tt-rower-czasowy-triathlonowy-rama-
 # Telegram: BLOCKED --- api.telegram.org blocked by proxy deny-list (connect_rejected persists all runs since 2026-06-19)
 # PERSISTENT NOTE: Telegram has been blocked on every run since 2026-06-19. All PASS listings require manual review directly on linked URLs.
 # PERSISTENT NOTE: api.telegram.org remains blocked by proxy on all runs. Network egress allowlist must include api.telegram.org for alerts to work.
+# --- 2026-07-23 run (twelfth) — No new matches found ---
+# Sites checked: SS.lv, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt
+# Direct fetch: All sites return 403 (proxy blocked); web search used
+# ~20 searches run across all marketplaces and search terms
+# New URLs assessed this run:
+# FAIL (SS.lv bkhelc - SRAM Quarq carbon, size S-M too small): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bkhelc.html
+# FAIL (SS.lv cfbgmj - 58cm carbon, above 57cm threshold): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cfbgmj.html
+# FAIL (SS.lv cendeb - Felt B14 triathlon €950, no qualifying groupset): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cendeb.html
+# FAIL (SS.lv cdkxli - TT M/L 54cm, below 55cm threshold): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cdkxli.html
+# FAIL (AllegroLokalnie BMC Timemachine 01 Disc Two 54 Nysa - size 54): https://allegrolokalnie.pl/oferta/rower-triathlonowy-bmc-timemachine-01-disc-two-54-hwx
+# Telegram: BLOCKED --- api.telegram.org blocked by proxy deny-list (connect_rejected persists all runs since 2026-06-19)
+# PERSISTENT NOTE: Telegram has been blocked on every run since 2026-06-19. All PASS listings require manual review directly on linked URLs.
+# PERSISTENT NOTE: api.telegram.org remains blocked by proxy on all runs. Network egress allowlist must include api.telegram.org for alerts to work.
