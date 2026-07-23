@@ -521,3 +521,13 @@ https://www.olx.pl/d/oferta/rower-do-jazdy-na-czas-triathlon-basso-konos-piekny-
 # Telegram: BLOCKED --- api.telegram.org blocked by proxy deny-list (connect_rejected persists all runs since 2026-06-19)
 # PERSISTENT NOTE: Telegram has been blocked on every run since 2026-06-19. All PASS listings require manual review directly on linked URLs.
 # PERSISTENT NOTE: api.telegram.org remains blocked by proxy on all runs. Network egress allowlist must include api.telegram.org for alerts to work.
+# --- 2026-07-23 run (seventh) --- No new matches found ---
+# Sites checked: SS.lv, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt
+# Direct fetch: All sites return 403 (proxy blocked)
+# Via web search: ~20 searches run; 2 new listing URLs assessed; 0 matched filter criteria
+# New URLs assessed this run:
+# FAIL (SS.lv cdiihd - Giant Revolt Advanced 2 size L, gravel bike, not TT/triathlon): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cdiihd.html
+# UNCERTAIN (SS.lv cdmidm - €2,000 2024 bike with "Discover" keyword, type/groupset/size unconfirmable, direct fetch 403): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cdmidm.html
+# Telegram: BLOCKED --- api.telegram.org blocked by proxy deny-list (connect_rejected persists all runs since 2026-06-19)
+# PERSISTENT NOTE: Telegram has been blocked on every run since 2026-06-19. All PASS listings require manual review directly on linked URLs.
+# PERSISTENT NOTE: api.telegram.org remains blocked by proxy on all runs. Network egress allowlist must include api.telegram.org for alerts to work.
