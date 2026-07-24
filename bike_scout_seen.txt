@@ -15,8 +15,6 @@ https://allegrolokalnie.pl/oferta/fuji-norcom-straight-ultegra-di2
 https://allegrolokalnie.pl/oferta/rower-czasowy-tt-avenger-tm6-carbon
 https://allegrolokalnie.pl/oferta/rower-triathlonowy-czasowy-orbea-ordu-m30-ltd-di2-poznan-triathlon-czasowka-fv
 https://m.skelbiu.lt/skelbimai/giant-trinity-triatlono-dviratis-sram-axs-naujas-l-74636002.html
-https://allegrolokalnie.pl/oferta/rower-triathlonowy-cervelo-p5-56cm-dura-ace-di2-dt-swiss-2017
-https://allegrolokalnie.pl/oferta/rower-triathlonowy-cervelo-p5-di2-l-56cm-z-kolami-zipp
 https://allegrolokalnie.pl/oferta/cervelo-p5-2013-dura-ace-di2-l-56-cm
 https://allegrolokalnie.pl/oferta/cervelo-p5-di2-56-2016
 https://allegrolokalnie.pl/oferta/cervelo-p5-six-di2-2017-rozmiar-l-56-cm
@@ -308,7 +306,7 @@ https://allegrolokalnie.pl/oferta/cervelo-px-sram-red-axs-zipp-l56
 # ~20 searches run across all marketplaces and search terms (triathlon TT carbon Di2 SRAM Red L 56; brand-specific: Cervelo P5, Canyon Speedmax, BMC TM01, Trek Speed Concept SLR, Specialized Shiv, Giant Trinity, Orbea Ordu, Pinarello Bolide)
 # No new listings found beyond those already in seen list
 # Telegram: BLOCKED --- api.telegram.org blocked by proxy deny-list (connect_rejected persists all runs since 2026-06-19)
-# PERSISTENT NOTE: Telegram has been been on every run since 2026-06-19. All PASS listings require manual review directly on linked URLs.
+# PERSISTENT NOTE: Telegram has been blocked on every run since 2026-06-19. All PASS listings require manual review directly on linked URLs.
 # PERSISTENT NOTE: api.telegram.org remains blocked by proxy on all runs. Network egress allowlist must include api.telegram.org for alerts to work.
 # --- 2026-07-06 run (ninth) — No new matches found ---
 # Sites checked: SS.lv, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt
@@ -516,5 +514,17 @@ https://www.olx.pl/d/oferta/nowy-rower-triathlonowy-felt-ia-2-0-expert-ultegra-d
 # FAIL (Stevens Super Trofeo TT L 56 — Shimano Ultegra mechanical, not Di2/SRAM Red): https://www.olx.pl/d/oferta/rower-czasowy-triathlonowy-stevens-super-trofeo-tt-l-56-CID767-ID153N8N.html
 # FAIL (Merida Warp TT Lampre Szczecin — size S 171-179cm, Ultegra mechanical, not Di2/SRAM Red): https://allegrolokalnie.pl/oferta/merida-warp-tt-lampre-czasowy-triathlonowy
 # Telegram: BLOCKED --- api.telegram.org blocked by proxy (exit code 56); outbound access denied
+# PERSISTENT NOTE: Telegram has been blocked on every run since 2026-06-19. All PASS listings require manual review directly on linked URLs.
+# PERSISTENT NOTE: api.telegram.org remains blocked by proxy on all runs. Network egress allowlist must include api.telegram.org for alerts to work.
+
+# --- 2026-07-24 run (twenty-fifth) — No new matches found ---
+# Sites checked: SS.lv, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt
+# Direct fetch: All sites return 403 (proxy blocked); web search used
+# ~40 searches run across all marketplaces and search terms (triathlon TT carbon Di2 SRAM Red L 56; brand-specific: Cervelo P5, Canyon Speedmax CFR, BMC TM01, Trek Speed Concept SLR, Specialized Shiv, Giant Trinity, Orbea Ordu, Pinarello Bolide, Wilier Twin Blade, Felt IA, Argon 18 E-119)
+# New URLs assessed this run:
+# UNCERTAIN/BORDERLINE (BMC Timemachine TM01 Three M/L Ultegra Di2 Warszawa — size M/L fits ~182cm rider, ~54-55cm equivalent, borderline at 55cm acceptable threshold, Di2 confirmed, carbon TT confirmed): https://www.olx.pl/d/oferta/bmc-timemachine-tm01-three-m-l-ultegra-di2-kola-reynolds-72-aero-tri-CID767-ID14rxlx.html
+# FAIL (BMC Timemachine TM01 TT Koza Ultegra Di2 Kolbuszowa — size M, too small): https://www.olx.pl/d/oferta/bmc-timemachine-tm01-tt-koza-ultegra-di2-CID767-ID13gWpR.html
+# No listings passed all filter criteria
+# Telegram: BLOCKED --- api.telegram.org blocked by proxy (403 Forbidden on CONNECT tunnel; persists all runs since 2026-06-19)
 # PERSISTENT NOTE: Telegram has been blocked on every run since 2026-06-19. All PASS listings require manual review directly on linked URLs.
 # PERSISTENT NOTE: api.telegram.org remains blocked by proxy on all runs. Network egress allowlist must include api.telegram.org for alerts to work.
