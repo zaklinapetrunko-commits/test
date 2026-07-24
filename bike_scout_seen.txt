@@ -45,7 +45,7 @@ https://allegrolokalnie.pl/oferta/canyon-speedmax-cf-slx-di2-s-carbon
 https://allegrolokalnie.pl/oferta/canyon-speedmax-cf-slx-l-ultegra-di2-kola-reynolds-dysk-zipp-super-9
 https://allegrolokalnie.pl/oferta/canyon-speedmax-cf-8-0-di2-rozmiar-l
 https://allegrolokalnie.pl/oferta/canyon-speedmax-cf-8-0-di2-rozmiar-xl-rower-tri
-https://allegrolokalnie.pl/oferta/canyon-speedmax-cf-80-di2-rozmiar-m
+https://allegrolokalnie.pl/oferta/canyon-speedmax-cf80-di2-rozmiar-m
 https://allegrolokalnie.pl/oferta/canyon-speedmax-cf7-di2-rozmiar-l
 https://allegrolokalnie.pl/oferta/canyon-speedmax-cf7-rower-triathlon
 https://allegrolokalnie.pl/oferta/canyon-speedmax-cf-9-0-sl-di2-rozmiar-l-uzywany-triathlon
@@ -232,6 +232,7 @@ https://www.olx.pl/oferta/bmc-timemachine-02-triathlon-sram-red-etap-CID767-IDw0
 https://www.olx.pl/oferta/cervelo-p5-56-ultegra-metron-55-triathlon-rower-czasowy-triathlonowy-CID767-IDycb7C.html
 https://www.olx.pl/oferta/pinarello-bolide-tt-team-sky-CID767-IDy0ykH.html
 https://www.olx.pl/oferta/rower-czasowy-massi-rower-triathlonowy-carbon-CID767-IDvJcRN.html
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdgdih.html
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdfdlm.html
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdffcn.html
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdhojg.html
@@ -449,6 +450,24 @@ https://allegrolokalnie.pl/oferta/cervelo-px-sram-red-axs-zipp-l56
 # All candidate listings failed filter criteria or were previously seen:
 # FAIL (Cannondale Slice OLX.pl - Ultegra mechanical, not Di2/SRAM Red; size 54/57): olx.pl/oferta/rower-cannondale-slice-ultegra-roz-54-i-57-carbon-nowy
 # FAIL (Cervelo S5 Allegro.pl - road bike not TT/triathlon type, Ultegra Di2): allegro.pl/oferta/cervelo-s5-ultegra-di2-carnelian-rower-szosowy-model-2026-rozm-56
+# Telegram: BLOCKED --- api.telegram.org blocked by proxy deny-list (connect_rejected persists all runs since 2026-06-19)
+# PERSISTENT NOTE: Telegram has been blocked on every run since 2026-06-19. All PASS listings require manual review directly on linked URLs.
+# PERSISTENT NOTE: api.telegram.org remains blocked by proxy on all runs. Network egress allowlist must include api.telegram.org for alerts to work.
+# --- 2026-07-24 run (fourth) — No new matches found ---
+# Sites checked: SS.lv, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt
+# Direct fetch: All sites return 403 (proxy blocked); web search used
+# ~25 searches run across all marketplaces and search terms (triathlon TT carbon Di2 SRAM Red L 56; brand-specific: Cervelo P-Series/P5, Canyon Speedmax, BMC TM01, Trek Speed Concept, Specialized Shiv, Giant Trinity, Orbea Ordu, Pinarello Bolide, Wilier Twin Blade)
+# New URLs assessed this run:
+# FAIL (AllegroLokalnie Cervelo P-Series r58 - Cervelo P-Series, size 58cm too large): https://allegrolokalnie.pl/oferta/rower-triathlonowy-cervelo-pseries-r58
+# FAIL (AllegroLokalnie Cervelo P-Series 105 56cm - Shimano 105 groupset, not Di2/SRAM Red): https://allegrolokalnie.pl/oferta/rower-triathlonowy-tt-cervelo-pseries-105-56-cm
+# FAIL (AllegroLokalnie Cervelo P2 r54 - size 54cm too small): https://allegrolokalnie.pl/oferta/rower-triathlonowy-cervelo-p2-r54-y5z
+# FAIL (AllegroLokalnie Cervelo P2 Pirelli 105 Campagnolo - wrong groupset): https://allegrolokalnie.pl/oferta/rower-triathlonowy-cervelo-p2-pirelli-105-campagnolo
+# FAIL (AllegroLokalnie Cervelo Caledonia-5 - road bike, not TT/triathlon): https://allegrolokalnie.pl/oferta/rower-szosowy-cervelo-caledonia5-ultegra-carbon
+# FAIL (SS.lv blpnnj.html - Bergamont Dolce Carbon, road bike, €320, not triathlon): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/blpnnj.html
+# FAIL (SS.lv cdhhpc.html - Cannondale Synapse 54cm Force, road bike not TT): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cdhhpc.html
+# FAIL (SS.lv cdoxni.html - Scott Foil RC 10 road bike): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cdoxni.html
+# FAIL (SS.lv bokogf.html - Merida Misson 6000 gravel bike): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bokogf.html
+# No new listings passed filter criteria
 # Telegram: BLOCKED --- api.telegram.org blocked by proxy deny-list (connect_rejected persists all runs since 2026-06-19)
 # PERSISTENT NOTE: Telegram has been blocked on every run since 2026-06-19. All PASS listings require manual review directly on linked URLs.
 # PERSISTENT NOTE: api.telegram.org remains blocked by proxy on all runs. Network egress allowlist must include api.telegram.org for alerts to work.
