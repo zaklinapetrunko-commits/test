@@ -471,3 +471,14 @@ https://allegrolokalnie.pl/oferta/cervelo-px-sram-red-axs-zipp-l56
 # Telegram: BLOCKED --- api.telegram.org blocked by proxy deny-list (connect_rejected persists all runs since 2026-06-19)
 # PERSISTENT NOTE: Telegram has been blocked on every run since 2026-06-19. All PASS listings require manual review directly on linked URLs.
 # PERSISTENT NOTE: api.telegram.org remains blocked by proxy on all runs. Network egress allowlist must include api.telegram.org for alerts to work.
+# --- 2026-07-24 run (twenty-first) — 1 new listing passed filter ---
+# Sites checked: SS.lv, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt
+# Direct fetch: All sites return 403 (proxy blocked); web search used
+# ~25 searches run across all marketplaces and search terms
+# PASS: Fuji Norcom Straight 1.3 Di2 (55), Toruń, 11,500 PLN (~€2,650), carbon TT/triathlon, Shimano Ultegra Di2, 55cm
+https://allegrolokalnie.pl/oferta/rower-czasowy-triathlon-fuji-norcom-1-3-di2-55
+# ASSESSED-UNCERTAIN (size unconfirmed): Fuji Norcom Straight 1.3 Di2, Olkusz, 19,500 PLN, https://allegrolokalnie.pl/oferta/rower-czasowy-fuji-norcom-straight-13-triathlon
+# ASSESSED-FAIL (Di2 unconfirmed, size unconfirmed): Dolan TT carbon triathlon Dura Ace, https://allegrolokalnie.pl/oferta/rower-czasowy-dolan-tt-carbon-triathlon-dura-ace
+# Telegram: BLOCKED --- api.telegram.org blocked by proxy (exit code 56); outbound access to api.telegram.org denied
+# PERSISTENT NOTE: Telegram has been blocked on every run since 2026-06-19. All PASS listings require manual review directly on linked URLs.
+# PERSISTENT NOTE: api.telegram.org remains blocked by proxy on all runs. Network egress allowlist must include api.telegram.org for alerts to work.
