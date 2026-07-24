@@ -231,3 +231,10 @@ https://allegro.pl/oferta/rower-triathlonowy-ceepo-viper-28-r-l-shimano-105-di2-
 #   OLX.pl Ceepo Viper 28" 105 Di2 niebieski (size unconfirmed): https://www.olx.pl/d/oferta/ceepo-viper-28-shimano-105-di2-niebieski-CID767-ID122uRC.html
 #   SS.lv Cervelo P2 Carbon TT 48cm (too small, <55cm): https://www.ss.com/msg/lv/transport/bycycles/highway-sports/bxegpi.html
 # Scanned: ~40+ candidates across all sites. Matched all criteria: 1. Telegram sent: 0 (BLOCKED).
+# --- 2026-07-24 run (sixth) — 0 new confirmed matches ---
+# Sites checked: SS.lv (403 direct/web search only), OLX.pl (403 direct/web search only), Allegro.pl (403 direct/web search only), allegrolokalnie.pl (web search only), Autoplius.lt (no bicycle matches), Osta.ee (403 direct/no matches), Okidoki.ee (403 direct/no matches), Andel.lv (ENOTFOUND - site unreachable), skelbiu.lt (403 direct/web search only)
+# Candidates found but failed ALL filter criteria:
+#   Argon 18 E-112 on allegrolokalnie.pl (Ultegra 6700 mechanical, NOT Di2/SRAM Red): https://allegrolokalnie.pl/oferta/rower-czasowy-tt-triathlonowy-szosa-argon-18
+#   Scott Plasma 20 on allegrolokalnie.pl (Ultegra 2x10 mechanical, NOT Di2/SRAM Red): https://allegrolokalnie.pl/oferta/rower-triathlonowy-czasowy-scott-plasma-20
+#   Giant Liv Avow Advanced Pro 1 on allegrolokalnie.pl (Ultegra Di2, carbon, BUT size M not L): https://allegrolokalnie.pl/oferta/rower-triathlonowy-giant-liv-avow-advanced-pro-1-m-rower-czasowy
+# Scanned: ~50 candidates across all sites. Matched all criteria: 0. Telegram sent: 0. NOTE: Telegram (api.telegram.org) remains blocked by network egress policy.
