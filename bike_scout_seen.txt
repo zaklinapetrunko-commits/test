@@ -501,7 +501,7 @@ https://allegrolokalnie.pl/oferta/trek-speed-concept-project-one-czasowy-r-l-56
 #   SS.lv cdpkon (Specialized Shiv L €2,500 — already in seen list)
 #   SS.lv bxegpi (Cervélo P2 Carbon TT size 48 — fails size)
 #   SS.lv biicei — Giant Tcr Advanced 1+ Di2 2024 Cold M/ML €1,800 (road bike, fails type)
-#   SS.lv bkbfjl — Scott Addict Disc L €2,100 (road bike, fails type)
+#   SS.lv bkbfjl — Scott Addict Disc L €1,800 (road bike, fails type)
 #   SS.lv blpnnj — Bergamont Dolce Carbon €320 (road bike, fails type)
 #   OLX.pl IDZb5eo — Felt B2 56 karbon, mechanical Dura Ace (fails groupset)
 #   Giant Trinity SRAM AXS L skelbiu.lt (74636002) — already in seen list
@@ -614,3 +614,12 @@ https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cdkxli.html
 https://www.ss.com/msg/lv/transport/bycycles/highway-sports/bxegpi.html
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bxegpi.html
 https://allegrolokalnie.pl/oferta/rower-triathlonowy-czasowy-scott-plasma-20
+# --- 2026-07-24 run — 0 new confirmed matches ---
+# Sites: SS.lv (403 direct, web search used), OLX.pl (403 direct, web search used), Allegro.pl (403 direct, web search used), allegrolokalnie.pl (403 direct), Autoplius.lt (no TT bikes found), Osta.ee (no matches), Okidoki.ee (no relevant results), Andel.lv (no results), Skelbiu.lt (prior listing already in seen list)
+# Candidates found but could NOT confirm all filter criteria:
+#   SS.lv Specialized Shiv TT/Triathlon, €2,500, L size (groupset unconfirmable - 403, recurring): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cdpkon.html
+#   SS.lv Felt B14 karbona triatlona ritenis, 58cm (FAIL: size >57cm): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cendeb.html
+#   SS.lv 58cm carbon frame Shimano R7170 105 Di2, €1,690 (FAIL: size >57cm): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cfbgmj.html
+#   Allegro.pl Felt B12 56cm Dura-Ace (likely mechanical Dura-Ace, not Di2): https://allegro.pl/oferta/rower-czasowy-triathlonowy-karbonowy-felt-b-12-56-cm-dura-ace-14729300234
+# Scanned: ~30 candidates across all sites. Matched all criteria: 0. New: 0.
+# Telegram: N/A (api.telegram.org blocked via egress proxy — persistent network policy issue).
