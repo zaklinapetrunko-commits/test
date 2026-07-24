@@ -224,3 +224,10 @@ https://allegro.pl/oferta/rower-specialized-shiv-s-works-rama-l-di2-13341249499
 #   allegro.pl Specialized Shiv S-Works Triathlon (Di2 not confirmed in title): https://allegro.pl/oferta/specialized-shiv-s-works-triathlon-rower-szosowy-9140800295
 #   ss.lv Scott Plasma TT carbon SRAM (SRAM model/size unconfirmable - 403): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdffcn.html
 # Scanned: ~35 candidates across all sites. Matched all criteria: 1. Telegram sent: 0 (BLOCKED).
+# --- 2026-07-24 run (fifth) --- 1 new confirmed listing ---
+https://allegro.pl/oferta/rower-triathlonowy-ceepo-viper-28-r-l-shimano-105-di2-12s-niebieski-14701065624
+# NOTE: Telegram alerts BLOCKED — api.telegram.org not in network egress allowlist. Manual review needed.
+# Candidates found but could NOT confirm all filter criteria:
+#   OLX.pl Ceepo Viper 28" 105 Di2 niebieski (size unconfirmed): https://www.olx.pl/d/oferta/ceepo-viper-28-shimano-105-di2-niebieski-CID767-ID122uRC.html
+#   SS.lv Cervelo P2 Carbon TT 48cm (too small, <55cm): https://www.ss.com/msg/lv/transport/bycycles/highway-sports/bxegpi.html
+# Scanned: ~40+ candidates across all sites. Matched all criteria: 1. Telegram sent: 0 (BLOCKED).
