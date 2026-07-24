@@ -134,7 +134,7 @@ https://allegrolokalnie.pl/oferta/giant-trinity-advanced-pro-0-di2-rozmiar-m
 https://allegrolokalnie.pl/oferta/giant-trinity-advanced-pro-2-roz-l
 https://allegrolokalnie.pl/oferta/planet-x-rower-tt-triathlon-full-carbon
 https://allegrolokalnie.pl/oferta/rower-czasowy-fuji-norcom-straight-13-triathlon
-https://allegrolokalnie.pl/oferta/rower-czasowy-triathlon-fuji-norcom-straight-1-3-d
+https://allegrolokalnie.pl/oferta/rower-czasowy-triathlon-fuji-norcom-1-3-di2-55
 https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-ribble-deda-tt-carbon
 https://allegrolokalnie.pl/oferta/rower-czasowy-timemachine-tm02
 https://allegrolokalnie.pl/oferta/rower-triathlonowy-bottecchia-tri-di2-mavic
@@ -526,5 +526,14 @@ https://www.olx.pl/d/oferta/nowy-rower-triathlonowy-felt-ia-2-0-expert-ultegra-d
 # FAIL (BMC Timemachine TM01 TT Koza Ultegra Di2 Kolbuszowa — size M, too small): https://www.olx.pl/d/oferta/bmc-timemachine-tm01-tt-koza-ultegra-di2-CID767-ID13gWpR.html
 # No listings passed all filter criteria
 # Telegram: BLOCKED --- api.telegram.org blocked by proxy (403 Forbidden on CONNECT tunnel; persists all runs since 2026-06-19)
+# PERSISTENT NOTE: Telegram has been blocked on every run since 2026-06-19. All PASS listings require manual review directly on linked URLs.
+# PERSISTENT NOTE: api.telegram.org remains blocked by proxy on all runs. Network egress allowlist must include api.telegram.org for alerts to work.
+# --- 2026-07-24 09:17 UTC run (twenty-sixth) — 1 new listing found ---
+# Sites checked: SS.lv, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt
+# Direct fetch: All sites return 403 (proxy blocked); web search used
+# ~20 searches run across all marketplaces and search terms (triathlon TT carbon Di2 SRAM Red L 56; brand-specific: Cervelo P5/P5X, Canyon Speedmax CFR, BMC TM01, Trek Speed Concept SLR, Specialized Shiv, Giant Trinity, Orbea Ordu, Pinarello Bolide, Fuji Norcom, Felt IA)
+# PASS: Specialized SHIV S-WORKS size L Di2 (Dura-Ace 2x11), full carbon triathlon bike, Allegro.pl, ~12,000-16,000 PLN (~€2,800-3,700 est.), Poland
+https://allegro.pl/oferta/rower-specialized-shiv-s-works-rama-l-di2-13341249499
+# Telegram: BLOCKED --- api.telegram.org blocked by proxy (exit code 56); outbound access denied
 # PERSISTENT NOTE: Telegram has been blocked on every run since 2026-06-19. All PASS listings require manual review directly on linked URLs.
 # PERSISTENT NOTE: api.telegram.org remains blocked by proxy on all runs. Network egress allowlist must include api.telegram.org for alerts to work.
