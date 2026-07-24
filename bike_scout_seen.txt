@@ -428,3 +428,16 @@ https://allegrolokalnie.pl/oferta/cervelo-px-sram-red-axs-zipp-l56
 # Telegram: BLOCKED --- api.telegram.org blocked by proxy deny-list (connect_rejected persists all runs since 2026-06-19)
 # PERSISTENT NOTE: Telegram has been blocked on every run since 2026-06-19. All PASS listings require manual review directly on linked URLs.
 # PERSISTENT NOTE: api.telegram.org remains blocked by proxy on all runs. Network egress allowlist must include api.telegram.org for alerts to work.
+# --- 2026-07-24 run (second) — No new matches found ---
+# Sites checked: SS.lv, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt
+# Direct fetch: All sites return 403 (proxy blocked); web search used
+# ~20 searches run across all marketplaces and search terms (triathlon TT carbon Di2 SRAM Red L 56; brand-specific: Cervelo P5, Canyon Speedmax, BMC TM01, Trek Speed Concept, Specialized Shiv, Orbea Ordu, Pinarello Bolide, Wilier Twin Blade)
+# New URLs assessed this run:
+# UNCERTAIN/FAIL (AllegroLokalnie cervelo-p5-nowa-cena - "nowa cena" = price update on existing listing, specs unconfirmable): https://allegrolokalnie.pl/oferta/cervelo-p5-nowa-cena
+# FAIL (AllegroLokalnie rower-triathlonowy-cervelo-p3-vw5 - Cervelo P3, groupset TBD, typically non-Di2): https://allegrolokalnie.pl/oferta/rower-triathlonowy-cervelo-p3-vw5
+# FAIL (AllegroLokalnie rower-czasowy-triathlon-cervelo-p3 - Cervelo P3, groupset TBD, typically non-Di2): https://allegrolokalnie.pl/oferta/rower-czasowy-triathlon-cervelo-p3
+# FAIL (AllegroLokalnie rower-triathlonowy-cervelo-p3-kola-hed-h3-smiglo - Cervelo P3 with HED wheels, groupset TBD): https://allegrolokalnie.pl/oferta/rower-triathlonowy-cervelo-p3-kola-hed-h3-smiglo
+# All candidate listings failed filter criteria or were previously seen
+# Telegram: BLOCKED --- api.telegram.org blocked by proxy deny-list (connect_rejected persists all runs since 2026-06-19)
+# PERSISTENT NOTE: Telegram has been blocked on every run since 2026-06-19. All PASS listings require manual review directly on linked URLs.
+# PERSISTENT NOTE: api.telegram.org remains blocked by proxy on all runs. Network egress allowlist must include api.telegram.org for alerts to work.
