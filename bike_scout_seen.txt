@@ -441,3 +441,14 @@ https://allegrolokalnie.pl/oferta/cervelo-px-sram-red-axs-zipp-l56
 # Telegram: BLOCKED --- api.telegram.org blocked by proxy deny-list (connect_rejected persists all runs since 2026-06-19)
 # PERSISTENT NOTE: Telegram has been blocked on every run since 2026-06-19. All PASS listings require manual review directly on linked URLs.
 # PERSISTENT NOTE: api.telegram.org remains blocked by proxy on all runs. Network egress allowlist must include api.telegram.org for alerts to work.
+# --- 2026-07-24 run (third) — No new matches found ---
+# Sites checked: SS.lv, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt
+# Direct fetch: All sites return 403 (proxy blocked); web search used
+# ~20 searches run across all marketplaces and search terms (triathlon TT carbon Di2 SRAM Red L 56; brand-specific: Cervelo P5/P5X, Canyon Speedmax CFR, BMC TM01, Trek Speed Concept SLR, Specialized Shiv, Giant Trinity, Orbea Ordu, Pinarello Bolide, Wilier Twin Blade)
+# No new listings found beyond those already in seen list
+# All candidate listings failed filter criteria or were previously seen:
+# FAIL (Cannondale Slice OLX.pl - Ultegra mechanical, not Di2/SRAM Red; size 54/57): olx.pl/oferta/rower-cannondale-slice-ultegra-roz-54-i-57-carbon-nowy
+# FAIL (Cervelo S5 Allegro.pl - road bike not TT/triathlon type, Ultegra Di2): allegro.pl/oferta/cervelo-s5-ultegra-di2-carnelian-rower-szosowy-model-2026-rozm-56
+# Telegram: BLOCKED --- api.telegram.org blocked by proxy deny-list (connect_rejected persists all runs since 2026-06-19)
+# PERSISTENT NOTE: Telegram has been blocked on every run since 2026-06-19. All PASS listings require manual review directly on linked URLs.
+# PERSISTENT NOTE: api.telegram.org remains blocked by proxy on all runs. Network egress allowlist must include api.telegram.org for alerts to work.
