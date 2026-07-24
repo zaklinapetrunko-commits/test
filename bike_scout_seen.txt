@@ -205,3 +205,9 @@ https://allegrolokalnie.pl/oferta/rower-triathlonowy-cervelo-p5x-sram-red-axs-zi
 # --- 2026-07-24 run --- 1 new listing passed filter ---
 https://www.olx.pl/d/oferta/nowy-rower-triathlonowy-felt-ia-2-0-expert-ultegra-di2-12s-super-cena-CID767-ID18RPS3.html
 # NOTE: Telegram alerts BLOCKED — api.telegram.org not in network egress allowlist. Manual review needed.
+# --- 2026-07-24 run (second) — 0 new confirmed matches ---
+# Sites: SS.lv (403 direct), OLX.pl (403 direct), Allegro.pl (403 direct), allegrolokalnie.pl (search only), Autoplius.lt (not bicycles), Osta.ee (no matches), Okidoki.ee (no matches), Andel.lv (no results), skelbiu.lt (403 direct)
+# Candidates found but could NOT confirm all filter criteria (size/groupset unverifiable):
+#   SS.lv Specialized Shiv TT/Triathlon, €2,500, L size (unconfirmed groupset): https://www.ss.lv/msg/ru/transport/bycycles/highway-sports/cdpkon.html
+#   OLX.pl Evo Kronos R-9 Carbon SRAM Red (size/price unverified): https://www.olx.pl/d/oferta/rower-triathlonowy-evo-kronos-r-9-carbon-sram-red-CID767-ID15a5Ze.html
+# Scanned: ~20 candidates across all sites. Matched all criteria: 0. Telegram sent: 0.
