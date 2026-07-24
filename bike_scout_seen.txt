@@ -308,7 +308,7 @@ https://allegrolokalnie.pl/oferta/cervelo-px-sram-red-axs-zipp-l56
 # ~20 searches run across all marketplaces and search terms (triathlon TT carbon Di2 SRAM Red L 56; brand-specific: Cervelo P5, Canyon Speedmax, BMC TM01, Trek Speed Concept SLR, Specialized Shiv, Giant Trinity, Orbea Ordu, Pinarello Bolide)
 # No new listings found beyond those already in seen list
 # Telegram: BLOCKED --- api.telegram.org blocked by proxy deny-list (connect_rejected persists all runs since 2026-06-19)
-# PERSISTENT NOTE: Telegram has been blocked on every run since 2026-06-19. All PASS listings require manual review directly on linked URLs.
+# PERSISTENT NOTE: Telegram has been been on every run since 2026-06-19. All PASS listings require manual review directly on linked URLs.
 # PERSISTENT NOTE: api.telegram.org remains blocked by proxy on all runs. Network egress allowlist must include api.telegram.org for alerts to work.
 # --- 2026-07-06 run (ninth) — No new matches found ---
 # Sites checked: SS.lv, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt
@@ -506,3 +506,15 @@ https://allegrolokalnie.pl/oferta/rower-czasowy-triathlon-fuji-norcom-1-3-di2-55
 # PERSISTENT NOTE: Telegram has been blocked on every run since 2026-06-19. All PASS listings require manual review directly on linked URLs.
 # PERSISTENT NOTE: api.telegram.org remains blocked by proxy on all runs. Network egress allowlist must include api.telegram.org for alerts to work.
 https://allegro.pl/oferta/specialized-shiv-s-works-triathlon-rower-szosowy-9140800295
+
+# --- 2026-07-24 run (twenty-fourth) — 1 new listing found ---
+# Sites checked: SS.lv, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt
+# Direct fetch: All sites return 403 (proxy blocked); web search used
+# ~30 searches run across all marketplaces and search terms (triathlon TT carbon Di2 SRAM Red L 56; brand-specific: Felt IA, Canyon Speedmax CFR, Cervelo P5, BMC TM01, Trek Speed Concept SLR, Specialized Shiv, Stevens Super Trofeo, Merida Warp TT)
+# PASS: Felt IA 2.0 Expert Ultegra Di2 12s (NEW from dealer szybkierowery.pl), Skórzewo/Poznań, 29,999 PLN (~€7,000), UHC Ultimate+TeXtreme carbon, size 56cm available
+https://www.olx.pl/d/oferta/nowy-rower-triathlonowy-felt-ia-2-0-expert-ultegra-di2-12s-super-cena-CID767-ID18RPS3.html
+# FAIL (Stevens Super Trofeo TT L 56 — Shimano Ultegra mechanical, not Di2/SRAM Red): https://www.olx.pl/d/oferta/rower-czasowy-triathlonowy-stevens-super-trofeo-tt-l-56-CID767-ID153N8N.html
+# FAIL (Merida Warp TT Lampre Szczecin — size S 171-179cm, Ultegra mechanical, not Di2/SRAM Red): https://allegrolokalnie.pl/oferta/merida-warp-tt-lampre-czasowy-triathlonowy
+# Telegram: BLOCKED --- api.telegram.org blocked by proxy (exit code 56); outbound access denied
+# PERSISTENT NOTE: Telegram has been blocked on every run since 2026-06-19. All PASS listings require manual review directly on linked URLs.
+# PERSISTENT NOTE: api.telegram.org remains blocked by proxy on all runs. Network egress allowlist must include api.telegram.org for alerts to work.
