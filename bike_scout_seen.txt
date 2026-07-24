@@ -217,3 +217,10 @@ https://allegro.pl/oferta/rower-triathlonowy-ceepo-viper-28-r-l-shimano-105-di2-
 # Candidates found but could NOT confirm all filter criteria:
 #   allegrolokalnie.pl Dolan TT carbon Dura-Ace (Di2 version unconfirmable - 403): https://allegrolokalnie.pl/oferta/rower-czasowy-dolan-tt-carbon-triathlon-dura-ace
 #   ss.lv ITT carbon frame €1,100 (type/size/groupset unconfirmable - 403): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cfcnjh.html
+# --- 2026-07-24 run (fourth) --- 1 new confirmed listing ---
+https://allegro.pl/oferta/rower-specialized-shiv-s-works-rama-l-di2-13341249499
+# NOTE: Telegram alerts BLOCKED — api.telegram.org not in network egress allowlist. Manual review needed.
+# Candidates found but could NOT confirm all filter criteria:
+#   allegro.pl Specialized Shiv S-Works Triathlon (Di2 not confirmed in title): https://allegro.pl/oferta/specialized-shiv-s-works-triathlon-rower-szosowy-9140800295
+#   ss.lv Scott Plasma TT carbon SRAM (SRAM model/size unconfirmable - 403): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdffcn.html
+# Scanned: ~35 candidates across all sites. Matched all criteria: 1. Telegram sent: 0 (BLOCKED).
