@@ -570,3 +570,13 @@ https://allegro.pl/oferta/rower-specialized-shiv-s-works-rama-l-di2-13341249499
 # Telegram: BLOCKED — api.telegram.org blocked by proxy (exit code 56); outbound access denied (unchanged since 2026-06-19)
 # PERSISTENT NOTE: Telegram has been blocked on every run since 2026-06-19. All PASS listings require manual review directly on linked URLs.
 # PERSISTENT NOTE: api.telegram.org remains blocked by proxy on all runs. Network egress allowlist must include api.telegram.org for alerts to work.
+
+# --- 2026-07-24 run (twenty-ninth) — No new matches found ---
+# Sites checked: SS.lv, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt
+# Direct fetch: All sites return 403 (proxy blocked); web search used
+# ~20 searches run across all marketplaces and search terms (triathlon TT carbon Di2 SRAM Red L 56; brand-specific: Cervelo P5, Canyon Speedmax CF/CFR, BMC TM01, Trek Speed Concept SLR, Specialized Shiv, Giant Trinity, Orbea Ordu, Pinarello Bolide, Basso Konos, Argon 18 E119, Quintana Roo PR5, Scott Plasma 5, Wilier Twin Blade, Felt IA; ss.lv, autoplius.lt, osta.ee, okidoki.ee, andel.lv, ss.lv, olx.pl, allegro.pl, allegrolokalnie.pl)
+# No new listings found beyond those already in seen list
+# Basso Konos listings (ID11Ebft Warsaw, ID146yN8 Wieliczka, IDYiwky Warsaw) remain UNCERTAIN (size unconfirmed via web search, direct fetch blocked)
+# Telegram: BLOCKED --- api.telegram.org blocked by proxy deny-list (connect_rejected persists all runs since 2026-06-19)
+# PERSISTENT NOTE: Telegram has been blocked on every run since 2026-06-19. All PASS listings require manual review directly on linked URLs.
+# PERSISTENT NOTE: api.telegram.org remains blocked by proxy on all runs. Network egress allowlist must include api.telegram.org for alerts to work.
