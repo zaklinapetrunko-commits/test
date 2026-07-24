@@ -211,3 +211,9 @@ https://www.olx.pl/d/oferta/nowy-rower-triathlonowy-felt-ia-2-0-expert-ultegra-d
 #   SS.lv Specialized Shiv TT/Triathlon, €2,500, L size (unconfirmed groupset): https://www.ss.lv/msg/ru/transport/bycycles/highway-sports/cdpkon.html
 #   OLX.pl Evo Kronos R-9 Carbon SRAM Red (size/price unverified): https://www.olx.pl/d/oferta/rower-triathlonowy-evo-kronos-r-9-carbon-sram-red-CID767-ID15a5Ze.html
 # Scanned: ~20 candidates across all sites. Matched all criteria: 0. Telegram sent: 0.
+# --- 2026-07-24 run (third) --- 1 new listing passed filter ---
+https://allegro.pl/oferta/rower-triathlonowy-ceepo-viper-28-r-l-shimano-105-di2-12s-czarny-14701067337
+# NOTE: Telegram alerts BLOCKED — api.telegram.org not in network egress allowlist. Manual review needed.
+# Candidates found but could NOT confirm all filter criteria:
+#   allegrolokalnie.pl Dolan TT carbon Dura-Ace (Di2 version unconfirmable - 403): https://allegrolokalnie.pl/oferta/rower-czasowy-dolan-tt-carbon-triathlon-dura-ace
+#   ss.lv ITT carbon frame €1,100 (type/size/groupset unconfirmable - 403): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cfcnjh.html
