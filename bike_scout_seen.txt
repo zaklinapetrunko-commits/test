@@ -222,7 +222,6 @@ https://www.olx.pl/d/oferta/rower-czasowy-karbonowy-specialized-transition-exper
 https://www.olx.pl/d/oferta/specialized-transition-expert-rower-tt-czasowy-carbon-CID767-ID163ecZ.html
 https://www.olx.pl/d/oferta/fuji-norcom-straight-1-3-di2-CID767-IDpFaVp.html
 https://www.olx.pl/d/oferta/trek-speed-concept-xl-di2-tt-triathlon-karbon-CID767-IDSIyfC.html
-https://www.olx.pl/d/oferta/cannondale-supersix-evo-carbon-3-105-di2-r-56-l-nowy-fv23-CID767-ID13t9EV.html
 https://www.olx.pl/d/oferta/factor-one-aero-rower-karbon-shimano-dura-ace-di2-56-CID767-ID17I8oR.html
 https://www.olx.pl/d/oferta/merida-reacto-8000-e-ultegra-di2-carbon-l-56-CID767-ID1a3mnW.html
 https://www.olx.pl/d/oferta/trek-madone-slr-9-disc-dura-ace-di2-l-56-CID767-ID19pU6o.html
@@ -493,3 +492,17 @@ https://allegrolokalnie.pl/oferta/rower-czasowy-triathlon-fuji-norcom-1-3-di2-55
 # Telegram: BLOCKED --- api.telegram.org blocked by proxy (403 Forbidden on CONNECT tunnel); outbound access denied
 # PERSISTENT NOTE: Telegram has been blocked on every run since 2026-06-19. All PASS listings require manual review directly on linked URLs.
 # PERSISTENT NOTE: api.telegram.org remains blocked by proxy on all runs. Network egress allowlist must include api.telegram.org for alerts to work.
+
+# --- 2026-07-24 run (twenty-third) — No new matches found ---
+# Sites checked: SS.lv, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt
+# Direct fetch: All sites return 403 (proxy blocked); web search used
+# ~25 searches run across all marketplaces and search terms (triathlon TT carbon Di2 SRAM Red L 56; brand-specific: Cervelo P5, Canyon Speedmax CFR, BMC TM01, Trek Speed Concept SLR, Specialized Shiv, Pinarello Bolide, Van Rysel FCR, Factor ONE, EVO Kronos)
+# New URLs assessed this run:
+# ALREADY-SEEN/FAIL (Van Rysel FCR L Kraków Ultegra Di2 — aero road bike, not TT/triathlon geometry): https://www.olx.pl/d/oferta/van-rysel-fcr-rozmiar-l-triathlon-ultegra-di2-CID767-IDVVkn2.html
+# ALREADY-SEEN/FAIL (Factor ONE Aero 56 Lesko Dura-Ace Di2 — aero road bike, not TT/triathlon geometry): https://www.olx.pl/d/oferta/factor-one-aero-rower-karbon-shimano-dura-ace-di2-56-CID767-ID17I8oR.html
+# UNCERTAIN (Specialized Shiv S-Works Triathlon Allegro 9140800295, 12,300 zł ~€2,854, Dura-Ace Di2 11s confirmed, carbon confirmed, size UNCONFIRMED — added to seen list for tracking): https://allegro.pl/oferta/specialized-shiv-s-works-triathlon-rower-szosowy-9140800295
+# No listings passed all filter criteria
+# Telegram: BLOCKED — api.telegram.org blocked by proxy deny-list (connect_rejected persists all runs since 2026-06-19)
+# PERSISTENT NOTE: Telegram has been blocked on every run since 2026-06-19. All PASS listings require manual review directly on linked URLs.
+# PERSISTENT NOTE: api.telegram.org remains blocked by proxy on all runs. Network egress allowlist must include api.telegram.org for alerts to work.
+https://allegro.pl/oferta/specialized-shiv-s-works-triathlon-rower-szosowy-9140800295
