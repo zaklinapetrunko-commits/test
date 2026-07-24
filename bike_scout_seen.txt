@@ -232,6 +232,7 @@ https://www.olx.pl/oferta/rower-czasowy-massi-rower-triathlonowy-carbon-CID767-I
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdgdih.html
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdfdlm.html
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdffcn.html
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdffcn.html
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdhojg.html
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdlgbg.html
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bkhelc.html
@@ -535,5 +536,24 @@ https://www.olx.pl/d/oferta/nowy-rower-triathlonowy-felt-ia-2-0-expert-ultegra-d
 # PASS: Specialized SHIV S-WORKS size L Di2 (Dura-Ace 2x11), full carbon triathlon bike, Allegro.pl, ~12,000-16,000 PLN (~€2,800-3,700 est.), Poland
 https://allegro.pl/oferta/rower-specialized-shiv-s-works-rama-l-di2-13341249499
 # Telegram: BLOCKED --- api.telegram.org blocked by proxy (exit code 56); outbound access denied
+# PERSISTENT NOTE: Telegram has been blocked on every run since 2026-06-19. All PASS listings require manual review directly on linked URLs.
+# PERSISTENT NOTE: api.telegram.org remains blocked by proxy on all runs. Network egress allowlist must include api.telegram.org for alerts to work.
+# --- 2026-07-24 run (twenty-seventh) — No new matches found ---
+# Sites checked: SS.lv, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt
+# Direct fetch: All sites return 403 (proxy blocked); web search used
+# ~30 searches run across all marketplaces and search terms (triathlon TT carbon Di2 SRAM Red L 56; brand-specific: Cervelo P5, Canyon Speedmax CFR, BMC TM01, Trek Speed Concept SLR, Specialized Shiv, Giant Trinity, Orbea Ordu, Pinarello Bolide, Wilier Twin Blade)
+# New URLs assessed this run:
+# FAIL (OLX.pl Cervelo P5 Six Bielany Wrocławskie ID15nHFl - size 58, too large): https://www.olx.pl/d/oferta/rower-czasowy-tt-triathlonowy-cervelo-p5-six-CID767-ID15nHFl.html
+# FAIL (OLX.pl BMC TM01 Di2 Strzelno IDYztl2 - size M-S, too small): https://www.olx.pl/d/oferta/bmc-tm01-di2-rower-do-jazdy-na-czas-pomiar-mocy-CID767-IDYztl2.html
+# FAIL (OLX.pl BMC Time Machine 02 L Gdańsk ID13asQS - Shimano 105 mechanical, not Di2): https://www.olx.pl/d/oferta/rower-triathlonowy-czasowy-bmc-time-machine-02-rozmiar-l-CID767-ID13asQS.html
+# FAIL (OLX.pl Trek Speed Concept M Warszawa IDWUsjw - size M, too small): https://www.olx.pl/d/oferta/trek-speed-concept-m-triathlon-rower-triathlonowy-szosowy-karbon-CID767-IDWUsjw.html
+# FAIL (OLX.pl Giant Trinity Advanced SL TT M Legionowo ID11nYxR - size M, too small): https://www.olx.pl/d/oferta/rower-giant-trinity-advanced-sl-tt-carbon-rozm-m-dysk-zipp-triathlon-CID767-ID11nYxR.html
+# FAIL (OLX.pl Orbea Ordu M30i LTD IDVPS7G - size M-L, not L/56): https://www.olx.pl/d/oferta/nowy-rower-orbea-ordu-m30i-ltd-di2-poznan-triathlon-czasowka-fv-CID767-IDVPS7G.html
+# FAIL (OLX.pl Orbea ORDU M30iLTD ID156rdG - size M-L, not L/56): https://www.olx.pl/d/oferta/rower-orbea-ordu-m30iltd-triathlonowy-tri-w-100-gotowy-gratis-bezpl-CID767-ID156rdG.html
+# FAIL (AllegroLokalnie Scott Plasma 20 Bydgoszcz - Ultegra mechanical, not Di2): https://allegrolokalnie.pl/oferta/rower-triathlonowy-czasowy-scott-plasma-20
+# FAIL (AllegroLokalnie Trek Speed Concept XL Di2 Swarzędz - size XL, too large): https://allegrolokalnie.pl/oferta/trek-speed-concept-di2-triathlonkarbon
+# FAIL (OLX.pl Wilier Rapida Di2 carbon road bike - not TT/triathlon type): https://www.olx.pl/d/oferta/nowy-rower-szosowy-wilier-rapida-di2-miche-carbon-velopolis-CID767-ID1bouvP.html
+# No new listings passed filter criteria
+# Telegram: BLOCKED --- api.telegram.org blocked by proxy deny-list (connect_rejected persists all runs since 2026-06-19)
 # PERSISTENT NOTE: Telegram has been blocked on every run since 2026-06-19. All PASS listings require manual review directly on linked URLs.
 # PERSISTENT NOTE: api.telegram.org remains blocked by proxy on all runs. Network egress allowlist must include api.telegram.org for alerts to work.
