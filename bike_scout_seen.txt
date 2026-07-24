@@ -565,8 +565,28 @@ https://allegro.pl/oferta/rower-specialized-shiv-s-works-rama-l-di2-13341249499
 # New URLs assessed this run:
 # UNCERTAIN (Basso Konos Triathlon Czasowy, Warsaw Mokotów, 11,500 PLN ~€2,670, carbon TT confirmed, Ultegra Di2 confirmed — size UNCONFIRMED): https://www.olx.pl/d/oferta/rower-basso-konos-triathlon-czasowy-CID767-ID11Ebft.html
 # UNCERTAIN (Basso Carbon Konos Ultegra Di2, Wieliczka, carbon TT confirmed, Ultegra Di2 confirmed — size UNCONFIRMED): https://www.olx.pl/d/oferta/basso-carbon-konos-ultegra-di2-CID767-ID146yN8.html
-# UNCERTAIN (Basso Konos Di2 FFWD wheels + disc, Warsaw Śródmieście, Ultegra Di2 confirmed, power meter pedals included ⭐ — size UNCONFIRMED): https://www.olx.pl/d/oferta/rower-do-jazdy-na-czas-triathlon-basso-konos-piekny-i-bardzo-szybki-CID767-IDYiwky.html
+# UNCERTAIN (Basso Konos Di2 FFWD wheels + disc, Warsaw Śródmieście, Ultegra Di2 confirmed, power meter pedals included — size UNCONFIRMED): https://www.olx.pl/d/oferta/rower-do-jazdy-na-czas-triathlon-basso-konos-piekny-i-bardzo-szybki-CID767-IDYiwky.html
 # FAIL (Basso Konos Karbon, Rzeszów, 3,299 PLN ~€765, carbon TT confirmed — size M/54cm confirmed, too small): https://www.olx.pl/d/oferta/rower-triathlonowy-czasowy-tt-basso-konos-karbon-CID767-ID12Z6mB.html
 # Telegram: BLOCKED — api.telegram.org blocked by proxy (exit code 56); outbound access denied (unchanged since 2026-06-19)
 # PERSISTENT NOTE: Telegram has been blocked on every run since 2026-06-19. All PASS listings require manual review directly on linked URLs.
 # PERSISTENT NOTE: api.telegram.org remains blocked by proxy on all runs. Network egress allowlist must include api.telegram.org for alerts to work.
+https://www.olx.pl/d/oferta/rower-basso-konos-triathlon-czasowy-CID767-ID11Ebft.html
+https://www.olx.pl/d/oferta/basso-carbon-konos-ultegra-di2-CID767-ID146yN8.html
+https://www.olx.pl/d/oferta/rower-do-jazdy-na-czas-triathlon-basso-konos-piekny-i-bardzo-szybki-CID767-IDYiwky.html
+
+# --- 2026-07-24 run (twenty-ninth) — No confirmed matches (4 new listings assessed, 1 high-priority UNCERTAIN) ---
+# Sites checked: SS.lv, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt
+# Direct fetch: All sites return 403 (proxy blocked); web search used
+# ~45 searches run across all marketplaces and search terms (triathlon TT carbon Di2 SRAM Red L 56; brand-specific: Cervelo P5, Canyon Speedmax, BMC TM01, Trek Speed Concept, Specialized Shiv, Argon 18 E-117, Basso Konos, Fuji Norcom, Felt IA)
+# New URLs assessed this run:
+# FAIL (AllegroLokalnie Argon 18 E-112 carbon L Pawlikowice 4,600 PLN - SRAM Rival groupset confirmed, not Di2/SRAM Red): https://allegrolokalnie.pl/oferta/argon-18-e112-rower-triathlonowy-carbon-rama-l
+# HIGH-PRIORITY UNCERTAIN (SS.lv Specialized Shiv S-Works size L, Latvia, €1,800 — carbon triathlon confirmed, size L confirmed, groupset unconfirmed but ALL S-Works Shiv models historically came with Di2/SRAM Red; manual verification strongly recommended): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bxhkxh.html
+# UNCERTAIN (AllegroLokalnie Argon 18 E-117 Di2 4,800 PLN ~€1,115 — Di2 confirmed, carbon confirmed, triathlon confirmed, size UNCONFIRMED): https://allegrolokalnie.pl/oferta/rower-argon-18-e117-di2-idealny
+# UNCERTAIN (AllegroLokalnie Argon 18 E-117 triathlon rozmiar L — size L confirmed, carbon confirmed, groupset UNCONFIRMED): https://allegrolokalnie.pl/oferta/rower-argon-18-e117-triathlon-rozmiar-l
+# Telegram: BLOCKED --- api.telegram.org blocked by proxy (403 Forbidden on CONNECT tunnel, exit code 56); outbound access denied (unchanged since 2026-06-19)
+# PERSISTENT NOTE: Telegram has been blocked on every run since 2026-06-19. All PASS listings require manual review directly on linked URLs.
+# PERSISTENT NOTE: api.telegram.org remains blocked by proxy on all runs. Network egress allowlist must include api.telegram.org for alerts to work.
+https://allegrolokalnie.pl/oferta/argon-18-e112-rower-triathlonowy-carbon-rama-l
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bxhkxh.html
+https://allegrolokalnie.pl/oferta/rower-argon-18-e117-di2-idealny
+https://allegrolokalnie.pl/oferta/rower-argon-18-e117-triathlon-rozmiar-l
