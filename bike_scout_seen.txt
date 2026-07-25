@@ -245,3 +245,11 @@ https://allegro.pl/oferta/rower-triathlonowy-ceepo-viper-28-r-l-shimano-105-di2-
 #   SS.lv Specialized Shiv TT/Triathlon, €2,500, size L (groupset unknown): https://www.ss.lv/msg/ru/transport/bycycles/highway-sports/cdpkon.html
 #   SS.lv Scott Plasma TT carbon SRAM, €1,000 (SRAM model/size unconfirmed): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdffcn.html
 #   OLX.pl Evo Kronos R-9 Carbon SRAM Red (size/price unverified): https://www.olx.pl/d/oferta/rower-triathlonowych-evo-kronos-r-9-carbon-sram-red-CID767-ID15a5Ze.html
+# --- 2026-07-25 run (second) — 0 new confirmed matches ---
+# Sites checked: SS.lv (403 direct/web search only), OLX.pl (403 direct/web search only), Allegro.pl (403 direct/web search only), allegrolokalnie.pl (403 direct/web search only), Autoplius.lt (no bicycle matches), Osta.ee (no matches), Okidoki.ee (no matches), Andel.lv (no results), skelbiu.lt (web search only)
+# Candidates found but failed filter criteria:
+#   OLX.pl Stevens Super Trofeo TT L 56 (standard spec: Shimano Ultegra mechanical, NOT Di2/SRAM Red): https://www.olx.pl/d/oferta/rower-czasowy-triathlonowy-stevens-super-trofeo-tt-l-56-CID767-ID153N8N.html
+#   OLX.pl BMC Timemachine 02 SRAM Red Etap Warszawa (size MS, NOT L/56): https://www.olx.pl/oferta/bmc-timemachine-02-triathlon-sram-red-etap-CID767-IDw0rzr.html
+#   SS.lv TT/Triatlona velo M/L 54cm €480 (54cm outside 55-57cm range): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cdkxli.html
+# Scanned: ~70+ candidates across all sites. Matched all criteria: 0. Telegram sent: 0 (BLOCKED - api.telegram.org not in egress allowlist).
+# NOTE: Telegram remains consistently blocked. Manual review of previously flagged unconfirmed candidates recommended.
