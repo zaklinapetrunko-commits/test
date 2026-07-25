@@ -238,3 +238,10 @@ https://allegro.pl/oferta/rower-triathlonowy-ceepo-viper-28-r-l-shimano-105-di2-
 #   Scott Plasma 20 on allegrolokalnie.pl (Ultegra 2x10 mechanical, NOT Di2/SRAM Red): https://allegrolokalnie.pl/oferta/rower-triathlonowy-czasowy-scott-plasma-20
 #   Giant Liv Avow Advanced Pro 1 on allegrolokalnie.pl (Ultegra Di2, carbon, BUT size M not L): https://allegrolokalnie.pl/oferta/rower-triathlonowy-giant-liv-avow-advanced-pro-1-m-rower-czasowy
 # Scanned: ~50 candidates across all sites. Matched all criteria: 0. Telegram sent: 0. NOTE: Telegram (api.telegram.org) remains blocked by network egress policy.
+# --- 2026-07-25 run — 0 new confirmed matches ---
+# Sites checked: SS.lv (403 direct/web search only), OLX.pl (403 direct/web search only), Allegro.pl (403 direct/web search only), allegrolokalnie.pl (403 direct/web search only), Autoplius.lt (no bicycle matches), Osta.ee (no matches), Okidoki.ee (no matches), Andel.lv (no results), skelbiu.lt (403 direct/web search only)
+# Scanned: ~60 candidates across all sites. Matched all criteria: 0. Telegram sent: 0 (BLOCKED - api.telegram.org not in egress allowlist).
+# Persistent unconfirmed candidates (groupset/size still unverifiable due to 403 on all target sites):
+#   SS.lv Specialized Shiv TT/Triathlon, €2,500, size L (groupset unknown): https://www.ss.lv/msg/ru/transport/bycycles/highway-sports/cdpkon.html
+#   SS.lv Scott Plasma TT carbon SRAM, €1,000 (SRAM model/size unconfirmed): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdffcn.html
+#   OLX.pl Evo Kronos R-9 Carbon SRAM Red (size/price unverified): https://www.olx.pl/d/oferta/rower-triathlonowych-evo-kronos-r-9-carbon-sram-red-CID767-ID15a5Ze.html
