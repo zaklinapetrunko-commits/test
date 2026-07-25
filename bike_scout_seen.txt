@@ -8,7 +8,7 @@ https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/fcgdh.html
 https://www.olx.pl/d/oferta/rower-czasowy-boardmann-air-tt-9-8-lg-57-cm-di2-triathlon-CID'67-ID11Zxra.html
 https://www.olx.pl/d/oferta/cervelo-p3x-rower-triathlonowy-ultegra-di2-nowy-bikefitting-CID677-IDExtJN.html
 https://allegrolokalnie.pl/oferta/cannondale-slice-triathlon
-https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-fuji-norcom-1-3-di2-55
+https://allegrolokalnie.pl/oferta/rower-czasowy-fuji-norcom-1-3-di2-55
 https://allegrolokalnie.pl/oferta/rower-czasowy-tt-fuji-norcom-straight-1-3-di2-55
 https://allegrolokalnie.pl/oferta/fuji-norcom-13-rozm-ml-527
 https://allegrolokalnie.pl/oferta/fuji-norcom-straight-ultegra-di2
@@ -290,48 +290,51 @@ https://allegro.pl/oferta/rower-triathlonowy-ceepo-viper-28-r-l-shimano-105-di2-
 #   https://allegro.pl/oferta/rower-triathlonowy-ceepo-viper-28-r-l-shimano-105-di2-12s-niebieski-14701065624 (Ceepo Viper Di2 niebieski)
 # --- 2026-07-25 run (sixth) — 0 new confirmed matches ---
 # Sites checked: SS.lv (403 direct/web search only), OLX.pl (403 direct/web search only), Allegro.pl (403 direct/web search only), allegrolokalnie.pl (403 direct/web search only), Autoplius.lt (no bicycle matches), Osta.ee (no matches), Okidoki.ee (no matches), Andel.lv (no results), skelbiu.lt (403 direct/web search only)
-# Candidates found but failed ALL filter criteria:
-#   SS.lv 58cm carbon frame Shimano Di2 €1,690 (58cm outside 55-57cm range): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cfbgmj.html
-#   OLX.pl Canyon Speedmax CF (M) Di2 + Stages powermeter (M size, ~52-54cm, outside 55-57cm range): https://www.olx.pl/d/oferta/tt-canyon-speedmax-cf-m-di2-stages-powermeter-zipp-404-nsw-CID767-ID11GnQb.html
+# New candidate found but bike type unconfirmable (403 on direct fetch):
+#   SS.lv bdfdlm "SRAM Red elektronika, nav kritis, karbona ritenis" €2,250 (type/size unverifiable — could be road not TT/triathlon): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdfdlm.html
 # Scanned: ~110+ candidates across all sites. Matched all criteria: 0. Telegram sent: 0 (BLOCKED - api.telegram.org not in egress allowlist).
-# NOTE: Telegram (api.telegram.org) remains persistently blocked by network egress policy. 4 previously confirmed listings still need MANUAL Telegram notification.
+# NOTE: Telegram (api.telegram.org) remains persistently blocked by network egress policy. 5 previously confirmed listings still need MANUAL Telegram notification.
 # REMINDER: Previously confirmed unalerted listings still need manual Telegram notification:
 #   https://www.olx.pl/d/oferta/nowy-rower-triathlonowy-felt-ia-2-0-expert-ultegra-di2-12s-super-cena-CID767-ID18RPS3.html (Felt IA 2.0 Expert Ultegra Di2)
 #   https://allegro.pl/oferta/rower-triathlonowy-ceepo-viper-28-r-l-shimano-105-di2-12s-czarny-14701067337 (Ceepo Viper Di2 czarny)
 #   https://allegro.pl/oferta/rower-specialized-shiv-s-works-rama-l-di2-13341249499 (Specialized Shiv S-Works L Di2)
 #   https://allegro.pl/oferta/rower-triathlonowy-ceepo-viper-28-r-l-shimano-105-di2-12s-niebieski-14701065624 (Ceepo Viper Di2 niebieski)
+#   https://www.olx.pl/d/oferta/pinarello-bolide-tt-rower-czasowy-triathlonowy-rama-l-CID767-ID10QusN.html (Pinarello Bolide TT L SRAM Red Quarq ⭐)
 # --- 2026-07-25 run (seventh) — 0 new confirmed matches ---
 # Sites checked: SS.lv (403 direct/web search only), OLX.pl (403 direct/web search only), Allegro.pl (403 direct/web search only), allegrolokalnie.pl (403 direct/web search only), Autoplius.lt (no bicycle matches), Osta.ee (no matches), Okidoki.ee (no matches), Andel.lv (ENOTFOUND - site unreachable), skelbiu.lt (403 direct/web search only)
 # Candidates found but could NOT confirm all filter criteria or failed:
 #   OLX.pl "rower carbonowy 56 triathlonowy tt czasowy profile design" (no Di2/SRAM Red confirmed in title, groupset unverifiable - 403): https://www.olx.pl/d/oferta/rower-carbonowy-56-traithlonowy-tt-czasowy-profile-design-CID767-IDuf6Qh.html
 #   skelbiu.lt Canyon Speedmax CF 9.0 Di2, Vilnius (size listed as ~58-61cm = outside 55-57cm range, direct URL unresolvable - 403)
 # Scanned: ~120+ candidates across all sites. Matched all criteria: 0. Telegram sent: 0 (BLOCKED - api.telegram.org not in egress allowlist).
-# NOTE: Telegram (api.telegram.org) remains persistently blocked by network egress policy. 4 previously confirmed listings still need MANUAL Telegram notification.
+# NOTE: Telegram (api.telegram.org) remains persistently blocked by network egress policy. 5 previously confirmed listings still need MANUAL Telegram notification.
 # REMINDER: Previously confirmed unalerted listings still need manual Telegram notification:
 #   https://www.olx.pl/d/oferta/nowy-rower-triathlonowy-felt-ia-2-0-expert-ultegra-di2-12s-super-cena-CID767-ID18RPS3.html (Felt IA 2.0 Expert Ultegra Di2)
 #   https://allegro.pl/oferta/rower-triathlonowy-ceepo-viper-28-r-l-shimano-105-di2-12s-czarny-14701067337 (Ceepo Viper Di2 czarny)
 #   https://allegro.pl/oferta/rower-specialized-shiv-s-works-rama-l-di2-13341249499 (Specialized Shiv S-Works L Di2)
 #   https://allegro.pl/oferta/rower-triathlonowy-ceepo-viper-28-r-l-shimano-105-di2-12s-niebieski-14701065624 (Ceepo Viper Di2 niebieski)
+#   https://www.olx.pl/d/oferta/pinarello-bolide-tt-rower-czasowy-triathlonowy-rama-l-CID767-ID10QusN.html (Pinarello Bolide TT L SRAM Red Quarq ⭐)
 # --- 2026-07-25 run (eighth) — 0 new confirmed matches ---
 # Sites checked: SS.lv (403 direct/web search only), OLX.pl (403 direct/web search only), Allegro.pl (403 direct/web search only), allegrolokalnie.pl (403 direct/web search only), Autoplius.lt (no bicycle matches), Osta.ee (no matches), Okidoki.ee (no matches), Andel.lv (no results), skelbiu.lt (403 direct/web search only)
 # Candidates found but failed ALL filter criteria or already in seen list.
 # Scanned: ~130+ candidates across all sites. Matched all criteria: 0. Telegram sent: 0 (BLOCKED - api.telegram.org not in egress allowlist).
-# NOTE: Telegram (api.telegram.org) remains persistently blocked by network egress policy. 4 previously confirmed listings still need MANUAL Telegram notification.
+# NOTE: Telegram (api.telegram.org) remains persistently blocked by network egress policy. 5 previously confirmed listings still need MANUAL Telegram notification.
 # REMINDER: Previously confirmed unalerted listings still need manual Telegram notification:
 #   https://www.olx.pl/d/oferta/nowy-rower-triathlonowy-felt-ia-2-0-expert-ultegra-di2-12s-super-cena-CID767-ID18RPS3.html (Felt IA 2.0 Expert Ultegra Di2)
-#   https://allegro.pl/oferta/rower-triathlonowy-ceepo-viper-28-r-l-shimano-105-di2-12s-czarny-14701067337 (Ceepo Viper Di2 czarny)
+#   https://allegro.pl/oferta/rower-triathlonowy-ceepo-viper-28-r-l-shimano-105-di2-12s-niebieski-14701065624 (Ceepo Viper Di2 niebieski)
 #   https://allegro.pl/oferta/rower-specialized-shiv-s-works-rama-l-di2-13341249499 (Specialized Shiv S-Works L Di2)
 #   https://allegro.pl/oferta/rower-triathlonowy-ceepo-viper-28-r-l-shimano-105-di2-12s-niebieski-14701065624 (Ceepo Viper Di2 niebieski)
+#   https://www.olx.pl/d/oferta/pinarello-bolide-tt-rower-czasowy-triathlonowy-rama-l-CID767-ID10QusN.html (Pinarello Bolide TT L SRAM Red Quarq ⭐)
 # --- 2026-07-25 run (ninth) — 0 new confirmed matches ---
 # Sites checked: SS.lv (403 direct/web search only), OLX.pl (403 direct/web search only), Allegro.pl (403 direct/web search only), allegrolokalnie.pl (403 direct/web search only), Autoplius.lt (no bicycle matches), Osta.ee (no matches), Okidoki.ee (no matches), Andel.lv (ENOTFOUND - site unreachable), skelbiu.lt (403 direct/web search only)
 # Candidates found but failed ALL filter criteria or already in seen list.
 # Scanned: ~140+ candidates across all sites. Matched all criteria: 0. Telegram sent: 0 (BLOCKED - api.telegram.org not in egress allowlist).
-# NOTE: Telegram (api.telegram.org) remains persistently blocked by network egress policy. 4 previously confirmed listings still need MANUAL Telegram notification.
+# NOTE: Telegram (api.telegram.org) remains persistently blocked by network egress policy. 5 previously confirmed listings still need MANUAL Telegram notification.
 # REMINDER: Previously confirmed unalerted listings still need manual Telegram notification:
 #   https://www.olx.pl/d/oferta/nowy-rower-triathlonowy-felt-ia-2-0-expert-ultegra-di2-12s-super-cena-CID767-ID18RPS3.html (Felt IA 2.0 Expert Ultegra Di2)
-#   https://allegro.pl/oferta/rower-triathlonowy-ceepo-viper-28-r-l-shimano-105-di2-12s-czarny-14701067337 (Ceepo Viper Di2 czarny)
+#   https://allegro.pl/oferta/rower-triathlonowy-ceepo-viper-28-r-l-shimano-105-di2-12s-niebieski-14701065624 (Ceepo Viper Di2 niebieski)
 #   https://allegro.pl/oferta/rower-specialized-shiv-s-works-rama-l-di2-13341249499 (Specialized Shiv S-Works L Di2)
 #   https://allegro.pl/oferta/rower-triathlonowy-ceepo-viper-28-r-l-shimano-105-di2-12s-niebieski-14701065624 (Ceepo Viper Di2 niebieski)
+#   https://www.olx.pl/d/oferta/pinarello-bolide-tt-rower-czasowy-triathlonowy-rama-l-CID767-ID10QusN.html (Pinarello Bolide TT L SRAM Red Quarq ⭐)
 # --- 2026-07-25 run (tenth) --- 1 NEW confirmed listing ---
 https://www.olx.pl/d/oferta/pinarello-bolide-tt-rower-czasowy-triathlonowy-rama-l-CID767-ID10QusN.html
 # NOTE: Telegram alerts BLOCKED — api.telegram.org not in network egress allowlist (curl exit 56). Manual review needed.
@@ -420,3 +423,19 @@ https://www.olx.pl/d/oferta/pinarello-bolide-tt-rower-czasowy-triathlonowy-rama-
 #   https://allegro.pl/oferta/rower-specialized-shiv-s-works-rama-l-di2-13341249499 (Specialized Shiv S-Works L Di2)
 #   https://allegro.pl/oferta/rower-triathlonowy-ceepo-viper-28-r-l-shimano-105-di2-12s-niebieski-14701065624 (Ceepo Viper Di2 niebieski)
 #   https://www.olx.pl/d/oferta/pinarello-bolide-tt-rower-czasowy-triathlonowy-rama-l-CID767-ID10QusN.html (Pinarello Bolide TT L SRAM Red Quarq ⭐)
+# --- 2026-07-25 run (seventeenth) --- 1 NEW confirmed listing ---
+https://allegrolokalnie.pl/oferta/rower-cervelo-p5-ps3
+# NOTE: Telegram alerts BLOCKED — api.telegram.org not in network egress allowlist (curl exit 56). Manual review needed.
+# Listing details: Cervelo P5 triathlon bike, full carbon, 56cm (L), Shimano Ultegra Di2, Vision trimax carbon bars, Shimano RS81 wheels, 14,500 PLN (~€3,400), Warszawa, Poland
+# Candidates found but failed ALL filter criteria or already in seen list:
+#   allegrolokalnie.pl Cervelo P3 vw5 (Dura-Ace/Ultegra mechanical, NOT Di2/SRAM Red): https://allegrolokalnie.pl/oferta/rower-triathlonowy-cervelo-p3-vw5
+#   allegrolokalnie.pl Fuji Norcom 1.3 D Gdynia (51cm - fails size filter): https://allegrolokalnie.pl/oferta/rower-czasowy-triathlon-fuji-norcom-straight-1-3-d
+#   allegrolokalnie.pl Ridley Dean Fast r S (size S - fails size filter): https://allegrolokalnie.pl/oferta/ridley-dean-fast-r-s-triathlon-rower-czasowy-itt
+# Scanned: ~220+ candidates across all sites. Matched all criteria: 1. Telegram sent: 0 (BLOCKED).
+# URGENT REMINDER: 6 previously confirmed listings still need MANUAL Telegram notification:
+#   https://www.olx.pl/d/oferta/nowy-rower-triathlonowy-felt-ia-2-0-expert-ultegra-di2-12s-super-cena-CID767-ID18RPS3.html (Felt IA 2.0 Expert Ultegra Di2)
+#   https://allegro.pl/oferta/rower-triathlonowy-ceepo-viper-28-r-l-shimano-105-di2-12s-czarny-14701067337 (Ceepo Viper Di2 czarny)
+#   https://allegro.pl/oferta/rower-specialized-shiv-s-works-rama-l-di2-13341249499 (Specialized Shiv S-Works L Di2)
+#   https://allegro.pl/oferta/rower-triathlonowy-ceepo-viper-28-r-l-shimano-105-di2-12s-niebieski-14701065624 (Ceepo Viper Di2 niebieski)
+#   https://www.olx.pl/d/oferta/pinarello-bolide-tt-rower-czasowy-triathlonowy-rama-l-CID767-ID10QusN.html (Pinarello Bolide TT L SRAM Red Quarq ⭐)
+#   https://allegrolokalnie.pl/oferta/rower-cervelo-p5-ps3 (Cervelo P5 56cm Ultegra Di2, Warszawa, ~€3,400)
