@@ -285,7 +285,7 @@ https://allegro.pl/oferta/rower-triathlonowy-ceepo-viper-28-r-l-shimano-105-di2-
 # NOTE: Telegram (api.telegram.org) remains persistently blocked by network egress policy.
 # REMINDER: 4 previously confirmed listings still need MANUAL Telegram notification:
 #   https://www.olx.pl/d/oferta/nowy-rower-triathlonowy-felt-ia-2-0-expert-ultegra-di2-12s-super-cena-CID767-ID18RPS3.html (Felt IA 2.0 Expert Ultegra Di2)
-#   https://allegro.pl/oferta/rower-triathlonowy-ceepo-viper-28-r-l-shimano-105-di2-12s-czarny-14701067337 (Ceepo Viper Di2 czarny)
+#   https://allegro.pl/oferta/rower-triathlonowy-ceepo-viper-28-r-l-shimano-105-di2-12s-niebieski-14701065624 (Ceepo Viper Di2 niebieski)
 #   https://allegro.pl/oferta/rower-specialized-shiv-s-works-rama-l-di2-13341249499 (Specialized Shiv S-Works L Di2)
 #   https://allegro.pl/oferta/rower-triathlonowy-ceepo-viper-28-r-l-shimano-105-di2-12s-niebieski-14701065624 (Ceepo Viper Di2 niebieski)
 # --- 2026-07-25 run (sixth) — 0 new confirmed matches ---
@@ -294,6 +294,18 @@ https://allegro.pl/oferta/rower-triathlonowy-ceepo-viper-28-r-l-shimano-105-di2-
 #   SS.lv 58cm carbon frame Shimano Di2 €1,690 (58cm outside 55-57cm range): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cfbgmj.html
 #   OLX.pl Canyon Speedmax CF (M) Di2 + Stages powermeter (M size, ~52-54cm, outside 55-57cm range): https://www.olx.pl/d/oferta/tt-canyon-speedmax-cf-m-di2-stages-powermeter-zipp-404-nsw-CID767-ID11GnQb.html
 # Scanned: ~110+ candidates across all sites. Matched all criteria: 0. Telegram sent: 0 (BLOCKED - api.telegram.org not in egress allowlist).
+# NOTE: Telegram (api.telegram.org) remains persistently blocked by network egress policy. 4 previously confirmed listings still need MANUAL Telegram notification.
+# REMINDER: Previously confirmed unalerted listings still need manual Telegram notification:
+#   https://www.olx.pl/d/oferta/nowy-rower-triathlonowy-felt-ia-2-0-expert-ultegra-di2-12s-super-cena-CID767-ID18RPS3.html (Felt IA 2.0 Expert Ultegra Di2)
+#   https://allegro.pl/oferta/rower-triathlonowy-ceepo-viper-28-r-l-shimano-105-di2-12s-czarny-14701067337 (Ceepo Viper Di2 czarny)
+#   https://allegro.pl/oferta/rower-specialized-shiv-s-works-rama-l-di2-13341249499 (Specialized Shiv S-Works L Di2)
+#   https://allegro.pl/oferta/rower-triathlonowy-ceepo-viper-28-r-l-shimano-105-di2-12s-niebieski-14701065624 (Ceepo Viper Di2 niebieski)
+# --- 2026-07-25 run (seventh) — 0 new confirmed matches ---
+# Sites checked: SS.lv (403 direct/web search only), OLX.pl (403 direct/web search only), Allegro.pl (403 direct/web search only), allegrolokalnie.pl (403 direct/web search only), Autoplius.lt (no bicycle matches), Osta.ee (no matches), Okidoki.ee (no matches), Andel.lv (no results), skelbiu.lt (403 direct/web search only)
+# Candidates found but could NOT confirm all filter criteria or failed:
+#   OLX.pl "rower carbonowy 56 triathlonowy tt czasowy profile design" (no Di2/SRAM Red confirmed in title, groupset unverifiable - 403): https://www.olx.pl/d/oferta/rower-carbonowy-56-traithlonowy-tt-czasowy-profile-design-CID767-IDuf6Qh.html
+#   skelbiu.lt Canyon Speedmax CF 9.0 Di2, Vilnius (size listed as ~58-61cm = outside 55-57cm range, direct URL unresolvable - 403)
+# Scanned: ~120+ candidates across all sites. Matched all criteria: 0. Telegram sent: 0 (BLOCKED - api.telegram.org not in egress allowlist).
 # NOTE: Telegram (api.telegram.org) remains persistently blocked by network egress policy. 4 previously confirmed listings still need MANUAL Telegram notification.
 # REMINDER: Previously confirmed unalerted listings still need manual Telegram notification:
 #   https://www.olx.pl/d/oferta/nowy-rower-triathlonowy-felt-ia-2-0-expert-ultegra-di2-12s-super-cena-CID767-ID18RPS3.html (Felt IA 2.0 Expert Ultegra Di2)
