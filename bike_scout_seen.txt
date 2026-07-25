@@ -301,7 +301,7 @@ https://allegro.pl/oferta/rower-triathlonowy-ceepo-viper-28-r-l-shimano-105-di2-
 #   https://allegro.pl/oferta/rower-specialized-shiv-s-works-rama-l-di2-13341249499 (Specialized Shiv S-Works L Di2)
 #   https://allegro.pl/oferta/rower-triathlonowy-ceepo-viper-28-r-l-shimano-105-di2-12s-niebieski-14701065624 (Ceepo Viper Di2 niebieski)
 # --- 2026-07-25 run (seventh) — 0 new confirmed matches ---
-# Sites checked: SS.lv (403 direct/web search only), OLX.pl (403 direct/web search only), Allegro.pl (403 direct/web search only), allegrolokalnie.pl (403 direct/web search only), Autoplius.lt (no bicycle matches), Osta.ee (no matches), Okidoki.ee (no matches), Andel.lv (no results), skelbiu.lt (403 direct/web search only)
+# Sites checked: SS.lv (403 direct/web search only), OLX.pl (403 direct/web search only), Allegro.pl (403 direct/web search only), allegrolokalnie.pl (403 direct/web search only), Autoplius.lt (no bicycle matches), Osta.ee (no matches), Okidoki.ee (no matches), Andel.lv (ENOTFOUND - site unreachable), skelbiu.lt (403 direct/web search only)
 # Candidates found but could NOT confirm all filter criteria or failed:
 #   OLX.pl "rower carbonowy 56 triathlonowy tt czasowy profile design" (no Di2/SRAM Red confirmed in title, groupset unverifiable - 403): https://www.olx.pl/d/oferta/rower-carbonowy-56-traithlonowy-tt-czasowy-profile-design-CID767-IDuf6Qh.html
 #   skelbiu.lt Canyon Speedmax CF 9.0 Di2, Vilnius (size listed as ~58-61cm = outside 55-57cm range, direct URL unresolvable - 403)
@@ -332,3 +332,18 @@ https://allegro.pl/oferta/rower-triathlonowy-ceepo-viper-28-r-l-shimano-105-di2-
 #   https://allegro.pl/oferta/rower-triathlonowy-ceepo-viper-28-r-l-shimano-105-di2-12s-czarny-14701067337 (Ceepo Viper Di2 czarny)
 #   https://allegro.pl/oferta/rower-specialized-shiv-s-works-rama-l-di2-13341249499 (Specialized Shiv S-Works L Di2)
 #   https://allegro.pl/oferta/rower-triathlonowy-ceepo-viper-28-r-l-shimano-105-di2-12s-niebieski-14701065624 (Ceepo Viper Di2 niebieski)
+# --- 2026-07-25 run (tenth) --- 1 NEW confirmed listing ---
+https://www.olx.pl/d/oferta/pinarello-bolide-tt-rower-czasowy-triathlonowy-rama-l-CID767-ID10QusN.html
+# NOTE: Telegram alerts BLOCKED — api.telegram.org not in network egress allowlist (curl exit 56). Manual review needed.
+# Listing details: Pinarello Bolide TT, full carbon, size L (~56cm), SRAM Red eTap AXS 1x12, Quarq dual-sided power meter ⭐, 23,900 PLN (~€5,500), Warszawa Bielany, Poland
+# Candidates found but could NOT confirm all filter criteria:
+#   SS.lv oxgmb TT carbon €450 (size/groupset unverifiable - 403): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/oxgmb.html
+#   allegro.pl Cervelo P-Series Ultegra Di2 (size unverifiable - 403): https://allegro.pl/oferta/cervelo-p-series-ultegra-di2-rower-triathlonowy-wh-9193420563
+#   SS.lv bdphlg Ripo TT €280, 59cm (fails size filter - 59cm > 57cm): https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdphlg.html
+# Scanned: ~150+ candidates across all sites. Matched all criteria: 1. Telegram sent: 0 (BLOCKED).
+# REMINDER: 5 previously confirmed listings still need MANUAL Telegram notification:
+#   https://www.olx.pl/d/oferta/nowy-rower-triathlonowy-felt-ia-2-0-expert-ultegra-di2-12s-super-cena-CID767-ID18RPS3.html (Felt IA 2.0 Expert Ultegra Di2)
+#   https://allegro.pl/oferta/rower-triathlonowy-ceepo-viper-28-r-l-shimano-105-di2-12s-czarny-14701067337 (Ceepo Viper Di2 czarny)
+#   https://allegro.pl/oferta/rower-specialized-shiv-s-works-rama-l-di2-13341249499 (Specialized Shiv S-Works L Di2)
+#   https://allegro.pl/oferta/rower-triathlonowy-ceepo-viper-28-r-l-shimano-105-di2-12s-niebieski-14701065624 (Ceepo Viper Di2 niebieski)
+#   https://www.olx.pl/d/oferta/pinarello-bolide-tt-rower-czasowy-triathlonowy-rama-l-CID767-ID10QusN.html (Pinarello Bolide TT L SRAM Red Quarq ⭐)
