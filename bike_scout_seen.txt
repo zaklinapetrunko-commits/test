@@ -118,3 +118,8 @@ https://allegrolokalnie.pl/oferta/planet-x-stealth-triathlon-tt-carbon
 2026-07-26 run (forty-first) - No new confirmed matches. Searched SS.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt. ~300+ candidates scanned, 0 passed all filter criteria. Telegram remains BLOCKED (41st consecutive blocked run).
 https://allegrolokalnie.pl/oferta/rower-triathlonowy-canyon-speedmax-cf-90-sl
 2026-07-26 run (forty-second) — 1 new match: Canyon Speedmax CF 9.0 SL size L Di2 ~1,635EUR Malbork Poland. Telegram BLOCKED (42nd consecutive blocked run). Sites: SS.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv (DNS fail), Skelbiu.lt. Scanned: 200+, Matched: 1, New: 1, Sent: 0.
+https://allegrolokalnie.pl/oferta/rower-triathlonowy-wilier-twin-blade-duraace-di2-l
+https://allegrolokalnie.pl/oferta/rower-triathlonowy-trek-speed-concept
+https://allegrolokalnie.pl/oferta/trek-speed-concept-project-one-czasowy-r-l-56
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cdpkon.html
+2026-07-26 run (forty-third) — 3 new confirmed + 1 tentative: Wilier Twin Blade DuraAce Di2 L Krakow ~€2,100; Trek Speed Concept Di2 L Kazimierz Biskupi ~€3,700; Trek Speed Concept Project One Dura-Ace Di2 L/56cm Banino ~€6,500; Specialized Shiv TT €2,500 SS.lv (size/groupset unverified). Telegram BLOCKED (43rd consecutive blocked run). Sites: SS.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Skelbiu.lt. Scanned: 200+, Matched: 4 (3 confirmed + 1 tentative), New: 4, Sent: 0.
