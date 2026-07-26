@@ -197,3 +197,17 @@ https://allegrolokalnie.pl/oferta/look-796-monoblade-rs-jak-nowy
 # Sites checked: SS.lv (403 direct), OLX.pl (403 direct), Allegro.pl (403 direct), AllegroLokalnie.pl (403 direct), Autoplius.lt (403 direct), Osta.ee (403 direct), Okidoki.ee (403 direct), Andel.lv (403 direct), Skelbiu.lt (403 direct) — all via web search.
 # Scanned: ~350+ candidates. Matched all criteria: 1. New: 1. Telegram sent: 0 (BLOCKED).
 2026-07-26 run (twenty-sixth) - 1 new match found: LOOK 796 Monoblade RS (allegrolokalnie, Krakow, 26500 PLN, size L, Ultegra Di2). Telegram BLOCKED.
+# --- 2026-07-26 run (twenty-seventh) — 0 new confirmed matches ---
+# Sites checked: SS.lv (403 direct/web search), OLX.pl (403 direct/web search), Allegro.pl (403 direct/web search), AllegroLokalnie.pl (403 direct/web search), Skelbiu.lt (403 direct/web search), Autoplius.lt (web search), Osta.ee (403/web search), Okidoki.ee (403/web search), Andel.lv (web search).
+# New URL candidates investigated: Stevens Super Trofeo TT L/56 OLX ID153N8N (Ultegra mechanical, fails Di2/SRAM Red criterion), Scott Plasma 2 OLX ID18Pri3 (older model, mechanical drivetrain, fails criterion), Felt DA4 Di2 allegrolokalnie (size 54, fails size criterion).
+# None confirmed to pass ALL criteria. Scanned: ~200+ candidates. Matched all: 0. New: 0. Telegram sent: 0 (BLOCKED).
+# NOTE: Telegram (api.telegram.org) STILL blocked on every run. Network egress allowlist fix required.
+# URGENT REMINDER: 7 previously confirmed listings still need MANUAL Telegram notification:
+#   https://allegrolokalnie.pl/oferta/look-796-monoblade-rs-jak-nowy (LOOK 796 Monoblade RS, Kraków, 26500 PLN, L, Ultegra Di2) — FOUND THIS RUN'S PREDECESSOR (26th run)
+#   https://www.olx.pl/d/oferta/nowy-rower-triathlonowy-felt-ia-2-0-expert-ultegra-di2-12s-super-cena-CID767-ID18RPS3.html (Felt IA 2.0 Expert Ultegra Di2 12s, rozmiar L, €4,500)
+#   https://allegro.pl/oferta/rower-triathlonowy-ceepo-viper-28-r-l-shimano-105-di2-12s-czarny-14701067337 (Ceepo Viper Di2 czarny)
+#   https://allegro.pl/oferta/rower-specialized-shiv-s-works-rama-l-di2-13341249499 (Specialized Shiv S-Works L Di2)
+#   https://allegro.pl/oferta/rower-triathlonowy-ceepo-viper-28-r-l-shimano-105-di2-12s-niebieski-14701065624 (Ceepo Viper Di2 niebieski)
+#   https://www.olx.pl/d/oferta/pinarello-bolide-tt-rower-czasowy-triathlonowy-rama-l-CID767-ID10QusN.html (Pinarello Bolide TT L SRAM Red Quarq)
+#   https://allegrolokalnie.pl/oferta/rower-cervelo-p5-ps3 (Cervelo P5 56cm Ultegra Di2, Warszawa, ~3400)
+2026-07-26 run (twenty-seventh) - No new matches. Searched all target sites. ~200+ candidates scanned, 0 passed all filter criteria. Telegram remains BLOCKED.
