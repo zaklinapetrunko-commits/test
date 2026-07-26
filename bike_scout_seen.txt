@@ -182,6 +182,9 @@ https://allegrolokalnie.pl/oferta/rower-cervelo-p5-ps3
 #   https://allegro.pl/oferta/rower-triathlonowy-ceepo-viper-28-r-l-shimano-105-di2-12s-niebieski-14701065624 (Ceepo Viper Di2 niebieski)
 #   https://www.olx.pl/d/oferta/pinarello-bolide-tt-rower-czasowy-triathlonowy-rama-l-CID767-ID10QusN.html (Pinarello Bolide TT L SRAM Red Quarq)
 #   https://allegrolokalnie.pl/oferta/rower-cervelo-p5-ps3 (Cervelo P5 56cm Ultegra Di2, Warszawa, ~3400)
-
-# --- 2026-07-26 run --- No new matches found ---
-2026-07-26T00:00:00Z - No new matches found. Searched: SS.lv (403), Autoplius.lt, Osta.ee (403), Okidoki.ee (403), Andel.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt. ~40 listings scanned, 0 passed filter, 0 new.
+# --- 2026-07-26T02:14:01Z run (twenty-fifth) — 0 new confirmed matches ---
+# Sites checked: SS.lv (403), OLX.pl (403), Allegro.pl (403), AllegroLokalnie.pl (403), Skelbiu.lt (403), Autoplius.lt, Osta.ee (403), Okidoki.ee (403), Andel.lv, OLX.pl.
+# New URL candidates investigated (not in seen list): Trek Speed Concept IDWDWW0 (OLX, specs unverifiable), Trek SC XL IDSIyfC (XL size — fails criteria), Trek SC M IDWUsjw (M size — fails criteria), SS.lv Scott Plasma bdffcn (size/groupset unverifiable, 1,000€).
+# None confirmed to pass ALL criteria. Scanned: ~250+ candidates. Matched all: 0. New: 0. Telegram sent: 0 (BLOCKED).
+# NOTE: Telegram (api.telegram.org) remains blocked. URGENT: above 6 listings still need MANUAL notification.
+2026-07-26T02:14:01Z - No new matches found. Searched: SS.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt. ~250 candidates scanned, 0 passed all filter criteria, 0 new confirmed.
