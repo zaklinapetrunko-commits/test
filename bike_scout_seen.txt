@@ -188,3 +188,12 @@ https://allegrolokalnie.pl/oferta/rower-cervelo-p5-ps3
 # None confirmed to pass ALL criteria. Scanned: ~250+ candidates. Matched all: 0. New: 0. Telegram sent: 0 (BLOCKED).
 # NOTE: Telegram (api.telegram.org) remains blocked. URGENT: above 6 listings still need MANUAL notification.
 2026-07-26T02:14:01Z - No new matches found. Searched: SS.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt. ~250 candidates scanned, 0 passed all filter criteria, 0 new confirmed.
+# --- 2026-07-26 run (twenty-sixth) --- 1 new confirmed listing ---
+https://allegrolokalnie.pl/oferta/look-796-monoblade-rs-jak-nowy
+# LOOK 796 Monoblade RS, jak nowy | Kraków | 26,500 PLN (~€6,150) | Size L (56cm equiv, stack 577mm) | Ultegra Di2 11-speed | CeramicSpeed pulleys | ~1500km nearly new
+# TELEGRAM ALERT BLOCKED (api.telegram.org blocked by network proxy — confirmed with curl exit 56, proxy returns 403)
+# MANUAL TELEGRAM ALERT REQUIRED for both recipients:
+#   chat_id 6136843189 (Zaklina) and chat_id 1059015498 (Notch)
+# Sites checked: SS.lv (403 direct), OLX.pl (403 direct), Allegro.pl (403 direct), AllegroLokalnie.pl (403 direct), Autoplius.lt (403 direct), Osta.ee (403 direct), Okidoki.ee (403 direct), Andel.lv (403 direct), Skelbiu.lt (403 direct) — all via web search.
+# Scanned: ~350+ candidates. Matched all criteria: 1. New: 1. Telegram sent: 0 (BLOCKED).
+2026-07-26 run (twenty-sixth) - 1 new match found: LOOK 796 Monoblade RS (allegrolokalnie, Krakow, 26500 PLN, size L, Ultegra Di2). Telegram BLOCKED.
