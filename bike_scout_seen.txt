@@ -430,3 +430,32 @@ https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cdhhpc.html
 https://www.olx.pl/oferta/rower-triathlonowy-felt-b14-rozmiar-56-z-rama-karbonowa-doinwestowany-CID767-IDGF638.html
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/gfimp.html
 2026-07-26 run (thirty-seventh) - No new confirmed matches. Searched SS.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt. ~300+ candidates scanned, 0 passed all filter criteria. Telegram remains BLOCKED (37th consecutive blocked run).
+# --- 2026-07-26 run (thirty-eighth) — 0 new confirmed matches ---
+# Sites checked: SS.lv (web search), OLX.pl (web search), Allegro.pl (web search), AllegroLokalnie.pl (web search), Autoplius.lt (web search — no relevant results), Osta.ee (no results), Okidoki.ee (no results), Andel.lv (no results), Skelbiu.lt (web search).
+# New URL candidates investigated this run:
+#   OLX IDtXOyT Argon 18 E-112 tri carbon Shimano (Poznań) — Shimano Ultegra 6800 MECHANICAL groupset, FAILS groupset criterion (not Di2/SRAM Red)
+#   OLX IDtfjeW Argon 18 E-117 tri carbon Shimano 3T (Poznań) — Shimano 105 MECHANICAL, size M (54cm), 9,490 PLN — FAILS size AND groupset criteria
+#   SS.lv biicei — Giant TCR Advanced 1+ Di2 2024 (M/ML), 1,800€ — ROAD bike (TCR = race road), NOT triathlon/TT, FAILS type criterion
+#   SS.lv bpdhxh — Time NXR carbon "Pilna Di-2" 1,000€ — Time NXR is a road bike (endurance/race), NOT TT/triathlon, FAILS type criterion
+#   SS.lv bpdxkk — Liv Langma by Giant carbon ~900€ — Liv Langma is women's road bike, NOT triathlon, FAILS type criterion
+#   SS.lv oxgmb — TT velosipēds 450€ with "full shifters" — budget/old TT, likely mechanical, FAILS groupset criterion (likely not Di2 at €450)
+#   SS.lv bdlgbg — M size triatlona velosipēds 1,100€ aluminum — FAILS size + material + groupset criteria
+# None confirmed to pass ALL criteria. Scanned: ~300+ candidates. Matched all: 0. New: 0. Telegram sent: 0 (BLOCKED — proxy 403 confirmed by curl -v).
+# CRITICAL NOTE: Telegram (api.telegram.org) blocked on EVERY run since 2026-06-19 (38+ runs). MUST add api.telegram.org to network egress allowlist URGENTLY.
+# URGENT REMINDER: 8 previously confirmed listings still need MANUAL Telegram notification:
+#   https://allegrolokalnie.pl/oferta/cervelo-px-sram-red-axs-zipp-l56 (Cervélo PX SRAM Red AXS Zipp, Warszawa, 31,900 PLN ~€7,500, L/56)
+#   https://allegrolokalnie.pl/oferta/look-796-monoblade-rs-jak-nowy (LOOK 796 Monoblade RS, Kraków, 26,500 PLN, L, Ultegra Di2)
+#   https://www.olx.pl/d/oferta/nowy-rower-triathlonowy-felt-ia-2-0-expert-ultegra-di2-12s-super-cena-CID767-ID18RPS3.html (Felt IA 2.0 Expert Ultegra Di2 12s, rozmiar L, €4,500)
+#   https://allegro.pl/oferta/rower-triathlonowy-ceepo-viper-28-r-l-shimano-105-di2-12s-czarny-14701067337 (Ceepo Viper Di2 czarny)
+#   https://allegro.pl/oferta/rower-specialized-shiv-s-works-rama-l-di2-13341249499 (Specialized Shiv S-Works L Di2)
+#   https://allegro.pl/oferta/rower-triathlonowy-ceepo-viper-28-r-l-shimano-105-di2-12s-niebieski-14701065624 (Ceepo Viper Di2 niebieski)
+#   https://www.olx.pl/d/oferta/pinarello-bolide-tt-rower-czasowy-triathlonowy-rama-l-CID767-ID10QusN.html (Pinarello Bolide TT L SRAM Red Quarq)
+#   https://allegrolokalnie.pl/oferta/rower-cervelo-p5-ps3 (Cervelo P5 56cm Ultegra Di2, Warszawa, ~3400)
+https://www.olx.pl/oferta/rower-szosowy-szosa-argon-18-e-112-tri-carbon-shimano-triathlon-CID767-IDtXOyT.html
+https://www.olx.pl/oferta/szosa-argon-18-e-117-tri-carbon-shimano-triathlon-czasowy-3t-CID767-IDtfjeW.html
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/biicei.html
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bpdhxh.html
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bpdxkk.html
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/oxgmb.html
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdlgbg.html
+2026-07-26 run (thirty-eighth) - No new confirmed matches. Searched SS.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt. ~300+ candidates scanned, 0 passed all filter criteria. Telegram remains BLOCKED (proxy 403, 38th consecutive blocked run).
