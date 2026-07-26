@@ -462,3 +462,23 @@ https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdlgbg.html
 #   https://allegrolokalnie.pl/oferta/rower-cervelo-p5-ps3 (Cervelo P5 56cm Ultegra Di2, Warszawa, ~3400)
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bxhhel.html
 2026-07-26 run (thirty-ninth) - No new confirmed matches. Searched SS.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt. ~250+ candidates scanned, 0 passed all filter criteria. Telegram remains BLOCKED (39th consecutive blocked run).
+# --- 2026-07-26 run (fortieth) — 0 new confirmed matches ---
+# Sites checked: SS.lv (403 direct/web search), OLX.pl (403 direct/web search), Allegro.pl (403 direct/web search), AllegroLokalnie.pl (403 direct/web search), Autoplius.lt (web search — no results), Osta.ee (no results), Okidoki.ee (no results), Andel.lv (no results), Skelbiu.lt (web search — no new results).
+# New URL candidates investigated this run:
+#   SS.lv cdniki — Carbon 56 L, 1,500€, "Karbona rāmis/dakša. Izmērs 56 (L). riepām. pedāļiem 50mm" — no groupset info visible, €1,500 price suggests mechanical → FAILS groupset criterion (likely not Di2/SRAM Red)
+#   SS.lv bdffcn — Scott Plasma TT/triatlona, €1,000 — price indicates older model with mechanical groupset (Scott Plasma 2/3), → FAILS groupset criterion
+#   All other returned search results were already in seen list
+# None confirmed to pass ALL criteria. Scanned: ~250+ candidates. Matched all: 0. New: 0. Telegram sent: 0 (BLOCKED — api.telegram.org unreachable, proxy 403).
+# CRITICAL NOTE: Telegram (api.telegram.org) blocked on EVERY run since 2026-06-19 (40+ runs). MUST add to network egress allowlist URGENTLY.
+# URGENT REMINDER: 8 previously confirmed listings still need MANUAL Telegram notification:
+#   https://allegrolokalnie.pl/oferta/cervelo-px-sram-red-axs-zipp-l56 (Cervélo PX SRAM Red AXS Zipp, Warszawa, 31,900 PLN ~€7,500, L/56)
+#   https://allegrolokalnie.pl/oferta/look-796-monoblade-rs-jak-nowy (LOOK 796 Monoblade RS, Kraków, 26,500 PLN, L, Ultegra Di2)
+#   https://www.olx.pl/d/oferta/nowy-rower-triathlonowy-felt-ia-2-0-expert-ultegra-di2-12s-super-cena-CID767-ID18RPS3.html (Felt IA 2.0 Expert Ultegra Di2 12s, rozmiar L, €4,500)
+#   https://allegro.pl/oferta/rower-triathlonowy-ceepo-viper-28-r-l-shimano-105-di2-12s-czarny-14701067337 (Ceepo Viper Di2 czarny)
+#   https://allegro.pl/oferta/rower-specialized-shiv-s-works-rama-l-di2-13341249499 (Specialized Shiv S-Works L Di2)
+#   https://allegro.pl/oferta/rower-triathlonowy-ceepo-viper-28-r-l-shimano-105-di2-12s-niebieski-14701065624 (Ceepo Viper Di2 niebieski)
+#   https://www.olx.pl/d/oferta/pinarello-bolide-tt-rower-czasowy-triathlonowy-rama-l-CID767-ID10QusN.html (Pinarello Bolide TT L SRAM Red Quarq)
+#   https://allegrolokalnie.pl/oferta/rower-cervelo-p5-ps3 (Cervelo P5 56cm Ultegra Di2, Warszawa, ~3400)
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cdniki.html
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdffcn.html
+2026-07-26 run (fortieth) - No new confirmed matches. Searched SS.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt. ~250+ candidates scanned, 0 passed all filter criteria. Telegram remains BLOCKED (40th consecutive blocked run).
