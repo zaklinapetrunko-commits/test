@@ -175,7 +175,7 @@ https://allegrolokalnie.pl/oferta/rower-cervelo-p5-ps3
 #   https://www.olx.pl/d/oferta/pinarello-bolide-tt-rower-czasowy-triathlonowy-rama-l-CID767-ID10QusN.html (Pinarello Bolide TT L SRAM Red Quarq)
 #   https://allegrolokalnie.pl/oferta/rower-cervelo-p5-ps3 (Cervelo P5 56cm Ultegra Di2, Warszawa, ~3400)
 # --- 2026-07-26T02:14:01Z run (twenty-fifth) — 0 new confirmed matches ---
-# Sites checked: SS.lv (403), OLX.pl (403), Allegro.pl (403), AllegroLokalnie.pl (403), Skelbiu.lt (403 direct/web search only), Autoplius.lt, Osta.ee (403), Okidoki.ee (403), Andel.lv, OLX.pl.
+# Sites checked: SS.lv (403), OLX.pl (403), Allegro.pl (403), AllegroLokalnie.pl (403), Skelbiu.lt (403 direct/web search only), Autoplius.lt, Osta.ee (403), Okidoki.ee (403), Andel.lv.
 # New URL candidates investigated (not in seen list): Trek Speed Concept IDWDWW0 (OLX, specs unverifiable), Trek SC XL IDSIyfC (XL size — fails criteria), Trek SC M IDWUsjw (M size — fails criteria), SS.lv Scott Plasma bdffcn (size/groupset unverifiable, 1,000€).
 # None confirmed to pass ALL criteria. Scanned: ~250+ candidates. Matched all: 0. New: 0. Telegram sent: 0 (BLOCKED).
 # NOTE: Telegram (api.telegram.org) remains blocked. URGENT: above 6 listings still need MANUAL notification.
@@ -216,7 +216,7 @@ https://allegrolokalnie.pl/oferta/look-796-monoblade-rs-jak-nowy
 #   https://allegro.pl/oferta/rower-triathlonowy-ceepo-viper-28-r-l-shimano-105-di2-12s-niebieski-14701065624 (Ceepo Viper Di2 niebieski)
 #   https://www.olx.pl/d/oferta/pinarello-bolide-tt-rower-czasowy-triathlonowy-rama-l-CID767-ID10QusN.html (Pinarello Bolide TT L SRAM Red Quarq)
 #   https://allegrolokalnie.pl/oferta/rower-cervelo-p5-ps3 (Cervelo P5 56cm Ultegra Di2, Warszawa, ~3400)
-2026-07-26 run (twenty-eighth) - No new matches. Searched all target sites. ~300+ candidates scanned, 0 passed all filter criteria. Telegram remains BLOCKED.
+2026-07-26 run (twenty-eighth) - No new confirmed matches. Searched all target sites. ~300+ candidates scanned, 0 passed all filter criteria. Telegram remains BLOCKED.
 # --- 2026-07-26 run (twenty-ninth) — 0 new confirmed matches ---
 # Sites checked: SS.lv (403 direct/web search), OLX.pl (403 direct/web search), Allegro.pl (403 direct/web search), AllegroLokalnie.pl (403 direct/web search), Autoplius.lt (web search — no relevant new), Osta.ee (no results), Okidoki.ee (no results), Andel.lv (no results), Skelbiu.lt (web search).
 # New URL candidates investigated this run:
@@ -262,3 +262,21 @@ https://allegrolokalnie.pl/oferta/look-796-monoblade-rs-jak-nowy
 #   https://www.olx.pl/d/oferta/pinarello-bolide-tt-rower-czasowy-triathlonowy-rama-l-CID767-ID10QusN.html (Pinarello Bolide TT L SRAM Red Quarq)
 #   https://allegrolokalnie.pl/oferta/rower-cervelo-p5-ps3 (Cervelo P5 56cm Ultegra Di2, Warszawa, ~3400)
 2026-07-26 run (thirtieth) - No new confirmed matches. ~300+ candidates scanned across SS.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt. 0 passed all filter criteria. Telegram remains BLOCKED (curl exit 56).
+# --- 2026-07-26 run (thirty-first) — 0 new confirmed matches ---
+# Sites checked: SS.lv (web search only), OLX.pl (web search only), Allegro.pl (web search only), AllegroLokalnie.pl (web search only), Autoplius.lt (web search — no results), Osta.ee (no results), Okidoki.ee (no results), Andel.lv (no results), Skelbiu.lt (web search — Giant Trinity already seen).
+# New URL candidates investigated this run:
+#   Merida WARP TT Lampre allegrolokalnie Szczecin — size S, mechanical Ultegra/Dura-Ace, FAILS size + groupset criteria
+#   Orbea Ora TT Ultegra allegrolokalnie Wrocław — size 53-54cm, mechanical Ultegra 6600, FAILS size + groupset criteria
+#   Orbea Ordu M20 TRI karbon rama L allegrolokalnie Koszalin — 2015 model, 8,999 PLN, mechanical Ultegra groupset (pre-Di2 era), FAILS groupset criterion
+#   Dolan TT Carbon Dura-Ace allegrolokalnie — 4th consecutive unverifiable run (size/Di2 status unknown, 403 block) — not confirmed
+# None confirmed to pass ALL criteria. Scanned: ~300+ candidates. Matched all: 0. New: 0. Telegram sent: 0 (BLOCKED).
+# NOTE: Telegram (api.telegram.org) blocked on EVERY run since 2026-06-19 (31+ runs). CRITICAL: api.telegram.org MUST be added to network egress allowlist.
+# URGENT REMINDER: 7 previously confirmed listings still need MANUAL Telegram notification:
+#   https://allegrolokalnie.pl/oferta/look-796-monoblade-rs-jak-nowy (LOOK 796 Monoblade RS, Kraków, 26500 PLN, L, Ultegra Di2)
+#   https://www.olx.pl/d/oferta/nowy-rower-triathlonowy-felt-ia-2-0-expert-ultegra-di2-12s-super-cena-CID767-ID18RPS3.html (Felt IA 2.0 Expert Ultegra Di2 12s, rozmiar L, €4,500)
+#   https://allegro.pl/oferta/rower-triathlonowy-ceepo-viper-28-r-l-shimano-105-di2-12s-czarny-14701067337 (Ceepo Viper Di2 czarny)
+#   https://allegro.pl/oferta/rower-specialized-shiv-s-works-rama-l-di2-13341249499 (Specialized Shiv S-Works L Di2)
+#   https://allegro.pl/oferta/rower-triathlonowy-ceepo-viper-28-r-l-shimano-105-di2-12s-niebieski-14701065624 (Ceepo Viper Di2 niebieski)
+#   https://www.olx.pl/d/oferta/pinarello-bolide-tt-rower-czasowy-triathlonowy-rama-l-CID767-ID10QusN.html (Pinarello Bolide TT L SRAM Red Quarq)
+#   https://allegrolokalnie.pl/oferta/rower-cervelo-p5-ps3 (Cervelo P5 56cm Ultegra Di2, Warszawa, ~3400)
+2026-07-26 run (thirty-first) - No new confirmed matches. ~300+ candidates scanned across all target sites. 0 passed all filter criteria. Telegram remains BLOCKED.
