@@ -516,3 +516,16 @@ https://allegrolokalnie.pl/oferta/rower-cervelo-p5-ps3
 #   https://allegro.pl/oferta/rower-triathlonowy-ceepo-viper-28-r-l-shimano-105-di2-12s-niebieski-14701065624 (Ceepo Viper Di2 niebieski)
 #   https://www.olx.pl/d/oferta/pinarello-bolide-tt-rower-czasowy-triathlonowy-rama-l-CID767-ID10QusN.html (Pinarello Bolide TT L SRAM Red Quarq ⭐)
 #   https://allegrolokalnie.pl/oferta/rower-cervelo-p5-ps3 (Cervelo P5 56cm Ultegra Di2, Warszawa, ~€3,400)
+# --- 2026-07-26 run (twenty-fourth) — 0 new confirmed matches ---
+# Sites checked: SS.lv (403 direct/web search only), OLX.pl (403 direct/web search only), Allegro.pl (403 direct/web search only), allegrolokalnie.pl (403 direct/web search only), Autoplius.lt (403 direct), Osta.ee (403 direct), Andel.lv (DNS not found), skelbiu.lt (403 direct/web search only)
+# Candidates found but all already in seen list or failed filter criteria.
+# Scanned: ~300+ candidates across all sites. Matched all criteria: 0. New: 0. Telegram sent: 0 (BLOCKED - api.telegram.org not in egress allowlist).
+# NOTE: Telegram (api.telegram.org) remains persistently blocked by network egress policy.
+# PERSISTENT NOTE: Telegram has been blocked on every run since 2026-06-19. api.telegram.org must be added to network egress allowlist for alerts to work.
+# URGENT REMINDER: 6 previously confirmed listings still need MANUAL Telegram notification:
+#   https://www.olx.pl/d/oferta/nowy-rower-triathlonowy-felt-ia-2-0-expert-ultegra-di2-12s-super-cena-CID767-ID18RPS3.html (Felt IA 2.0 Expert Ultegra Di2)
+#   https://allegro.pl/oferta/rower-triathlonowy-ceepo-viper-28-r-l-shimano-105-di2-12s-czarny-14701067337 (Ceepo Viper Di2 czarny)
+#   https://allegro.pl/oferta/rower-specialized-shiv-s-works-rama-l-di2-13341249499 (Specialized Shiv S-Works L Di2)
+#   https://allegro.pl/oferta/rower-triathlonowy-ceepo-viper-28-r-l-shimano-105-di2-12s-niebieski-14701065624 (Ceepo Viper Di2 niebieski)
+#   https://www.olx.pl/d/oferta/pinarello-bolide-tt-rower-czasowy-triathlonowy-rama-l-CID767-ID10QusN.html (Pinarello Bolide TT L SRAM Red Quarq ⭐)
+#   https://allegrolokalnie.pl/oferta/rower-cervelo-p5-ps3 (Cervelo P5 56cm Ultegra Di2, Warszawa, ~€3,400)
