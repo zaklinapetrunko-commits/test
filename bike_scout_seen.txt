@@ -482,3 +482,32 @@ https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bxhhel.html
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cdniki.html
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdffcn.html
 2026-07-26 run (fortieth) - No new confirmed matches. Searched SS.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt. ~250+ candidates scanned, 0 passed all filter criteria. Telegram remains BLOCKED (40th consecutive blocked run).
+# --- 2026-07-26 run (forty-first) — 0 new confirmed matches ---
+# Sites checked: SS.lv (403 direct/web search), OLX.pl (403 direct/web search), Allegro.pl (403 direct/web search), AllegroLokalnie.pl (403 direct/web search), Autoplius.lt (web search — no relevant results), Osta.ee (no results), Okidoki.ee (no results), Andel.lv (no results), Skelbiu.lt (web search).
+# New URL candidates investigated this run:
+#   Cervelo P5 Disc Ultegra Di2 2020 allegrolokalnie Gzy — size UNVERIFIABLE (403 block, no search snippet), added to seen list
+#   Trek Speed Concept XL Di2 OLX IDSIyfC Swarzędz — confirmed size XL (186-198cm), FAILS size criterion
+#   Giant Liv Avow Advanced Pro 1 allegrolokalnie Warszawa — confirmed size M, FAILS size criterion
+#   Scott Plasma 20 allegrolokalnie Bydgoszcz — mechanical groupset (previously noted run 27), FAILS groupset criterion
+#   Argon 18 Krypton KR36 allegrolokalnie Warszawa — size S + Ultegra 6700 mechanical, FAILS size + groupset criteria
+#   Planet X Stealth allegrolokalnie Rzeszów — size 52cm + mechanical groupset, FAILS size + groupset criteria
+#   Planet X Stealth triathlon TT carbon allegrolokalnie Gostyń — no Di2/SRAM Red (mechanical), FAILS groupset criterion
+# None confirmed to pass ALL criteria. Scanned: ~300+ candidates. Matched all: 0. New: 0. Telegram sent: 0 (BLOCKED — api.telegram.org unreachable, proxy 403).
+# CRITICAL NOTE: Telegram (api.telegram.org) blocked on EVERY run since 2026-06-19 (41+ runs). MUST add api.telegram.org to network egress allowlist URGENTLY.
+# URGENT REMINDER: 8 previously confirmed listings still need MANUAL Telegram notification:
+#   https://allegrolokalnie.pl/oferta/cervelo-px-sram-red-axs-zipp-l56 (Cervélo PX SRAM Red AXS Zipp, Warszawa, 31,900 PLN ~€7,500, L/56)
+#   https://allegrolokalnie.pl/oferta/look-796-monoblade-rs-jak-nowy (LOOK 796 Monoblade RS, Kraków, 26,500 PLN, L, Ultegra Di2)
+#   https://www.olx.pl/d/oferta/nowy-rower-triathlonowy-felt-ia-2-0-expert-ultegra-di2-12s-super-cena-CID767-ID18RPS3.html (Felt IA 2.0 Expert Ultegra Di2 12s, rozmiar L, €4,500)
+#   https://allegro.pl/oferta/rower-triathlonowy-ceepo-viper-28-r-l-shimano-105-di2-12s-czarny-14701067337 (Ceepo Viper Di2 czarny)
+#   https://allegro.pl/oferta/rower-specialized-shiv-s-works-rama-l-di2-13341249499 (Specialized Shiv S-Works L Di2)
+#   https://allegro.pl/oferta/rower-triathlonowy-ceepo-viper-28-r-l-shimano-105-di2-12s-niebieski-14701065624 (Ceepo Viper Di2 niebieski)
+#   https://www.olx.pl/d/oferta/pinarello-bolide-tt-rower-czasowy-triathlonowy-rama-l-CID767-ID10QusN.html (Pinarello Bolide TT L SRAM Red Quarq)
+#   https://allegrolokalnie.pl/oferta/rower-cervelo-p5-ps3 (Cervelo P5 56cm Ultegra Di2, Warszawa, ~3400)
+https://allegrolokalnie.pl/oferta/cervelo-p5-disc-ultegra-di2-2020-rok-gzy
+https://www.olx.pl/d/oferta/trek-speed-concept-xl-di2-tt-triathlon-karbon-CID767-IDSIyfC.html
+https://allegrolokalnie.pl/oferta/rower-triathlonowy-giant-liv-avow-advanced-pro-1-m-rower-czasowy
+https://allegrolokalnie.pl/oferta/rower-triathlonowy-czasowy-scott-plasma-20
+https://allegrolokalnie.pl/oferta/rower-czasowy-tt-triathlonowy-szosa-argon-18
+https://allegrolokalnie.pl/oferta/planet-x-stealth-rower-czasowytriathlonowytt
+https://allegrolokalnie.pl/oferta/planet-x-stealth-triathlon-tt-carbon
+2026-07-26 run (forty-first) - No new confirmed matches. Searched SS.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt. ~300+ candidates scanned, 0 passed all filter criteria. Telegram remains BLOCKED (41st consecutive blocked run).
