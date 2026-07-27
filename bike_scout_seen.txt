@@ -147,7 +147,6 @@ https://allegrolokalnie.pl/oferta/scott-plasma-premium
 https://allegrolokalnie.pl/oferta/rower-czasowy-triathlon-fuji-norcom-straight-1-3-d
 https://allegrolokalnie.pl/oferta/rower-czasowy-fuji-norcom-straight-13-triathlon
 https://allegrolokalnie.pl/oferta/scott-plasma-3-premium-carbon-triathlon-szosowy
-https://allegrolokalnie.pl/oferta/rower-czasowy-triathlon-karbon-orbea-ora-tt-ultegr
 https://allegrolokalnie.pl/oferta/rower-orbea-ordu-m20-czasowy-tri-karbon-rama-l
 https://allegrolokalnie.pl/oferta/rower-trathlonowy-tt-czasowy-triathlon-full-carbon
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cfbgmj.html
@@ -219,3 +218,4 @@ https://allegrolokalnie.pl/oferta/rower-triathlonowy-kestrel
 https://allegrolokalnie.pl/oferta/rower-triathlonowy-bh-aerolight-rc-full-carbon
 https://www.ss.com/msg/lv/transport/bycycles/highway-sports/cenecb.html
 2026-07-27 run (sixty-third) — Direct site access BLOCKED (403 from egress proxy). WebSearch used as fallback. 2 new URLs found, both rejected: AllegroLokalnie BH Aerolight RC Full Carbon Marki 5,000 PLN (REJECTED — Shimano 105 mechanical, size 55cm, wrong groupset); SS.com cenecb Cannondale Topstone Carbon 3 2026 €1,650 (REJECTED — gravel bike, not TT/triathlon). 0 confirmed matches passed all filter criteria. Telegram BLOCKED (63rd consecutive blocked run, api.telegram.org returns 403 via egress proxy — CRITICAL: Telegram has not delivered a single alert in 63 consecutive runs; api.telegram.org must be whitelisted in network egress policy). Sites: SS.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt. Scanned (via WebSearch): ~200+ refs, Matched: 0 confirmed, New: 0 confirmed, Sent: 0.
+2026-07-27 run (sixty-fourth) — Direct site access BLOCKED (403 from egress proxy). WebSearch used as fallback. No new URLs found that are not already in the seen list. All search results returned either category pages, already-seen listings, or bikes failing filter criteria. 0 confirmed matches passed all filter criteria. Telegram BLOCKED (64th consecutive blocked run, api.telegram.org returns 403 via egress proxy — CRITICAL: Telegram has not delivered a single alert in 64 consecutive runs). Sites: SS.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt. Scanned (via WebSearch): ~200+ refs, Matched: 0 confirmed, New: 0 confirmed, Sent: 0.
