@@ -146,3 +146,13 @@ https://allegrolokalnie.pl/oferta/rower-triathlonowy-specialized-shiv-pro-rxs-di
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cendeb.html
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cdkxli.html
 2026-07-27 run (forty-ninth) — Direct site access BLOCKED (403 from egress proxy). WebSearch used as fallback. 4 new URLs found: Specialized Shiv Pro XS Di2 Malbork (REJECTED — XS size fails filter); SS.lv cdkxli TT 54cm €480 (REJECTED — 54cm fails 55–57cm range); SS.lv cendeb Felt B14 carbon €950 (unverified — size/groupset unknown, B14 can come with Di2 but likely not at €950); AllegroLokalnie Specialized Shiv PomiarMocy+CeramicSpeed Miękowo ~10,100 PLN (~€2,360) (unverified — size/groupset not confirmed from search results; could be L with Di2 — needs direct page check). 0 listings confirmed to pass all filter criteria. Telegram BLOCKED (49th consecutive blocked run, api.telegram.org returns 403 via egress proxy). Sites: SS.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt. Scanned (via WebSearch): ~100+ refs, Matched: 0 confirmed, New: 0 confirmed (2 unverified), Sent: 0.
+https://allegrolokalnie.pl/oferta/rower-czasowy-triathlon-fuji-norcom-1-3-di2-55
+https://allegrolokalnie.pl/oferta/scott-plasma-premium
+https://allegrolokalnie.pl/oferta/rower-czasowy-triathlon-fuji-norcom-straight-1-3-d
+https://allegrolokalnie.pl/oferta/rower-czasowy-fuji-norcom-straight-13-triathlon
+https://allegrolokalnie.pl/oferta/scott-plasma-3-premium-carbon-triathlon-szosowy
+https://allegrolokalnie.pl/oferta/rower-czasowy-triathlon-karbon-orbea-ora-tt-ultegr
+https://allegrolokalnie.pl/oferta/rower-orbea-ordu-m20-czasowy-tri-karbon-rama-l
+https://allegrolokalnie.pl/oferta/rower-trathlonowy-tt-czasowy-triathlon-full-carbon
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cfbgmj.html
+2026-07-27 run (fiftieth) — Direct site access BLOCKED (403 from egress proxy). WebSearch used as fallback. 1 CONFIRMED NEW MATCH: Fuji Norcom Straight 1.3 Di2 (55) Toruń 11,500 PLN (~€2,650) — carbon frame, 55cm, Shimano Ultegra Di2, TT/triathlon — https://allegrolokalnie.pl/oferta/rower-czasowy-triathlon-fuji-norcom-1-3-di2-55. 1 UNVERIFIED: Scott Plasma Premium Warsaw 25,000 PLN (~€5,750) Dura-Ace Di2 Zipp wheels — size unknown — https://allegrolokalnie.pl/oferta/scott-plasma-premium. 7 other new URLs evaluated and rejected (wrong size or groupset). Telegram BLOCKED (50th consecutive blocked run, api.telegram.org returns 403 via egress proxy). Sites: SS.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt. Scanned (via WebSearch): ~150+ refs, Matched: 1 confirmed + 1 unverified, New: 1 confirmed, Sent: 0.
