@@ -168,7 +168,7 @@ https://www.olx.pl/d/oferta/nowy-rower-orbea-ordu-m30i-ltd-2023-di2-poznan-triat
 https://www.ss.com/msg/lv/transport/bycycles/highway-sports/bxegpi.html
 https://www.ss.com/msg/lv/transport/bycycles/highway-sports/bdlgbg.html
 https://www.ss.com/msg/lv/transport/bycycles/highway-sports/oxgmb.html
-https://www.olx.pl/d/oferta/rower-czasowy-triathlonowy-tt-guerciotti-crux-tt-r56-CID767-ID15wDjd.html
+https://www.olx.pl/d/oferta/rower-czasowy-triathlonowy-tt-scott-plasma-2-kola-ffwd-carbon-CID767-ID18Pri3.html
 https://allegrolokalnie.pl/oferta/canyon-ultimate-cf-slx-l-58cm-carbon-ultegra-di2
 https://allegrolokalnie.pl/oferta/rondo-ruut-cf0-di2-gravel-56-l-jak-nowy-karbon
 2026-07-27 run (fifty-fifth) — Direct site access BLOCKED. WebSearch fallback. 6 new URLs, all rejected. Telegram BLOCKED (55th). Scanned: ~120+ refs, Matched: 0, New: 0, Sent: 0.
@@ -286,3 +286,4 @@ https://www.olx.pl/d/oferta/nowy-rower-triathlonowy-felt-ia-2-0-expert-ultegra-d
 https://allegrolokalnie.pl/oferta/look-796-monoblade-rs-jak-nowy
 https://allegrolokalnie.pl/oferta/rower-triathlonowy-felt-da1-rozmiar-54
 2026-07-28 run (eighty-ninth) — Direct site access BLOCKED (403 from egress proxy). WebSearch fallback. 2 new URLs found: (1) LOOK 796 Monoblade RS Kraków AllegroLokalnie 26,500 PLN (~€6,160) Ultegra Di2 L/XL — UNVERIFIED on size (L/XL borderline, may be 56-58cm); (2) Felt DA1 rozmiar 54 REJECTED (fails size filter <55cm). 0 confirmed new matches. Telegram BLOCKED (89th consecutive blocked run — CRITICAL: api.telegram.org must be whitelisted in network egress allowlist; no alerts have been delivered in 89 consecutive runs). Sites: SS.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt. Scanned (via WebSearch): ~300+ refs, Matched: 0 confirmed (1 unverified), New: 0, Sent: 0 (Telegram blocked).
+2026-07-28 run (ninetieth) — Direct site access BLOCKED (403 from egress proxy). WebSearch fallback. No new URLs found — all search results returned previously-seen listings or general category pages. 0 confirmed new matches. Telegram BLOCKED (90th consecutive blocked run — CRITICAL: api.telegram.org must be whitelisted in network egress allowlist; no alerts have been delivered in 90 consecutive runs). Sites: SS.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt. Scanned (via WebSearch): ~300+ refs, Matched: 0, New: 0, Sent: 0 (Telegram blocked).
