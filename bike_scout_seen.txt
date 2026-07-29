@@ -246,7 +246,7 @@ https://www.olx.pl/d/oferta/rower-triathlonowe-fuji-aloha-one-1-56-m-l-gotowy-na
 https://www.olx.pl/d/oferta/nowy-rower-szosowy-mmr-aelion-sl-team-carbon-ultegra-di2-2x12-2026-raty-0-CID767-ID1atcuK.html
 https://allegro.pl/oferta/cervelo-s5-ultegra-di2-carnelian-rower-szosowy-model-2026-rozm-56-18034724482
 2026-07-28 run (seventy-third) — Direct site access BLOCKED. WebSearch fallback. 7 new URLs, all rejected. Telegram BLOCKED (73rd). Scanned: ~300+ refs, Matched: 0, New: 0, Sent: 0.
-2026-07-28 run (seventy-fourth) — Direct site access BLOCKED. WebSearch fallback. No new URLs. Telegram BLOCKED (74th). Scanned: ~300+ refs, Matched: 0, New: 0, Sent: 0.
+2026-07-28 run (seventy-fourth) — Direct site access BLOCKED. WebSearch fallback. No new URLs. Telegram BLOCKED (74th). Scanned: ~200+ refs, Matched: 0, New: 0, Sent: 0.
 https://allegrolokalnie.pl/oferta/rower-czasowy-fuji-norcom-straight-13-triathlon
 2026-07-28 run (seventy-fifth) — Direct site access BLOCKED. WebSearch fallback. 1 new URL rejected: Fuji Norcom 1.3 Di2 Olkusz 19,500 PLN size 53cm (out of range). Telegram BLOCKED (75th). Scanned: ~300+ refs, Matched: 0, New: 0, Sent: 0.
 https://allegrolokalnie.pl/oferta/rower-triathlonowy-cervelo-p3-kola-hed-h3-smiglo
@@ -318,3 +318,4 @@ https://www.olx.pl/d/oferta/bmc-timemachine-road-01-na-shimano-ultegra-di2-CID76
 https://www.olx.pl/d/oferta/giant-trinity-l-xl-rower-tt-triathlonowy-czasowy-dla-wysokiego-CID767-ID17jILQ.html
 https://allegrolokalnie.pl/oferta/specialized-transition-expert-r56cm-dodatki
 2026-07-29 run (one-hundred-and-second) — Direct site access BLOCKED (403 from egress proxy). WebSearch used as fallback. 2 new URLs found, both REJECTED: Giant Trinity L/XL OLX Julianów 9,900 PLN (mechanical Shimano 105, fails Di2/SRAM Red filter); Specialized Transition Expert 56cm AllegroLokalnie Brodnica 3,500 PLN (no Di2/SRAM Red). 0 confirmed new matches. Telegram: 0 alerts (no qualifying matches). Sites: SS.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt. Scanned (via WebSearch): ~300+ refs, Matched: 0, New: 0, Sent: 0.
+2026-07-29 run (one-hundred-and-third) — Direct site access BLOCKED (403 from egress proxy). WebSearch fallback. No new listing URLs found — all search results returned previously-seen listings or general category pages. 0 confirmed new matches. Telegram BLOCKED (103rd consecutive blocked run — CRITICAL: api.telegram.org must be whitelisted in network egress allowlist; no alerts have been delivered in 103 consecutive runs). Sites: SS.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt. Scanned (via WebSearch): ~300+ refs, Matched: 0, New: 0, Sent: 0 (Telegram blocked).
