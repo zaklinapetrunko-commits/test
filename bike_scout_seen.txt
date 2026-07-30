@@ -49,23 +49,6 @@ https://allegrolokalnie.pl/oferta/rower-triathlonowy-canyon-speedmax-cf-slx-9-0-
 https://allegrolokalnie.pl/oferta/rower-triathlonowy-canyon-speedmax-cf-slx-l-di2-zipp-super-9-disc
 https://allegrolokalnie.pl/oferta/rower-triathlonowy-canyon-speedmax-cf-slx-9-0-di2-rozmiar-l-2
 https://allegrolokalnie.pl/oferta/canyon-speedmax-cf-slx-di2-rozmiar-l
-https://allegrolokalnie.pl/oferta/canyon-speedmax-cfr-slx-di2-l-zipp-858-nsw
-https://allegrolokalnie.pl/oferta/rower-triathlonowy-canyon-speedmax-cf-slx-di2-rozmiar-l-2020
-https://allegrolokalnie.pl/oferta/canyon-speedmax-cf-slx-di2-l-triathlon
-https://allegrolokalnie.pl/oferta/canyon-speedmax-cf-slx-di2-l-2018
-https://allegrolokalnie.pl/oferta/canyon-speedmax-cf-slx-di2-l-2018-2
-https://allegrolokalnie.pl/oferta/canyon-speedmax-cf-slx-di2-l-2018-triathlon
-https://allegrolokalnie.pl/oferta/canyon-speedmax-cf-slx-di2-l-2019-triathlon-rower-triathlonowy
-https://allegrolokalnie.pl/oferta/canyon-speedmax-cf-slx-di2-l-2020
-https://allegrolokalnie.pl/oferta/canyon-speedmax-cf-slx-di2-l-2020-2
-https://allegrolokalnie.pl/oferta/canyon-speedmax-cf-slx-di2-l-2021
-https://allegrolokalnie.pl/oferta/canyon-speedmax-cf-slx-di2-l-2022
-https://allegrolokalnie.pl/oferta/canyon-speedmax-cf-slx-di2-l-2022-2
-https://allegrolokalnie.pl/oferta/canyon-speedmax-cf-slx-di2-l-55cm
-https://allegrolokalnie.pl/oferta/canyon-speedmax-cf-slx-di2-l-55cm-2
-https://allegrolokalnie.pl/oferta/canyon-speedmax-cf-slx-di2-l-55cm-3
-https://allegrolokalnie.pl/oferta/canyon-speedmax-cf-slx-di2-l-cervelo-p5-trek-tt-road
-https://allegrolokalnie.pl/oferta/canyon-speedmax-cf-slx-di2-rozmiar-l
 https://allegrolokalnie.pl/oferta/canyon-speedmax-cf-slx-di2-rozmiar-l-2018
 https://allegrolokalnie.pl/oferta/canyon-speedmax-cf-slx-di2-rozmiar-l-2019
 https://allegrolokalnie.pl/oferta/canyon-speedmax-cf-slx-di2-55-cm-rozmiar-l
@@ -337,7 +320,7 @@ https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bjgmkp.html
 2026-07-30 run (one-hundred-and-thirteenth) — Direct site access BLOCKED (403 from egress proxy). WebSearch fallback. No new listing URLs found. 0 confirmed new matches. Telegram: 0 alerts (no qualifying matches; Telegram remains BLOCKED — 113th consecutive blocked run — CRITICAL: api.telegram.org must be whitelisted in egress allowlist). Sites: SS.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt. Scanned (via WebSearch): ~300+ refs, Matched: 0, New: 0, Sent: 0.
 2026-07-30 run (one-hundred-and-fourteenth) — Direct site access BLOCKED (403 from egress proxy). WebSearch fallback. No new listing URLs found. 0 confirmed new matches. Telegram: 0 alerts (no qualifying matches; Telegram remains BLOCKED — 114th consecutive blocked run — CRITICAL: api.telegram.org must be whitelisted in egress allowlist). Sites: SS.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt. Scanned (via WebSearch): ~300+ refs, Matched: 0, New: 0, Sent: 0.
 2026-07-30 run (one-hundred-and-fifteenth) — Direct site access BLOCKED (403 from egress proxy). WebSearch fallback. No new listing URLs found. 0 confirmed new matches. Telegram BLOCKED (115th consecutive blocked run — CRITICAL: api.telegram.org must be whitelisted in egress allowlist). Sites: SS.lv, SS.com, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt. Scanned (via WebSearch): ~300+ refs, Matched: 0, New: 0, Sent: 0.
-2026-07-30 run (one-hundred-and-sixteenth) — Direct site access BLOCKED (403 from egress proxy). WebSearch fallback. No new listing URLs found. 0 confirmed new matches. Telegram: 0 alerts (Telegram remains BLOCKED — 116th consecutive blocked run — CRITICAL: api.telegram.org must be whitelisted in egress allowlist). Sites: SS.lv, SS.com, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt. Scanned (via WebSearch): ~300+ refs, Matched: 0, New: 0, Sent: 0.
+2026-07-30 run (one-hundred-and-sixteenth) — Direct site access BLOCKED (403 from egress proxy). WebSearch fallback. No new listing URLs found. 0 confirmed new matches. Telegram: 0 alerts (no qualifying matches; Telegram remains BLOCKED — 116th consecutive blocked run — CRITICAL: api.telegram.org must be whitelisted in egress allowlist). Sites: SS.lv, SS.com, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt. Scanned (via WebSearch): ~300+ refs, Matched: 0, New: 0, Sent: 0.
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bpdhxh.html
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdifik.html
 https://allegrolokalnie.pl/oferta/cervelo-r5-sram-red-lightweight-56-65-kg
@@ -365,3 +348,4 @@ https://allegro.pl/oferta/rower-planet-x-stealth-tt-carbon-triathlon-15713862858
 https://allegro.pl/oferta/rower-planet-x-stealth-tt-carbon-rozmiar-55-triathlon-legionowo-16558066357
 2026-07-30 run (one-hundred-and-thirty-fourth) — Direct site access BLOCKED (403 from egress proxy). WebSearch fallback. 2 new URLs found, both REJECTED: Planet X Stealth TT Carbon allegro.pl size 49cm (out of size range); Planet X Stealth TT Carbon rozmiar 55 SRAM Force allegro.pl (groupset fails Di2/SRAM Red filter). 0 confirmed new matches. Telegram: 0 alerts (no qualifying matches; Telegram remains BLOCKED — 134th consecutive blocked run — CRITICAL: api.telegram.org must be whitelisted in egress allowlist). Sites: SS.lv, SS.com, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt. Scanned (via WebSearch): ~300+ refs, Matched: 0, New: 0, Sent: 0.
 2026-07-30 run (one-hundred-and-thirty-fifth) — Direct site access BLOCKED (403 from egress proxy). WebSearch fallback. No new listing URLs found (all candidates already present in seen list from prior runs). 0 confirmed new matches. Telegram BLOCKED (135th consecutive blocked run — CRITICAL: api.telegram.org must be whitelisted in egress allowlist). Sites: SS.lv, SS.com, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt. Scanned (via WebSearch): ~300+ refs, Matched: 0, New: 0, Sent: 0.
+2026-07-30 run (one-hundred-and-thirty-sixth) — Direct site access BLOCKED (403 from egress proxy). WebSearch fallback. No new listing URLs found (all candidates already present in seen list from prior runs). 0 confirmed new matches. Telegram: 0 alerts (no qualifying matches; Telegram remains BLOCKED — 136th consecutive blocked run — CRITICAL: api.telegram.org must be whitelisted in egress allowlist). Sites: SS.lv, SS.com, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt. Scanned (via WebSearch): ~200+ refs, Matched: 0, New: 0, Sent: 0.
