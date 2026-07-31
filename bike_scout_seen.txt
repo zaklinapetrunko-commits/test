@@ -29,7 +29,7 @@ https://allegrolokalnie.pl/oferta/bmc-timemachine-tmr01-di2-11-rz-rower-szosowy-
 https://allegrolokalnie.pl/oferta/bmc-timemachine-tmr02-carbon
 https://allegrolokalnie.pl/oferta/canyon-speedmax-cf-8-0-di2-rozmiar-l
 https://allegrolokalnie.pl/oferta/canyon-speedmax-cf-8-0-di2-rozmiar-xl-rower-tri
-https://allegrolokalnie.pl/oferta/canyon-speedmax-cf-80-di2-rozmiar-m
+https://allegrolokalnie.pl/oferta/canyon-speedmax-cf80-di2-rozmiar-m
 https://allegrolokalnie.pl/oferta/canyon-speedmax-cf-9-0-pro
 https://allegrolokalnie.pl/oferta/canyon-speedmax-cf-9-0-sl-di2-rozmiar-l-uzywany-triathlon
 https://allegrolokalnie.pl/oferta/canyon-speedmax-cf-9-0-slx-di2-rozmiar-l-2017
@@ -283,3 +283,7 @@ https://allegro.pl/oferta/rower-triathlonowy-apex-skylar-carbon-ultegra-roz-54-1
 # 2026-07-31 run — No new matches found ---
 2026-07-31T13:19:00Z — No new matches found. Sites checked via WebSearch (all direct fetches 403): SS.lv, SS.com, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt/Skelbiu.lt, Osta.ee, Okidoki.ee, Andel.lv. Scanned: ~350+ refs, Matched: 0, New: 0, Sent: 0 (Telegram BLOCKED — api.telegram.org not in network egress allowlist).
 2026-07-31T14:00:00Z — No new matches found. Sites checked via WebSearch (all direct fetches 403): SS.lv, SS.com, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt/Skelbiu.lt, Osta.ee, Okidoki.ee, Andel.lv. Scanned: ~350+ refs, Matched: 0, New: 0, Sent: 0 (Telegram BLOCKED — api.telegram.org not in network egress allowlist).
+# 2026-07-31 (latest run) — 2 potential unverifiable candidates found, 0 confirmed new matches ---
+# Potential 1: https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdffcn.html — Scott Plasma TT carbon SRAM €1000 — size/exact groupset unconfirmed (direct fetch 403)
+# Potential 2: https://www.ss.com/msg/lv/transport/bycycles/highway-sports/bxhkxh.html — Specialized Shiv S-Works size L €1800 — groupset unconfirmed (direct fetch 403)
+2026-07-31T15:10:00Z — No new confirmed matches. Sites: SS.lv, SS.com, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Skelbiu.lt, Osta.ee (403), Okidoki.ee, Andel.lv. Scanned: ~300+ refs. Matched/confirmed: 0. New: 0. Sent: 0 (Telegram BLOCKED — api.telegram.org not in network egress allowlist). 2 unverifiable candidates logged above.
