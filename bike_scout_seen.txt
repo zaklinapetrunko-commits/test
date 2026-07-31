@@ -136,7 +136,7 @@ https://allegrolokalnie.pl/oferta/planet-x-rower-tt-triathlon-full-carbon
 https://www.olx.pl/d/oferta/rower-triathlonowy-basso-konos-triathlon-czasowy-CID767-ID11Ebft.html
 https://www.olx.pl/d/oferta/basso-carbon-konos-ultegra-di2-CID767-ID146yN8.html
 https://www.olx.pl/d/oferta/rower-do-jazdy-na-czas-triathlon-basso-konos-piekny-i-bardzo-szybki-CID767-IDYiwky.html
-https://www.olx.pl/d/oferta/rower-triathlonowy-czasowy-tt-basso-konos-karbon-CID767-ID12Z6mB.html
+https://www.olx.pl/d/oferta/rower-triathlonowy-czasowy-basso-konos-karbon-CID767-ID12Z6mB.html
 https://www.olx.pl/d/oferta/rower-czasowy-triathlonowy-stevens-super-trofeo-tt-l-56-CID767-ID153N8N.html
 https://www.olx.pl/d/oferta/rower-czasowy-triathlon-carbon-giant-trinity-2-CID767-ID11U7X3.html
 2026-07-27 run (fifty-third) — Direct site access BLOCKED. WebSearch fallback. 6 new URLs. 0 confirmed (3 plausible Basso Konos, size unverified). Telegram BLOCKED (53rd). Scanned: ~150+ refs, Matched: 0, New: 0, Sent: 0.
@@ -367,3 +367,5 @@ https://www.ss.com/msg/lv/transport/bycycles/highway-sports/bpdipb.html
 https://www.ss.com/msg/lv/transport/bycycles/highway-sports/bpckfl.html
 https://www.ss.com/msg/lv/transport/bycycles/highway-sports/bjbixf.html
 2026-07-31 run (one-hundred-and-forty-first) — Direct site access BLOCKED (403 from egress proxy). WebSearch fallback. 3 new URLs found, all rejected (road/aero bikes, not TT/triathlon type): SS.COM bpdipb (Moozes Aero carbon Shimano €850 — road bike); SS.COM bpckfl (Basso carbon road €1,400 — road bike); SS.COM bjbixf (carbon SRAM 2x10 €620 — road bike). 0 confirmed new matches. Telegram: 0 alerts (no qualifying matches; Telegram remains BLOCKED — 141st consecutive blocked run — CRITICAL: api.telegram.org must be whitelisted in egress allowlist). Sites: SS.lv, SS.com, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt. Scanned (via WebSearch): ~300+ refs, Matched: 0, New: 0, Sent: 0.
+https://allegrolokalnie.pl/oferta/rower-czasowy-szosa-specialized-sworks-shiv-tt-cc3
+2026-07-31 run (one-hundred-and-forty-second) — Direct site access BLOCKED (403 from egress proxy). WebSearch fallback. 1 new URL found: Specialized S-Works Shiv TT CC3 (56cm) allegrolokalnie — UNVERIFIED (groupset/price unconfirmed, S-Works typically Dura-Ace Di2 or SRAM Red eTap AXS, plausible match). 0 confirmed new matches. Telegram: 0 alerts (no confirmed qualifying matches; Telegram remains BLOCKED — 142nd consecutive blocked run — CRITICAL: api.telegram.org must be whitelisted in egress allowlist). Sites: SS.lv, SS.com, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, Skelbiu.lt. Scanned (via WebSearch): ~300+ refs, Matched: 0 confirmed (1 unverified), New: 0, Sent: 0.
