@@ -131,7 +131,7 @@ https://allegrolokalnie.pl/oferta/rower-triathlonowy-canyon-speedmax-cf-slx-9-0-
 https://allegrolokalnie.pl/oferta/rower-triathlonowy-canyon-speedmax-cf-slx-9-0-di2-rozmiar-l-3
 https://allegrolokalnie.pl/oferta/rower-triathlonowy-canyon-speedmax-cf-slx-di2-rozmiar-l-2020
 https://allegrolokalnie.pl/oferta/rower-triathlonowy-canyon-speedmax-cf-slx-l-di2-zipp-super-9-disc
-https://allegrolokalnie.pl/oferta/rower-triathlonowy-canyon-speedmax-cf-wnm-rxs-mek
+https://allegrolokalnie.pl/oferta/rower-triathlonowy-canyon-speedmax-wnm-rxs-mek
 https://allegrolokalnie.pl/oferta/rower-triathlonowy-canyon-speedmax-cfr-slx-di2-rozmiar-l
 https://allegrolokalnie.pl/oferta/rower-triathlonowy-canyon-speedmax-cfr-slx-di2-rozmiar-l-2
 https://allegrolokalnie.pl/oferta/rower-triathlonowy-cervelo-p2-pirelli-105-campagnolo
@@ -288,3 +288,4 @@ https://allegro.pl/oferta/rower-triathlonowy-apex-skylar-carbon-ultegra-roz-54-1
 # Potential 2: https://www.ss.com/msg/lv/transport/bycycles/highway-sports/bxhkxh.html — Specialized Shiv S-Works size L €1800 — groupset unconfirmed (direct fetch 403)
 2026-07-31T15:10:00Z — No new confirmed matches. Sites: SS.lv, SS.com, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Skelbiu.lt, Osta.ee (403), Okidoki.ee, Andel.lv. Scanned: ~300+ refs. Matched/confirmed: 0. New: 0. Sent: 0 (Telegram BLOCKED — api.telegram.org not in network egress allowlist). 2 unverifiable candidates logged above.
 2026-07-31T16:00:00Z — No new matches found. Sites: SS.lv, SS.com, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Skelbiu.lt, Osta.ee, Okidoki.ee, Andel.lv. All direct fetches 403; searches via WebSearch. Scanned: ~300+ refs. Matched: 0. New: 0. Sent: 0 (Telegram BLOCKED — api.telegram.org not in network egress allowlist). ACTION REQUIRED: api.telegram.org must be added to network egress whitelist to enable alerts.
+2026-07-31T17:00:00Z — No new matches found. Sites: SS.lv, SS.com, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Skelbiu.lt, Osta.ee, Okidoki.ee, Andel.lv. All direct fetches 403; searches via WebSearch. Scanned: ~300+ refs. Matched: 0. New: 0. Sent: 0 (Telegram BLOCKED — api.telegram.org not in network egress allowlist). ACTION REQUIRED: api.telegram.org must be added to network egress whitelist to enable alerts.
