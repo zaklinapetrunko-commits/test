@@ -255,3 +255,10 @@ https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cdkxli.html
 # SS.lv oxgmb: TT €450 mechanical Ultegra. FAILS groupset.
 # SS.lv bjbixf: carbon road bike SRAM €620. FAILS type.
 2026-08-03T (run 5) — No new matches found. Sites: SS.lv, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt. All direct fetches 403; WebSearch used. Scanned: ~500+ refs. Matched: 0. New: 0. Sent: 0 (Telegram BLOCKED). ACTION REQUIRED: api.telegram.org must be whitelisted.
+# --- 2026-08-03 run (6) --- No new matches found ---
+# New candidates checked and rejected:
+# SS.lv cejgjd: Lapierre Crosshill CF 8.0 2026 bikepacking €3500 — FAILS type (not triathlon/TT)
+# SS.lv ceiblp: Scott Addict Gravel 20 Tuned €3590 — FAILS type (gravel, not triathlon/TT)
+# SS.lv cfxodi: Canyon Ultimate CF SLx €800 — FAILS type (road bike, not triathlon/TT)
+# All other search results matched existing seen-list entries.
+2026-08-03T (run 6) — No new matches found. Sites: SS.lv, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt. All direct fetches 403; WebSearch used. Scanned: ~600+ refs. Matched: 0. New: 0. Sent: 0 (Telegram BLOCKED — api.telegram.org not in network egress allowlist). ACTION REQUIRED: api.telegram.org must be whitelisted for Telegram alerts to work.
