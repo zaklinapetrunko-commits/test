@@ -279,3 +279,24 @@ https://allegro.pl/oferta/rower-triathlonowy-ceepo-viper-28-r-l-shimano-105-di2-
 # All other search results matched existing seen-list entries.
 # Sites with 403: all direct marketplace fetches still blocked.
 2026-08-03T (run 8) — No new matches found. Sites: SS.lv, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt, MM.lv. All direct fetches 403; WebSearch used. Scanned: ~800+ refs. Matched: 0. New: 0. Sent: 0 (Telegram BLOCKED — api.telegram.org not in network egress allowlist). Note: szybkierowery.olx.pl Felt IA SRAM Red/Force size 56 unverifiable — manual check recommended. PERSISTENT ACTION REQUIRED: (1) api.telegram.org must be whitelisted; (2) Direct marketplace fetches remain 403.
+# --- 2026-08-03 run (9) --- No new matches found ---
+# New candidates checked and rejected:
+# SS.lv cdkhdh: Cervelo Apex Gravel L/56 €1650 — FAILS type (gravel, not triathlon/TT)
+# SS.lv biicei: Giant TCR Advanced 1+ Di2 2024 M/ML €1800 — FAILS type (aero road, not triathlon/TT)
+# SS.lv bdlhcd: Rose Backroad carbon 59cm/L €1800 — FAILS type (gravel/all-road)
+# SS.lv gfimp: Scott Foil 10 karbona aero Ultegra €1650 — FAILS type (aero road)
+# OLX.pl ID11GnQb: Canyon Speedmax CF M + Di2 + Stages powermeter Kraków — FAILS size (M=54cm)
+# OLX.pl ID15tWNI: Canyon Speedmax CF 8.0 M Di2 — FAILS size (M)
+# OLX.pl Felt IA3 Disc Carbon SRAM RED/Force AXS 56 szybkierowery — no direct URL obtainable, groupset unverifiable (recurring from run 8). UNVERIFIABLE.
+# Skelbiu.lt Canyon Speedmax CF 9.0 Di2 L Vilnius — search-confirmed, no direct URL obtainable (recurring). UNVERIFIABLE.
+# Autoplius.lt — no triathlon listings found.
+# Osta.ee / Okidoki.ee — no results.
+# Andel.lv — no results.
+# All other search results matched existing seen-list entries.
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cdkhdh.html
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/biicei.html
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdlhcd.html
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/gfimp.html
+https://www.olx.pl/d/oferta/tt-canyon-speedmax-cf-m-di2-stages-powermeter-zipp-404-nsw-CID767-ID11GnQb.html
+https://www.olx.pl/d/oferta/rower-triathlonowy-canyon-speedmax-cf-8-0-roz-m-di2-raty-0-CID767-ID15tWNI.html
+2026-08-03T (run 9) — No new matches found. Sites: SS.lv, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt. All direct fetches 403; WebSearch used. Scanned: ~950+ refs. Matched: 0. New: 0. Sent: 0 (Telegram BLOCKED — api.telegram.org not in network egress allowlist). New SS.lv listings found but all fail type filter (gravel/road). OLX Canyon Speedmax M sizes fail. Persistent unverifiables: szybkierowery Felt IA3 SRAM Red/Force size 56 (no URL); Skelbiu.lt Canyon Speedmax CF 9.0 Di2 L Vilnius (no URL). PERSISTENT ACTION REQUIRED: (1) api.telegram.org must be whitelisted; (2) Direct marketplace fetches remain 403.
