@@ -69,7 +69,7 @@ https://allegrolokalnie.pl/oferta/cervelo-p5-nowa-cena
 https://allegrolokalnie.pl/oferta/cervelo-px-sram-red-axs-zipp-l56
 https://allegrolokalnie.pl/oferta/cervelo-r3-full-karbon-6kg-r56-jak-nowy
 https://allegrolokalnie.pl/oferta/cervelo-r3-ultegra-di2-full-carbon
-https://allegrolokalnie.pl/oferta/cervelo-r5-sram-red-lightweight-56-65-kg
+https://allegrolokalnie.pl/oferta/cervelo-r5-sram-lightweight-56-65-kg
 https://allegrolokalnie.pl/oferta/cervelo-s5-disc-ultegra-di2-dt-swiss-58cm-nowy
 https://allegrolokalnie.pl/oferta/colnago-concept-carbon-red-quarq-rower-szosowy-54
 https://allegrolokalnie.pl/oferta/dysk-czasowy-triathlon-tt-ron-carbon-karbon-opona
@@ -339,3 +339,18 @@ https://allegrolokalnie.pl/oferta/rower-triathlonowy-canyon-speedmax-cf-90-sl
 https://www.olx.pl/d/oferta/rower-triathlon-czasowka-felt-b14-karbon-ultegra-11s-2017-rozmiar-56-CID767-IDH0Z88.html
 https://allegrolokalnie.pl/oferta/rower-szosowy-bmc-timemachine-tmr01-pelna-ultegra-gratisy
 2026-08-03T (run 12) — No new matches found. Sites: SS.lv, SS.com, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt. All direct fetches 403; WebSearch used. Scanned: ~1200+ refs. Matched: 0. New: 0. Sent: 0 (Telegram BLOCKED — api.telegram.org egress blocked at network level). MANUAL CHECK RECOMMENDED: (1) szybkierowery.pl/olx for Felt IA3 SRAM Red/Force AXS size 56; (2) skelbiu.lt for Canyon Speedmax CF 9.0 Di2 L Vilnius. PERSISTENT ACTION REQUIRED: api.telegram.org must be whitelisted.
+# --- 2026-08-03 run (13) --- No new matches found ---
+# New candidates checked and rejected this run:
+# SS.lv cdniki: carbon frame/fork size 56 (L) €1,500 — road/sports category, no triathlon/TT type confirmed, groupset unclear. FAILS type filter.
+# SS.lv bpcmfd: carbon 56cm Ultegra toeclips €620 — road bike, mechanical groupset. FAILS groupset filter.
+# Skelbiu.lt Canyon Speedmax CF 9.0 Di2 — search results show size M. FAILS size filter.
+# szybkierowery.pl Felt IA3 Disc Carbon SRAM Red/Force AXS size 56 — retail store (not classified), groupset Red vs Force unverifiable (recurring runs 8-13). UNVERIFIABLE — manual check recommended.
+# Skelbiu.lt Canyon Speedmax CF 9.0 Di2 L Vilnius — search-confirmed, no direct URL (recurring). UNVERIFIABLE.
+# Autoplius.lt — no triathlon listings found.
+# Osta.ee / Okidoki.ee — no results.
+# Andel.lv — no results.
+# Sites with 403: all direct marketplace fetches blocked. WebSearch used for all sites.
+# Telegram: api.telegram.org blocked — network egress policy.
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cdniki.html
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bpcmfd.html
+2026-08-03T (run 13) — No new matches found. Sites: SS.lv, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt. All direct fetches 403; WebSearch used. Scanned: ~1300+ refs. Matched: 0. New: 0. Sent: 0 (Telegram BLOCKED — api.telegram.org egress blocked at network level). New SS.lv listings (cdniki, bpcmfd) checked and rejected (type/groupset fail). Persistent unverifiables: szybkierowery.pl Felt IA3 SRAM Red/Force AXS size 56 (manual check recommended); Skelbiu.lt Canyon Speedmax CF 9.0 Di2 L Vilnius (no direct URL). PERSISTENT ACTION REQUIRED: api.telegram.org must be whitelisted.
