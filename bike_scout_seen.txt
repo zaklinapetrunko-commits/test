@@ -344,7 +344,7 @@ https://allegrolokalnie.pl/oferta/rower-szosowy-bmc-timemachine-tmr01-pelna-ulte
 # SS.lv cdniki: carbon frame/fork size 56 (L) €1,500 — road/sports category, no triathlon/TT type confirmed, groupset unclear. FAILS type filter.
 # SS.lv bpcmfd: carbon 56cm Ultegra toeclips €620 — road bike, mechanical groupset. FAILS groupset filter.
 # Skelbiu.lt Canyon Speedmax CF 9.0 Di2 — search results show size M. FAILS size filter.
-# szybkierowery.pl Felt IA3 Disc Carbon SRAM Red/Force AXS size 56 — retail store (not classified), groupset Red vs Force unverifiable (recurring runs 8-13). UNVERIFIABLE — manual check recommended.
+# szybkierowery.pl Felt IA3 Disc Carbon SRAM Red/Force AXS size 56 — retail store (not classified), groupset Red vs Force unverifiable (recurring runs 8-13). UNVERIFIABLE.
 # Skelbiu.lt Canyon Speedmax CF 9.0 Di2 L Vilnius — search-confirmed, no direct URL (recurring). UNVERIFIABLE.
 # Autoplius.lt — no triathlon listings found.
 # Osta.ee / Okidoki.ee — no results.
@@ -407,3 +407,13 @@ https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdphlg.html
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cfcimm.html
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cdmfjh.html
 2026-08-03T (run 16) — No new matches found. Sites: SS.lv, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt. All direct fetches 403; WebSearch used. Scanned: ~1600+ refs. Matched: 0. New: 0. Sent: 0 (Telegram BLOCKED — api.telegram.org egress blocked at network level). New SS.lv listings (bdphlg TT 59cm €280, cfcimm Bergamont Dolce, cdmfjh Boardman gravel) all fail type/size filters. PERSISTENT ACTION REQUIRED: (1) api.telegram.org must be whitelisted at network egress level — credentials correct; (2) Direct marketplace fetches remain 403. MANUAL CHECK STRONGLY RECOMMENDED: szybkierowery.pl for Felt IA/IA3 SRAM Red/Force AXS size 56 (runs 8-16); skelbiu.lt for Canyon Speedmax CF 9.0 Di2 L Vilnius (runs 8-16).
+# --- 2026-08-03 run (17) --- No new matches found ---
+# New candidates checked and rejected this run:
+# SS.lv/SS.com cdheko: Top-class carbon bike €7,990 — type/size/groupset UNVERIFIABLE from search snippets (no direct page access). MANUAL CHECK RECOMMENDED.
+# SS.lv/SS.com bklped: Carbon bike €2,500 ridden 3 times — type/size/groupset UNVERIFIABLE from search snippets. MANUAL CHECK RECOMMENDED.
+# SS.com bdlgbg: Triathlon bike size M €1,100 — FAILS size filter (M).
+# Skelbiu.lt Canyon Speedmax CF 9.0 Di2 L Vilnius — search-confirmed, posted recently (1 day ago per snippet), no direct URL obtainable (recurring runs 9-17). Rider height range L=58-61cm; Canyon Speedmax frame L~56cm. UNVERIFIABLE — MANUAL CHECK STRONGLY RECOMMENDED at skelbiu.lt.
+# Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv — no results.
+# Sites with 403: all direct marketplace fetches blocked. WebSearch used for all sites.
+# Telegram: api.telegram.org blocked — network egress policy (all runs).
+2026-08-03T (run 17) — No new matches found. Sites: SS.lv, SS.com, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt. All direct fetches 403; WebSearch used. Scanned: ~1700+ refs. Matched: 0. New: 0. Sent: 0 (Telegram BLOCKED — api.telegram.org egress blocked at network level). New SS.lv/SS.com listings (cdheko €7990 carbon, bklped €2500 carbon) found but type/size/groupset unverifiable. PERSISTENT MANUAL CHECKS NEEDED: (1) skelbiu.lt — Canyon Speedmax CF 9.0 Di2 L Vilnius (posted 1 day ago — strong candidate, check immediately!); (2) ss.lv cdheko (€7,990 top carbon — unknown if TT/triathlon); (3) szybkierowery.pl for Felt IA/IA3 SRAM Red/Force AXS size 56 (runs 8-17). PERSISTENT ACTION REQUIRED: api.telegram.org must be whitelisted at network egress level.
