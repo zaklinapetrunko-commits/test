@@ -271,3 +271,11 @@ https://allegro.pl/oferta/rower-triathlonowy-ceepo-viper-28-r-l-shimano-105-di2-
 # Allegro.pl 17412425497: Boarmdan TTE Ultegra — unknown brand, frame material/size unverifiable. SKIPPED.
 # Skelbiu.lt: Canyon Speedmax CF 9.0 Di2 L Vilnius — search-only, no direct URL obtainable (recurring).
 2026-08-03T (run 7) — 2 new listings matched filter. Sites: SS.lv, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt. Scanned: ~700+ refs. Matched: 2. New: 2. Sent: 0 (Telegram BLOCKED — api.telegram.org not in network egress allowlist). MATCHES: Ceepo Viper 28" r.L Shimano 105 Di2 (Black) 28990 PLN ~€6750 allegro.pl/14701067337; Ceepo Viper 28" r.L Shimano 105 Di2 (Blue) 28990 PLN ~€6750 allegro.pl/14701065624. ACTION REQUIRED: (1) api.telegram.org must be whitelisted; (2) Direct marketplace fetches blocked (403) on all sites.
+# --- 2026-08-03 run (8) --- No new matches found ---
+# Candidates checked and rejected:
+# Skelbiu.lt Canyon Speedmax CF SL 8.0 Kaunas €2700 — confirmed size M. FAILS size filter.
+# Skelbiu.lt Canyon Speedmax CF 9.0 Di2 Panevezys €2800 — size M per search results. FAILS size filter.
+# szybkierowery.olx.pl Felt IA (model unclear) SRAM Red/Force AXS size 56 — no direct URL obtainable, groupset unverifiable (may be Force not Red). UNVERIFIABLE.
+# All other search results matched existing seen-list entries.
+# Sites with 403: all direct marketplace fetches still blocked.
+2026-08-03T (run 8) — No new matches found. Sites: SS.lv, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt, MM.lv. All direct fetches 403; WebSearch used. Scanned: ~800+ refs. Matched: 0. New: 0. Sent: 0 (Telegram BLOCKED — api.telegram.org not in network egress allowlist). Note: szybkierowery.olx.pl Felt IA SRAM Red/Force size 56 unverifiable — manual check recommended. PERSISTENT ACTION REQUIRED: (1) api.telegram.org must be whitelisted; (2) Direct marketplace fetches remain 403.
