@@ -244,3 +244,14 @@ https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cdkxli.html
 # New listing detected on SS.lv (cfbgmj: 58cm carbon + Shimano Boost handlebar €1690) — type unconfirmed (no direct page access).
 # All other search results matched existing seen-list entries.
 2026-08-03T (run 4) — No new matches found. Sites: SS.lv, SS.com, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt. All direct fetches 403; WebSearch used. Scanned: ~400+ refs. Matched: 0. New: 0. Sent: 0 (Telegram BLOCKED — api.telegram.org not in network egress allowlist). Note: SS.lv cfbgmj (58cm carbon €1690) unverifiable type — manual check recommended. ACTION REQUIRED: (1) api.telegram.org must be whitelisted for Telegram alerts; (2) direct marketplace fetches remain blocked (403).
+# --- 2026-08-03 run (5) --- No new matches found ---
+# New candidates checked and rejected:
+# OLX.pl ID17FVv2: Canyon Speedmax CF Gdynia — size S, mechanical Ultegra R8000. FAILS size+groupset.
+# OLX.pl ID16qK0Z: Canyon Speedmax CF 8.0 — size S. FAILS size.
+# OLX.pl ID150mOE: Canyon Speedmax CF 8.0 — size M. FAILS size.
+# OLX.pl ID13Yr6W: Canyon Speedmax CF SLX7 AXS — size M, SRAM AXS (not Red). FAILS size.
+# OLX.pl IDGF638: Felt B14 rozmiar 56 — Shimano 105 mechanical. FAILS groupset.
+# SS.lv bkhelc: carbon S-M road bike SRAM Quarq €1550. FAILS size+type.
+# SS.lv oxgmb: TT €450 mechanical Ultegra. FAILS groupset.
+# SS.lv bjbixf: carbon road bike SRAM €620. FAILS type.
+2026-08-03T (run 5) — No new matches found. Sites: SS.lv, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt. All direct fetches 403; WebSearch used. Scanned: ~500+ refs. Matched: 0. New: 0. Sent: 0 (Telegram BLOCKED). ACTION REQUIRED: api.telegram.org must be whitelisted.
