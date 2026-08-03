@@ -238,4 +238,9 @@ https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cdkxli.html
 # Sites searched: SS.lv, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, OLX.pl, Allegro.pl/AllegroLokalnie
 # All matched listings already in seen list. Direct page fetches blocked (403) on all sites.
 2026-08-03T08:00Z — No new matches found
-2026-08-03 (run 3) — No new matches found. Sites: SS.lv, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt. All direct fetches 403; WebSearch used. Scanned: ~300+ refs. Matched: 0. New: 0. Sent: 0 (Telegram BLOCKED — api.telegram.org not in network egress). Persistent issue: api.telegram.org must be whitelisted for alerts to work.
+2026-08-03 (run 3) — No new matches found. Sites: SS.lv, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt. All direct fetches 403; WebSearch used. Scanned: ~300+ refs. Matched: 0. New: 0. Sent: 0 (Telegram BLOCKED — api.telegram.org in network egress). Persistent issue: api.telegram.org must be whitelisted for alerts to work.
+# --- 2026-08-03 run (4) --- No new matches found ---
+# New listing detected on SS.lv (bxegpi: Cervelo P2 Carbon TT size 48 €1760) — FAILS size filter (need 55-57cm).
+# New listing detected on SS.lv (cfbgmj: 58cm carbon + Shimano Boost handlebar €1690) — type unconfirmed (no direct page access).
+# All other search results matched existing seen-list entries.
+2026-08-03T (run 4) — No new matches found. Sites: SS.lv, SS.com, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt. All direct fetches 403; WebSearch used. Scanned: ~400+ refs. Matched: 0. New: 0. Sent: 0 (Telegram BLOCKED — api.telegram.org not in network egress allowlist). Note: SS.lv cfbgmj (58cm carbon €1690) unverifiable type — manual check recommended. ACTION REQUIRED: (1) api.telegram.org must be whitelisted for Telegram alerts; (2) direct marketplace fetches remain blocked (403).
