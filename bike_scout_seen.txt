@@ -262,3 +262,12 @@ https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cdkxli.html
 # SS.lv cfxodi: Canyon Ultimate CF SLx €800 — FAILS type (road bike, not triathlon/TT)
 # All other search results matched existing seen-list entries.
 2026-08-03T (run 6) — No new matches found. Sites: SS.lv, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt. All direct fetches 403; WebSearch used. Scanned: ~600+ refs. Matched: 0. New: 0. Sent: 0 (Telegram BLOCKED — api.telegram.org not in network egress allowlist). ACTION REQUIRED: api.telegram.org must be whitelisted for Telegram alerts to work.
+# --- 2026-08-03 run (7) --- 2 NEW MATCHES FOUND ---
+# PASSED FILTER:
+https://allegro.pl/oferta/rower-triathlonowy-ceepo-viper-28-r-l-shimano-105-di2-12s-czarny-14701067337
+https://allegro.pl/oferta/rower-triathlonowy-ceepo-viper-28-r-l-shimano-105-di2-12s-niebieski-14701065624
+# REJECTED THIS RUN:
+# OLX.pl IDCterz: Felt B2 Bayonet — size 54cm, Shimano 105 mechanical. FAILS size+groupset.
+# Allegro.pl 17412425497: Boarmdan TTE Ultegra — unknown brand, frame material/size unverifiable. SKIPPED.
+# Skelbiu.lt: Canyon Speedmax CF 9.0 Di2 L Vilnius — search-only, no direct URL obtainable (recurring).
+2026-08-03T (run 7) — 2 new listings matched filter. Sites: SS.lv, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt. Scanned: ~700+ refs. Matched: 2. New: 2. Sent: 0 (Telegram BLOCKED — api.telegram.org not in network egress allowlist). MATCHES: Ceepo Viper 28" r.L Shimano 105 Di2 (Black) 28990 PLN ~€6750 allegro.pl/14701067337; Ceepo Viper 28" r.L Shimano 105 Di2 (Blue) 28990 PLN ~€6750 allegro.pl/14701065624. ACTION REQUIRED: (1) api.telegram.org must be whitelisted; (2) Direct marketplace fetches blocked (403) on all sites.
