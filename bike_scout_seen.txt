@@ -319,3 +319,23 @@ https://www.olx.pl/d/oferta/rower-triathlonowy-canyon-speedmax-cf-8-0-roz-m-di2-
 # Sites with 403: all direct marketplace fetches blocked. WebSearch used for all sites.
 # Telegram: api.telegram.org blocked — curl exit code 56 (network egress policy, not credential issue).
 2026-08-03T (run 11) — No new matches found. Sites: SS.lv, SS.com, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt. All direct fetches 403; WebSearch used. Scanned: ~1100+ refs. Matched: 0. New: 0. Sent: 0 (Telegram BLOCKED — curl exit code 56, api.telegram.org egress blocked at network level). Recurring unverifiables: szybkierowery.pl Felt IA3 SRAM Red/Force AXS size 56 (no direct OLX URL — manual check recommended); Skelbiu.lt Canyon Speedmax CF 9.0 Di2 L Vilnius (no direct URL). PERSISTENT ACTION REQUIRED: (1) api.telegram.org must be whitelisted at network egress level for Telegram alerts to work — credentials are correct; (2) Direct marketplace fetches remain 403.
+# --- 2026-08-03 run (12) --- No new matches found ---
+# New candidates checked and rejected this run:
+# SS.lv ngjhe: €4,500 MTB (Eagle 29x2.35 tires) — FAILS type (mountain bike)
+# SS.lv cdgnko: €1,800 carbon road bike (Novatec wheels) — FAILS type (road bike)
+# SS.lv bdgdih: €1,500 DE Rosa Idol Carbon Di2 disc — FAILS type (road bike)
+# AllegroLokalnie rower-triathlonowy-canyon-speedmax-cf-90-sl: Canyon CF 9.0 SL Malbork size M, mech Ultegra 10s — FAILS size + groupset
+# OLX IDH0Z88: Felt B14 Karbon Ultegra 11s 2017 rozmiar 56 — FAILS groupset (mechanical)
+# AllegroLokalnie rower-szosowy-bmc-timemachine-tmr01-pelna-ultegra-gratisy: BMC TMR01 full Ultegra mech — FAILS groupset
+# Persistent unverifiables (no direct URL for 4+ runs):
+# szybkierowery.olx.pl Felt IA3 SRAM Red/Force AXS size 56 (MANUAL CHECK RECOMMENDED at szybkierowery.pl)
+# Skelbiu.lt Canyon Speedmax CF 9.0 Di2 L Vilnius (MANUAL CHECK RECOMMENDED at skelbiu.lt)
+# Sites with 403: all direct marketplace fetches blocked. WebSearch used for all sites.
+# Telegram: api.telegram.org blocked — network egress policy.
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/ngjhe.html
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cdgnko.html
+https://www.ss.ru/msg/ru/transport/bycycles/highway-sports/bdgdih.html
+https://allegrolokalnie.pl/oferta/rower-triathlonowy-canyon-speedmax-cf-90-sl
+https://www.olx.pl/d/oferta/rower-triathlon-czasowka-felt-b14-karbon-ultegra-11s-2017-rozmiar-56-CID767-IDH0Z88.html
+https://allegrolokalnie.pl/oferta/rower-szosowy-bmc-timemachine-tmr01-pelna-ultegra-gratisy
+2026-08-03T (run 12) — No new matches found. Sites: SS.lv, SS.com, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt. All direct fetches 403; WebSearch used. Scanned: ~1200+ refs. Matched: 0. New: 0. Sent: 0 (Telegram BLOCKED — api.telegram.org egress blocked at network level). MANUAL CHECK RECOMMENDED: (1) szybkierowery.pl/olx for Felt IA3 SRAM Red/Force AXS size 56; (2) skelbiu.lt for Canyon Speedmax CF 9.0 Di2 L Vilnius. PERSISTENT ACTION REQUIRED: api.telegram.org must be whitelisted.
