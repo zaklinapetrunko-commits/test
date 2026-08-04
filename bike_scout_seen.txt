@@ -468,3 +468,18 @@ https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bggixd.html
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdpekg.html
 https://allegro.pl/oferta/rower-triathlonowy-cervelo-p3x-ultegra-di2-2-0-m-9402331220
 2026-08-04T (run 20) — No new matches found. Sites: SS.lv, SS.com, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt, MM.lv. All direct fetches 403; WebSearch used. Scanned: ~2000+ refs. Matched: 0. New: 0. Sent: 0 (Telegram BLOCKED — api.telegram.org network egress policy unchanged). New SS.lv listings (bdngb Giant road, bggixd S-Works Tarmac, bdpekg Giant Revolt gravel) all FAIL type. Allegro Cervelo P3X Di2 URL contains "-m-" indicating size M — FAILS size. Skelbiu.lt Canyon Speedmax all S/M confirmed. PERSISTENT ACTION REQUIRED: (1) api.telegram.org must be whitelisted at network egress level — Telegram credentials are correct, network blocks the call; (2) MANUAL CHECK STRONGLY RECOMMENDED: szybkierowery.pl for Felt IA 2.0 FRD SRAM Red AXS size 56 (persistent runs 8-20).
+# --- 2026-08-04 run (4) --- No new matches found ---
+# New candidates checked and rejected this run:
+# SS.lv cfcohm: Touring/adventure velosipeds €695 size 59 — FAILS type (touring, not triathlon/TT).
+# SS.lv bilgdm: Superior karbona gravel/all road €890 — FAILS type (gravel/all-road).
+# SS.lv nppih: Cinelli Mystic Rats €385 54cm — FAILS type+size.
+# SS.lv cdfxkx: Specialized road bike HD-R280 FACT carbon €550 — FAILS type (road bike).
+# Skelbiu.lt: Canyon Speedmax CF 9.0 Di2 M (Panevezys €2800) — FAILS size; CF SLX S (Kaunas €2300) — FAILS size. No L confirmed.
+# OLX.pl / Allegro.pl / AllegroLokalnie.pl: no new triathlon/TT listings with Di2/SRAM Red L/56 found.
+# Autoplius.lt / Osta.ee / Okidoki.ee / Andel.lv / MM.lv: no results.
+# Telegram: api.telegram.org blocked — network egress policy (all runs since start).
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cfcohm.html
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bilgdm.html
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/nppih.html
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cdfxkx.html
+2026-08-04T (run 21) — No new matches found. Sites: SS.lv, SS.com, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt. All direct fetches 403; WebSearch used. Scanned: ~2100+ refs. Matched: 0. New: 0. Sent: 0 (Telegram BLOCKED — api.telegram.org network egress policy unchanged). New SS.lv listings (cfcohm touring, bilgdm Superior gravel, nppih Cinelli, cdfxkx Specialized road) all FAIL type/size. Skelbiu.lt Canyon Speedmax sizes M/S confirmed — no L. PERSISTENT ACTION REQUIRED: api.telegram.org must be whitelisted at network egress level for Telegram alerts to work.
