@@ -446,9 +446,25 @@ https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cdmfjh.html
 # OLX.pl: Rondo Mylc MX1 Carbon Gravel SRAM Apex (ID1aywHO) — FAILS type (gravel bike).
 # AllegroLokalnie.pl: All triathlon listings (Wilier Twin Blade Di2 L, Bottecchia Tri Di2, Cannondale Slice Di2, Cervelo P-Series 105 56cm) — all in seen list.
 # Allegro.pl: No new triathlon listings found.
-# szybkierowery.pl: Felt IAx Advanced Ultegra Di2 2×12 — size 56 confirmed SOLD OUT. Felt IA 2.0 Expert Ultegra Di2 2×12 — groupset Ultegra Di2, size 56 availability unverified on OLX (likely sold out too). No new qualifying OLX listings.
+# szybkierowery.pl: Felt IAx Advanced Ultegra Di2 2x12 — size 56 confirmed SOLD OUT. Felt IA 2.0 Expert Ultegra Di2 2x12 — groupset Ultegra Di2, size 56 availability unverified on OLX (likely sold out too). No new qualifying OLX listings.
 # Skelbiu.lt: Canyon Speedmax CF 9.0 Di2 — search text persists but all confirmed sizes M; no direct URL. Giant Trinity SRAM AXS L (74636002) — already in seen list.
 # Autoplius.lt / Osta.ee / Okidoki.ee / Andel.lv: no results.
 # All direct marketplace fetches blocked (403). WebSearch used for all sites.
 # Telegram: api.telegram.org blocked — curl exit code 56, network egress policy (confirmed again this run, still unchanged).
 2026-08-04T (run 19) — No new matches found. Sites: SS.lv, SS.com, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt. All direct fetches 403; WebSearch used. Scanned: ~1900+ refs. Matched: 0. New: 0. Sent: 0 (Telegram BLOCKED — api.telegram.org curl exit code 56, network egress policy unchanged). PERSISTENT ACTION REQUIRED: api.telegram.org must be whitelisted at network egress level for Telegram alerts to work.
+# --- 2026-08-04 run (3) --- No new matches found ---
+# New candidates checked and rejected this run:
+# SS.lv bdngb: Giant road bike €1,800 — FAILS type (road bike, not triathlon/TT).
+# SS.lv bggixd: Specialized S-Works Tarmac €9,500 — FAILS type (road bike).
+# SS.lv bdpekg: Giant Revolt Advanced gravel €1,050 — FAILS type (gravel bike).
+# Allegro 9402331220: Cervelo P3X Ultegra Di2 — URL contains "-m-", size M. FAILS size filter.
+# szybkierowery.pl Felt IA/IA3 SRAM Red/Force AXS size 56 — persistent unverifiable (runs 8-20). Confirmed 2026 Felt IA 2.0 FRD RED AXS exists globally; OLX listing groupset Red vs Force still ambiguous. MANUAL CHECK STRONGLY RECOMMENDED at szybkierowery.pl.
+# Skelbiu.lt Canyon Speedmax listings: CF SLX confirmed S, CF 9.0 Di2 confirmed M — no L found.
+# Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, MM.lv: no results.
+# All direct marketplace fetches blocked (403). WebSearch used for all sites.
+# Telegram: api.telegram.org blocked — network egress policy (all runs since start).
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdngb.html
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bggixd.html
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdpekg.html
+https://allegro.pl/oferta/rower-triathlonowy-cervelo-p3x-ultegra-di2-2-0-m-9402331220
+2026-08-04T (run 20) — No new matches found. Sites: SS.lv, SS.com, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt, MM.lv. All direct fetches 403; WebSearch used. Scanned: ~2000+ refs. Matched: 0. New: 0. Sent: 0 (Telegram BLOCKED — api.telegram.org network egress policy unchanged). New SS.lv listings (bdngb Giant road, bggixd S-Works Tarmac, bdpekg Giant Revolt gravel) all FAIL type. Allegro Cervelo P3X Di2 URL contains "-m-" indicating size M — FAILS size. Skelbiu.lt Canyon Speedmax all S/M confirmed. PERSISTENT ACTION REQUIRED: (1) api.telegram.org must be whitelisted at network egress level — Telegram credentials are correct, network blocks the call; (2) MANUAL CHECK STRONGLY RECOMMENDED: szybkierowery.pl for Felt IA 2.0 FRD SRAM Red AXS size 56 (persistent runs 8-20).
