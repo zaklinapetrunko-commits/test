@@ -630,3 +630,19 @@ https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bpdxkk.html
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cefkxj.html
 # --- 2026-07-31 run --- No new matches found ---
 2026-07-31T00:00:00Z — No new matches found. Sites checked: SS.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv (ENOTFOUND), Skelbiu.lt. Direct fetch: all sites returned 403. Web search: ~30 searches across all terms. Scanned: ~300+ refs. Matched: 0. New: 0. Telegram sent: 0. api.telegram.org blocked (persistent proxy policy).
+
+# --- 2026-08-04 run (20) --- No new matches found ---
+# New candidates checked and rejected this run:
+# SS.lv/SS.com bmmbbh: Look carbon road bike, Ultegra + Mavic EUR 1,000 — FAILS type (road bike).
+# SS.com cfdkim: Ribble carbon road bike EUR 650 — FAILS type (road bike).
+# SS.com bpckfl: Basso carbon road bike EUR 1,400 — FAILS type (road bike).
+# Skelbiu.lt Canyon Speedmax CF 9.0 Di2 — all confirmed sizes M. FAILS size filter.
+# szybkierowery.pl Felt IA/IA3 SRAM Red/Force AXS size 56 — persistent unverifiable. MANUAL CHECK strongly recommended.
+# All other search results matched existing seen-list entries.
+# Autoplius.lt / Osta.ee / Okidoki.ee / Andel.lv / MM.lv — no results.
+# All direct marketplace fetches blocked (403). WebSearch used for all sites.
+# Telegram: api.telegram.org blocked — curl exit code 56, network egress policy confirmed this run.
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bmmbbh.html
+https://www.ss.com/msg/lv/transport/bycycles/highway-sports/cfdkim.html
+https://www.ss.com/msg/lv/transport/bycycles/highway-sports/bpckfl.html
+2026-08-04T (run 20) — No new matches found. Sites: SS.lv, SS.com, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt. All direct fetches 403; WebSearch used. Scanned: ~2000+ refs. Matched: 0. New: 0. Sent: 0 (Telegram BLOCKED — curl exit code 56, network egress policy unchanged). New SS.lv/SS.com road bike listings (bmmbbh Look EUR 1000, cfdkim Ribble EUR 650, bpckfl Basso EUR 1400) all fail type filter. PERSISTENT ACTION REQUIRED: api.telegram.org must be whitelisted at network egress level for Telegram alerts to work.
