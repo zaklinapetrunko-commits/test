@@ -184,7 +184,7 @@ https://www.olx.pl/d/oferta/rower-czasowy-cervelo-tt-CID767-ID1atmdh.html
 https://www.olx.pl/d/oferta/rower-czasowy-cipollini-nktt-carbon-shimano-dura-ace-di2-campagnolo-tt-CID767-IDS8N8p.html
 https://www.olx.pl/d/oferta/rower-czasowy-colnago-kzero-ultegra-di2-2x11s-rozmiar-l-CID767-ID13SO8B.html
 https://www.olx.pl/d/oferta/rower-czasowy-triathlon-carbon-giant-trinity-2-CID767-ID11U7X3.html
-https://www.olx.pl/d/oferta/rower-czasowy-triathlon-fuji-aloha-1-0-sram-shimano-r56-CID767-IDRrpuj.html
+https://www.olx.pl/d/oferta/rower-czasowy-triathlon-fuji-aloha-1-0-sram-shimano-r56-CID677-IDRrpuj.html
 https://www.olx.pl/d/oferta/rower-czasowy-triathlonowy-karbonowy-felt-b-12-56-cm-dura-ace-promocja-CID767-ID12w0Xx.html
 https://www.olx.pl/d/oferta/rower-czasowy-triathlonowy-pinarello-bolide-tt-rozmiar-52-CID767-IDUC8L2.html
 https://www.olx.pl/d/oferta/rower-czasowy-triathlonowy-stevens-super-trofeo-tt-l-56-CID767-ID153N8N.html
@@ -309,7 +309,7 @@ https://www.olx.pl/d/oferta/rower-triathlonowy-canyon-speedmax-cf-8-0-roz-m-di2-
 # Osta.ee / Okidoki.ee — no results.
 # Andel.lv — no results.
 # Sites with 403: all direct marketplace fetches blocked. WebSearch used for all sites.
-2026-08-03T (run 10) — No new matches found. Sites: SS.lv, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt. All direct fetches 403; WebSearch used. Scanned: ~1050+ refs. Matched: 0. New: 0. Sent: 0 (Telegram BLOCKED — api.telegram.org not in network egress allowlist). Recurring unverifiable: szybkierowery Felt IA3 SRAM Red/Force size 56 (no direct URL — recommended manual check); Skelbiu.lt Canyon Speedmax CF 9.0 Di2 L Vilnius (no direct URL). PERSISTENT ACTION REQUIRED: (1) api.telegram.org must be whitelisted for Telegram alerts; (2) Direct marketplace fetches remain 403.
+2026-08-03T (run 10) — No new matches found. Sites: SS.lv, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt. All direct fetches 403; WebSearch used. Scanned: ~1050+ refs. Matched: 0. New: 0. Sent: 0 (Telegram BLOCKED — api.telegram.org not in network egress allowlist). Recurring unverifiable: szybkierowery Felt IA3 SRAM Red/Force size 56 (no direct URL — recommended manual check); Skelbiu.lt Canyon Speedmax CF 9.0 Di2 L Vilnius (no direct URL). PERSISTENT ACTION REQUIRED: (1) api.telegram.org must be whitelisted for Telegram alerts; (2) Direct marketplace fetches remain 403 — no direct page access possible.
 # --- 2026-08-03 run (11) --- No new matches found ---
 # Candidates checked and rejected:
 # szybkierowery.pl Felt IA3 Disc Carbon SRAM Red/Force AXS size 56 — confirmed active store, no direct OLX URL obtainable, groupset unverifiable Red vs Force (recurring runs 8-10). UNVERIFIABLE — manual check at szybkierowery.pl recommended.
@@ -417,3 +417,26 @@ https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cdmfjh.html
 # Sites with 403: all direct marketplace fetches blocked. WebSearch used for all sites.
 # Telegram: api.telegram.org blocked — network egress policy (all runs).
 2026-08-03T (run 17) — No new matches found. Sites: SS.lv, SS.com, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt. All direct fetches 403; WebSearch used. Scanned: ~1700+ refs. Matched: 0. New: 0. Sent: 0 (Telegram BLOCKED — api.telegram.org egress blocked at network level). New SS.lv/SS.com listings (cdheko €7990 carbon, bklped €2500 carbon) found but type/size/groupset unverifiable. PERSISTENT MANUAL CHECKS NEEDED: (1) skelbiu.lt — Canyon Speedmax CF 9.0 Di2 L Vilnius (posted 1 day ago — strong candidate, check immediately!); (2) ss.lv cdheko (€7,990 top carbon — unknown if TT/triathlon); (3) szybkierowery.pl for Felt IA/IA3 SRAM Red/Force AXS size 56 (runs 8-17). PERSISTENT ACTION REQUIRED: api.telegram.org must be whitelisted at network egress level.
+# --- 2026-08-04 run (1) --- No new matches found ---
+# New candidates checked and rejected this run:
+# SS.lv cdhhpc: Cannondale Synapse carbon 54cm SRAM Force €700 — FAILS size+type+groupset.
+# SS.lv biicei: Giant TCR Advanced 1+ Di2 M/ML €1800 — already in seen list, FAILS type.
+# SS.lv cdgnko: carbon road bike €1800 — already in seen list, FAILS type.
+# SS.lv blpnnj: Bergamont Dolce Carbon €320 — already in seen list, FAILS type.
+# SS.lv cejgjd: Lapierre Crosshill CF 8.0 €3500 — already in seen list, FAILS type.
+# SS.lv bkhelc: carbon S-M road bike SRAM Quarq €1550 — already in seen list, FAILS size+type.
+# SS.lv ceiblp: Scott Addict Gravel €3590 — already in seen list, FAILS type.
+# SS.lv cfbgmj: 58cm carbon Shimano Boost €1690 — already in seen list, type unconfirmed.
+# SS.lv cdpkon: Specialized Shiv TT Di2 €2500 — already in seen list.
+# Skelbiu.lt Canyon Speedmax CF SLX Vilnius €3400 — confirmed size S this run. FAILS size filter.
+# Skelbiu.lt Canyon Speedmax CF 9.0 Di2 Vilnius — search results confirm size M. FAILS size filter.
+# OLX.pl: no new triathlon/TT listings with Di2/SRAM Red L/56 found.
+# Allegro.pl / AllegroLokalnie.pl: no new triathlon listings found.
+# Autoplius.lt: no results.
+# Osta.ee / Okidoki.ee: no results.
+# Andel.lv: no results.
+# MM.lv: no results.
+# szybkierowery.pl Felt IA3 SRAM Red/Force AXS size 56 — persistent unverifiable (runs 8-18). MANUAL CHECK at szybkierowery.pl strongly recommended.
+# All direct marketplace fetches blocked (403). WebSearch used for all sites.
+# Telegram: api.telegram.org blocked — network egress policy (all runs since start).
+2026-08-04T08:00Z (run 18) — No new matches found. Sites: SS.lv, SS.com, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt. All direct fetches 403; WebSearch used. Scanned: ~1800+ refs. Matched: 0. New: 0. Sent: 0 (Telegram BLOCKED — api.telegram.org network egress policy unchanged). Skelbiu.lt Canyon Speedmax SLX confirmed S, Canyon CF 9.0 Di2 confirmed M — both fail size. Persistent unverifiable: szybkierowery.pl Felt IA3 SRAM Red/Force AXS size 56 (MANUAL CHECK STRONGLY RECOMMENDED). PERSISTENT ACTION REQUIRED: api.telegram.org must be whitelisted at network egress level.
