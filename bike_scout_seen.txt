@@ -482,7 +482,7 @@ https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cfcohm.html
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bilgdm.html
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/nppih.html
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cdfxkx.html
-2026-08-04T (run 21) — No new matches found. Sites: SS.lv, SS.com, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt. All direct fetches 403; WebSearch used. Scanned: ~2100+ refs. Matched: 0. New: 0. Sent: 0 (Telegram BLOCKED — api.telegram.org network egress policy unchanged). New SS.lv listings (cfcohm touring, bilgdm Superior gravel, nppih Cinelli, cdfxkx Specialized road) all FAIL type/size. Skelbiu.lt Canyon Speedmax sizes M/S confirmed — no L. PERSISTENT ACTION REQUIRED: api.telegram.org must be whitelisted at network egress level for Telegram alerts to work.
+2026-08-04T (run 21) — No new matches found. Sites: SS.lv, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt. All direct fetches 403; WebSearch used. Scanned: ~2100+ refs. Matched: 0. New: 0. Sent: 0 (Telegram BLOCKED — api.telegram.org network egress policy unchanged). New SS.lv listings (cfcohm touring, bilgdm Superior gravel, nppih Cinelli, cdfxkx Specialized road) all FAIL type/size. Skelbiu.lt Canyon Speedmax sizes M/S confirmed — no L. PERSISTENT ACTION REQUIRED: api.telegram.org must be whitelisted at network egress level for Telegram alerts to work.
 # --- 2026-08-04 run (5) --- No new matches found ---
 # New candidates checked and rejected this run:
 # SS.lv bokogf: Merida Mission 6000 Gravel €1,500 — FAILS type (gravel bike)
@@ -541,3 +541,14 @@ https://www.olx.pl/d/oferta/rower-czasowy-karbonowy-specialized-transition-exper
 https://www.olx.pl/d/oferta/specialized-transition-expert-rower-tt-czasowy-carbon-CID767-ID163ecZ.html
 https://www.olx.pl/d/oferta/rower-triathlonowy-czasowka-ktm-team-tt-frameset-do-zbudowania-CID767-IDUzqEq.html
 2026-08-04T (run 25) — No new matches found. Sites: SS.lv, SS.com, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt. All direct fetches 403; WebSearch used. Scanned: ~2500+ refs. Matched: 0. New: 0. Sent: 0 (Telegram BLOCKED — api.telegram.org curl exit code 56, network egress policy unchanged). New OLX listings (ID1510Kc Specialized Transition Expert S, ID163ecZ Specialized Transition Expert M, IDUzqEq KTM TT frameset) all fail size/groupset/completeness. Persistent unverifiable: szybkierowery.pl Felt IA3/IA 2.0 FRD SRAM Red AXS size 56 (MANUAL CHECK STRONGLY RECOMMENDED — runs 8-25). PERSISTENT ACTION REQUIRED: api.telegram.org must be whitelisted at network egress level for Telegram alerts to work.
+# --- 2026-08-04 run (26) --- No new matches found ---
+# New candidates checked and rejected this run:
+# SS.lv bgfmcl: Giant carbon gravel bike €1,300 — FAILS type (gravel, not triathlon/TT)
+# Skelbiu.lt Canyon Speedmax CF 9.0 Di2: all confirmed M sizes in search results — no L found
+# Skelbiu.lt Canyon Speedmax CF XL Ultegra: XL size, mechanical Ultegra — FAILS size+groupset
+# All other search results matched existing seen-list entries.
+# Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv — no results.
+# All direct marketplace fetches blocked (403). WebSearch used for all sites.
+# Telegram: api.telegram.org blocked — network egress policy (all runs since start).
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bgfmcl.html
+2026-08-04T (run 26) — No new matches found. Sites: SS.lv, SS.com, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt. All direct fetches 403; WebSearch used. Scanned: ~2600+ refs. Matched: 0. New: 0. Sent: 0 (Telegram BLOCKED — api.telegram.org network egress policy unchanged). New SS.lv bgfmcl listing identified as Giant carbon gravel (€1,300) — FAILS type filter. Skelbiu.lt Canyon Speedmax all M/S sizes confirmed. PERSISTENT ACTION REQUIRED: api.telegram.org must be whitelisted at network egress level for Telegram alerts to work.
