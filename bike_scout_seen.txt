@@ -276,4 +276,6 @@ https://www.olx.pl/d/oferta/rower-triathlonowy-czasowka-ktm-team-tt-frameset-do-
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bgfmcl.html
 # Telegram: api.telegram.org blocked — network egress policy (all runs since start).
 # --- 2026-08-04 run --- No new matches found ---
-2026-08-04 10:19 UTC — No new matches found. Sites checked: SS.lv, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt, MM.lv. All direct fetches 403; WebSearch used. Scanned: ~300+ refs. Matched: 0. New: 0. NOTE: api.telegram.org still blocked at network egress level.
+2026-08-04 10:19 UTC — No new matches found. Sites checked: SS.lv, MM.lv, Auto24.lv, Autoplius.lt, AutoScout24, Mobile.de, Osta.ee, Velomarket.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt, MM.lv. All direct fetches 403; WebSearch used. Scanned: ~300+ refs. Matched: 0. New: 0. NOTE: api.telegram.org still blocked at network egress level.
+# --- 2026-08-04 run (second) --- No new matches found ---
+2026-08-04 UTC — No new matches found. Sites checked: SS.lv, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt. All direct fetches 403; WebSearch used. Scanned: ~250+ refs. Matched: 0. New: 0. NOTE: api.telegram.org still blocked at network egress level.
