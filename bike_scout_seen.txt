@@ -483,3 +483,21 @@ https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bilgdm.html
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/nppih.html
 https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cdfxkx.html
 2026-08-04T (run 21) — No new matches found. Sites: SS.lv, SS.com, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt. All direct fetches 403; WebSearch used. Scanned: ~2100+ refs. Matched: 0. New: 0. Sent: 0 (Telegram BLOCKED — api.telegram.org network egress policy unchanged). New SS.lv listings (cfcohm touring, bilgdm Superior gravel, nppih Cinelli, cdfxkx Specialized road) all FAIL type/size. Skelbiu.lt Canyon Speedmax sizes M/S confirmed — no L. PERSISTENT ACTION REQUIRED: api.telegram.org must be whitelisted at network egress level for Telegram alerts to work.
+# --- 2026-08-04 run (5) --- No new matches found ---
+# New candidates checked and rejected this run:
+# SS.lv bokogf: Merida Mission 6000 Gravel €1,500 — FAILS type (gravel bike)
+# SS.lv bdkfce: Carbon gravel/adventure velosipēds €2,199 — FAILS type (gravel bike)
+# SS.lv bimmpe: High-class cyclocross carbon €1,250 — FAILS type (cyclocross)
+# SS.com bdlmib: Wilier Izoard Italian carbon €600 — FAILS type (road bike)
+# AllegroLokalnie: Felt DA4 Ultegra Di2 size 54 — FAILS size filter (need 55-57cm)
+# All other search results matched existing seen-list entries.
+# Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv — no results.
+# Skelbiu.lt: no new L-size triathlon listings beyond M/S sizes already confirmed.
+# All direct marketplace fetches blocked (403). WebSearch used for all sites.
+# Telegram: api.telegram.org blocked — network egress policy (all runs since start).
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bokogf.html
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bdkfce.html
+https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bimmpe.html
+https://www.ss.com/msg/lv/transport/bycycles/highway-sports/bdlmib.html
+https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-felt-da4-ultegra-di2
+2026-08-04T (run 22) — No new matches found. Sites: SS.lv, SS.com, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt. All direct fetches 403; WebSearch used. Scanned: ~2200+ refs. Matched: 0. New: 0. Sent: 0 (Telegram BLOCKED — api.telegram.org network egress policy unchanged). New SS.lv/SS.com listings (bokogf Merida Gravel, bdkfce carbon gravel, bimmpe cyclocross, bdlmib Wilier Izoard road) all FAIL type. AllegroLokalnie Felt DA4 Di2 size 54 FAILS size. PERSISTENT ACTION REQUIRED: api.telegram.org must be whitelisted at network egress level for Telegram alerts to work.
