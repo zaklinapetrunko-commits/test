@@ -318,7 +318,7 @@ https://www.olx.pl/d/oferta/rower-triathlonowy-canyon-speedmax-cf-8-0-roz-m-di2-
 # No new marketplace listings found that pass all filter criteria.
 # Sites with 403: all direct marketplace fetches blocked. WebSearch used for all sites.
 # Telegram: api.telegram.org blocked — curl exit code 56 (network egress policy, not credential issue).
-2026-08-03T (run 11) — No new matches found. Sites: SS.lv, SS.com, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt. All direct fetches 403; WebSearch used. Scanned: ~1100+ refs. Matched: 0. New: 0. Sent: 0 (Telegram BLOCKED — curl exit code 56, api.telegram.org egress blocked at network level). Recurring unverifiables: szybkierowery.pl Felt IA3 SRAM Red/Force AXS size 56 (no direct OLX URL — manual check recommended); Skelbiu.lt Canyon Speedmax CF 9.0 Di2 L Vilnius (no direct URL). PERSISTENT ACTION REQUIRED: (1) api.telegram.org must be whitelisted at network egress level for Telegram alerts to work — credentials are correct; (2) Direct marketplace fetches remain 403 — no direct page access possible.
+2026-08-03T (run 11) — No new matches found. Sites: SS.lv, SS.com, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt. All direct fetches 403; WebSearch used. Scanned: ~1100+ refs. Matched: 0. New: 0. Sent: 0 (Telegram BLOCKED — curl exit code 56, api.telegram.org egress blocked at network level). Recurring unverifiables: szybkierowery.pl Felt IA3 SRAM Red/Force AXS size 56 (no direct OLX URL — manual check recommended); Skelbiu.lt Canyon Speedmax CF 9.0 Di2 L Vilnius (no direct URL). PERSISTENT ACTION REQUIRED: (1) api.telegram.org must be whitelisted at network egress level — credentials are correct; (2) Direct marketplace fetches remain 403 — no direct page access possible.
 # --- 2026-08-03 run (12) --- No new matches found ---
 # New candidates checked and rejected this run:
 # SS.lv ngjhe: €4,500 MTB (Eagle 29x2.35 tires) — FAILS type (mountain bike)
@@ -375,7 +375,7 @@ https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cfdgbx.html
 # SS.lv bpdhxh: Time NX RS carbon Di2 €1,000 — FAILS type (road bike, not triathlon/TT).
 # SS.lv iekni: carbon €950 "like new" — type/groupset unclear from search snippet, no electronic groupset mentioned. FAILS (likely road, insufficient info)
 # OLX.pl ID1a8e86: Cervelo Caledonia 105 Di2 size 56 new — FAILS type (endurance road bike).
-# OLX.pl ID1427W1: Cervelo S2 SRAM Force size 56 — FAILS type (road) and groupset (Force ≠ Red).
+# OLX.pl ID1427W1: Cervelo S2 SRAM Force size 56 — FAILS type (road) and groupset (Force != Red).
 # OLX.pl ID19Bgc7: MMR Adrenaline SL 10 Carbon Ultegra Di2 2026 — FAILS type (road bike).
 # SS.lv blpnnj: Bergamont Dolce Carbon €320 — FAILS type (road/hybrid bike).
 # Skelbiu.lt Canyon Speedmax CF 9.0 Di2 L Vilnius — search-confirmed, no direct URL obtainable (recurring runs 8-14). UNVERIFIABLE.
@@ -527,3 +527,17 @@ https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bpdipb.html
 # All direct marketplace fetches blocked (403). WebSearch used for all sites.
 # Telegram: api.telegram.org blocked — network egress policy (all runs since start). No new qualifying listings to alert.
 2026-08-04T (run 24) — No new matches found. Sites: SS.lv, SS.com, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt. All direct fetches 403; WebSearch used. Scanned: ~2400+ refs. Matched: 0. New: 0. Sent: 0 (no new listings; Telegram still BLOCKED — api.telegram.org network egress policy unchanged). Persistent unverifiable: szybkierowery.pl Felt IA3/IA 2.0 FRD SRAM Red AXS size 56 (MANUAL CHECK STRONGLY RECOMMENDED — runs 8-24). PERSISTENT ACTION REQUIRED: api.telegram.org must be whitelisted at network egress level for Telegram alerts to work.
+# --- 2026-08-04 run (25) --- No new matches found ---
+# New candidates checked and rejected this run:
+# OLX.pl ID1510Kc: Specialized Transition Expert Carbon TT Lodz — size S/51, mechanical Ultegra/Dura Ace 2x10. FAILS size+groupset.
+# OLX.pl ID163ecZ: Specialized Transition Expert carbon Oborniki — size M, mechanical Ultegra 2x10. FAILS size+groupset.
+# OLX.pl IDUzqEq: KTM Team TT frameset Wroclaw — frameset only, sizes 50-54.5cm. FAILS size+incomplete bike.
+# szybkierowery.pl Felt IA3/IA 2.0 FRD SRAM Red/Force AXS size 56 — retail store, groupset Red vs Force ambiguous, no direct OLX URL (recurring runs 8-24). UNVERIFIABLE — MANUAL CHECK STRONGLY RECOMMENDED.
+# Skelbiu.lt Canyon Speedmax: all confirmed S/M sizes — no L found.
+# Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv — no results.
+# All direct marketplace fetches blocked (403). WebSearch used for all sites.
+# Telegram: api.telegram.org blocked — curl exit code 56, network egress policy (all runs since start).
+https://www.olx.pl/d/oferta/rower-czasowy-karbonowy-specialized-transition-expert-carbon-tt-okazja-CID767-ID1510Kc.html
+https://www.olx.pl/d/oferta/specialized-transition-expert-rower-tt-czasowy-carbon-CID767-ID163ecZ.html
+https://www.olx.pl/d/oferta/rower-triathlonowy-czasowka-ktm-team-tt-frameset-do-zbudowania-CID767-IDUzqEq.html
+2026-08-04T (run 25) — No new matches found. Sites: SS.lv, SS.com, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt. All direct fetches 403; WebSearch used. Scanned: ~2500+ refs. Matched: 0. New: 0. Sent: 0 (Telegram BLOCKED — api.telegram.org curl exit code 56, network egress policy unchanged). New OLX listings (ID1510Kc Specialized Transition Expert S, ID163ecZ Specialized Transition Expert M, IDUzqEq KTM TT frameset) all fail size/groupset/completeness. Persistent unverifiable: szybkierowery.pl Felt IA3/IA 2.0 FRD SRAM Red AXS size 56 (MANUAL CHECK STRONGLY RECOMMENDED — runs 8-25). PERSISTENT ACTION REQUIRED: api.telegram.org must be whitelisted at network egress level for Telegram alerts to work.
