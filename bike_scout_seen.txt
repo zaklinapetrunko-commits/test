@@ -440,3 +440,15 @@ https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/cdmfjh.html
 # All direct marketplace fetches blocked (403). WebSearch used for all sites.
 # Telegram: api.telegram.org blocked — network egress policy (all runs since start).
 2026-08-04T08:00Z (run 18) — No new matches found. Sites: SS.lv, SS.com, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt. All direct fetches 403; WebSearch used. Scanned: ~1800+ refs. Matched: 0. New: 0. Sent: 0 (Telegram BLOCKED — api.telegram.org network egress policy unchanged). Skelbiu.lt Canyon Speedmax SLX confirmed S, Canyon CF 9.0 Di2 confirmed M — both fail size. Persistent unverifiable: szybkierowery.pl Felt IA3 SRAM Red/Force AXS size 56 (MANUAL CHECK STRONGLY RECOMMENDED). PERSISTENT ACTION REQUIRED: api.telegram.org must be whitelisted at network egress level.
+# --- 2026-08-04 run (2) --- No new matches found ---
+# New candidates checked and rejected this run:
+# SS.lv/SS.com: All known triathlon/TT listings already in seen list. No new TT/triathlon listings detected.
+# OLX.pl: Rondo Mylc MX1 Carbon Gravel SRAM Apex (ID1aywHO) — FAILS type (gravel bike).
+# AllegroLokalnie.pl: All triathlon listings (Wilier Twin Blade Di2 L, Bottecchia Tri Di2, Cannondale Slice Di2, Cervelo P-Series 105 56cm) — all in seen list.
+# Allegro.pl: No new triathlon listings found.
+# szybkierowery.pl: Felt IAx Advanced Ultegra Di2 2×12 — size 56 confirmed SOLD OUT. Felt IA 2.0 Expert Ultegra Di2 2×12 — groupset Ultegra Di2, size 56 availability unverified on OLX (likely sold out too). No new qualifying OLX listings.
+# Skelbiu.lt: Canyon Speedmax CF 9.0 Di2 — search text persists but all confirmed sizes M; no direct URL. Giant Trinity SRAM AXS L (74636002) — already in seen list.
+# Autoplius.lt / Osta.ee / Okidoki.ee / Andel.lv: no results.
+# All direct marketplace fetches blocked (403). WebSearch used for all sites.
+# Telegram: api.telegram.org blocked — curl exit code 56, network egress policy (confirmed again this run, still unchanged).
+2026-08-04T (run 19) — No new matches found. Sites: SS.lv, SS.com, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt. All direct fetches 403; WebSearch used. Scanned: ~1900+ refs. Matched: 0. New: 0. Sent: 0 (Telegram BLOCKED — api.telegram.org curl exit code 56, network egress policy unchanged). PERSISTENT ACTION REQUIRED: api.telegram.org must be whitelisted at network egress level for Telegram alerts to work.
