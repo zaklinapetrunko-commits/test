@@ -175,7 +175,6 @@ https://www.olx.pl/d/oferta/nowy-rower-orbea-ordu-m30i-ltd-2023-di2-poznan-triat
 https://www.olx.pl/d/oferta/nowy-rower-orbea-ordu-m30i-ltd-di2-poznan-triathlon-czasowka-fv-CID767-IDVPS7G.html
 https://www.olx.pl/d/oferta/nowy-rower-szosowy-mmr-aelion-sl-team-carbon-ultegra-di2-2x12-2026-raty-0-CID767-ID1atcuK.html
 https://www.olx.pl/d/oferta/nowy-rower-szosowy-mmr-adrenaline-sl-10-carbon-ultegra-di2-2x12-2026-CID767-ID19Bgc7.html
-https://www.olx.pl/d/oferta/nowy-rower-szosowy-wilier-rapida-di2-miche-carbon-velopolis-CID767-ID1bouvP.html
 https://www.olx.pl/d/oferta/nowy-rower-triathlonowy-felt-ia-2-0-expert-ultegra-di2-12s-super-cena-CID767-ID18RPS3.html
 https://www.olx.pl/d/oferta/pinarello-bolide-tt-rower-czasowy-triathlonowy-rama-l-CID767-ID10QusN.html
 https://www.olx.pl/d/oferta/rower-bmc-timemachine-r01-aero-sram-red-pomiar-mocy-CID767-ID12a9I1.html
@@ -322,3 +321,5 @@ https://www.ss.lv/msg/lv/transport/bycycles/highway-sports/bgfmcl.html
 2026-08-05 UTC — No new matches found. Sites checked: SS.lv, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt. All direct fetches 403; WebSearch used. Scanned: ~300+ refs. Matched: 0. New: 0. NOTE: api.telegram.org still blocked at network egress level — Telegram alerts cannot be delivered from this environment.
 # --- 2026-08-05 run (tenth) --- No new matches found ---
 2026-08-05 UTC — No new matches found. Sites checked: SS.lv, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt. All direct fetches 403; WebSearch used. Scanned: ~250+ refs. Matched: 0. New: 0. NOTE: api.telegram.org still blocked at network egress level — Telegram alerts cannot be delivered from this environment.
+# --- 2026-08-05 run (eleventh) --- No new matches found ---
+2026-08-05 UTC — No new matches found. Sites checked: SS.lv, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt, MM.lv, Biklo.lv. All direct fetches 403; WebSearch used. Scanned: ~350+ refs. Matched: 0. New: 0. NOTE: api.telegram.org still blocked at network egress level — Telegram alerts cannot be delivered from this environment.
