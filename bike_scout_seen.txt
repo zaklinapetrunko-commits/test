@@ -98,20 +98,16 @@ https://allegrolokalnie.pl/oferta/rower-czasowy-cervelo-p2-triathlon-rozmiar-58
 https://allegrolokalnie.pl/oferta/rower-czasowy-dolan-tt-carbon-triathlon-dura-ace
 https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-felt-da4-ultegra-di2
 https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-karbon-orbea-ora-tt-ultegr
-https://allegrolokalnie.pl/oferta/rower-czasowy-szosa-specialized-sworks-shiv-tt-cc3
-https://allegrolokalnie.pl/oferta/rower-czasowy-timemachine-tm02
-https://allegrolokalnie.pl/oferta/rower-szosowy-bmc-timemachine-tmr01-pelna-ultegra-gratisy
-https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-felt-b14-ultegra-di2
-https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-karbon-orbea-ora-tt-ultegr
-https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-ribble-deda-tt-carbon
-https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-tt-avenger-tm6-carbon
 https://allegrolokalnie.pl/oferta/rower-czasowy-tt-carbon-rozm-s
 https://allegrolokalnie.pl/oferta/rower-czasowy-tt-triathlon-pardus-karbon-carbon
 https://allegrolokalnie.pl/oferta/rower-czasowy-tt-triathlonowy-szosa-argon-18
 https://allegrolokalnie.pl/oferta/rower-giant-propel-aero-disc-xl-di2-ultegra-carbon
 https://allegrolokalnie.pl/oferta/rower-orbea-ordu-m20-czasowy-tri-karbon-rama-l
 https://allegrolokalnie.pl/oferta/rower-pinarello-bolide-xsz
+https://allegrolokalnie.pl/oferta/rower-szosowy-bmc-timemachine-tmr01-pelna-ultegra-gratisy
 https://allegrolokalnie.pl/oferta/rower-szosowy-orbea-orca-aero-m20iteam-ultegra-di2
+https://allegrolokalnie.pl/oferta/rower-czasowy-szosa-specialized-sworks-shiv-tt-cc3
+https://allegrolokalnie.pl/oferta/rower-czasowy-timemachine-tm02
 https://allegrolokalnie.pl/oferta/rower-trathlonowy-tt-czasowy-triathlon-full-carbon
 https://allegrolokalnie.pl/oferta/rower-triathlon-merida-warp
 https://allegrolokalnie.pl/oferta/rower-triathlonowy-bh-aerolight-rc-full-carbon
@@ -379,4 +375,6 @@ https://allegrolokalnie.pl/oferta/rower-czasowy-triathlon-fuji-norcom-1-3-di2-55
 # --- 2026-08-06 run (twenty-second) --- No new matches found ---
 2026-08-06 UTC — No new matches found. Sites checked: SS.lv, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt. All direct fetches 403; WebSearch used. Scanned: ~300+ refs. Matched: 0. New: 0. NOTE: api.telegram.org still blocked at network egress level — Telegram alerts cannot be delivered from this environment.
 # --- 2026-08-06 run (twenty-third) --- No new matches found ---
+2026-08-06 UTC — No new matches found. Sites checked: SS.lv, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt. All direct fetches 403; WebSearch used. Scanned: ~300+ refs. Matched: 0. New: 0. NOTE: api.telegram.org still blocked at network egress level — Telegram alerts cannot be delivered from this environment.
+# --- 2026-08-06 run (twenty-fourth) --- No new matches found ---
 2026-08-06 UTC — No new matches found. Sites checked: SS.lv, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt. All direct fetches 403; WebSearch used. Scanned: ~300+ refs. Matched: 0. New: 0. NOTE: api.telegram.org still blocked at network egress level — Telegram alerts cannot be delivered from this environment.
