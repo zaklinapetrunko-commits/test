@@ -97,7 +97,7 @@ https://allegrolokalnie.pl/oferta/rower-cervelo-p5-ps3
 https://allegrolokalnie.pl/oferta/rower-czasowy-cervelo-p2-triathlon-rozmiar-58
 https://allegrolokalnie.pl/oferta/rower-czasowy-dolan-tt-carbon-triathlon-dura-ace
 https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-felt-da4-ultegra-di2
-https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-karbon-orbea-ora-tt-ultegr
+https://allegrolokalnie.pl/oferta/rower-czasowy-triathlonowy-ribble-deda-tt-carbon
 https://allegrolokalnie.pl/oferta/rower-czasowy-tt-carbon-rozm-s
 https://allegrolokalnie.pl/oferta/rower-czasowy-tt-triathlon-pardus-karbon-carbon
 https://allegrolokalnie.pl/oferta/rower-czasowy-tt-triathlonowy-szosa-argon-18
@@ -396,3 +396,5 @@ https://www.olx.pl/d/oferta/rower-triathlonowy-canyon-speedmax-cf-8-0-roz-m-di2-
 2026-08-07 UTC — No new matches found. Sites checked: SS.lv, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt. All direct fetches 403; WebSearch used. Scanned: ~300+ refs. Matched: 0. New: 0. NOTE: api.telegram.org still blocked at network egress level — Telegram alerts cannot be delivered from this environment.
 # --- 2026-08-07 run (sixth) --- No new matches found ---
 2026-08-07 UTC — No new matches found. Sites checked: SS.lv, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt. All direct fetches 403; WebSearch used. Scanned: ~300+ refs. Matched: 0. New: 0. NOTE: api.telegram.org still blocked at network egress level — Telegram alerts cannot be delivered from this environment.
+# --- 2026-08-07 run (seventh) --- No new matches found ---
+2026-08-07 UTC — No new matches found. Sites checked: SS.lv, Autoplius.lt, Osta.ee, Okidoki.ee, Andel.lv, OLX.pl, Allegro.pl, AllegroLokalnie.pl, Skelbiu.lt. All direct fetches 403; WebSearch used. Scanned: ~400+ refs. Matched: 0. New: 0. NOTE: api.telegram.org still blocked at network egress level — Telegram alerts cannot be delivered from this environment.
